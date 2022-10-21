@@ -1,0 +1,1838 @@
+[
+  {
+    "pid": 4,
+    "title": "Optimum ratio between two bases in Bennett-Brassard 1984 protocol with second order analysis",
+    "authors": [
+      {
+        "first": "Masahito",
+        "last": "Hayashi"
+      }
+    ]
+  },
+  {
+    "pid": 7,
+    "title": "Uncloneable Decryptors from Quantum Copy-Protection",
+    "authors": [
+      {
+        "first": "Shai",
+        "last": "Wyborski"
+      },
+      {
+        "first": "Or",
+        "last": "Sattath"
+      }
+    ]
+  },
+  {
+    "pid": 12,
+    "title": "Secure Anonymous Conferencing in Quantum Networks",
+    "authors": [
+      {
+        "first": "Federico",
+        "last": "Grasselli"
+      },
+      {
+        "first": "Gláucia",
+        "last": "Murta"
+      },
+      {
+        "first": "Jarn de",
+        "last": "Jong"
+      },
+      {
+        "first": "Frederik",
+        "last": "Hahn"
+      },
+      {
+        "first": "Dagmar",
+        "last": "Bruss"
+      },
+      {
+        "first": "Hermann",
+        "last": "Kampermann"
+      },
+      {
+        "first": "Anna",
+        "last": "Pappa"
+      }
+    ]
+  },
+  {
+    "pid": 14,
+    "title": "Modulation leakage-free continuous-variable quantum key distribution",
+    "authors": [
+      {
+        "first": "Adnan",
+        "last": "Hajomer"
+      },
+      {
+        "first": "Nitin",
+        "last": "Jain"
+      },
+      {
+        "first": "Hossein",
+        "last": "Mani"
+      },
+      {
+        "first": "Hou-Man",
+        "last": "Chin"
+      },
+      {
+        "first": "Ulrik L.",
+        "last": "Andersen"
+      },
+      {
+        "first": "Tobias",
+        "last": "Gehring"
+      }
+    ]
+  },
+  {
+    "pid": 15,
+    "title": "Security Analysis of Decoy-State Quantum Key Distribution Against Trojan-Horse Attacks",
+    "authors": [
+      {
+        "first": "Álvaro",
+        "last": "Navarrete"
+      },
+      {
+        "first": "Marcos",
+        "last": "Curty"
+      }
+    ]
+  },
+  {
+    "pid": 17,
+    "title": "Quantum Prudent Contracts with Applications to Bitcoin",
+    "authors": [
+      {
+        "first": "Or",
+        "last": "Sattath"
+      }
+    ]
+  },
+  {
+    "pid": 18,
+    "title": "Quantum electronic voting without election authorities",
+    "authors": [
+      {
+        "first": "Federico",
+        "last": "Centrone"
+      },
+      {
+        "first": "Eleni",
+        "last": "Diamanti"
+      },
+      {
+        "first": "Iordanis",
+        "last": "Kerenidis"
+      }
+    ]
+  },
+  {
+    "pid": 19,
+    "title": "Space-borne quantum memories for global quantum networking",
+    "authors": [
+      {
+        "first": "Mustafa",
+        "last": "Gundogan"
+      },
+      {
+        "first": "Jasminder",
+        "last": "Sidhu"
+      },
+      {
+        "first": "Victoria",
+        "last": "Henderson"
+      },
+      {
+        "first": "Luca",
+        "last": "Mazzarella"
+      },
+      {
+        "first": "Janik",
+        "last": "Wolters"
+      },
+      {
+        "first": "Daniel Kl",
+        "last": "Oi"
+      },
+      {
+        "first": "Markus",
+        "last": "Krutzik"
+      }
+    ]
+  },
+  {
+    "pid": 20,
+    "title": "Linear optics and photodetection achieve near-optimal unambiguous coherent state discrimination",
+    "authors": [
+      {
+        "first": "Jasminder",
+        "last": "Sidhu"
+      },
+      {
+        "first": "Michael",
+        "last": "Bullock"
+      },
+      {
+        "first": "Saikat",
+        "last": "Guha"
+      },
+      {
+        "first": "Cosmo",
+        "last": "Lupo"
+      }
+    ]
+  },
+  {
+    "pid": 24,
+    "title": "Variational quantum solutions to the Shortest Vector Problem",
+    "authors": [
+      {
+        "first": "Martin R.",
+        "last": "Albrecht"
+      },
+      {
+        "first": "Milos",
+        "last": "Prokop"
+      },
+      {
+        "first": "Yixin",
+        "last": "Shen"
+      },
+      {
+        "first": "Petros",
+        "last": "Wallden"
+      }
+    ]
+  },
+  {
+    "pid": 38,
+    "title": "Unconditionally secure relativistic multi-party biased coin flipping and die rolling",
+    "authors": [
+      {
+        "first": "Damián",
+        "last": "Pitalúa-García"
+      }
+    ]
+  },
+  {
+    "pid": 42,
+    "title": "A versatile PIC-based CV-QKD receiver",
+    "authors": [
+      {
+        "first": "Yoann",
+        "last": "Piétri"
+      },
+      {
+        "first": "Luis",
+        "last": "Trigo-Vidarte"
+      },
+      {
+        "first": "Matteo",
+        "last": "Schiavon"
+      },
+      {
+        "first": "Philippe",
+        "last": "Grangier"
+      },
+      {
+        "first": "Amine",
+        "last": "Rhouni"
+      },
+      {
+        "first": "Eleni",
+        "last": "Diamanti"
+      }
+    ]
+  },
+  {
+    "pid": 43,
+    "title": "Satellite-to-ground QKD with adaptive optics correction",
+    "authors": [
+      {
+        "first": "Valentina Marulanda",
+        "last": "Acosta"
+      },
+      {
+        "first": "Daniele",
+        "last": "Dequal"
+      },
+      {
+        "first": "Matteo",
+        "last": "Schiavon"
+      },
+      {
+        "first": "Aurélie",
+        "last": "Montmerle-Bonnefois"
+      },
+      {
+        "first": "Caroline B.",
+        "last": "Lim"
+      },
+      {
+        "first": "Jean-Marc",
+        "last": "Conan"
+      },
+      {
+        "first": "Eleni",
+        "last": "Diamanti"
+      }
+    ]
+  },
+  {
+    "pid": 44,
+    "title": "Quantum secure non-malleable codes in the split-state model",
+    "authors": [
+      {
+        "first": "Divesh",
+        "last": "Aggarwal"
+      },
+      {
+        "first": "Naresh Goud",
+        "last": "Boddu"
+      },
+      {
+        "first": "Rahul",
+        "last": "Jain"
+      }
+    ]
+  },
+  {
+    "pid": 48,
+    "title": "Assessment of a quantum random number generator based on photon number statistics",
+    "authors": [
+      {
+        "first": "Ke",
+        "last": "Guo"
+      },
+      {
+        "first": "Thomas",
+        "last": "Hebdige"
+      },
+      {
+        "first": "Thomas",
+        "last": "Cope"
+      },
+      {
+        "first": "Roger",
+        "last": "Colbeck"
+      },
+      {
+        "first": "Christopher",
+        "last": "Chunnilall"
+      }
+    ]
+  },
+  {
+    "pid": 51,
+    "title": "Improved device-independent randomness expansion rates from tight bounds on the two sided randomness using CHSH tests",
+    "authors": [
+      {
+        "first": "Rutvij",
+        "last": "Bhavsar"
+      },
+      {
+        "first": "Sammy",
+        "last": "Ragy"
+      },
+      {
+        "first": "Roger",
+        "last": "Colbeck"
+      }
+    ]
+  },
+  {
+    "pid": 52,
+    "title": "Quantum network security dependent on connection density between trusted nodes",
+    "authors": [
+      {
+        "first": "Andrei",
+        "last": "Gaidash"
+      },
+      {
+        "first": "George",
+        "last": "Miroshnichenko"
+      },
+      {
+        "first": "Alexei",
+        "last": "Kiselev"
+      },
+      {
+        "first": "Anton",
+        "last": "Kozubov"
+      }
+    ]
+  },
+  {
+    "pid": 55,
+    "title": "Quantifying the intrinsic randomness of quantum measurements",
+    "authors": [
+      {
+        "first": "Gabriel",
+        "last": "Senno"
+      },
+      {
+        "first": "Thomas",
+        "last": "Strohm"
+      },
+      {
+        "first": "Antonio",
+        "last": "Acín"
+      }
+    ]
+  },
+  {
+    "pid": 61,
+    "title": "Unbounded randomness from uncharacterized sources",
+    "authors": [
+      {
+        "first": "Marco",
+        "last": "Avesani"
+      },
+      {
+        "first": "Hamid",
+        "last": "Tebyanian"
+      },
+      {
+        "first": "Paolo",
+        "last": "Villoresi"
+      },
+      {
+        "first": "Giuseppe",
+        "last": "Vallone"
+      }
+    ]
+  },
+  {
+    "pid": 66,
+    "title": "Performance of finite resource satellite-based quantum key distribution",
+    "authors": [
+      {
+        "first": "Tanvirul",
+        "last": "Islam"
+      },
+      {
+        "first": "Jasminder S.",
+        "last": "Sidhu"
+      },
+      {
+        "first": "Brendon L.",
+        "last": "Higgins"
+      },
+      {
+        "first": "Thomas",
+        "last": "Brougham"
+      },
+      {
+        "first": "Tom",
+        "last": "Vergoossen"
+      },
+      {
+        "first": "Daniel K. L.",
+        "last": "Oi"
+      },
+      {
+        "first": "Thomas",
+        "last": "Jennewein"
+      },
+      {
+        "first": "Alexander",
+        "last": "Ling"
+      }
+    ]
+  },
+  {
+    "pid": 67,
+    "title": "Quantum key distribution (QKD) over scattering channel",
+    "authors": [
+      {
+        "first": "Qi-Hang",
+        "last": "Lu"
+      },
+      {
+        "first": "Fang-Xiang",
+        "last": "Wang"
+      },
+      {
+        "first": "Kun",
+        "last": "Huang"
+      },
+      {
+        "first": "Xin",
+        "last": "Wu"
+      },
+      {
+        "first": "Ze-Hao",
+        "last": "Wang"
+      },
+      {
+        "first": "Shuang",
+        "last": "Wang"
+      },
+      {
+        "first": "De-Yong",
+        "last": "He"
+      },
+      {
+        "first": "Zhen-Qiang",
+        "last": "Yin"
+      },
+      {
+        "first": "Guang-Can",
+        "last": "Guo"
+      },
+      {
+        "first": "Wei",
+        "last": "Chen"
+      },
+      {
+        "first": "Zheng-Fu",
+        "last": "Han"
+      }
+    ]
+  },
+  {
+    "pid": 70,
+    "title": "Practical side-channel attack on free-space QKD exploiting angular misalignment of the transmitter photon sources",
+    "authors": [
+      {
+        "first": "Pablo",
+        "last": "Arteaga-Díaz"
+      },
+      {
+        "first": "Veronica",
+        "last": "Fernandez"
+      },
+      {
+        "first": "Daniel",
+        "last": "Cano"
+      }
+    ]
+  },
+  {
+    "pid": 72,
+    "title": "Hybrid Quantum Cryptography from One-way Quantum Communication Complexity Separation",
+    "authors": [
+      {
+        "first": "Francesco",
+        "last": "Mazzoncini"
+      },
+      {
+        "first": "Romain",
+        "last": "Alléaume"
+      }
+    ]
+  },
+  {
+    "pid": 73,
+    "title": "Impairments optimization for continuous-variable quantum key distribution",
+    "authors": [
+      {
+        "first": "Andres Ruiz",
+        "last": "Chamorro"
+      },
+      {
+        "first": "Alfonso",
+        "last": "Blanco"
+      },
+      {
+        "first": "Veronica",
+        "last": "Fernandez"
+      }
+    ]
+  },
+  {
+    "pid": 74,
+    "title": "Randomized gateway disables intercept-resend hacking of quantum key distribution",
+    "authors": [
+      {
+        "first": "Salem",
+        "last": "Hegazy"
+      },
+      {
+        "first": "Salah",
+        "last": "Obayya"
+      },
+      {
+        "first": "Bahaa",
+        "last": "Saleh"
+      }
+    ]
+  },
+  {
+    "pid": 75,
+    "title": "Cryptographic Security Concerns on Timestamp Sharing via Public Channel in Quantum Key Distribution Systems",
+    "authors": [
+      {
+        "first": "Melis",
+        "last": "Pahalı"
+      },
+      {
+        "first": "Kadir",
+        "last": "Durak"
+      },
+      {
+        "first": "Utku",
+        "last": "Tefek"
+      }
+    ]
+  },
+  {
+    "pid": 79,
+    "title": "Generalized Time-bin Quantum Random Number Generator with Uncharacterized Devices",
+    "authors": [
+      {
+        "first": "Hamid",
+        "last": "Tebyanian"
+      },
+      {
+        "first": "Mujtaba",
+        "last": "Zahidy"
+      },
+      {
+        "first": "Davide",
+        "last": "Bacco"
+      },
+      {
+        "first": "Leif. K.",
+        "last": "Oxenlowe"
+      }
+    ]
+  },
+  {
+    "pid": 80,
+    "title": "Recent development of OAM mode generation for quantum communication",
+    "authors": [
+      {
+        "first": "Mujtaba",
+        "last": "Zahidy"
+      },
+      {
+        "first": "Yaoxin",
+        "last": "Liu"
+      },
+      {
+        "first": "Daniele",
+        "last": "Cozzolino"
+      },
+      {
+        "first": "Hamid",
+        "last": "Tebyanian"
+      },
+      {
+        "first": "Yunhong",
+        "last": "Ding"
+      },
+      {
+        "first": "Toshio",
+        "last": "Morioka"
+      },
+      {
+        "first": "Leif K.",
+        "last": "Oxenløwe"
+      },
+      {
+        "first": "Davide",
+        "last": "Bacco"
+      }
+    ]
+  },
+  {
+    "pid": 82,
+    "title": "Quantum Universally Composable Oblivious Linear Evaluation",
+    "authors": [
+      {
+        "first": "Manuel B.",
+        "last": "Santos"
+      },
+      {
+        "first": "Paulo",
+        "last": "Mateus"
+      },
+      {
+        "first": "Chrysoula",
+        "last": "Vlachou"
+      }
+    ]
+  },
+  {
+    "pid": 84,
+    "title": "Efficient NIZKs and Signatures from Commit-and-Open Protocols in the QROM",
+    "authors": [
+      {
+        "first": "Jelle",
+        "last": "Don"
+      },
+      {
+        "first": "Serge",
+        "last": "Fehr"
+      },
+      {
+        "first": "Christian",
+        "last": "Majenz"
+      },
+      {
+        "first": "Christian",
+        "last": "Schaffner"
+      }
+    ]
+  },
+  {
+    "pid": 87,
+    "title": "Secure Architecture for Quantum Key Distribution Networks",
+    "authors": [
+      {
+        "first": "Bruno",
+        "last": "Huttner"
+      }
+    ]
+  },
+  {
+    "pid": 91,
+    "title": "Experimental Demonstration of a Hybrid Authenticated Key Exchange Integrating QKD and QRA in a Single Protocol",
+    "authors": [
+      {
+        "first": "Lydia",
+        "last": "Garms"
+      },
+      {
+        "first": "Taofiq",
+        "last": "Paraiso"
+      },
+      {
+        "first": "Neil",
+        "last": "Hanley"
+      },
+      {
+        "first": "Ayesha",
+        "last": "Khalid"
+      },
+      {
+        "first": "Ciarra",
+        "last": "Rafferty"
+      },
+      {
+        "first": "Andrew",
+        "last": "Shields"
+      },
+      {
+        "first": "Carlos",
+        "last": "Cid"
+      },
+      {
+        "first": "Maire",
+        "last": "O'Neill"
+      }
+    ]
+  },
+  {
+    "pid": 92,
+    "title": "Optimal entanglement distribution policies in homogeneous repeater chains with cutoffs",
+    "authors": [
+      {
+        "first": "Álvaro Gómez",
+        "last": "Iñesta"
+      },
+      {
+        "first": "Gayane",
+        "last": "Vardoyan"
+      },
+      {
+        "first": "Lara",
+        "last": "Scavuzzo"
+      },
+      {
+        "first": "Stephanie",
+        "last": "Wehner"
+      }
+    ]
+  },
+  {
+    "pid": 96,
+    "title": "DV-QKD Over Bidirectional Fiber Link In-Band Co-Existence with 25 Classical 10 Gb/s Channels",
+    "authors": [
+      {
+        "first": "Florian",
+        "last": "Prawits"
+      },
+      {
+        "first": "Florian",
+        "last": "Honz"
+      },
+      {
+        "first": "Obada",
+        "last": "Alia"
+      }
+    ]
+  },
+  {
+    "pid": 101,
+    "title": "Quantum Key Infrastructure: A scalable, quantum-proof key distribution system",
+    "authors": [
+      {
+        "first": "Hoi-Kwong",
+        "last": "Lo"
+      },
+      {
+        "first": "Mattia",
+        "last": "Montagna"
+      },
+      {
+        "first": "Manfred von",
+        "last": "Willich"
+      }
+    ]
+  },
+  {
+    "pid": 106,
+    "title": "Non-malleable Commitments against Quantum Attacks",
+    "authors": [
+      {
+        "first": "Nir",
+        "last": "Bitansky"
+      },
+      {
+        "first": "Huijia",
+        "last": "Lin"
+      },
+      {
+        "first": "Omri",
+        "last": "Shmueli"
+      }
+    ]
+  },
+  {
+    "pid": 109,
+    "title": "Practical randomness amplification and privatisation with implementations on quantum computers",
+    "authors": [
+      {
+        "first": "Cameron",
+        "last": "Foreman"
+      },
+      {
+        "first": "Sherilyn",
+        "last": "Wright"
+      },
+      {
+        "first": "Alec",
+        "last": "Edgington"
+      },
+      {
+        "first": "Mario",
+        "last": "Berta"
+      },
+      {
+        "first": "Florian",
+        "last": "Curchod"
+      }
+    ]
+  },
+  {
+    "pid": 110,
+    "title": "Bounding the influence of loss in quantum position verification and monogamy-of-entanglement games",
+    "authors": [
+      {
+        "first": "Llorenc Escola",
+        "last": "Farras"
+      },
+      {
+        "first": "Florian",
+        "last": "Speelman"
+      }
+    ]
+  },
+  {
+    "pid": 112,
+    "title": "Non-Interactive and Non-Destructive Zero-Knowledge Proofs on Quantum States and Multi-Party Generation of Authorized Hidden GHZ States",
+    "authors": [
+      {
+        "first": "Léo",
+        "last": "Colisson"
+      },
+      {
+        "first": "Frédéric",
+        "last": "Grosshans"
+      },
+      {
+        "first": "Elham",
+        "last": "Kashefi"
+      }
+    ]
+  },
+  {
+    "pid": 113,
+    "title": "On the role of quantum communication and loss in attacks on quantum position verification",
+    "authors": [
+      {
+        "first": "Rene",
+        "last": "Allerstorfer"
+      },
+      {
+        "first": "Philip Verduyn",
+        "last": "Lunel"
+      },
+      {
+        "first": "Florian",
+        "last": "Speelman"
+      },
+      {
+        "first": "Harry",
+        "last": "Buhrman"
+      }
+    ]
+  },
+  {
+    "pid": 114,
+    "title": "Continuous variable quantum key distribution with squeezed light",
+    "authors": [
+      {
+        "first": "Huy",
+        "last": "Nguyen"
+      },
+      {
+        "first": "Casper",
+        "last": "Breum"
+      },
+      {
+        "first": "Adnan",
+        "last": "Hajomer"
+      },
+      {
+        "first": "Akash",
+        "last": "Oruganti"
+      },
+      {
+        "first": "Ivan",
+        "last": "Derkach"
+      },
+      {
+        "first": "Vladyslav",
+        "last": "Usenko"
+      },
+      {
+        "first": "Nitin",
+        "last": "Jain"
+      },
+      {
+        "first": "Iyad",
+        "last": "Suleiman"
+      },
+      {
+        "first": "Jonas",
+        "last": "Neergaard-Nielsen"
+      },
+      {
+        "first": "Ulrik",
+        "last": "Andersen"
+      },
+      {
+        "first": "Tobias",
+        "last": "Gehring"
+      }
+    ]
+  },
+  {
+    "pid": 115,
+    "title": "Towards practical and error-robust quantum position verification",
+    "authors": [
+      {
+        "first": "Rene",
+        "last": "Allerstorfer"
+      },
+      {
+        "first": "Philip Verduyn",
+        "last": "Lunel"
+      },
+      {
+        "first": "Florian",
+        "last": "Speelman"
+      },
+      {
+        "first": "Harry",
+        "last": "Buhrman"
+      }
+    ]
+  },
+  {
+    "pid": 116,
+    "title": "Generating approximate state preparation circuits for a noisy quantum computer with a genetic algorithm",
+    "authors": [
+      {
+        "first": "Matti",
+        "last": "Raasakka"
+      }
+    ]
+  },
+  {
+    "pid": 117,
+    "title": "Bounds for realistic device-independent randomness generation and implementation on a photonic chip",
+    "authors": [
+      {
+        "first": "Boris",
+        "last": "Bourdoncle"
+      },
+      {
+        "first": "Andreas",
+        "last": "Fyrillas"
+      },
+      {
+        "first": "Alexandre",
+        "last": "MaÏnos"
+      },
+      {
+        "first": "Nicolas",
+        "last": "Maring"
+      },
+      {
+        "first": "Nadia",
+        "last": "Bellabas"
+      },
+      {
+        "first": "Shane",
+        "last": "Mansfield"
+      }
+    ]
+  },
+  {
+    "pid": 119,
+    "title": "Differential Privacy Amplification in Quantum and Quantum-inspired Algorithms",
+    "authors": [
+      {
+        "first": "Armando",
+        "last": "Angrisani"
+      },
+      {
+        "first": "Mina",
+        "last": "Doosti"
+      },
+      {
+        "first": "Elham",
+        "last": "Kashefi"
+      }
+    ]
+  },
+  {
+    "pid": 120,
+    "title": "Computational Quantum Secret Sharing",
+    "authors": [
+      {
+        "first": "Alper",
+        "last": "Cakan"
+      },
+      {
+        "first": "Vipul",
+        "last": "Goyal"
+      },
+      {
+        "first": "Chen-Da",
+        "last": "Liu-Zhang"
+      },
+      {
+        "first": "Joao",
+        "last": "Ribeiro"
+      }
+    ]
+  },
+  {
+    "pid": 121,
+    "title": "Semi-Quantum Tokenized Signatures",
+    "authors": [
+      {
+        "first": "Omri",
+        "last": "Shmueli"
+      }
+    ]
+  },
+  {
+    "pid": 122,
+    "title": "An efficient combination of quantum error correction and authentication",
+    "authors": [
+      {
+        "first": "Yfke",
+        "last": "Dulek"
+      },
+      {
+        "first": "Garazi",
+        "last": "Muguruza"
+      },
+      {
+        "first": "Florian",
+        "last": "Speelman"
+      }
+    ]
+  },
+  {
+    "pid": 124,
+    "title": "Failing gracefully: Decryption failures and the Fujisaki-Okamoto transform",
+    "authors": [
+      {
+        "first": "Kathrin",
+        "last": "Hövelmanns"
+      },
+      {
+        "first": "Andreas",
+        "last": "Hülsing"
+      },
+      {
+        "first": "Christian",
+        "last": "Majenz"
+      }
+    ]
+  },
+  {
+    "pid": 127,
+    "title": "Creation of loopholes in QKD systems using high-power pulsed laser",
+    "authors": [
+      {
+        "first": "Daria",
+        "last": "Ruzhitskaya"
+      },
+      {
+        "first": "Irina",
+        "last": "Zhluktova"
+      },
+      {
+        "first": "Mikhail",
+        "last": "Petrov"
+      },
+      {
+        "first": "Konstantin",
+        "last": "Zaitsev"
+      },
+      {
+        "first": "Polina",
+        "last": "Acheva"
+      },
+      {
+        "first": "Nikolay",
+        "last": "Zunikov"
+      },
+      {
+        "first": "Alexey",
+        "last": "Shilko"
+      },
+      {
+        "first": "Djeylan",
+        "last": "Aktas"
+      },
+      {
+        "first": "Daniil",
+        "last": "Trefilov"
+      },
+      {
+        "first": "Anastasiya",
+        "last": "Ponosova"
+      },
+      {
+        "first": "Vladimir",
+        "last": "Kamynin"
+      },
+      {
+        "first": "Vadim",
+        "last": "Makarov"
+      }
+    ]
+  },
+  {
+    "pid": 128,
+    "title": "Provably secure receiver-device-independent quantum key distribution",
+    "authors": [
+      {
+        "first": "Wen Yu",
+        "last": "Kon"
+      },
+      {
+        "first": "Ignatius W.",
+        "last": "Primaatmaja"
+      },
+      {
+        "first": "Chao",
+        "last": "Wang"
+      },
+      {
+        "first": "Charles Ci Wen",
+        "last": "Lim"
+      }
+    ]
+  },
+  {
+    "pid": 131,
+    "title": "Design and implementation of a QKD system simulator with detailed secure key generation model",
+    "authors": [
+      {
+        "first": "Masashi",
+        "last": "Ito"
+      },
+      {
+        "first": "Yutaro",
+        "last": "Ishigaki"
+      },
+      {
+        "first": "Mera",
+        "last": "Keisuke"
+      },
+      {
+        "first": "Yoshimichi",
+        "last": "Tanizawa"
+      },
+      {
+        "first": "Taofiq K.",
+        "last": "Paraiso"
+      },
+      {
+        "first": "Masanori",
+        "last": "Furuta"
+      },
+      {
+        "first": "Andrew J.",
+        "last": "Shields"
+      }
+    ]
+  },
+  {
+    "pid": 132,
+    "title": "Violating Bell inequalities with random mutually unbiased bases",
+    "authors": [
+      {
+        "first": "Gelo Noel",
+        "last": "Tabia"
+      },
+      {
+        "first": "Varun Satya Raj",
+        "last": "Bavana"
+      },
+      {
+        "first": "Shih-Xian",
+        "last": "Yang"
+      },
+      {
+        "first": "Yeong-Cherng",
+        "last": "Lia"
+      }
+    ]
+  },
+  {
+    "pid": 135,
+    "title": "Time and Query Complexity Tradeoff for the Dihedral Coset Problem",
+    "authors": [
+      {
+        "first": "Maxime",
+        "last": "Remaud"
+      },
+      {
+        "first": "Jean-Pierre",
+        "last": "Tillich"
+      }
+    ]
+  },
+  {
+    "pid": 136,
+    "title": "On the quantum communication standardization in Russia",
+    "authors": [
+      {
+        "first": "Andrey",
+        "last": "Zhilyaev"
+      },
+      {
+        "first": "Mikhail",
+        "last": "Borodin"
+      }
+    ]
+  },
+  {
+    "pid": 137,
+    "title": "Security of decoy-state quantum key distribution with correlated intensity fluctuations",
+    "authors": [
+      {
+        "first": "Xoel",
+        "last": "Sixto"
+      },
+      {
+        "first": "Víctor",
+        "last": "Zapatero"
+      },
+      {
+        "first": "Álvaro",
+        "last": "Navarrete"
+      },
+      {
+        "first": "Marcos",
+        "last": "Curty"
+      }
+    ]
+  },
+  {
+    "pid": 138,
+    "title": "Continuous Variable Quantum Key Distribution in Multiple-Input Multiple-Output Settings",
+    "authors": [
+      {
+        "first": "Shradhanjali",
+        "last": "Sahu"
+      },
+      {
+        "first": "Ahmed Q.",
+        "last": "Lawey"
+      },
+      {
+        "first": "Mohsen",
+        "last": "Razavi"
+      }
+    ]
+  },
+  {
+    "pid": 140,
+    "title": "Large block size Toeplitz hashing implementation on FPGA",
+    "authors": [
+      {
+        "first": "Hong Jie",
+        "last": "Ng"
+      },
+      {
+        "first": "Chao",
+        "last": "Wang"
+      },
+      {
+        "first": "Charles",
+        "last": "Lim"
+      }
+    ]
+  },
+  {
+    "pid": 141,
+    "title": "Entropically secure encryption  with faster key expansion",
+    "authors": [
+      {
+        "first": "Mehmet Hüseyin",
+        "last": "Temel"
+      },
+      {
+        "first": "Boris",
+        "last": "Skoric"
+      }
+    ]
+  },
+  {
+    "pid": 143,
+    "title": "Passive decoy-state quantum key distribution",
+    "authors": [
+      {
+        "first": "Víctor",
+        "last": "Zapatero"
+      },
+      {
+        "first": "Marcos",
+        "last": "Curty"
+      },
+      {
+        "first": "Wenyuan",
+        "last": "Wang"
+      },
+      {
+        "first": "Hoi-Kwong",
+        "last": "Lo"
+      }
+    ]
+  },
+  {
+    "pid": 146,
+    "title": "Experimental demonstration of practical high-speed Gaussian coherent state continuous variable quantum key distribution with real-time parameter monitoring and key distillation",
+    "authors": [
+      {
+        "first": "Amanda",
+        "last": "Weerasinghe"
+      },
+      {
+        "first": "Muataz",
+        "last": "Alhussein"
+      },
+      {
+        "first": "He",
+        "last": "Li"
+      },
+      {
+        "first": "Adrian",
+        "last": "Wonfor"
+      },
+      {
+        "first": "Richard",
+        "last": "Penty"
+      }
+    ]
+  },
+  {
+    "pid": 151,
+    "title": "Prepare-and-measure conference key agreement based on single-photon interference of weak coherent pulses",
+    "authors": [
+      {
+        "first": "Giacomo",
+        "last": "Carrara"
+      },
+      {
+        "first": "Glaucia",
+        "last": "Murta"
+      },
+      {
+        "first": "Hermann",
+        "last": "Kampermann"
+      },
+      {
+        "first": "Dagmar",
+        "last": "Bruß"
+      },
+      {
+        "first": "Federico",
+        "last": "Grasselli"
+      }
+    ]
+  },
+  {
+    "pid": 152,
+    "title": "Algebraic approach for investigation of a multi-mode quantum system dynamics",
+    "authors": [
+      {
+        "first": "Andrei",
+        "last": "Gaidash"
+      },
+      {
+        "first": "Anton",
+        "last": "Kozubov"
+      },
+      {
+        "first": "George",
+        "last": "Miroshnichenko"
+      },
+      {
+        "first": "Alexei",
+        "last": "Kiselev"
+      }
+    ]
+  },
+  {
+    "pid": 153,
+    "title": "ParisRegionQCI: A Parisian Quantum Network",
+    "authors": [
+      {
+        "first": "Yoann",
+        "last": "Piétri"
+      },
+      {
+        "first": "Valentin",
+        "last": "Allaire"
+      },
+      {
+        "first": "Pierre-Enguerrand",
+        "last": "Verdier"
+      },
+      {
+        "first": "Matteo",
+        "last": "Schiavon"
+      },
+      {
+        "first": "Jonathan",
+        "last": "Belhassen"
+      },
+      {
+        "first": "Thomas",
+        "last": "Rivera"
+      },
+      {
+        "first": "Eleni",
+        "last": "Diamanti"
+      }
+    ]
+  },
+  {
+    "pid": 154,
+    "title": "Aggregation of Tokenized Signature Scheme and Its Applications",
+    "authors": [
+      {
+        "first": "Natarajan",
+        "last": "V"
+      },
+      {
+        "first": "M Prem Laxman",
+        "last": "Das"
+      }
+    ]
+  },
+  {
+    "pid": 155,
+    "title": "Automated quantum optical experiment design for device-independent quantum key distribution",
+    "authors": [
+      {
+        "first": "Xavier",
+        "last": "Valcarce"
+      },
+      {
+        "first": "Pavel",
+        "last": "Sekatski"
+      },
+      {
+        "first": "Elie",
+        "last": "Gouzien"
+      },
+      {
+        "first": "Jean-Daniel",
+        "last": "Bancal"
+      },
+      {
+        "first": "Nicolas",
+        "last": "Sangouard"
+      }
+    ]
+  },
+  {
+    "pid": 156,
+    "title": "INTEGRATED ULTRA-WIDE BANDWIDTH HOMODYNE DETECTOR",
+    "authors": [
+      {
+        "first": "Si Qi",
+        "last": "Ng"
+      },
+      {
+        "first": "Gong",
+        "last": "Zhang"
+      },
+      {
+        "first": "Chao",
+        "last": "Wang"
+      },
+      {
+        "first": "Charles Ci Wen",
+        "last": "Lim"
+      }
+    ]
+  },
+  {
+    "pid": 162,
+    "title": "Implementation of an entanglement-based QKD network for fully connected topologies across Slovakia",
+    "authors": [
+      {
+        "first": "Tony",
+        "last": "Thomas"
+      },
+      {
+        "first": "Yung-Cheng",
+        "last": "Kao"
+      },
+      {
+        "first": "Peter",
+        "last": "Rapčan"
+      },
+      {
+        "first": "Mario",
+        "last": "Zimán"
+      },
+      {
+        "first": "Djeylan",
+        "last": "Aktas"
+      }
+    ]
+  },
+  {
+    "pid": 164,
+    "title": "Tilted Hardy paradoxes for device-independent randomness extraction",
+    "authors": [
+      {
+        "first": "Shuai",
+        "last": "Zhao"
+      },
+      {
+        "first": "Ravishankar",
+        "last": "Ramanathan"
+      },
+      {
+        "first": "Yuan",
+        "last": "Liu"
+      },
+      {
+        "first": "Pawel",
+        "last": "Horodecki"
+      }
+    ]
+  },
+  {
+    "pid": 166,
+    "title": "Paving the Way towards 800 Gbps Quantum-Secured Optical Channel Deployment in Mission-Critical Environments",
+    "authors": [
+      {
+        "first": "Marco",
+        "last": "Pistoia"
+      },
+      {
+        "first": "Omar",
+        "last": "Amer"
+      },
+      {
+        "first": "Monik R.",
+        "last": "Behera"
+      },
+      {
+        "first": "Joseph A.",
+        "last": "Dolphin"
+      },
+      {
+        "first": "James F.",
+        "last": "Dynes"
+      },
+      {
+        "first": "Benny",
+        "last": "John"
+      },
+      {
+        "first": "Paul A.",
+        "last": "Haigh"
+      },
+      {
+        "first": "Yasushi",
+        "last": "Kawakura"
+      },
+      {
+        "first": "David H.",
+        "last": "Kramer"
+      },
+      {
+        "first": "Jeffrey",
+        "last": "Lyon"
+      },
+      {
+        "first": "Navid",
+        "last": "Moazzami"
+      },
+      {
+        "first": "Tulasi D.",
+        "last": "Movva"
+      },
+      {
+        "first": "Antigoni",
+        "last": "Polychroniadou"
+      },
+      {
+        "first": "Suresh",
+        "last": "Shetty"
+      },
+      {
+        "first": "Greg",
+        "last": "Sysak"
+      },
+      {
+        "first": "Farzam",
+        "last": "Toudeh-Fallah"
+      },
+      {
+        "first": "Sudhir",
+        "last": "Upadhyay"
+      },
+      {
+        "first": "Robert I.",
+        "last": "Woodward"
+      },
+      {
+        "first": "Andrew J.",
+        "last": "Shields"
+      }
+    ]
+  },
+  {
+    "pid": 167,
+    "title": "On the probabilistic quantum error correction",
+    "authors": [
+      {
+        "first": "Ryszard",
+        "last": "Kukulski"
+      },
+      {
+        "first": "Łukasz",
+        "last": "Pawela"
+      },
+      {
+        "first": "Zbigniew",
+        "last": "Puchała"
+      }
+    ]
+  },
+  {
+    "pid": 168,
+    "title": "Providing Quantum Key Distribution as a Shared Multi-Point Access Service",
+    "authors": [
+      {
+        "first": "Juris",
+        "last": "Viksna"
+      },
+      {
+        "first": "Elina",
+        "last": "Kalnina"
+      },
+      {
+        "first": "Sergejs",
+        "last": "Kozlovics"
+      },
+      {
+        "first": "Leo",
+        "last": "Truksans"
+      }
+    ]
+  },
+  {
+    "pid": 169,
+    "title": "Quantum cryptography protocol based on von Neumann measurements discrimination",
+    "authors": [
+      {
+        "first": "Paulina",
+        "last": "Lewandowska"
+      },
+      {
+        "first": "Łukasz",
+        "last": "Pawela"
+      },
+      {
+        "first": "Zbigniew",
+        "last": "Puchała"
+      }
+    ]
+  },
+  {
+    "pid": 170,
+    "title": "Machine learning based joint phase and polarization equalization for CV-QKD",
+    "authors": [
+      {
+        "first": "Hou-Man",
+        "last": "Chin"
+      },
+      {
+        "first": "Adnan Adil",
+        "last": "Hajomer"
+      },
+      {
+        "first": "Nitin",
+        "last": "Jain"
+      },
+      {
+        "first": "Ulrik",
+        "last": "Andersen"
+      },
+      {
+        "first": "Tobias",
+        "last": "Gehring"
+      }
+    ]
+  },
+  {
+    "pid": 171,
+    "title": "Towards quantum communication inside existing fiber-telecommunication networks",
+    "authors": [
+      {
+        "first": "Alexandra",
+        "last": "Popp"
+      },
+      {
+        "first": "Thomas",
+        "last": "Dirmeier"
+      },
+      {
+        "first": "Imran",
+        "last": "Khan"
+      },
+      {
+        "first": "Florian",
+        "last": "Sedlmeir"
+      },
+      {
+        "first": "Christoph",
+        "last": "Marquardt"
+      }
+    ]
+  },
+  {
+    "pid": 172,
+    "title": "Modified BB84 quantum key distribution protocol robust against side channels",
+    "authors": [
+      {
+        "first": "Margarida",
+        "last": "Pereira"
+      },
+      {
+        "first": "Guillermo",
+        "last": "Currás-Lorenzo"
+      },
+      {
+        "first": "Álvaro",
+        "last": "Navarrete"
+      },
+      {
+        "first": "Go",
+        "last": "Kato"
+      },
+      {
+        "first": "Marcos",
+        "last": "Curty"
+      },
+      {
+        "first": "Kiyoshi",
+        "last": "Tamaki"
+      }
+    ]
+  },
+  {
+    "pid": 173,
+    "title": "Analysis and Characterization Methodology of High Speed Balanced Homodyne Detector using RF MMIC Amplifier for Quantum Communication",
+    "authors": [
+      {
+        "first": "Raymond",
+        "last": "Ho"
+      },
+      {
+        "first": "Jing Yan",
+        "last": "Haw"
+      },
+      {
+        "first": "Xu",
+        "last": "Yan"
+      },
+      {
+        "first": "Yong Xin",
+        "last": "Guo"
+      },
+      {
+        "first": "Chao",
+        "last": "Wang"
+      },
+      {
+        "first": "Charles C.-W.",
+        "last": "Lim"
+      }
+    ]
+  },
+  {
+    "pid": 176,
+    "title": "Experimental Single-Copy Entanglement Distillation",
+    "authors": [
+      {
+        "first": "Sebastian",
+        "last": "Ecker"
+      },
+      {
+        "first": "Philipp",
+        "last": "Sohr"
+      },
+      {
+        "first": "Lukas",
+        "last": "Bulla"
+      },
+      {
+        "first": "Marcus",
+        "last": "Huber"
+      },
+      {
+        "first": "Martin",
+        "last": "Bohmann"
+      },
+      {
+        "first": "Rupert",
+        "last": "Ursin"
+      }
+    ]
+  }
+]

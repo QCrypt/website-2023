@@ -1,0 +1,50 @@
+share:
+  - name: facebook
+    url: https://www.facebook.com/sharer.php?u=
+  - name: twitter
+    url: https://twitter.com/intent/tweet?text=
+
+follow:
+  - name: twitter
+    url: https://twitter.com/Qcryptc
+  - name: youtube
+    url: https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw
+
+content:
+  - title: footer_about
+    links:
+      - nameKey: footer_coc
+        url: /code-of-conduct-online/
+        newTab: false
+      - nameKey: footer_charter
+        url: /charter/
+        newTab: false
+  - title: footer_extra
+    links:
+      - nameKey: footer_papers
+        url: /accepted-papers/
+        newTab: false
+      - nameKey: footer_call
+        url: /call/
+        newTab: false
+      - nameKey: footer_poster
+        url: /poster/
+        newTab: false
+
+  # - title: footer_previous_edition
+  #   links:
+  #     - name: DevFest Toulouse 2018
+  #       url: https://2018.devfesttoulouse.fr/
+  #       newTab: true
+  #     - name: DevFest Toulouse 2017
+  #       url: https://2017.devfesttoulouse.fr/
+  #       newTab: true
+  #     - name: DevFest Toulouse 2016
+  #       url: https://2016.devfesttoulouse.fr/
+  #       newTab: true
+
+  # - title: footer_become_partners
+  #   links:
+  #     - nameKey: footer_become_partners_label
+  #       url: https://docs.google.com/presentation/d/1DebzlTMINfjTOXtiMqRADe0D4ko9eRHXbKmO-289-NY
+  #       newTab: true

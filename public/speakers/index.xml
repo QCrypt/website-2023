@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Speakers on QCrypt 2022</title>
+    <link>/speakers/</link>
+    <description>Recent content in Speakers on QCrypt 2022</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/speakers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/speakers/contributed/foo_bar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/contributed/foo_bar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/contributed/tester1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/contributed/tester1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/industry/davide_bacco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/industry/davide_bacco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/industry/imran_khan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/industry/imran_khan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/industry/jean-sebastien_pegon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/industry/jean-sebastien_pegon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/industry/momtchil_peev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/industry/momtchil_peev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/industry/robert_starkwood/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/industry/robert_starkwood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/industry/robert_woodward/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/industry/robert_woodward/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/industry/simone_capeleto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/industry/simone_capeleto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/industry/tobias_gehring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/industry/tobias_gehring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/industry/vanesa_diaz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/industry/vanesa_diaz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/industry/yingming_zhou/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/industry/yingming_zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/invited/crepeau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/invited/crepeau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/invited/jliu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/invited/jliu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/invited/sangouard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/invited/sangouard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/invited/shmueli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/invited/shmueli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/invited/weinfurter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/invited/weinfurter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/invited/wzliu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/invited/wzliu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/invited/zhong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/invited/zhong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/organizers/boyin_yang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/organizers/boyin_yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/organizers/christian_schaffner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/organizers/christian_schaffner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/organizers/kaimin_chung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/organizers/kaimin_chung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/organizers/oliver_t_slattery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/organizers/oliver_t_slattery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/organizers/serge_fehr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/organizers/serge_fehr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/organizers/yeongcherng_liang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/organizers/yeongcherng_liang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/tutorial/azuma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/tutorial/azuma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/tutorial/colbeck/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/tutorial/colbeck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/tutorial/steinwandt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/tutorial/steinwandt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/tutorial/wang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/tutorial/wang/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

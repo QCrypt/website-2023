@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Program on QCrypt 2022</title>
+    <link>/speakers/</link>
+    <description>Recent content in Program on QCrypt 2022</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/speakers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/speakers/contributed/foo_bar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/contributed/foo_bar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/contributed/tester1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/contributed/tester1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/industry/andrew_shields/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/industry/andrew_shields/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/industry/bruno_huttner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/industry/bruno_huttner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/industry/eric_wille/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/industry/eric_wille/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/industry/masahide_sasaki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/industry/masahide_sasaki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/industry/rupert_ursin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/industry/rupert_ursin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/industry/wei_qi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/industry/wei_qi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/invited/bing_qi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/invited/bing_qi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/invited/dakshita_khurana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/invited/dakshita_khurana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/invited/mirko_pittaluga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/invited/mirko_pittaluga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/invited/simon_groblacher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/invited/simon_groblacher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/invited/twesh_upadhyaya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/invited/twesh_upadhyaya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/invited/xiangbin_wang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/invited/xiangbin_wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/organizers/christian_schaffner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/organizers/christian_schaffner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/organizers/serge_fehr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/organizers/serge_fehr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/tutorial/anne_broadbent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/tutorial/anne_broadbent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/tutorial/charles_lim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/tutorial/charles_lim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/tutorial/paolo_villoresi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/tutorial/paolo_villoresi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/tutorial/umesh_vazirani/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/tutorial/umesh_vazirani/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

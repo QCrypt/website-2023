@@ -1,0 +1,16 @@
+id: HJRThubF4uYPkb7jSUxi
+name: QCrypt 2021
+address:
+  formattedAddress: 'Roeterseiland Campus, Roetersstraat, 1018 WD Amsterdam, The Netherlands'
+  locality:
+    short_name: Amsterdam
+    long_name: Amsterdam
+  country:
+    short_name: NL
+    long_name: Netherlands
+  latLng:
+    lat: 52.3633392
+    lng: 4.9120849
+dates:
+  start: '2021-08-23T9:00:00.000Z'
+  end: '2021-08-27T17:00:00.000Z'

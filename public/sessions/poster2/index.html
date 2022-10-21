@@ -1,0 +1,5280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+	<meta name="HandheldFriendly" content="True">
+	<meta name="MobileOptimized" content="320">
+	<meta name="Description" content="12th International Conference on Quantum Cryptography, organized from Taipei, Taiwan, 29 August - 2 September 2022">
+
+	
+
+	<meta name="generator" content="Hugo 0.94.2" />
+	<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+
+	<title>QCrypt 2022  | Poster Session 2</title>
+
+	
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	
+	
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	
+	
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	
+	
+	<link rel="manifest" href="/manifest.json">
+	
+	
+	<meta name="theme-color" content="#086788"/>
+	<meta name="msapplication-TileColor" content="##086788">
+	
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#086788">
+	
+	
+
+	<link href="" rel="alternate" type="application/rss+xml" title="QCrypt 2022"/>
+	<link href="" rel="feed" type="application/rss+xml" title="QCrypt 2022"/>
+
+	<link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet">
+	<link rel="stylesheet" href="/theme.css" media="all">
+
+	
+	
+	
+</head>
+
+
+<body class="page sessionsposter2 sessions">
+
+<svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" class="visually-hidden">
+  	<symbol id="alert" viewBox="0 0 448 512">
+    <path fill="currentColor"
+          d="M224 512c35.32 0 63.97-28.65 63.97-64H160.03c0 35.35 28.65 64 63.97 64zm215.39-149.71c-19.32-20.76-55.47-51.99-55.47-154.29 0-77.7-54.48-139.9-127.94-155.16V32c0-17.67-14.32-32-31.98-32s-31.98 14.33-31.98 32v20.84C118.56 68.1 64.08 130.3 64.08 208c0 102.3-36.15 133.53-55.47 154.29-6 6.45-8.66 14.16-8.61 21.71.11 16.4 12.98 32 32.1 32h383.8c19.12 0 32-15.6 32.1-32 .05-7.55-2.61-15.27-8.61-21.71z"></path>
+	</symbol>
+	<symbol id="cfp" viewBox="0 0 352 512">
+    <path fill="currentColor"
+          d="M176 352c53.02 0 96-42.98 96-96V96c0-53.02-42.98-96-96-96S80 42.98 80 96v160c0 53.02 42.98 96 96 96zm160-160h-16c-8.84 0-16 7.16-16 16v48c0 74.8-64.49 134.82-140.79 127.38C96.71 376.89 48 317.11 48 250.3V208c0-8.84-7.16-16-16-16H16c-8.84 0-16 7.16-16 16v40.16c0 89.64 63.97 169.55 152 181.69V464H96c-8.84 0-16 7.16-16 16v16c0 8.84 7.16 16 16 16h160c8.84 0 16-7.16 16-16v-16c0-8.84-7.16-16-16-16h-56v-33.77C285.71 418.47 352 344.9 352 256v-48c0-8.84-7.16-16-16-16z"></path>
+	</symbol>
+	<symbol id="close" viewBox="0 0 352 512">
+    <path fill="currentColor"
+          d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"></path>
+	</symbol>
+	<symbol id="direction" viewBox="0 0 512 512">
+    <path fill="currentColor"
+          d="M502.61 233.32L278.68 9.39c-12.52-12.52-32.83-12.52-45.36 0L9.39 233.32c-12.52 12.53-12.52 32.83 0 45.36l223.93 223.93c12.52 12.53 32.83 12.53 45.36 0l223.93-223.93c12.52-12.53 12.52-32.83 0-45.36zm-100.98 12.56l-84.21 77.73c-5.12 4.73-13.43 1.1-13.43-5.88V264h-96v64c0 4.42-3.58 8-8 8h-32c-4.42 0-8-3.58-8-8v-80c0-17.67 14.33-32 32-32h112v-53.73c0-6.97 8.3-10.61 13.43-5.88l84.21 77.73c3.43 3.17 3.43 8.59 0 11.76z"></path>
+	</symbol>
+	<symbol id="email" viewBox="0 0 512 512">
+    <path fill="currentColor"
+          d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"></path>
+	</symbol>
+	<symbol id="facebook" viewBox="0 0 264 512">
+    <path fill="rgb(59,89,152)"
+          d="M76.7 512V283H0v-91h76.7v-71.7C76.7 42.4 124.3 0 193.8 0c33.3 0 61.9 2.5 70.2 3.6V85h-48.2c-37.8 0-45.1 18-45.1 44.3V192H256l-11.7 91h-73.6v229"></path>
+	</symbol>
+	<symbol id="github" viewBox="0 0 496 512">
+    <path fill="#000000"
+          d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"></path>
+	</symbol>
+	<symbol id="link" viewBox="0 0 512 512">
+    <path fill="currentColor"
+          d="M326.612 185.391c59.747 59.809 58.927 155.698.36 214.59-.11.12-.24.25-.36.37l-67.2 67.2c-59.27 59.27-155.699 59.262-214.96 0-59.27-59.26-59.27-155.7 0-214.96l37.106-37.106c9.84-9.84 26.786-3.3 27.294 10.606.648 17.722 3.826 35.527 9.69 52.721 1.986 5.822.567 12.262-3.783 16.612l-13.087 13.087c-28.026 28.026-28.905 73.66-1.155 101.96 28.024 28.579 74.086 28.749 102.325.51l67.2-67.19c28.191-28.191 28.073-73.757 0-101.83-3.701-3.694-7.429-6.564-10.341-8.569a16.037 16.037 0 0 1-6.947-12.606c-.396-10.567 3.348-21.456 11.698-29.806l21.054-21.055c5.521-5.521 14.182-6.199 20.584-1.731a152.482 152.482 0 0 1 20.522 17.197zM467.547 44.449c-59.261-59.262-155.69-59.27-214.96 0l-67.2 67.2c-.12.12-.25.25-.36.37-58.566 58.892-59.387 154.781.36 214.59a152.454 152.454 0 0 0 20.521 17.196c6.402 4.468 15.064 3.789 20.584-1.731l21.054-21.055c8.35-8.35 12.094-19.239 11.698-29.806a16.037 16.037 0 0 0-6.947-12.606c-2.912-2.005-6.64-4.875-10.341-8.569-28.073-28.073-28.191-73.639 0-101.83l67.2-67.19c28.239-28.239 74.3-28.069 102.325.51 27.75 28.3 26.872 73.934-1.155 101.96l-13.087 13.087c-4.35 4.35-5.769 10.79-3.783 16.612 5.864 17.194 9.042 34.999 9.69 52.721.509 13.906 17.454 20.446 27.294 10.606l37.106-37.106c59.271-59.259 59.271-155.699.001-214.959z"></path>
+	</symbol>
+	<symbol id="linkedin" viewBox="0 0 448 512">
+    <path fill="rgb(0,119,181)"
+          d="M100.3 448H7.4V148.9h92.9V448zM53.8 108.1C24.1 108.1 0 83.5 0 53.8S24.1 0 53.8 0s53.8 24.1 53.8 53.8-24.1 54.3-53.8 54.3zM448 448h-92.7V302.4c0-34.7-.7-79.2-48.3-79.2-48.3 0-55.7 37.7-55.7 76.7V448h-92.8V148.9h89.1v40.8h1.3c12.4-23.5 42.7-48.3 87.9-48.3 94 0 111.3 61.9 111.3 142.3V448h-.1z"></path>
+	</symbol>
+	<symbol id="map-marker" viewBox="0 0 384 512" >
+    <path fill="currentColor" d="M172.268 501.67C26.97 291.031 0 269.413 0 192 0 85.961 85.961 0 192 0s192 85.961 192 192c0 77.413-26.97 99.031-172.268 309.67-9.535 13.774-29.93 13.773-39.464 0zM192 272c44.183 0 80-35.817 80-80s-35.817-80-80-80-80 35.817-80 80 35.817 80 80 80z"></path>
+	</symbol>
+	<symbol id="menu" viewBox="0 0 448 512">
+    <path fill="currentColor"
+          d="M16 132h416c8.837 0 16-7.163 16-16V76c0-8.837-7.163-16-16-16H16C7.163 60 0 67.163 0 76v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm0 160h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16z"></path>
+	</symbol>
+	<symbol id="orcid" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#A6CE39;}
+	.st1{fill:#FFFFFF;}
+</style>
+<path class="st0" d="M256,128c0,70.7-57.3,128-128,128C57.3,256,0,198.7,0,128C0,57.3,57.3,0,128,0C198.7,0,256,57.3,256,128z"/>
+<g>
+	<path class="st1" d="M86.3,186.2H70.9V79.1h15.4v48.4V186.2z"/>
+	<path class="st1" d="M108.9,79.1h41.6c39.6,0,57,28.3,57,53.6c0,27.5-21.5,53.6-56.8,53.6h-41.8V79.1z M124.3,172.4h24.5
+		c34.9,0,42.9-26.5,42.9-39.7c0-21.5-13.7-39.7-43.7-39.7h-23.7V172.4z"/>
+	<path class="st1" d="M88.7,56.8c0,5.5-4.5,10.1-10.1,10.1c-5.6,0-10.1-4.6-10.1-10.1c0-5.6,4.5-10.1,10.1-10.1
+		C84.2,46.7,88.7,51.3,88.7,56.8z"/>
+</g>
+	</symbol>
+
+	<symbol id="right" viewBox="0 0 512 512">
+    <path fill="currentColor"
+          d="M256 8c137 0 248 111 248 248S393 504 256 504 8 393 8 256 119 8 256 8zM140 300h116v70.9c0 10.7 13 16.1 20.5 8.5l114.3-114.9c4.7-4.7 4.7-12.2 0-16.9l-114.3-115c-7.6-7.6-20.5-2.2-20.5 8.5V212H140c-6.6 0-12 5.4-12 12v64c0 6.6 5.4 12 12 12z"></path>
+	</symbol>
+	<symbol id="scroll-down" viewBox="0 0 25.166666 37.8704414">
+    <path fill="none" stroke="currentColor" stroke-width="2.5" stroke-miterlimit="10"
+          d="M12.5833445 36.6204414h-0.0000229C6.3499947 36.6204414 1.25 31.5204487 1.25 25.2871208V12.5833216C1.25 6.3499947 6.3499951 1.25 12.5833216 1.25h0.0000229c6.2333269 0 11.3333216 5.0999947 11.3333216 11.3333216v12.7037992C23.916666 31.5204487 18.8166714 36.6204414 12.5833445 36.6204414z"></path>
+    <path style="animation: scrollDownMove .8s ease-in-out alternate infinite;" fill="currentColor"
+          d="M13.0833359 19.2157116h-0.9192753c-1.0999985 0-1.9999971-0.8999996-1.9999971-1.9999981v-5.428606c0-1.0999994 0.8999987-1.9999981 1.9999971-1.9999981h0.9192753c1.0999985 0 1.9999981 0.8999987 1.9999981 1.9999981v5.428606C15.083334 18.315712 14.1833344 19.2157116 13.0833359 19.2157116z"></path>
+	</symbol>
+	<symbol id="site" viewBox="0 0 496 512">
+    <path fill="currentColor"
+          d="M336.5 160C322 70.7 287.8 8 248 8s-74 62.7-88.5 152h177zM152 256c0 22.2 1.2 43.5 3.3 64h185.3c2.1-20.5 3.3-41.8 3.3-64s-1.2-43.5-3.3-64H155.3c-2.1 20.5-3.3 41.8-3.3 64zm324.7-96c-28.6-67.9-86.5-120.4-158-141.6 24.4 33.8 41.2 84.7 50 141.6h108zM177.2 18.4C105.8 39.6 47.8 92.1 19.3 160h108c8.7-56.9 25.5-107.8 49.9-141.6zM487.4 192H372.7c2.1 21 3.3 42.5 3.3 64s-1.2 43-3.3 64h114.6c5.5-20.5 8.6-41.8 8.6-64s-3.1-43.5-8.5-64zM120 256c0-21.5 1.2-43 3.3-64H8.6C3.2 212.5 0 233.8 0 256s3.2 43.5 8.6 64h114.6c-2-21-3.2-42.5-3.2-64zm39.5 96c14.5 89.3 48.7 152 88.5 152s74-62.7 88.5-152h-177zm159.3 141.6c71.4-21.2 129.4-73.7 158-141.6h-108c-8.8 56.9-25.6 107.8-50 141.6zM19.3 352c28.6 67.9 86.5 120.4 158 141.6-24.4-33.8-41.2-84.7-50-141.6h-108z"></path>
+	</symbol>
+	<symbol id="subscribe" viewBox="0 0 512 512">
+    <path fill="currentColor"
+          d="M440 6.5L24 246.4c-34.4 19.9-31.1 70.8 5.7 85.9L144 379.6V464c0 46.4 59.2 65.5 86.6 28.6l43.8-59.1 111.9 46.2c5.9 2.4 12.1 3.6 18.3 3.6 8.2 0 16.3-2.1 23.6-6.2 12.8-7.2 21.6-20 23.9-34.5l59.4-387.2c6.1-40.1-36.9-68.8-71.5-48.9zM192 464v-64.6l36.6 15.1L192 464zm212.6-28.7l-153.8-63.5L391 169.5c10.7-15.5-9.5-33.5-23.7-21.2L155.8 332.6 48 288 464 48l-59.4 387.3z"></path>
+	</symbol>
+	<symbol id="tar" viewBox="0 0 384 512"><path d="M224 136V0h-63.6v32h-32V0H24C10.7 0 0 10.7 0 24v464c0 13.3 10.7 24 24 24h336c13.3 0 24-10.7 24-24V160H248c-13.2 0-24-10.8-24-24zM95.9 32h32v32h-32V32zm32.3 384c-33.2 0-58-30.4-51.4-62.9L96.4 256v-32h32v-32h-32v-32h32v-32h-32V96h32V64h32v32h-32v32h32v32h-32v32h32v32h-32v32h22.1c5.7 0 10.7 4.1 11.8 9.7l17.3 87.7c6.4 32.4-18.4 62.6-51.4 62.6zm32.7-53c0 14.9-14.5 27-32.4 27S96 378 96 363c0-14.9 14.5-27 32.4-27s32.5 12.1 32.5 27zM384 121.9v6.1H256V0h6.1c6.4 0 12.5 2.5 17 7l97.9 98c4.5 4.5 7 10.6 7 16.9z"/>	</symbol>
+<!--
+Font Awesome Free 5.2.0 by @fontawesome - https://fontawesome.com
+License - https://fontawesome.com/license (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+-->
+	<symbol id="ticket" viewBox="0 0 576 512">
+    <path fill="currentColor"
+          d="M128 160h320v192H128V160zm400 96c0 26.51 21.49 48 48 48v96c0 26.51-21.49 48-48 48H48c-26.51 0-48-21.49-48-48v-96c26.51 0 48-21.49 48-48s-21.49-48-48-48v-96c0-26.51 21.49-48 48-48h480c26.51 0 48 21.49 48 48v96c-26.51 0-48 21.49-48 48zm-48-104c0-13.255-10.745-24-24-24H120c-13.255 0-24 10.745-24 24v208c0 13.255 10.745 24 24 24h336c13.255 0 24-10.745 24-24V152z"></path>
+	</symbol>
+	<symbol id="twitter" viewBox="0 0 512 512">
+    <path fill="rgb(64,153,255)"
+          d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path>
+	</symbol>
+	<symbol id="youtube" viewBox="0 0 576 512">
+    <path fill="rgb(205,32,31)"
+          d="M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z"></path>
+	</symbol>
+</svg>
+
+
+<header>
+	<div class="top-content">
+
+		<div class="logo">
+			<a href="/">
+			<img src="/images/logos/QCrTop_2022.png" alt="logo QCrypt 2022">
+			</a>
+		</div>
+
+		<input type="checkbox" id="menu-burger" class="visually-hidden" aria-label="Menu"/>
+
+		<label for="menu-burger">
+			<svg class="icon icon-menu">
+	<use xlink:href="#menu"/>
+</svg>
+			<svg class="icon icon-close">
+	<use xlink:href="#close"/>
+</svg>
+		</label>
+
+		<nav>
+			<ul class="menu">
+				<li class="" >
+				
+				<a href="/">Home</a>
+				
+				</li>
+				
+				<li class="" >
+				
+				<a href="/2024/">2023 and 2024</a>
+				
+				</li>
+				
+				<li class="" >
+				
+				<a href="/schedule/">Schedule</a>
+				
+				</li>
+				
+				<li class="" >
+				
+				<a href="/participate/">Manual</a>
+				
+				</li>
+				
+				<li class="" >
+				
+				<a href="/speakers/">Speakers</a>
+				
+				</li>
+				
+				<li class="" >
+				
+				<a href="/team/">Committees</a>
+				
+				</li>
+				
+				<li class="" >
+				
+				<a href="/partners/">Sponsors</a>
+				
+				</li>
+				
+				<li class="" >
+				
+				<a href="/travel/">Travel</a>
+				
+				</li>
+				
+				<li class="" >
+				
+				<a href="/hotels/">Help</a>
+				
+				</li>
+				
+			</ul>
+
+			<ul class="languages">
+				
+			</ul>
+		</nav>
+
+	</div>
+</header>
+
+
+
+<main>
+	
+
+
+
+<section class="talk">
+
+
+	
+	<header class="tag-poster">
+	<div class="tags">
+		
+			
+			<span>🤝 poster</span>
+			
+		
+	</div>
+	
+
+	<h1 class="text">Poster Session 2</h1>
+	<span class="language "></span>
+	</header>
+
+	<div class="info">
+		
+		
+        <div class="type type-other">other</div>
+        
+
+		
+        
+		
+
+		
+		
+		
+		
+		
+		  
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+		
+		  
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+		
+		  
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+  			
+				  
+					
+		  	
+			
+  			
+		  		 
+			  
+			
+  			
+			
+		
+		  
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+		
+		  
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+  			
+			
+		
+
+		<div class="time"> Wed, 31 Aug
+, 16:45 - 18:45</div>
+
+		
+
+		<div class="detail">
+			<ul class="speakers">
+				
+			</ul>
+
+			<ul class="paper-list">
+			  
+			</ul>
+			<div class="content"><p>This poster session takes place on Wed, 31 Aug, 16:45 - 18:45 online.</p>
+<!--
+[meetanyway](/participate/#poster-sessions).
+
+Click link for
+
+
+
+
+
+
+
+
+<a class="btn primary" href="/online-conference/#instructions-for-authors-of-accepted-posters" target="_blank"  >
+	<svg class="icon icon-direction">
+	<use xlink:href="#direction"/>
+</svg>instructions for authors of accepted posters
+</a>
+
+
+Download a 
+
+
+
+
+
+
+
+<a class="btn primary" href="https://surfdrive.surf.nl/files/index.php/s/fdA5dzPllmwnOBn/download" target="_blank"  >
+	<svg class="icon icon-tar">
+	<use xlink:href="#tar"/>
+</svg>zip-archive
+</a>
+ of all posters.
+-->
+<!--## Posters presented in this session
+coming soon-->
+<h2 id="posters-presented-in-this-session">Posters presented in this session</h2>
+
+
+
+
+
+
+
+  
+
+
+<section class="papers">
+	
+	<div class="inner">
+		
+	</div>
+
+	<ul class="poster-list">
+		
+		  
+			
+			  <li value="4">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Optimum ratio between two bases in Bennett-Brassard 1984 protocol with second order analysis</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Masahito Hayashi 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="7">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Uncloneable Decryptors from Quantum Copy-Protection</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Shai Wyborski ;
+		
+		  Or Sattath 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="12">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Secure Anonymous Conferencing in Quantum Networks</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Federico Grasselli ;
+		
+		  Gláucia Murta ;
+		
+		  Jarn de Jong ;
+		
+		  Frederik Hahn ;
+		
+		  Dagmar Bruss ;
+		
+		  Hermann Kampermann ;
+		
+		  Anna Pappa 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="14">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Modulation leakage-free continuous-variable quantum key distribution</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Adnan Hajomer ;
+		
+		  Nitin Jain ;
+		
+		  Hossein Mani ;
+		
+		  Hou-Man Chin ;
+		
+		  Ulrik L. Andersen ;
+		
+		  Tobias Gehring 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="15">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Security Analysis of Decoy-State Quantum Key Distribution Against Trojan-Horse Attacks</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Álvaro Navarrete ;
+		
+		  Marcos Curty 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="17">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Quantum Prudent Contracts with Applications to Bitcoin</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Or Sattath 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="18">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Quantum electronic voting without election authorities</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Federico Centrone ;
+		
+		  Eleni Diamanti ;
+		
+		  Iordanis Kerenidis 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="19">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Space-borne quantum memories for global quantum networking</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Mustafa Gundogan ;
+		
+		  Jasminder Sidhu ;
+		
+		  Victoria Henderson ;
+		
+		  Luca Mazzarella ;
+		
+		  Janik Wolters ;
+		
+		  Daniel Kl Oi ;
+		
+		  Markus Krutzik 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="20">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Linear optics and photodetection achieve near-optimal unambiguous coherent state discrimination</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Jasminder Sidhu ;
+		
+		  Michael Bullock ;
+		
+		  Saikat Guha ;
+		
+		  Cosmo Lupo 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="24">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Variational quantum solutions to the Shortest Vector Problem</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Martin R. Albrecht ;
+		
+		  Milos Prokop ;
+		
+		  Yixin Shen ;
+		
+		  Petros Wallden 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="38">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Unconditionally secure relativistic multi-party biased coin flipping and die rolling</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Damián Pitalúa-García 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="42">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">A versatile PIC-based CV-QKD receiver</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Yoann Piétri ;
+		
+		  Luis Trigo-Vidarte ;
+		
+		  Matteo Schiavon ;
+		
+		  Philippe Grangier ;
+		
+		  Amine Rhouni ;
+		
+		  Eleni Diamanti 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="43">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Satellite-to-ground QKD with adaptive optics correction</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Valentina Marulanda Acosta ;
+		
+		  Daniele Dequal ;
+		
+		  Matteo Schiavon ;
+		
+		  Aurélie Montmerle-Bonnefois ;
+		
+		  Caroline B. Lim ;
+		
+		  Jean-Marc Conan ;
+		
+		  Eleni Diamanti 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="44">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Quantum secure non-malleable codes in the split-state model</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Divesh Aggarwal ;
+		
+		  Naresh Goud Boddu ;
+		
+		  Rahul Jain 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="48">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Assessment of a quantum random number generator based on photon number statistics</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Ke Guo ;
+		
+		  Thomas Hebdige ;
+		
+		  Thomas Cope ;
+		
+		  Roger Colbeck ;
+		
+		  Christopher Chunnilall 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="51">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Improved device-independent randomness expansion rates from tight bounds on the two sided randomness using CHSH tests</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Rutvij Bhavsar ;
+		
+		  Sammy Ragy ;
+		
+		  Roger Colbeck 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="52">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Quantum network security dependent on connection density between trusted nodes</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Andrei Gaidash ;
+		
+		  George Miroshnichenko ;
+		
+		  Alexei Kiselev ;
+		
+		  Anton Kozubov 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="55">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Quantifying the intrinsic randomness of quantum measurements</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Gabriel Senno ;
+		
+		  Thomas Strohm ;
+		
+		  Antonio Acín 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="61">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Unbounded randomness from uncharacterized sources</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Marco Avesani ;
+		
+		  Hamid Tebyanian ;
+		
+		  Paolo Villoresi ;
+		
+		  Giuseppe Vallone 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="66">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Performance of finite resource satellite-based quantum key distribution</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Tanvirul Islam ;
+		
+		  Jasminder S. Sidhu ;
+		
+		  Brendon L. Higgins ;
+		
+		  Thomas Brougham ;
+		
+		  Tom Vergoossen ;
+		
+		  Daniel K. L. Oi ;
+		
+		  Thomas Jennewein ;
+		
+		  Alexander Ling 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="67">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Quantum key distribution (QKD) over scattering channel</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Qi-Hang Lu ;
+		
+		  Fang-Xiang Wang ;
+		
+		  Kun Huang ;
+		
+		  Xin Wu ;
+		
+		  Ze-Hao Wang ;
+		
+		  Shuang Wang ;
+		
+		  De-Yong He ;
+		
+		  Zhen-Qiang Yin ;
+		
+		  Guang-Can Guo ;
+		
+		  Wei Chen ;
+		
+		  Zheng-Fu Han 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="70">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Practical side-channel attack on free-space QKD exploiting angular misalignment of the transmitter photon sources</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Pablo Arteaga-Díaz ;
+		
+		  Veronica Fernandez ;
+		
+		  Daniel Cano 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="72">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Hybrid Quantum Cryptography from One-way Quantum Communication Complexity Separation</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Francesco Mazzoncini ;
+		
+		  Romain Alléaume 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="73">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Impairments optimization for continuous-variable quantum key distribution</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Andres Ruiz Chamorro ;
+		
+		  Alfonso Blanco ;
+		
+		  Veronica Fernandez 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="74">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Randomized gateway disables intercept-resend hacking of quantum key distribution</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Salem Hegazy ;
+		
+		  Salah Obayya ;
+		
+		  Bahaa Saleh 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="75">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Cryptographic Security Concerns on Timestamp Sharing via Public Channel in Quantum Key Distribution Systems</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Melis Pahalı ;
+		
+		  Kadir Durak ;
+		
+		  Utku Tefek 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="79">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Generalized Time-bin Quantum Random Number Generator with Uncharacterized Devices</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Hamid Tebyanian ;
+		
+		  Mujtaba Zahidy ;
+		
+		  Davide Bacco ;
+		
+		  Leif. K. Oxenlowe 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="80">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Recent development of OAM mode generation for quantum communication</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Mujtaba Zahidy ;
+		
+		  Yaoxin Liu ;
+		
+		  Daniele Cozzolino ;
+		
+		  Hamid Tebyanian ;
+		
+		  Yunhong Ding ;
+		
+		  Toshio Morioka ;
+		
+		  Leif K. Oxenløwe ;
+		
+		  Davide Bacco 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="82">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Quantum Universally Composable Oblivious Linear Evaluation</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Manuel B. Santos ;
+		
+		  Paulo Mateus ;
+		
+		  Chrysoula Vlachou 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="84">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Efficient NIZKs and Signatures from Commit-and-Open Protocols in the QROM</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Jelle Don ;
+		
+		  Serge Fehr ;
+		
+		  Christian Majenz ;
+		
+		  Christian Schaffner 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="87">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Secure Architecture for Quantum Key Distribution Networks</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Bruno Huttner 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="91">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Experimental Demonstration of a Hybrid Authenticated Key Exchange Integrating QKD and QRA in a Single Protocol</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Lydia Garms ;
+		
+		  Taofiq Paraiso ;
+		
+		  Neil Hanley ;
+		
+		  Ayesha Khalid ;
+		
+		  Ciarra Rafferty ;
+		
+		  Andrew Shields ;
+		
+		  Carlos Cid ;
+		
+		  Maire O&#39;Neill 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="92">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Optimal entanglement distribution policies in homogeneous repeater chains with cutoffs</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Álvaro Gómez Iñesta ;
+		
+		  Gayane Vardoyan ;
+		
+		  Lara Scavuzzo ;
+		
+		  Stephanie Wehner 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="96">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">DV-QKD Over Bidirectional Fiber Link In-Band Co-Existence with 25 Classical 10 Gb/s Channels</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Florian Prawits ;
+		
+		  Florian Honz ;
+		
+		  Obada Alia 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="101">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Quantum Key Infrastructure: A scalable, quantum-proof key distribution system</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Hoi-Kwong Lo ;
+		
+		  Mattia Montagna ;
+		
+		  Manfred von Willich 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="106">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Non-malleable Commitments against Quantum Attacks</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Nir Bitansky ;
+		
+		  Huijia Lin ;
+		
+		  Omri Shmueli 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="109">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Practical randomness amplification and privatisation with implementations on quantum computers</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Cameron Foreman ;
+		
+		  Sherilyn Wright ;
+		
+		  Alec Edgington ;
+		
+		  Mario Berta ;
+		
+		  Florian Curchod 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="110">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Bounding the influence of loss in quantum position verification and monogamy-of-entanglement games</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Llorenc Escola Farras ;
+		
+		  Florian Speelman 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="112">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Non-Interactive and Non-Destructive Zero-Knowledge Proofs on Quantum States and Multi-Party Generation of Authorized Hidden GHZ States</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Léo Colisson ;
+		
+		  Frédéric Grosshans ;
+		
+		  Elham Kashefi 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="113">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">On the role of quantum communication and loss in attacks on quantum position verification</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Rene Allerstorfer ;
+		
+		  Philip Verduyn Lunel ;
+		
+		  Florian Speelman ;
+		
+		  Harry Buhrman 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="114">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Continuous variable quantum key distribution with squeezed light</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Huy Nguyen ;
+		
+		  Casper Breum ;
+		
+		  Adnan Hajomer ;
+		
+		  Akash Oruganti ;
+		
+		  Ivan Derkach ;
+		
+		  Vladyslav Usenko ;
+		
+		  Nitin Jain ;
+		
+		  Iyad Suleiman ;
+		
+		  Jonas Neergaard-Nielsen ;
+		
+		  Ulrik Andersen ;
+		
+		  Tobias Gehring 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="115">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Towards practical and error-robust quantum position verification</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Rene Allerstorfer ;
+		
+		  Philip Verduyn Lunel ;
+		
+		  Florian Speelman ;
+		
+		  Harry Buhrman 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="116">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Generating approximate state preparation circuits for a noisy quantum computer with a genetic algorithm</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Matti Raasakka 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="117">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Bounds for realistic device-independent randomness generation and implementation on a photonic chip</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Boris Bourdoncle ;
+		
+		  Andreas Fyrillas ;
+		
+		  Alexandre MaÏnos ;
+		
+		  Nicolas Maring ;
+		
+		  Nadia Bellabas ;
+		
+		  Shane Mansfield 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="119">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Differential Privacy Amplification in Quantum and Quantum-inspired Algorithms</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Armando Angrisani ;
+		
+		  Mina Doosti ;
+		
+		  Elham Kashefi 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="120">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Computational Quantum Secret Sharing</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Alper Cakan ;
+		
+		  Vipul Goyal ;
+		
+		  Chen-Da Liu-Zhang ;
+		
+		  Joao Ribeiro 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="121">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Semi-Quantum Tokenized Signatures</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Omri Shmueli 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="122">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">An efficient combination of quantum error correction and authentication</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Yfke Dulek ;
+		
+		  Garazi Muguruza ;
+		
+		  Florian Speelman 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="124">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Failing gracefully: Decryption failures and the Fujisaki-Okamoto transform</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Kathrin Hövelmanns ;
+		
+		  Andreas Hülsing ;
+		
+		  Christian Majenz 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="127">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Creation of loopholes in QKD systems using high-power pulsed laser</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Daria Ruzhitskaya ;
+		
+		  Irina Zhluktova ;
+		
+		  Mikhail Petrov ;
+		
+		  Konstantin Zaitsev ;
+		
+		  Polina Acheva ;
+		
+		  Nikolay Zunikov ;
+		
+		  Alexey Shilko ;
+		
+		  Djeylan Aktas ;
+		
+		  Daniil Trefilov ;
+		
+		  Anastasiya Ponosova ;
+		
+		  Vladimir Kamynin ;
+		
+		  Vadim Makarov 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="128">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Provably secure receiver-device-independent quantum key distribution</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Wen Yu Kon ;
+		
+		  Ignatius W. Primaatmaja ;
+		
+		  Chao Wang ;
+		
+		  Charles Ci Wen Lim 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="131">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Design and implementation of a QKD system simulator with detailed secure key generation model</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Masashi Ito ;
+		
+		  Yutaro Ishigaki ;
+		
+		  Mera Keisuke ;
+		
+		  Yoshimichi Tanizawa ;
+		
+		  Taofiq K. Paraiso ;
+		
+		  Masanori Furuta ;
+		
+		  Andrew J. Shields 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="132">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Violating Bell inequalities with random mutually unbiased bases</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Gelo Noel Tabia ;
+		
+		  Varun Satya Raj Bavana ;
+		
+		  Shih-Xian Yang ;
+		
+		  Yeong-Cherng Lia 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="135">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Time and Query Complexity Tradeoff for the Dihedral Coset Problem</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Maxime Remaud ;
+		
+		  Jean-Pierre Tillich 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="136">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">On the quantum communication standardization in Russia</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Andrey Zhilyaev ;
+		
+		  Mikhail Borodin 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="137">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Security of decoy-state quantum key distribution with correlated intensity fluctuations</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Xoel Sixto ;
+		
+		  Víctor Zapatero ;
+		
+		  Álvaro Navarrete ;
+		
+		  Marcos Curty 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="138">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Continuous Variable Quantum Key Distribution in Multiple-Input Multiple-Output Settings</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Shradhanjali Sahu ;
+		
+		  Ahmed Q. Lawey ;
+		
+		  Mohsen Razavi 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="140">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Large block size Toeplitz hashing implementation on FPGA</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Hong Jie Ng ;
+		
+		  Chao Wang ;
+		
+		  Charles Lim 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="141">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Entropically secure encryption  with faster key expansion</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Mehmet Hüseyin Temel ;
+		
+		  Boris Skoric 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="143">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Passive decoy-state quantum key distribution</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Víctor Zapatero ;
+		
+		  Marcos Curty ;
+		
+		  Wenyuan Wang ;
+		
+		  Hoi-Kwong Lo 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="146">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Experimental demonstration of practical high-speed Gaussian coherent state continuous variable quantum key distribution with real-time parameter monitoring and key distillation</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Amanda Weerasinghe ;
+		
+		  Muataz Alhussein ;
+		
+		  He Li ;
+		
+		  Adrian Wonfor ;
+		
+		  Richard Penty 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="151">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Prepare-and-measure conference key agreement based on single-photon interference of weak coherent pulses</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Giacomo Carrara ;
+		
+		  Glaucia Murta ;
+		
+		  Hermann Kampermann ;
+		
+		  Dagmar Bruß ;
+		
+		  Federico Grasselli 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="152">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Algebraic approach for investigation of a multi-mode quantum system dynamics</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Andrei Gaidash ;
+		
+		  Anton Kozubov ;
+		
+		  George Miroshnichenko ;
+		
+		  Alexei Kiselev 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="153">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">ParisRegionQCI: A Parisian Quantum Network</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Yoann Piétri ;
+		
+		  Valentin Allaire ;
+		
+		  Pierre-Enguerrand Verdier ;
+		
+		  Matteo Schiavon ;
+		
+		  Jonathan Belhassen ;
+		
+		  Thomas Rivera ;
+		
+		  Eleni Diamanti 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="154">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Aggregation of Tokenized Signature Scheme and Its Applications</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Natarajan V ;
+		
+		  M Prem Laxman Das 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="155">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Automated quantum optical experiment design for device-independent quantum key distribution</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Xavier Valcarce ;
+		
+		  Pavel Sekatski ;
+		
+		  Elie Gouzien ;
+		
+		  Jean-Daniel Bancal ;
+		
+		  Nicolas Sangouard 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="156">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">INTEGRATED ULTRA-WIDE BANDWIDTH HOMODYNE DETECTOR</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Si Qi Ng ;
+		
+		  Gong Zhang ;
+		
+		  Chao Wang ;
+		
+		  Charles Ci Wen Lim 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="162">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Implementation of an entanglement-based QKD network for fully connected topologies across Slovakia</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Tony Thomas ;
+		
+		  Yung-Cheng Kao ;
+		
+		  Peter Rapčan ;
+		
+		  Mario Zimán ;
+		
+		  Djeylan Aktas 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="164">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Tilted Hardy paradoxes for device-independent randomness extraction</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Shuai Zhao ;
+		
+		  Ravishankar Ramanathan ;
+		
+		  Yuan Liu ;
+		
+		  Pawel Horodecki 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="166">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Paving the Way towards 800 Gbps Quantum-Secured Optical Channel Deployment in Mission-Critical Environments</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Marco Pistoia ;
+		
+		  Omar Amer ;
+		
+		  Monik R. Behera ;
+		
+		  Joseph A. Dolphin ;
+		
+		  James F. Dynes ;
+		
+		  Benny John ;
+		
+		  Paul A. Haigh ;
+		
+		  Yasushi Kawakura ;
+		
+		  David H. Kramer ;
+		
+		  Jeffrey Lyon ;
+		
+		  Navid Moazzami ;
+		
+		  Tulasi D. Movva ;
+		
+		  Antigoni Polychroniadou ;
+		
+		  Suresh Shetty ;
+		
+		  Greg Sysak ;
+		
+		  Farzam Toudeh-Fallah ;
+		
+		  Sudhir Upadhyay ;
+		
+		  Robert I. Woodward ;
+		
+		  Andrew J. Shields 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="167">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">On the probabilistic quantum error correction</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Ryszard Kukulski ;
+		
+		  Łukasz Pawela ;
+		
+		  Zbigniew Puchała 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="168">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Providing Quantum Key Distribution as a Shared Multi-Point Access Service</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Juris Viksna ;
+		
+		  Elina Kalnina ;
+		
+		  Sergejs Kozlovics ;
+		
+		  Leo Truksans 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="169">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Quantum cryptography protocol based on von Neumann measurements discrimination</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Paulina Lewandowska ;
+		
+		  Łukasz Pawela ;
+		
+		  Zbigniew Puchała 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="170">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Machine learning based joint phase and polarization equalization for CV-QKD</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Hou-Man Chin ;
+		
+		  Adnan Adil Hajomer ;
+		
+		  Nitin Jain ;
+		
+		  Ulrik Andersen ;
+		
+		  Tobias Gehring 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="171">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Towards quantum communication inside existing fiber-telecommunication networks</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Alexandra Popp ;
+		
+		  Thomas Dirmeier ;
+		
+		  Imran Khan ;
+		
+		  Florian Sedlmeir ;
+		
+		  Christoph Marquardt 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="172">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Modified BB84 quantum key distribution protocol robust against side channels</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Margarida Pereira ;
+		
+		  Guillermo Currás-Lorenzo ;
+		
+		  Álvaro Navarrete ;
+		
+		  Go Kato ;
+		
+		  Marcos Curty ;
+		
+		  Kiyoshi Tamaki 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="173">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Analysis and Characterization Methodology of High Speed Balanced Homodyne Detector using RF MMIC Amplifier for Quantum Communication</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Raymond Ho ;
+		
+		  Jing Yan Haw ;
+		
+		  Xu Yan ;
+		
+		  Yong Xin Guo ;
+		
+		  Chao Wang ;
+		
+		  Charles C.-W. Lim 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+		  
+			
+			  <li value="176">
+  			
+
+<div class="paper-single">
+	<div class="paper-title">Experimental Single-Copy Entanglement Distillation</div>
+
+	
+	
+	<div class="paper-authors">
+		
+		  Sebastian Ecker ;
+		
+		  Philipp Sohr ;
+		
+		  Lukas Bulla ;
+		
+		  Marcus Huber ;
+		
+		  Martin Bohmann ;
+		
+		  Rupert Ursin 
+		
+	</div>
+
+	
+
+
+
+
+	
+  
+	
+	  
+	  
+	  
+	  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+		  
+	  
+
+
+
+  	
+
+	  
+
+	
+
+</div>
+
+
+				
+		  	</li>
+			
+	  
+
+	</ul>
+
+</section>
+
+</div>
+		</div>
+
+	</div>
+
+
+	<div class="media">
+		
+
+		
+
+		
+
+	</div>
+
+</section>
+
+</main>
+
+
+<footer>
+	<div class="bottom-content">
+
+		<div class="footer-header">
+			
+			
+			<div class="follow">
+				<header>Follow us</header>
+				<ul class="social-list">
+					
+					<li>
+						<a href="https://twitter.com/Qcryptc" class="social" rel="noreferrer" target="_blank">
+							<svg class="icon icon-twitter">
+	<use xlink:href="#twitter"/>
+</svg>
+							twitter
+						</a>
+					</li>
+					
+					<li>
+						<a href="https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw" class="social" rel="noreferrer" target="_blank">
+							<svg class="icon icon-youtube">
+	<use xlink:href="#youtube"/>
+</svg>
+							youtube
+						</a>
+					</li>
+					
+				</ul>
+			</div>
+
+			<div class="email">
+				<a href="mailto:2022@qcrypt.net">
+					<svg class="icon icon-email">
+	<use xlink:href="#email"/>
+</svg>2022@qcrypt.net</a>
+			</div>
+		</div>
+
+		<hr>
+
+		<div class="footer-content">
+			
+			<section>
+				<header>About</header>
+				
+				<ul>
+					
+					<li>
+						<a href="/code-of-conduct-online/" >
+							
+							Code of Conduct
+							
+						</a>
+					</li>
+					
+					<li>
+						<a href="/charter/" >
+							
+							QCrypt Charter &amp; History
+							
+						</a>
+					</li>
+					
+				</ul>
+				
+			</section>
+			
+			<section>
+				<header>Extra Material</header>
+				
+				<ul>
+					
+					<li>
+						<a href="/accepted-papers/" >
+							
+							Accepted Papers
+							
+						</a>
+					</li>
+					
+					<li>
+						<a href="/call/" >
+							
+							Call for Papers
+							
+						</a>
+					</li>
+					
+					<li>
+						<a href="/poster/" >
+							
+							Poster, Logos and Templates
+							
+						</a>
+					</li>
+					
+				</ul>
+				
+			</section>
+			
+			
+		</div>
+
+		<hr>
+
+		<div class="footer-footer">
+			
+			<a href="https://www.netlify.com" target="_blank">
+			<img src="/images/logos/netlify-color-accent.svg" alt="QCrypt 2022">
+			</a>
+			
+			<div><a href="https://github.com/QCrypt/website-2022" target="_blank">We ❤️ sheep</a></div>
+		</div>
+
+	</div>
+</footer>
+
+
+
+<script src="/theme.js" async></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>break on QCrypt 2022</title>
+    <link>/tags/break/</link>
+    <description>Recent content in break on QCrypt 2022</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/tags/break/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Break &#43; Q&amp;A &#43; networking</title>
+      <link>/sessions/__break/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/__break/</guid>
+      <description>virtual Meet &amp;amp; Greet Room  . The speakers from the last session are available for an after-talk chat at the tables. -- </description>
+    </item>
+    
+    <item>
+      <title>End of Day &#43; Q&amp;A &#43; networking</title>
+      <link>/sessions/__endofday/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/__endofday/</guid>
+      <description>virtual Meet &amp;amp; Greet Room  . The speakers from the last session are available for an after-talk chat at the tables.-- </description>
+    </item>
+    
+    <item>
+      <title>Lunch &#43; Q&amp;A &#43; networking</title>
+      <link>/sessions/__lunch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/__lunch/</guid>
+      <description>virtual Meet &amp;amp; Greet Room  . The speakers from the last session are available for an after-talk chat at the tables. -- </description>
+    </item>
+    
+    <item>
+      <title>Start of Day &#43; networking</title>
+      <link>/sessions/__startofday/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/__startofday/</guid>
+      <description>virtual Meet &amp;amp; Greet Room  . You are welcome to have a chat and network before the official program starts. -- </description>
+    </item>
+    
+  </channel>
+</rss>

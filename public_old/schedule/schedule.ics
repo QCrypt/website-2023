@@ -1,0 +1,998 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PROID:-//Devfest/DevFest Toulouse 2019//FR
+X-WR-CALDESC:DevFest Toulouse 2019
+X-WR-CALNAME:DevFest Toulouse 2019
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+DESCRIPTION:...où l'on parle aussi de la Pascaline\, de table de logarithme
+ s et d'éviter les erreurs. Et d'en faire.\n
+DTSTART:20191003T090000
+DURATION:PT40M
+LOCATION:Stack Labs
+SUMMARY:Une histoire de l'informatique\, du métier à tisser à la machine de
+  Babbage...
+UID:keynote_open
+URL:https://devfesttoulouse.fr/sessions/keynote_open
+TRANSP:TRANSPARENT
+CATEGORIES:keynote
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Il y a 20 ans\, personne de **sobre** n’aurait utilisé Javascri
+ pt pour autre chose que des étoiles filantes qui sortent de ta souris. Non\
+ , à l'époque\, on préférait les serveurs d'application en Java!  \nAujourd’
+ hui\, non seulement on a des frameworks front\, mais il y a même des hipste
+ rs qui font du backend avec... Et depuis\, on fait des APIs.  \n**Comment e
+ n est-on arrivé là?**  \nC’est ça inspecteur. C’est ça la bonne question.\n
+ \nSi tu ne les as pas vécus\, viens découvrir l'arrivée du Web\, l'histoire
+  de Netscape\, la browser-war\, la naissance du serveur d'application\, les
+  débuts du web dynamique et la prise d'assaut du JS.\n\nSit back\, relax\, 
+ and Enjoy!
+DTSTART:20191003T100000
+DURATION:PT40M
+LOCATION:Stack Labs
+SUMMARY:The rise of the web
+UID:0MXH99V8NY9xyeurYCmA
+URL:https://devfesttoulouse.fr/sessions/the_rise_of_the_web
+TRANSP:TRANSPARENT
+CATEGORIES:_web
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:## Résumé\nEn Novembre 2017\, j'ai découvert "une backdoor" dan
+ s tous les téléphones de la marque OnePlus. À l'aide d'une simple ligne de 
+ commande\, un attaquant ayant un accès physique au téléphone\, pouvait deve
+ nir root et ainsi obtenir un contrôle total du téléphone de la victime.\n\n
+ ## Détails\nDans ce talk\, j'expliquerai le processus qui m'a permis de fai
+ re cette découverte :\n1. Extraction du build\n2. Récupération des applicat
+ ions dites "système"\n3. Détection de la vulnérabilité dans l'application A
+ ndroid "EngineeringMode"\n4. Exploitation de la vulnérabilité\n\n## Sujet a
+ bordés\nLors de la détection et l'analyse de cette faille\, nous aborderons
+  la philosophie du **hacking**\, comment faire du **reverse engineering** s
+ ur des applications **Android** et une **librairie native**. Nous analysero
+ ns du **Java** ainsi que du **C**.\n\n## Categorie\nNative mobile apps\n\n#
+ # Format\nUne conférence de 40 min
+DTSTART:20191003T110000
+DURATION:PT40M
+LOCATION:Stack Labs
+SUMMARY:L'histoire de la découverte d'une backdoor signée OnePlus
+UID:Kwery1cbJrx3ZFj6x1JU
+URL:https://devfesttoulouse.fr/sessions/l_histoire_de_la_decouverte_d_une_b
+ ackdoor_signe_oneplus
+TRANSP:TRANSPARENT
+CATEGORIES:_native_mobile_apps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This talk will give an overview of the WebGPU API that will pro
+ vide modern features such as “GPU compute” on the Web as well as lower over
+ head access to GPU hardware and better\, more predictable performance. This
+  will allow for much more graphically intensive games on the Web and boost 
+ performance of frameworks like Tensorflow.js up to 10x.
+DTSTART:20191003T120000
+DURATION:PT40M
+LOCATION:Stack Labs
+SUMMARY:WebGPU: Next-generation 3D Graphics on the Web
+UID:5qTyscBWtXLRb04TXEdB
+URL:https://devfesttoulouse.fr/sessions/webgpu__next_generation_3d_graphics
+ _on_the_web
+TRANSP:TRANSPARENT
+CATEGORIES:_web
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Qui ne s’est jamais fait manipuler ? Évidemment\, on est tous a
+ llé à une soirée alors qu’on en avait pas envie\, on a tous acheté un truc 
+ sans en avoir besoin et on a tous été influencé par nos proches. \n\nL’idée
+  de cette présentation est de vous ouvrir les yeux sur les relations et les
+  influences entre les gens. Je vous exposerai les mécanismes de prise de dé
+ cision au travers de 3 techniques simples de manipulation.\n\nA la sortie d
+ e ce talk\, vous devriez être moins influençable et maître de vos décisions
+  (voire même manipuler les autres).
+DTSTART:20191003T125000
+DURATION:PT15M
+LOCATION:Stack Labs
+SUMMARY:3 techniques faciles de manipulation
+UID:zVUXQkHQtSiGJeIwVd05
+URL:https://devfesttoulouse.fr/sessions/3_techniques_faciles_de_manipulatio
+ n
+TRANSP:TRANSPARENT
+CATEGORIES:_wtf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:L’âgisme dans les fonctions IT\, et en particulier dans le Déve
+ loppement Soft\, est incontournable.\n\nLes « vieux » n’ont décidément pas 
+ la cote\, le marché de l'emploi des softeux cinquantenaires en est la preuv
+ e !\nPourtant\, codage et sénioritude semblent loin d'être incompatibles.\n
+ \n- Alors quels préjugés peuvent en être la cause ?\n- L’avance rapide de l
+ a technologie numérique est-elle incompatible avec le ralentissement biolog
+ ique ?\n- Les cheveux gris sont-ils un Handicap pour la Sécurité de l’Info 
+ ?\n- Le Cloud doit-il être « Arthrose-free » ?\n\nEt surtout\, comment se f
+ ait-il qu’à 47 ans je vienne d’intégrer l’équipe Devops & Tools de Continen
+ tal Digital Services et que personne ne m’ait encore rien dit ?
+DTSTART:20191003T140500
+DURATION:PT15M
+LOCATION:Stack Labs
+SUMMARY:« 47 ans : ils n’ont toujours pas remarqué … »
+UID:pY6MCQBMfIYlIKfHdhL4
+URL:https://devfesttoulouse.fr/sessions/_47_ans___ils_nont_toujours_pas_rem
+ arque__
+TRANSP:TRANSPARENT
+CATEGORIES:_wtf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A lot of things have been said about WebAssembly inside of the\
+ nbrowser\; after all\, that's why it was originally created. But a new\ncas
+ e is emerging as well\, and that's WebAssembly on the server. More\nspecifi
+ cally\, we're seeing a rise of support for WebAssembly in\nserverless appli
+ cation platforms\, combining two brand-new technologies\ntogether. We're al
+ so seeing a lot of growth of the Rust programming\nlanguage\, and its close
+  alignment with WebAssembly. In this talk\,\nSteve will talk about Rust\, W
+ ebAssembly\, serverless technologies\, and\nhow it all fits together.
+DTSTART:20191003T143000
+DURATION:PT40M
+LOCATION:Stack Labs
+SUMMARY:Rust\, WebAssembly\, and the future of Serverless
+UID:2S9XtGGq3ouHnkivEDKC
+URL:https://devfesttoulouse.fr/sessions/rust__webassembly__and_the_future_o
+ f_serverless
+TRANSP:TRANSPARENT
+CATEGORIES:_cloud___infra
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Nos systèmes sont designés de manière optimiste\, de la gestion
+  technique des erreurs à la modélisation de nos interfaces.  \nQue ce soien
+ t les codes d'erreurs\, les exceptions ou les modélisations plus avancées\,
+  elles servent pour arrêter un traitement et _potentiellement_ afficher un 
+ message d'information à un utilisateur.\n\nMais avec les architectures micr
+ oservices\, la distribution des traitements ou une simple volonté de résili
+ ence\, la gestion des erreurs est devenue un enjeu important de tous les sy
+ stèmes afin qu’ils restent accessibles de tous\, tout le temps tout en main
+ tenant le système dans un état cohérent.\n\nQue fait-on lorsqu’une erreur i
+ ntervient ? Peut-on compenser voire gérer l’erreur depuis le système pour l
+ ’utilisateur ?\n\nLa réponse à ces questions se trouve autant dans la défin
+ ition du produit que dans le choix technique.\nUn outil bien conçu est un o
+ util intelligent qui peut faire les bons choix au bon moment pour l'utilisa
+ teur. Et si on apprenait ensemble à concevoir nos erreurs ?
+DTSTART:20191003T153000
+DURATION:PT40M
+LOCATION:Stack Labs
+SUMMARY:Le design de l'erreur
+UID:pAMZmFT2wrfqPr9IdeXv
+URL:https://devfesttoulouse.fr/sessions/le_design_de_l_erreur
+TRANSP:TRANSPARENT
+CATEGORIES:_method___tools
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Comment faire quand on doit faire le suivi de toute l'infrastru
+ cture du plus grand fournisseur de cloud Européen ?  Comment choisir un out
+ il quand les plus populaires ne tient pas la marée à cette échelle ?  Comme
+ nt construire une plateforme Metrics pour unifier\, concilier et remplacer 
+ des années de legacy fragmenté et des solutions partielles ?\n\nDans ce tal
+ k nous racontons notre expérience sur la construction et la maintenance d'O
+ VH Metrics\, la plateforme utilisée pour monitorer toute l'infrastructure O
+ VH. Nous avions besoin d'aller à des endroits où la plupart des solutions d
+ e monitoring ne sont jamais allées\, opérer à l'échelle du plus grand fourn
+ isseur Européen de cloud et hosting : 27 data centers\, plus de 300k serveu
+ rs (physiques !) et des centaines de produits pour accomplir notre mission 
+ avec nos 1\,3 millions de clients.\n\nVenez pour entendre cette histoire de
+  séries temporelles\, de solutions open-sources poussées à l'extrême\, de c
+ lusters HBase opérés en limite de capacité\, et de comment une petite équip
+ e  s'est appuyée sur une poignée de solutions open-source et une bonne dose
+  de code maison pour construire une des solutions de monitoring parmi les p
+ lus performantes au monde.
+DTSTART:20191003T163000
+DURATION:PT40M
+LOCATION:Stack Labs
+SUMMARY:Monitoring OVH: 300k serveurs\, 27 DCs une plateforme de métriques 
+UID:xwAvvIJJfDdBD7N4oGa5
+URL:https://devfesttoulouse.fr/sessions/monitoring_ovh__300k_serveurs__27_d
+ cs_une_plateforme_de_metriques
+TRANSP:TRANSPARENT
+CATEGORIES:_big_data___ml___ai
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Nous savons tous développer une API mais avons-nous tous bien i
+ ntégré les problématiques d'environnements et de cycles logiciels multiples
+  ? L'opérabilité\, la gouvernance\, le versioning\, la traçabilité\, la séc
+ urité — et bien plus encore — de ces API web une fois en production ?\n\nDu
+ rant ce talk\, c'est plusieurs dizaines de points d'attention rarement évoq
+ ués que je vous propose d'aborder\, à la lumière de retours d'expériences p
+ rovenant de chez Uber\, Stripe\, Facebook\, ...
+DTSTART:20191003T173000
+DURATION:PT40M
+LOCATION:Stack Labs
+SUMMARY:⛳️ Votre API web passe-t-elle le contrôle technique ? 
+UID:Gxr3XZR1HEu14tbneJLb
+URL:https://devfesttoulouse.fr/sessions/_votre_api_web_passe_t_elle_le_cont
+ role_technique__
+TRANSP:TRANSPARENT
+CATEGORIES:_method___tools
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION: Notre secteur d'activité est régulièrement abreuvé de prévisio
+ ns et de tendances : quel sera le prochain langage\, le prochain framework\
+ , la nouvelle architecture\, les nouveaux "use cases"\, les prochaines tech
+ nologies disruptives ? Etc.\n\nDe nombreuses sociétés publient des "tech tr
+ ends" et certaines ont même fait de cette publication un coeur de métier (n
+ otamment les grands cabinets d'analystes). En marge du discours très "marke
+ ting oriented" des entreprises\, il y a également l'omni-présence de nombre
+ ux gourous\, futurologues ou prospectivistes qui jouent aux oracles. Mais i
+ l y a aussi de nombreuses personnalités indépendantes qui ont un discours s
+ ur l'innovation technologique plus libre\, comme par exemple Kevin Kelly ou
+  Simon Wardley.\n\nJe vous propose non pas une vision du futur de plus\, ma
+ is de vous faire part des résultats d'une étude\, que j'ai mené avec d'autr
+ es\, qui analyse et compare les différentes méthodes et approches utilisées
+  pour prédire l'avenir des technologies informatiques.
+DTSTART:20191003T182000
+DURATION:PT40M
+LOCATION:Stack Labs
+SUMMARY:Une analyse critique des "Tech Trends"
+UID:keynote_close
+URL:https://devfesttoulouse.fr/sessions/keynote_close
+TRANSP:TRANSPARENT
+CATEGORIES:keynote
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Have you heard of the code-sharing feature in Kotlin\, accompan
+ ied with "Write once\, run everywhere" slogan? Among its users not only lib
+ raries and frameworks authors\; there are some projects which have already 
+ adopted multiplatform for production. Their applications\, written in Kotli
+ n for *both* iOS and Android\, are published in stores. \nWith this talk\, 
+ you'll get a brief overview of the evolution of multiplatform technology in
+  Kotlin\, concerning the tasks it's evolved to solve. How it was and how it
+  is expected to be\; what has changed and which tasks can be already solved
+  with it. What are the facilities right now and which real projects already
+  use multiplatform?
+DTSTART:20191003T100000
+DURATION:PT40M
+LOCATION:Airbus
+SUMMARY:A Kotlin multiplatform evolution
+UID:a_kotlin_multiplatform_evolution
+URL:https://devfesttoulouse.fr/sessions/a_kotlin_multiplatform_evolution
+TRANSP:TRANSPARENT
+CATEGORIES:_languages
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:En 2019\, le monde de l’informatique n’a que l’agilité à la bou
+ che. Ca groome à tous les coins de rue\, ça s’excite en daily\, ça colle de
+ s post-it et ça empile les serious game en rétro. Bien sûr\, ça gère la tra
+ nsformation numérique (désolé\, même au second degré\, je ne peux pas emplo
+ yer “digitale”) et au final plus personne ne comprend rien. \n\nDes chefs d
+ e projet subitement propulsés ScrumMaster qui ne savent pas ce qu’ils doive
+ nt faire. Des PO qui découvrent la priorisation. Des développeurs qui doive
+ nt composer avec des specs floues et changeantes sans vision globale du pro
+ jet. Pour compléter le tableau\, la subite apparition de coachs agile à pei
+ ne sortis de l’école qui n’ont jamais vu un projet de leur vie et qui vienn
+ ent expliquer des concepts qu’ils ne maîtrisent qu’à moitié.\n\nEn 2019 le 
+ monde de l’informatique rêve secrètement de cycles en V\, de stabilité\, de
+  spécifications générales et de dossier d’architecture.\n\nEn 2019 le monde
+  de l’informatique est au bord du burn-out agile.\n\n## Plan du talk  \n\n-
+  Petit historique : l’évolution des pratiques sur les 20 dernières années \
+ n- Pourquoi ce bordel agile ? \n- Finalement l’agilité c’est quoi ? \n- Est
+ -ce qu’il faut revenir au cycle en V ?
+DTSTART:20191003T110000
+DURATION:PT40M
+LOCATION:Airbus
+SUMMARY:Le burn-out agile
+UID:KAH9Lyx0b2TKNSQVZNw2
+URL:https://devfesttoulouse.fr/sessions/le_burn_out_agile
+TRANSP:TRANSPARENT
+CATEGORIES:_method___tools
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Un chatbot créé par Microsoft qui dérive avec des propos antisé
+ mites\, Amazon qui scanne des CVs et finit par ne recruter que des hommes b
+ lancs\, des algorithmes de reconnaissance faciale qui ont du mal avec les p
+ ersonnes de couleur noire\, ... Que d'exemples où l'IA a intégré nos propre
+ s biais sociétaux. Il est urgent que nous\, développeurs\, prenions nos res
+ ponsabilités et mesurions les enjeux éthiques de l'IA pour éviter que les s
+ téréotypes\, les inégalités et les préjugés se retrouvent au cœur de nos fu
+ turs systèmes.\n\nCette présentation propose des root cause analysis sur de
+ s exemples concrets de ces biais et présente des alternatives qui auraient 
+ permis d'éviter ces biais en "production" autant d'un point de vue humain q
+ ue technique.\n\nNous verrons notamment que l’éthique peut directement être
+  abordée au niveau des données et de leur préparation à l’apprentissage. No
+ us nous concentrerons principalement sur l’impact des statistiques des donn
+ ées d’entraînement et les transformations à appliquer en pré-processing (mé
+ triques de fairness\, améliorer la fairness sur des données annotées)\, et 
+ nous montrerons comment des benchmarks permettent d'appréhender l’impact de
+ s méthodes de fairness sur la précision des modèles entraînés.\n\nLa confia
+ nce et l’équité passe avant tout par une compréhension de la prise de décis
+ ion par l’utilisateur. Par conséquent\, nous présenterons diverses méthodes
+  pour expliquer la prise de décision d’un modèle boîte noire (principalemen
+ t des algorithmes de deep learning) et mettons en garde contre une mauvaise
+  interprétation de ces explications.
+DTSTART:20191003T120000
+DURATION:PT40M
+LOCATION:Airbus
+SUMMARY:Quand les ratés des IAs nous renvoient à nos propres biais sociétau
+ x
+UID:ZsAGxn6UZi1hfzz2bwR7
+URL:https://devfesttoulouse.fr/sessions/quand_les_rates_des_ias_nous_renvoi
+ ent_a_nos_propres_biais_societaux
+TRANSP:TRANSPARENT
+CATEGORIES:_big_data___ml___ai
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dans ce talk je vous montrerai comment expliquer simplement le 
+ fonctionnement de l'apprentissage par renforcement. Pour cela pas besoin d'
+ ordinateur : quelques allumettes\, des sacs de cotillons et un peu de pédag
+ ogie sont suffisants pour mettre en évidence les mécanismes intrinsèques de
+  cette technique et pour aborder les enjeux et les limites des algorithmes 
+ d'"intelligence artificielle" basés sur l'apprentissage.
+DTSTART:20191003T125000
+DURATION:PT15M
+LOCATION:Airbus
+SUMMARY:Machine learning avec des allumettes et des cotillons
+UID:cnRUAtQNZybQsQa03lAx
+URL:https://devfesttoulouse.fr/sessions/machine_learning_avec_des_allumette
+ s_et_des_cotillons
+TRANSP:TRANSPARENT
+CATEGORIES:_big_data___ml___ai
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Brainfuck est probablement le plus connu des langages de progra
+ mmation ésotériques. Ses 8 instructions en font un langage Turing-complet a
+ vec lequel il est théoriquement possible d’écrire n’importe quel programme.
+ \n\nEt en pratique ? Après une explication du langage (avec 8 instructions 
+ c’est rapide !) on verra comment j’ai utilisé Brainfuck pour les qualificat
+ ions au concours d’informatique Prologin\, sur un problème de parcours de g
+ raphes !
+DTSTART:20191003T140500
+DURATION:PT15M
+LOCATION:Airbus
+SUMMARY:Applications de Brainfuck\, langage minimaliste mais Turing-complet
+UID:oiZTE4THbAJeaNVlLc03
+URL:https://devfesttoulouse.fr/sessions/applications_de_brainfuck__langage_
+ minimaliste_mais_turing_complet
+TRANSP:TRANSPARENT
+CATEGORIES:_wtf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Sans nécessiter de formation musicale pointue\, tout développeu
+ r peut créer des morceaux qui sonnent bien et faire du "live coding" pour i
+ mproviser en direct.\n\nAprès un rapide tour d'horizon des environnements d
+ e codage musical comme Sonic-Pi en Ruby ou FoxDot en Python\, on codera/com
+ posera en live un morceau de musique électro avec comme seul outil un navig
+ ateur web\, les API WebAudio et WebMIDI et la librairie Tone.js.\n\nQuelque
+ s samples bien choisis\, une pincée de séquences harmonieuses\, une bonne d
+ ose d'aléatoire encadré\, et hop\, tout le monde se mettra à danser ! Et pu
+ isque la musique c'est aussi des maths\, on parlera de musique générative a
+ vec des chaînes de Markov et des L-Systems.\n\nDavid Guetta n'a qu'à bien s
+ e tenir !
+DTSTART:20191003T143000
+DURATION:PT40M
+LOCATION:Airbus
+SUMMARY:Live coding musical : vous savez coder ? Devenez compositeur avec W
+ ebAudio et WebMIDI !
+UID:WwHpapkCgEg5IMW5vTId
+URL:https://devfesttoulouse.fr/sessions/live_coding_musical___vous_savez_co
+ der___devenez_compositeur_avec_webaudio_et_webmidi__
+TRANSP:TRANSPARENT
+CATEGORIES:_web
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:It's a common idea: Dynamic typing gives you freedom to do what
+ ever you want\, but then you suffer mistakes and runtime errors. Static typ
+ ing limits your freedom\, but it leads to fewer bugs\, even if it's harder 
+ to actually write code.\n\nThis isn't entirely false. Yes\, it can be quite
+  hard to write a Rust or Haskell program that compiles\, enough that it's a
+  running gag in their communities. "But once you get it to compile\, it's p
+ robably correct!"\, the joke goes. On the other hand\, when writing Ruby or
+  Javascript\, you're free to call functions with all sorts of things\, and 
+ then runtime errors can easily slip into production. That said\, it's not a
+ s simple as a sliding scale between "freedom" and "safety". Neither of thes
+ e terms is one-dimensional -- a language feature that restricts your freedo
+ m in one way can actually free you in different ways.\n\nI'd like to demons
+ trate some interesting language features in Rust that make it easier to wri
+ te code and to express concepts compared to dynamic languages. Features tha
+ t don't just protect you from shooting your foot\, but give you power that'
+ s only available within the rules and "limitations" of a statically typed l
+ anguage. Even if you're not familiar with Rust\, I hope to focus the exampl
+ es on the features themselves rather than on the specifics of the language\
+ , so come by and let's talk about being (type-safely) free.
+DTSTART:20191003T153000
+DURATION:PT40M
+LOCATION:Airbus
+SUMMARY:The Freedom of Static Typing
+UID:RhWn82dKmICiQulwcVJF
+URL:https://devfesttoulouse.fr/sessions/the_freedom_of_static_typing
+TRANSP:TRANSPARENT
+CATEGORIES:_languages
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:When you start a brand new app or service\, you need to think a
+ bout how you will manage authentication and permissions. But if you are lik
+ e everyone else\, you genuinely do not want to actually think about this. I
+ f someone else could do that for you\, life would be great. And this has ac
+ tually happened\, you have the choice between several boilerplate projects 
+ or authentication/authorization libraries. In fact\, you have a lot of opti
+ ons. Which one to choose? Let's have a closer look to them!\n\nAt the end o
+ f this talk\, you will have a good overview of the common existing solution
+ s and their benefits.
+DTSTART:20191003T163000
+DURATION:PT40M
+LOCATION:Airbus
+SUMMARY:Authentication/Authorization Starters Battle
+UID:6E03tbU6L5w0IyjMi7yF
+URL:https://devfesttoulouse.fr/sessions/authentication_authorization_starte
+ rs_battle
+TRANSP:TRANSPARENT
+CATEGORIES:_method___tools
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Depuis les années 70 tous les constructeurs autos intégrent des
+  calculateurs électroniques.\nLes moteurs des voitures modernes sont des sy
+ stèmes informatiques complexes qui s'appuient sur des dizaines de capteurs.
+ .. et du code. \nComment ça fonctionne ? A quoi ressemble ce code et que fa
+ it-il ?\nQu'est-ce qu'il se passe lorsqu'on fait une "reprog" ? \nQue signi
+ fie le voyant moteur allumé ? Comment débugger tout ça ?\nSoulevons le capo
+ t (électronique)\, analysons le matériel mis en oeuvre mais surtout le logi
+ ciel grâce aux sources des calculateurs "Megasquirt" et allons explorer la 
+ face cachée numérique de nos voitures.
+DTSTART:20191003T173000
+DURATION:PT40M
+LOCATION:Airbus
+SUMMARY:Mon p*** de voyant moteur est encore allumé ! Comment debugger mon 
+ moteur ? Plongeon dans les entrailles des calculateurs moteur
+UID:fW4yvmVxjXb57vQJhIXu
+URL:https://devfesttoulouse.fr/sessions/mon_p____de_voyant_moteur_est_encor
+ e_allume___comment_debugger_mon_moteur___plongeon_dans_les_entrailles_des_c
+ alculateurs_moteur
+TRANSP:TRANSPARENT
+CATEGORIES:_wtf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Le numérique fait-il partie du problème ou de la solution quand
+  on parle de réchauffement climatique ?\n\n5 milliards de smartphones en ci
+ rculation en 2020\, ça représente quoi en consommation énergétique\, en gaz
+  à effet de serre\, en pollution chimique ?\n\nLe streaming illimité à 10 e
+ uros par mois c'est le pied mais aujourd'hui Netflix a à peu près l'emprein
+ te carbone du plus gros cimentier mondial\, qui va payer la facture environ
+ nementale ?\n\nTous les mails de votre vie (que vous ne lirez plus jamais) 
+ disponibles sur Gmail\, très utile\, mais après 2020 on ne saura peut-être 
+ plus produire industriellement les équipements nécessaires à leur stockage.
+ \n\nOn arrive dans "l'âge des limites"\, pour le numérique comme pour le re
+ ste. Quels sont les leviers pour basculer vers un numérique durable ?\n\nEt
+  si malgré tout on décidait de s'en foutre ? 2 degrés en plus\, c'est juste
+  un pull en moins non ? Non. Par contre c'est 30% en moins sur les rendemen
+ ts agricoles pour ... 30 % de population en plus en 2050. En 1970\, Dennis 
+ Meadows modélisait sur les ordinateurs du MIT un crash du système planétair
+ e pour les décennies 2020-2030. Pour l'instant\, c'est cette trajectoire qu
+ e notre monde suit.
+DTSTART:20191003T100000
+DURATION:PT40M
+LOCATION:SII
+SUMMARY:"Numérique et environnement" ou "On aurait pu sauver les abeilles\,
+  on a préféré sortir un nouvel iPhone"
+UID:zDbtrtvdLPG1okj07wyI
+URL:https://devfesttoulouse.fr/sessions/_numerique_et_environnement__ou__on
+ _aurait_pu_sauver_les_abeilles__on_a_prefere_sortir_un_nouvel_iphone_
+TRANSP:TRANSPARENT
+CATEGORIES:_wtf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The singe most important feature of Rust is memory safety. Writ
+ ing code with performance of C++\, at a typical development cost\, and with
+  guaranteed absence of certain classes of memory safety related vulnerabili
+ ties is something that was not possible before. \n\nHowever\, all popular m
+ anaged languages with garbage collection take memory safety for granted\, s
+ o this aspect of Rust doesn't bring anything new to the table\, if you alre
+ ady use Java or Go. Nevertheless\, Rust can be an interesting choice as a h
+ igh-level language\, and this talks explains way.  \n\nThe focus of the tal
+ k is fearless concurrency. Data races are a pervasive and unsolved problem 
+ in languages like Java and Rust's guaranteed thread safety is a liberating 
+ experience for application development. We also touch on some other benefit
+ s of the language for high-level tasks:\n\n* predictable performance due to
+  absence of garbage  collection\n*  control over the memory layout of objec
+ ts\, which gives you extra performance if you need it\n*  module (crate) sy
+ stem that\, at the language level\, prevents dependency hell\n* additional 
+ correctness guarantees\, like the absence of iterator validation or strict 
+ control of error conditions
+DTSTART:20191003T110000
+DURATION:PT40M
+LOCATION:SII
+SUMMARY:Rust as a High-Level Langage
+UID:PjQDGsFIQoo1By4Ogv3q
+URL:https://devfesttoulouse.fr/sessions/rust_as_a_high_level_langage
+TRANSP:TRANSPARENT
+CATEGORIES:_languages
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Vous aimez VS Code car il est simple\, intuitif et qu'il fait c
+ e que vous lui demandez.   \nMais saviez-vous que vous pouviez coder à plus
+ ieurs dans VS Code? et même permettre à une personne tierce de jouer avec v
+ otre débugger depuis l'autre bout du monde? Saviez-vous que vous pouviez av
+ oir un client slack dans VS Code\, et même un chat audio?  \nEt avez-vous e
+ xploré toutes les possibilités que VS Code offre quand vous utilisez GitHub
+ ?\nNous verrons dans ce talk tout ce qui fait de VS Code l'éditeur de code 
+ parfait pour faire du code collaboratif.
+DTSTART:20191003T120000
+DURATION:PT40M
+LOCATION:SII
+SUMMARY:Allo Paris\, ici San Francisco. Et si on codait ensemble avec VS Co
+ de?
+UID:Cej88MtlRVZrJRK0FJ2p
+URL:https://devfesttoulouse.fr/sessions/allo_paris__ici_san_francisco__et_s
+ i_on_codait_ensemble_avec_vs_code_
+TRANSP:TRANSPARENT
+CATEGORIES:_method___tools
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Jean-Yves Girard\, le génial inventeur des indispensables [mont
+ res à moutarde](http://girard.perso.math.cnrs.fr/moutarde.pdf) (1990)\, est
+  certes un joyeux trublion.\n\nMais avant d'en arriver à ce sommet indépass
+ able\, il a tout de même publié deux-trois petites choses en chemin:\n\n- R
+ ust\, vous connaissez? L'idée première du système de typage de Rust est la 
+ logique dite "[linéaire](http://girard.perso.math.cnrs.fr/linear.pdf)"\, du
+ e à Jean-Yves Girard (1987).\n- Haskell\, ça vous dit quelque chose? Les sy
+ stèmes de typage de Haskell mais aussi Scala (et d'une certaine manière Jav
+ a) sont basés sur le "[système F](https://en.wikipedia.org/wiki/System_F)" 
+ (ou lambda-calcul de second ordre)\, dû à... Jean-Yves Girard (1972).\n- Id
+ ris\, vous avez entendu parler? Le système de typage d'Idris est basé sur l
+ a théorie des types de Per Martin-Löf\, dont la première version a été prou
+ vée incorrecte par... Jean-Yves Girard\, qui depuis possède un [paradoxe](h
+ ttps://en.wikipedia.org/wiki/System_U#Girard's_paradox) à son nom. (Girard 
+ et Martin-Löf sont par ailleurs de très bons potes et ont ferraillé sec con
+ tre les logiciens classiques dans leur prime jeunesse.)\n\nTrès méconnu mai
+ s probalement l'un des penseurs les plus influents pour l'informatique de c
+ e début de XXIe siècle\, Girard est tout aussi sérieux que fantasque. Son s
+ tyle toujours acéré et polémique s'appuie sur une vision très claire de ce 
+ que devrait être la logique: vivante\, joyeuse\, fertile.\n\nDans cette cou
+ rte présentation\, on s'attachera à comprendre pourquoi Girard est aussi vi
+ rulent dans son discours\, quels sont les objectifs de sa pensée\, et pourq
+ uoi elle a déjà porté tant de fruits dans le monde de l'informatique.
+DTSTART:20191003T125000
+DURATION:PT15M
+LOCATION:SII
+SUMMARY:Le troll dans ta machine --- Une courte introduction à la pensée de
+  Jean-Yves Girard
+UID:hoiS7Cs5sWwXb632pLh2
+URL:https://devfesttoulouse.fr/sessions/le_troll_dans_ta_machine_____une_co
+ urte_introduction_a_la_pensee_de_jean_yves_girard
+TRANSP:TRANSPARENT
+CATEGORIES:_wtf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Avec mon épouse nous avons commencé à donner de l'argent de poc
+ he à nos enfants.\n\n![Calvin et l'argent de poche](https://i.pinimg.com/or
+ iginals/ad/47/94/ad47940ca35ce4bd5122a916abf9f589.png)\n\nPour qu'ils puiss
+ ent faire comme les grands (et parce que c'est fun aussi :D) j'ai conçu un 
+ DAAP (**D**istributeur **A**utomatique d'**A**rgent de **P**oche) qui leur 
+ permet\, le jour de la distribution de l'argent de poche\, d'insérer  leur 
+ "carte bleue"\, saisir leur code et de voir la machine s'ébranler pour dist
+ ribuer les pièces.\n\nDans ce talk on parlera d'Arduino\, d'impression 3D\,
+  de cartes à puce\, d'électronique et des problèmes que j'ai rencontrés et 
+ comment j'ai pu les résoudre.
+DTSTART:20191003T140500
+DURATION:PT15M
+LOCATION:SII
+SUMMARY:Un distributeur automatique d'argent de poche pour les enfants
+UID:ZmSIPnuidcxjKLVfEKM8
+URL:https://devfesttoulouse.fr/sessions/un_distributeur_automatique_d_argen
+ t_de_poche_pour_les_enfants
+TRANSP:TRANSPARENT
+CATEGORIES:_wtf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Les enfants sont eux-mêmes les bâtisseurs actifs de leurs propr
+ es structures intellectuelles et l'informatique y joue un rôle déterminant\
+ , disait Piaget\, un célèbre biologiste\, psychologue et logicien. Son coll
+ aborateur\, Seymour Papert\, inventera le langage Logo\, langage qui fait q
+ u'aujourd’hui je suis un développeur épanoui.\nQu'en est-il aujourd'hui ? C
+ omment donner le goût du code à nos enfants et surtout pourquoi est-ce impo
+ rtant ?\nAvec Saskia\, Loïs et leur père nous voyagerons à travers le temps
+ \, en partant de la tortue sur ce bon vieux M05 en passant par Scratch\, le
+  Logo hipster de nos jours\, jusqu’à Groovy et Python.
+DTSTART:20191003T143000
+DURATION:PT40M
+LOCATION:SII
+SUMMARY:Le jaillissement de l'esprit
+UID:le_jaillissement_de_l_esprit
+URL:https://devfesttoulouse.fr/sessions/le_jaillissement_de_l_esprit
+TRANSP:TRANSPARENT
+CATEGORIES:_method___tools
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Programmer le noyau d'un système d'exploitation est un très bon
+  moyen pour en comprendre le fonctionnement et le scope de son travail (IO\
+ , gestion de la mémoire\, etc).\nCette présentation a pour but de présenter
+  et de développer les composants élémentaires d'un micro noyau UNIX.\n\nDan
+ s ce talk je présenterai:\n- L'émulateur QEMU\n- La réalisation d'un secteu
+ r de boot avec une micro console\n- Comment gérer les interruptions hardwar
+ e (clavier) et software\n- La gestion des appels systèmes\n- Un système mul
+ ti-process simple qui va permettre de découvrir le surcoût des changements 
+ de contexte liés à la programmation concurrentielle
+DTSTART:20191003T153000
+DURATION:PT40M
+LOCATION:SII
+SUMMARY:Comprendre le rôle du noyau d'un système d'exploitation en en créan
+ t un from scratch
+UID:tOexEcqeKEztPbNmR4JT
+URL:https://devfesttoulouse.fr/sessions/comprendre_le_role_du_noyau_d_un_sy
+ steme_d_exploitation_en_creant_un_from_scratch
+TRANSP:TRANSPARENT
+CATEGORIES:_cloud___infra
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:DevOps is everywhere\, and every new or existing project is at 
+ least considering to follow its principles. While implementing DevOps for s
+ ingle projects become more and more straightforward\, it's still a challeng
+ e to have a coherent DevOps approach at Enterprise level.\n\nLet's dig in w
+ hat it takes to achieve DevOps in large companies\, with Airbus as an examp
+ le.
+DTSTART:20191003T163000
+DURATION:PT40M
+LOCATION:SII
+SUMMARY:DevOps at scale
+UID:aOHds477R7FiM3cnWAXp
+URL:https://devfesttoulouse.fr/sessions/devops_at_scale
+TRANSP:TRANSPARENT
+CATEGORIES:_method___tools
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:If the new React Context API and Suspense killed Redux (they di
+ dn't)\, surely Hooks kill the need for a form library\, right? Well\, not e
+ xactly. Managing form state is more than just holding your current values i
+ n state\; it's about sync and async validition errors\, and much more! But 
+ that doesn't mean that Hooks are irrelevant to the situation. Hooks make bu
+ ilding forms in React easier than ever before.
+DTSTART:20191003T173000
+DURATION:PT40M
+LOCATION:SII
+SUMMARY:Modern Forms in React
+UID:McfMVcKDdZv68NSo2JIJ
+URL:https://devfesttoulouse.fr/sessions/modern_forms_in_react
+TRANSP:TRANSPARENT
+CATEGORIES:_web
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Avec les annonces de l'arrivée de la réalité augmentée (ou RA) 
+  dans Google Maps et Google Search sur Android lors de Google IO 2019\, nou
+ s constatons que la RA va prendre une place de plus en plus importante dans
+  notre quotidien. La sortie d'ARCore en mars 2018 sur Android a simplifié l
+ e développement d’application en RA sur Android.\n\nAu cours de cette sessi
+ on\, nous vous proposons de découvrir ARCore\, via l’utilisation dans un na
+ vigateur\, des applications natives ou des moteurs 3D comme Unity ainsi que
+  les CloudAnchors qui permettent la persistance et le partage de positions 
+ d’objets dans les scènes de réalité augmentée\, y compris avec des utilisat
+ eurs d’iOS.\n\nAprès une initiation aux concepts liés à la RA (meshes\, 6 D
+ oF\,...)\, nous présenterons les différentes fonctionnalités d’ARCore. Nous
+  discuterons aussi des différentes approches d’utilisation\, de leurs limit
+ ations et avantages au travers d'une application de cartographie 3D en réal
+ ité augmentée.
+DTSTART:20191003T100000
+DURATION:PT40M
+LOCATION:Capgemini
+SUMMARY:A la découverte de la réalité augmentée avec ARCore
+UID:qXAvodXoMK3db8ZLcVwb
+URL:https://devfesttoulouse.fr/sessions/a_la_decouverte_de_la_realite_augme
+ ntee_avec_arcore
+TRANSP:TRANSPARENT
+CATEGORIES:_native_mobile_apps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:_« Make it work\, make it right\, make it fast »_ - Kent Beck\n
+ \nNous connaissons tous cette citation. Pourtant nous sommes trop souvent r
+ estés bloqué à l’étape 1 par manque de temps ou de priorisation.\n\nL’accue
+ il d’un nouveau développeur·euse dans une équipe est un des meilleurs momen
+ ts pour vérifier qu’une base de code est « saine et scalable ».\n\nNous vou
+ s proposons dans ce talk un retour d’expérience sur quelques années de cons
+ ulting sur des projets Angular au travers de cas concrets :\n- quelles sont
+  les mauvaises pratiques à éviter ?\n- quels sont les choix orientés et ass
+ umés d’Angular pour vous éviter tout ça ?\n- quelle que soit la taille de v
+ otre équipe ou l’expérience de vos collègues\, quels sont les principes d’a
+ rchitecture à adopter pour améliorer tout ça ?
+DTSTART:20191003T110000
+DURATION:PT40M
+LOCATION:Capgemini
+SUMMARY:Rockin’ in the Angular World
+UID:niiUNFAFhYnPBiOrcDVf
+URL:https://devfesttoulouse.fr/sessions/rockin_in_the_angular_world
+TRANSP:TRANSPARENT
+CATEGORIES:_web
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:De nombreux services en ligne existent pour gérer en toute sécu
+ rité des appareils IoT à grande échelle : "Azure IoT" de Microsoft et "AWS 
+ IoT" d'Amazon sont parmi les plus connus.\n\nGoogle propose également sa so
+ lution : "Cloud IoT" basée sur la plate-forme Google Cloud (GCP).\nDans ce 
+ talk\, nous partirons d'un microcontrôleur neuf ultra connu et abordable\, 
+ et notre but sera tout d'abord de découvrir comment écrire du code pour ce 
+ composant nous permettant de récupérer des informations sur notre environne
+ ment.\nEnsuite\, nous ferons en sorte que ce composant envoie ses données v
+ ers un service Cloud\, pour enfin découvrir ce que permettent ces solutions
+  en ligne dédiées à l'IoT.\n\nPour l'exemple\, et parce qu'il faut bien cho
+ isir une solution\, nous utiliserons Google Cloud IoT Core\, les concepts r
+ estant similaires sur les autres plates-formes.
+DTSTART:20191003T120000
+DURATION:PT40M
+LOCATION:Capgemini
+SUMMARY:Premiers pas avec un microcontrôleur et Google Cloud IoT Core
+UID:R9O1S7M9oRMmwd0cNBaz
+URL:https://devfesttoulouse.fr/sessions/premiers_pas_avec_un_microcontroleu
+ r_et_google_cloud_iot_core
+TRANSP:TRANSPARENT
+CATEGORIES:_iot
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ces dernières années\, les "fabriques de dev" et autres formati
+ ons courtes explosent. C'est un fait\, tout dev a été ou sera amené à trava
+ iller avec l'un de ces jeunes développeurs.euses. Mais qui sont-ils ? Pourq
+ uoi une reconversion dans ce genre d'organisation ? Qu'ont-ils appris lors 
+ de leur formation express ? C'est fiable ce genre de dev ? Comment puis-je 
+ les intégrer au mieux dans ma structure ?\n\nAutant de questions que vous v
+ ous êtes sans doute déjà posées. Pendant ces 15 minutes\, je vous présenter
+ ai mon retour d'expérience en tant que développeuse provenant de l'une de c
+ es écoles de dev et maintenant développeuse Javascript depuis 2 ans au sein
+  d'une startup Toulousaine.
+DTSTART:20191003T125000
+DURATION:PT15M
+LOCATION:Capgemini
+SUMMARY:Développeurs en reconversion\, développeurs quand même !
+UID:adcMAUSbsAK27dQJA4Iw
+URL:https://devfesttoulouse.fr/sessions/developpeurs_en_reconversion__devel
+ oppeurs_quand_meme__
+TRANSP:TRANSPARENT
+CATEGORIES:_wtf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Le code barre est une invention qui a radicalement modifié nos 
+ sociétés. Sans elle\, pas d'inventaire efficace\, de supermarchés ou de ven
+ te en ligne.\n\nMais comment coder les chiffres de façon fiable avec des pe
+ tites barres noires et blanches ? Quand les contraintes matérielles empêche
+ nt d'utiliser le binaire\, l'ingéniosité et un peu de chance ont permis de 
+ créer ce produit\, maintenant présent partout.\n\n\nNous découvrirons les d
+ étails de ce codage\, et comment il pourrait même contenir davantage d'info
+ rmations.
+DTSTART:20191003T140500
+DURATION:PT15M
+LOCATION:Capgemini
+SUMMARY:10 est une puissance de 2
+UID:jABRUDzqext8Rx8CmA4j
+URL:https://devfesttoulouse.fr/sessions/10_est_une_puissance_de_2
+TRANSP:TRANSPARENT
+CATEGORIES:_wtf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Les microservices\, la scalabilité instantanée et les plates-fo
+ rmes à haute densité comme Kubernetes nécessitent des applications à faible
+  empreinte mémoire et démarrage rapide. Java n'était pas bien positionné ca
+ r il favorise les temps de traitement aux dépens du CPU et de la RAM.\n\nPl
+ us maintenant.\n\nEntre en scène Quarkus\, une stack Java orientée microser
+ vices qui supporte vos composants favoris (Hibernate\, Vert.x\, Camel\, RES
+ TEasy ...) sur GraalVM et HotSpot avec une faible empreinte mémoire et un d
+ émarrage rapide. Tout ce qu'il faut pour tirer pleinement parti des contain
+ ers.\n\nLa gestion de la donnée est souvent l'aspect le plus complexe : déc
+ ouvrons comment Quarkus gère la persistance avec Hibernate ORM. Venez explo
+ rer le live reload\, notre vision de la persistance avec Hibernate Panache\
+ , l'indexation full text avec Hibernate Search\, l'environnement de test\, 
+ la compilation native GraalVM et bien plus. Quarkus se vit plus qu'il ne se
+  verbalise\, attendez-vous à une démo détaillée.
+DTSTART:20191003T143000
+DURATION:PT40M
+LOCATION:Capgemini
+SUMMARY:De Java à un exécutable natif : GraalVM et Quarkus changent la donn
+ e
+UID:Qy836EfpA0wC4M6jYcTk
+URL:https://devfesttoulouse.fr/sessions/de_java_a_un_executable_natif___gra
+ alvm_et_quarkus_changent_la_donne
+TRANSP:TRANSPARENT
+CATEGORIES:_method___tools
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dans un monde de saveurs complexes et sophistiquées\, la guerre
+  du toping fait rage chez les crèmes glacées du Web ! Face au champs de bét
+ ail\, les pronostiques vont bon train pour savoir qui l’emportera entre le 
+ crunchy Angulaire\, le fondant Reactif et le décoratif Vue.\n\nDurant ce te
+ mps\, loin de ces vicissitudes\, la petite saveur basique vanille fait son 
+ bonhomme de chemin. S’agirait-il du héros de la légende\, susceptible de re
+ nverser le destin de ce monde sans heurt ?\n\nSache\, voyageur\, qu’elle es
+ t déjà passée par nos contrées. Laisse moi te raconter comment elle nous a 
+ permis de renverser notre vieux roi\, et tu sauras enfin ce qui se prépare 
+ pour ton royaume.
+DTSTART:20191003T153000
+DURATION:PT40M
+LOCATION:Capgemini
+SUMMARY:Brace yourself\, 🍦Vanilla is coming … back 🕶!
+UID:rJDTMZMYX57DCKYhW09c
+URL:https://devfesttoulouse.fr/sessions/brace_yourself__vanilla_is_coming__
+ back__
+TRANSP:TRANSPARENT
+CATEGORIES:_web
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:How a developer can tell if the system is sick just by taking a
+  look at the input and the output? If you'd like to know that (plus you lik
+ e standup comedy)\, come an see! The treatment is safe \;-)\n\nOne approach
+  to get familiar with a system is a long and intense reading the manual (an
+ d to run an eye over the source code sometimes). Another approach is to tak
+ e a deep dive into the data model (often in the DB) and to surf the user in
+ terface. Both are natural ends of the system\, the legendary Input and Outp
+ ut. By examining these ends one can check if there's good digestion or if g
+ uts are rotten. Careful examination can confirm "common DDDosis"\, "maligna
+ nt stringosis"\, "regex diarrhoea" or "not-made-here syndrome".\nUnfortunat
+ ely\, sometimes developers get infected in their prenatal life (meaning: at
+  their university). Let me invite you to treatment. A laxative one. (That i
+ s: a sequel of "Passwords. Do you keep them safe?")
+DTSTART:20191003T163000
+DURATION:PT40M
+LOCATION:Capgemini
+SUMMARY:Four Diseases
+UID:PmoMEVHO3imfUIMXsPai
+URL:https://devfesttoulouse.fr/sessions/four_diseases
+TRANSP:TRANSPARENT
+CATEGORIES:_wtf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Quel est le point commun entre un jeu de sudoku\, la planificat
+ ion d'une conférence et les déplacements d'un commercial ?\n\nQuand on souh
+ aite les traiter automatiquement\, tous ces problèmes peuvent être résolus 
+ par un solveur de contraintes. Dans ce talk\, je vais essayer de vous faire
+  une introduction pratique à la programmation par contraintes\, en présenta
+ nt les concepts de base\, puis en les mettant en application avec plusieurs
+  exemples de problèmes connus de tout le monde (ou presque)\, pour finir pa
+ r un cas plus complexe sur lequel je travaille actuellement.
+DTSTART:20191003T173000
+DURATION:PT40M
+LOCATION:Capgemini
+SUMMARY:Introduction à la programmation par contraintes
+UID:iU4EzEThVDvpaHDsGjOO
+URL:https://devfesttoulouse.fr/sessions/introduction_a_la_programmation_par
+ _contraintes
+TRANSP:TRANSPARENT
+CATEGORIES:_big_data___ml___ai
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Venez poser vos questions aux speakers de manière plus calme et
+  détendue.\n\n* [Une histoire de l'informatique\, du métier à tisser à la m
+ achine de Babbage...](../keynote_open)\n* [Keynote d'ouverture (overflow)](
+ ../keynote_open_overflow)
+DTSTART:20191003T094000
+DURATION:PT30M
+LOCATION:Cenareo
+SUMMARY:Office Hours
+UID:office-hour-00
+URL:https://devfesttoulouse.fr/sessions/office-hour-00
+TRANSP:TRANSPARENT
+CATEGORIES:office-hours
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Venez poser vos questions aux speakers de manière plus calme et
+  détendue.\n\n* ["Numérique et environnement" ou "On aurait pu sauver les a
+ beilles\, on a préféré sortir un nouvel iPhone"](../_numerique_et_environne
+ ment__ou__on_aurait_pu_sauver_les_abeilles__on_a_prefere_sortir_un_nouvel_i
+ phone_)\n* [A Kotlin multiplatform evolution](../a_kotlin_multiplatform_evo
+ lution)\n* [A la découverte de la réalité augmentée avec ARCore](../a_la_de
+ couverte_de_la_realite_augmentee_avec_arcore)\n* [The rise of the web](../t
+ he_rise_of_the_web)
+DTSTART:20191003T104000
+DURATION:PT30M
+LOCATION:Cenareo
+SUMMARY:Office Hours
+UID:office-hour-01
+URL:https://devfesttoulouse.fr/sessions/office-hour-01
+TRANSP:TRANSPARENT
+CATEGORIES:office-hours
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Venez poser vos questions aux speakers de manière plus calme et
+  détendue.\n\n* [L'histoire de la découverte d'une backdoor signée OnePlus]
+ (../l_histoire_de_la_decouverte_d_une_backdoor_signe_oneplus)\n* [Le burn-o
+ ut agile](../le_burn_out_agile)\n* [Rockin’ in the Angular World](../rockin
+ _in_the_angular_world)\n* [Rust as a High-Level Langage](../rust_as_a_high_
+ level_langage)
+DTSTART:20191003T114000
+DURATION:PT30M
+LOCATION:Cenareo
+SUMMARY:Office Hours
+UID:office-hour-02
+URL:https://devfesttoulouse.fr/sessions/office-hour-02
+TRANSP:TRANSPARENT
+CATEGORIES:office-hours
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Venez poser vos questions aux speakers de manière plus calme et
+  détendue.\n\n* [Allo Paris\, ici San Francisco. Et si on codait ensemble a
+ vec VS Code?](../allo_paris__ici_san_francisco__et_si_on_codait_ensemble_av
+ ec_vs_code_)\n* [Premiers pas avec un microcontrôleur et Google Cloud IoT C
+ ore](../premiers_pas_avec_un_microcontroleur_et_google_cloud_iot_core)\n* [
+ Quand les ratés des IAs nous renvoient à nos propres biais sociétaux](../qu
+ and_les_rates_des_ias_nous_renvoient_a_nos_propres_biais_societaux)\n* [Web
+ GPU: Next-generation 3D Graphics on the Web](../webgpu__next_generation_3d_
+ graphics_on_the_web)
+DTSTART:20191003T124000
+DURATION:PT30M
+LOCATION:Cenareo
+SUMMARY:Office Hours
+UID:office-hour-03
+URL:https://devfesttoulouse.fr/sessions/office-hour-03
+TRANSP:TRANSPARENT
+CATEGORIES:office-hours
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Venez poser vos questions aux speakers de manière plus calme et
+  détendue.\n\n* [3 techniques faciles de manipulation](../3_techniques_faci
+ les_de_manipulation)\n* [Développeurs en reconversion\, développeurs quand 
+ même !](../developpeurs_en_reconversion__developpeurs_quand_meme__)\n* [Le 
+ troll dans ta machine --- Une courte introduction à la pensée de Jean-Yves 
+ Girard](../le_troll_dans_ta_machine_____une_courte_introduction_a_la_pensee
+ _de_jean_yves_girard)\n* [Machine learning avec des allumettes et des cotil
+ lons](../machine_learning_avec_des_allumettes_et_des_cotillons)
+DTSTART:20191003T130500
+DURATION:PT30M
+LOCATION:Cenareo
+SUMMARY:Office Hours
+UID:office-hour-11
+URL:https://devfesttoulouse.fr/sessions/office-hour-11
+TRANSP:TRANSPARENT
+CATEGORIES:office-hours
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Venez poser vos questions aux speakers de manière plus calme et
+  détendue.\n\n* [10 est une puissance de 2](../10_est_une_puissance_de_2)\n
+ * [« 47 ans : ils n’ont toujours pas remarqué … »](../_47_ans___ils_nont_to
+ ujours_pas_remarque__)\n* [Applications de Brainfuck\, langage minimaliste 
+ mais Turing-complet](../applications_de_brainfuck__langage_minimaliste_mais
+ _turing_complet)\n* [Un distributeur automatique d'argent de poche pour les
+  enfants](../un_distributeur_automatique_d_argent_de_poche_pour_les_enfants
+ )
+DTSTART:20191003T142000
+DURATION:PT30M
+LOCATION:Cenareo
+SUMMARY:Office Hours
+UID:office-hour-12
+URL:https://devfesttoulouse.fr/sessions/office-hour-12
+TRANSP:TRANSPARENT
+CATEGORIES:office-hours
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Venez poser vos questions aux speakers de manière plus calme et
+  détendue.\n\n* [De Java à un exécutable natif : GraalVM et Quarkus changen
+ t la donne](../de_java_a_un_executable_natif___graalvm_et_quarkus_changent_
+ la_donne)\n* [Le jaillissement de l'esprit](../le_jaillissement_de_l_esprit
+ )\n* [Live coding musical : vous savez coder ? Devenez compositeur avec Web
+ Audio et WebMIDI !](../live_coding_musical___vous_savez_coder___devenez_com
+ positeur_avec_webaudio_et_webmidi__)\n* [Rust\, WebAssembly\, and the futur
+ e of Serverless](../rust__webassembly__and_the_future_of_serverless)
+DTSTART:20191003T151000
+DURATION:PT30M
+LOCATION:Cenareo
+SUMMARY:Office Hours
+UID:office-hour-04
+URL:https://devfesttoulouse.fr/sessions/office-hour-04
+TRANSP:TRANSPARENT
+CATEGORIES:office-hours
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Venez poser vos questions aux speakers de manière plus calme et
+  détendue.\n\n* [Brace yourself\, 🍦Vanilla is coming … back 🕶!](../brace_
+ yourself__vanilla_is_coming__back__)\n* [Comprendre le rôle du noyau d'un s
+ ystème d'exploitation en en créant un from scratch](../comprendre_le_role_d
+ u_noyau_d_un_systeme_d_exploitation_en_creant_un_from_scratch)\n* [Le desig
+ n de l'erreur](../le_design_de_l_erreur)\n* [The Freedom of Static Typing](
+ ../the_freedom_of_static_typing)
+DTSTART:20191003T161000
+DURATION:PT30M
+LOCATION:Cenareo
+SUMMARY:Office Hours
+UID:office-hour-05
+URL:https://devfesttoulouse.fr/sessions/office-hour-05
+TRANSP:TRANSPARENT
+CATEGORIES:office-hours
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Venez poser vos questions aux speakers de manière plus calme et
+  détendue.\n\n* [Authentication/Authorization Starters Battle](../authentic
+ ation_authorization_starters_battle)\n* [DevOps at scale](../devops_at_scal
+ e)\n* [Four Diseases](../four_diseases)\n* [Monitoring OVH: 300k serveurs\,
+  27 DCs une plateforme de métriques ](../monitoring_ovh__300k_serveurs__27_
+ dcs_une_plateforme_de_metriques)
+DTSTART:20191003T171000
+DURATION:PT30M
+LOCATION:Cenareo
+SUMMARY:Office Hours
+UID:office-hour-06
+URL:https://devfesttoulouse.fr/sessions/office-hour-06
+TRANSP:TRANSPARENT
+CATEGORIES:office-hours
+END:VEVENT
+END:VCALENDAR

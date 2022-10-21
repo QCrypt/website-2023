@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>poster on QCrypt 2022</title>
+    <link>/tags/poster/</link>
+    <description>Recent content in poster on QCrypt 2022</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/tags/poster/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Poster Session 1</title>
+      <link>/sessions/poster1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/poster1/</guid>
+      <description>This poster session takes place on Tue, 30 Aug, 10:15 - 12:15 online
+instructions for authors of accepted posters  Download a zip-archive  of all posters. -- Posters presented in this session  Fiat-Shamir for Proofs Lacks a Proof Even in the Presence of Shared Entanglement Frédéric Dupuis ; Philippe Lamontagne ; Louis Salvail    Quantum Differential Privacy: An Information Theory Perspective Christoph Hirche ; Cambyse Rouze ; Daniel Stilck França    Quantum Cryptography for Quantum Metrology Nathan Shettell ; Damian Markham    Concentration inequality for security analysis of finite-size QKD Go Kato    Improvement in quantum communication using quantum switch Arindam Mitra ; Himanshu Badhani ; Sibasish Ghosh    Improving the Security of &amp;#34;Measurement-Device-Independent Quantum Communication without Encryption&amp;#34; Nayana Das ; Goutam Paul    Commitment capacity of classical-quantum channels Naqueb Ahmad Warsi ; Masahito Hayashi    MIMO Terahertz Continuous Variable Quantum Key Distribution Neel Kanth Kundu ; Soumya P.</description>
+    </item>
+    
+    <item>
+      <title>Poster Session 2</title>
+      <link>/sessions/poster2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/poster2/</guid>
+      <description>This poster session takes place on Wed, 31 Aug, 16:45 - 18:45 online.
+instructions for authors of accepted posters  Download a zip-archive  of all posters. -- Posters presented in this session  Optimum ratio between two bases in Bennett-Brassard 1984 protocol with second order analysis Masahito Hayashi    Uncloneable Decryptors from Quantum Copy-Protection Shai Wyborski ; Or Sattath    Secure Anonymous Conferencing in Quantum Networks Federico Grasselli ; Gláucia Murta ; Jarn de Jong ; Frederik Hahn ; Dagmar Bruss ; Hermann Kampermann ; Anna Pappa    Modulation leakage-free continuous-variable quantum key distribution Adnan Hajomer ; Nitin Jain ; Hossein Mani ; Hou-Man Chin ; Ulrik L.</description>
+    </item>
+    
+    <item>
+      <title>Poster Session 3 (In-person)</title>
+      <link>/sessions/poster3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/poster3/</guid>
+      <description>This poster session takes place on Thu, 1 Sep, 18:00 - 19:00 in-person only.
+instructions for authors of accepted posters  Download a zip-archive  of all posters. -- Posters presented in this session  Quantum Cryptography for Quantum Metrology Nathan Shettell ; Damian Markham    Distributing Polarization Entangled Photon Pairs with High Rate over Long Distance through Standard Telecommunication Fiber Lijiong Shen ; Chang Hoong Chow ; Justin Yu Xiang Peh ; Xi Jie Yeo ; Peng Kian Tan ; Christian Kurtsiefer    Countering detector manipulation attacks in quantum communication through detector self-testing Lijiong Shen ; Christian Kurtsiefer    Non-malleable Commitments against Quantum Attacks Nir Bitansky ; Huijia Lin ; Omri Shmueli    Semi-Quantum Tokenized Signatures Omri Shmueli    Creation of loopholes in QKD systems using high-power pulsed laser Daria Ruzhitskaya ; Irina Zhluktova ; Mikhail Petrov ; Konstantin Zaitsev ; Polina Acheva ; Nikolay Zunikov ; Alexey Shilko ; Djeylan Aktas ; Daniil Trefilov ; Anastasiya Ponosova ; Vladimir Kamynin ; Vadim Makarov    Provably secure receiver-device-independent quantum key distribution Wen Yu Kon ; Ignatius W.</description>
+    </item>
+    
+  </channel>
+</rss>

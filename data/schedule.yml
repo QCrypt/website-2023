@@ -1,0 +1,120 @@
+- day: '2022-08-29'
+  sessions:
+    - session: open
+      time: '09:45'
+    - session: invited_crepeau
+      time: '10:00'
+    - session: __break
+      time: '10:45'
+    - session: contributed1a
+      time: '11:00'
+    - session: __lunch
+      time: '11:30'
+    - session: tutorial_wang
+      time: '15:00'
+    - session: __break
+      time: '16:15'
+    - session: contributed1b
+      time: '16:30'
+    - session: __break
+      time: '17:00'
+    - session: contributed1c
+      time: '17:15'
+    - session: __endofday
+      time: '17:55'
+
+- day: '2022-08-30'
+  sessions:
+    - session: __startofday
+      time: '08:50'
+    - session: contributed2a
+      time: '09:00'
+    - session: __break
+      time: '09:30'
+    - session: contributed2b
+      time: '09:45'
+    - session: poster1
+      time: '10:15'
+    - session: __lunch
+      time: '12:15'
+    - session: invited_diqkd
+      time: '15:00'
+    - session: __break
+      time: '16:30'
+    - session: tutorial_colbeck
+      time: '16:45'
+    - session: __endofday
+      time: '18:00'
+
+- day: '2022-08-31'
+  sessions:
+    - session: __startofday
+      time: '08:50'
+    - session: invited_jliu
+      time: '09:00'
+    - session: __break
+      time: '09:45'
+    - session: invited_zhong
+      time: '10:00'
+    - session: __break
+      time: '10:45'
+    - session: contributed3
+      time: '11:00'
+    - session: __lunch
+      time: '11:30'
+    - session: industrial
+      time: '15:00'
+    - session: __break
+      time: '16:30'
+    - session: poster2
+      time: '16:45'
+    - session: __endofday
+      time: '18:45'
+    - session: business
+      time: '21:00'
+
+- day: '2022-09-01'
+  sessions:
+    - session: __startofday
+      time: '08:50'
+    - session: tutorial_steinwandt
+      time: '09:00'
+    - session: __break
+      time: '10:15'
+    - session: contributed4a
+      time: '11:00'
+    - session: __lunch
+      time: '12:00'
+    - session: tutorial_azuma
+      time: '15:00'
+    - session: __break
+      time: '16:15'
+    - session: contributed4b
+      time: '16:45'
+    - session: __break
+      time: '17:35'
+    - session: poster3
+      time: '18:00'
+    - session: __dinner
+      time: '19:00'
+    - session: __endofday
+      time: '20:00'
+
+- day: '2022-09-02'
+  sessions:
+    - session: __startofday
+      time: '08:50'
+    - session: contributed5
+      time: '09:00'
+    - session: photography
+      time: '10:00'
+    - session: __break
+      time: '10:15'
+    - session: invited_shmueli
+      time: '10:45'
+    - session: close
+      time: '11:30'
+    - session: __lunch
+      time: '11:45'
+    - session: __endofday
+      time: '14:30'

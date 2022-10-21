@@ -1,0 +1,170 @@
+[
+  {
+    "pid": 18,
+    "title": "Explicit asymptotic secret key rate of CV QKD with an arbitrary modulation",
+    "id": "3kySlh3Z0-c",
+    "presenter": "Aurélie Denys"
+  },
+  {
+    "pid": 16,
+    "title": "On the Compressed-Oracle Technique, and Post-Quantum Security of Proofs of Sequential Work",
+    "id": "dAx9y8Ko4xQ",
+    "presenter": "Yu-Hsuan Huang"
+  },
+  {
+    "pid": 159,
+    "title": "Post-quantum Resettably-Sound Zero Knowledge",
+    "id": "VB8AdmcQ1AA",
+    "presenter": "Michael Kellner"
+  },
+  {
+    "pid": 141,
+    "title": "Device-independent protocols from computational assumptions",
+    "id": "HcX6OPHYrVY",
+    "presenter": "Tony Metger"
+  },
+  {
+    "pid": 89,
+    "title": "Experimental Gaussian-modulated continuous-variable quantum key distribution with composable keys",
+    "id": "zajNDg2AENU",
+    "presenter": "Nitin Jain"
+  },
+  {
+    "pid": 138,
+    "title": "On the Round Complexity of Secure Quantum Computation",
+    "id": "WtRfiqlgVqY",
+    "presenter": "James Bartusek"
+  },
+  {
+    "pid": 31,
+    "title": "The asymptotic performance of coherent-one-way quantum key distribution",
+    "id": "mQoO2AYjCO0",
+    "presenter": "Róbert Trényi"
+  }, 
+  {
+    "pid": 60,
+    "title": "Post-Quantum Succinct Arguments",
+    "id": "vhUmPcxfXKE",
+    "presenter": "Fermi Ma"
+  },
+  {
+    "pid": 109,
+    "title": "Drone-based Quantum Key Distribution (QKD)",
+    "id": "jRlFIOOGvyw",
+    "presenter": "Andrew Conrad"
+  },
+  {
+    "pid": 106,
+    "title": "Finite-size DIQKD with noisy preprocessing and random key measurements",
+    "id": "yCiYaP0F9IY",
+    "presenter": "Ernest Y.-Z. Tan"
+  },
+  {
+    "pid": 154,
+    "title": "System Integration of Photonic Integrated Quantum Communications Chips",
+    "id": "bO04rnghseo",
+    "presenter": "Taofiq Paraiso"
+  },
+  {
+    "pid": 125,
+    "title": "Privacy amplification and decoupling without smoothing",
+    "id": "jVgBg1cDmHs",
+    "presenter": "Frédéric Dupuis"
+  },
+  {
+    "pid": 118,
+    "title": "Hidden Cosets and Applications to Unclonable Cryptography",
+    "id": "MO8m0X-SQPg",
+    "presenter": "Qipeng Liu"
+  },
+  {
+    "pid": 120,
+    "title": "Device-independent lower bounds on the conditional von Neumann entropy",
+    "id": "rW7dCsVcbic",
+    "presenter": "Peter Brown"
+  },
+  {
+    "pid": 33,
+    "title": "High-rate quantum key distribution with silicon photonics",
+    "id": "MFyicCNBmeg",
+    "presenter": "Likang Zhang"
+  },
+  {
+    "pid": 134,
+    "title": "Quantum Private Broadcasting",
+    "id": "bbSx6_sBFPc",
+    "presenter": "Christine Schuknecht"
+  },
+  {
+    "pid": 91,
+    "title": "QKD Attack Rating: Prioritizing is the key to Practical Security",
+    "id": "RGV0GELP3H0",
+    "presenter": "Francesco Mazzoncini"
+  },
+  {
+    "pid": 80,
+    "title": "Quantum Encryption with Certified Deletion, Revisited: Public Key, Attribute-Based, and Classical Communication",
+    "id": "FXG9EPQPW58",
+    "presenter": "Taiga Hiroka"
+  },
+  {
+    "pid": 76,
+    "title": "Minimizing detection losses from time-bin quantum cryptography systems with few-mode fibre technology",
+    "id": "VPlQMthI37Q",
+    "presenter": "Guilherme Xavier"
+  },
+  {
+    "pid": 53,
+    "title": "Pathways for entanglement based quantum communication in the face of high noise",
+    "id": "2Ddw2GjlJ4U",
+    "presenter": "Matej Pivoluska"
+  },
+  {
+    "pid": 52,
+    "title": "Practical quantum tokens without quantum memories and experimental tests",
+    "id": "SQdv_j6lVIM",
+    "presenter": "Damián Pitalúa-García"
+  },
+  {
+    "pid": 50,
+    "title": "Position-based cryptography: Single-qubit protocol secure against multi-qubit attacks",
+    "id": "1xt5gsEuPL4",
+    "presenter": "Andreas Bluhm"
+  },
+  {
+    "pid": 23,
+    "title": "Finite key effects in satellite quantum key distribution",
+    "id": "UgCVNMytRw0",
+    "presenter": "Jasminder Sidhu"
+  },
+  {
+    "pid": 14,
+    "title": "Multiplexing of quantum and classical channels for QKD",
+    "id": "JL7osrACT08",
+    "presenter": "Obada Alia and Fadri Grünenfelder"
+  },
+  {
+    "pid": 44,
+    "title": "A Black-Box Approach to Post-Quantum Zero-Knowledge in Constant Rounds",
+    "id": "9MVprxThb8U",
+    "presenter": "Takashi Yamakawa"
+  },
+  {
+    "pid": 121,
+    "title": "Quantum conference key agreement using photonic graph state",
+    "id": "gctqXPlu-54",
+    "presenter": "Joseph Ho"
+  },
+  {
+    "pid": 62,
+    "title": "MDI-QKD with 19.2 km free-space channel",
+    "id": "VGeg6zU5PKU",
+    "presenter": "Yu-Huai Li"
+  },
+  {
+    "pid": 35,
+    "title": "Realizing an entanglement-based multi-user quantum network with integrated photonics",
+    "id": "gD2Ep6D38Bs",
+    "presenter": "Wenjun Wen"
+  }
+]

@@ -1,0 +1,1082 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on QCrypt 2022</title>
+    <link>/</link>
+    <description>Recent content in Home on QCrypt 2022</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/speakers/contributed/foo_bar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/contributed/foo_bar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/contributed/tester1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/contributed/tester1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/industry/andrew_shields/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/industry/andrew_shields/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/industry/bruno_huttner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/industry/bruno_huttner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/industry/eric_wille/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/industry/eric_wille/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/industry/masahide_sasaki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/industry/masahide_sasaki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/industry/rupert_ursin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/industry/rupert_ursin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/industry/wei_qi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/industry/wei_qi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/invited/bing_qi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/invited/bing_qi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/invited/dakshita_khurana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/invited/dakshita_khurana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/invited/mirko_pittaluga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/invited/mirko_pittaluga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/invited/simon_groblacher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/invited/simon_groblacher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/invited/twesh_upadhyaya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/invited/twesh_upadhyaya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/invited/xiangbin_wang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/invited/xiangbin_wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/organizers/christian_schaffner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/organizers/christian_schaffner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/organizers/serge_fehr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/organizers/serge_fehr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/tutorial/anne_broadbent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/tutorial/anne_broadbent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/tutorial/charles_lim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/tutorial/charles_lim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/tutorial/paolo_villoresi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/tutorial/paolo_villoresi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/speakers/tutorial/umesh_vazirani/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/speakers/tutorial/umesh_vazirani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Akihisa Tomita</title>
+      <link>/team/steering/akihisa_tomita/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/steering/akihisa_tomita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alex Grilo</title>
+      <link>/team/org/alex_grilo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/org/alex_grilo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>American Physical Society</title>
+      <link>/partners/silver/aps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/partners/silver/aps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artur Ekert</title>
+      <link>/team/advisory/artur_ekert/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/advisory/artur_ekert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baidu</title>
+      <link>/partners/silver/baidu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/partners/silver/baidu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Break &#43; Q&amp;A &#43; networking</title>
+      <link>/sessions/__break/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/__break/</guid>
+      <description>virtual Meet &amp;amp; Greet Room  . The speakers from the last session are available for an after-talk chat at the tables. -- </description>
+    </item>
+    
+    <item>
+      <title>Business Meeting &amp; Best Student Paper Prize</title>
+      <link>/sessions/business/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/business/</guid>
+      <description>Program  2021 Local organizers report: Christian Schaffner &amp;amp; Serge Fehr (10 mins) 2021 PC report: Carl Miller &amp;amp; Tobias Gehring (10 mins) QCrypt 2022: local organizers (5 mins) QCrypt 2023 solicitation of proposals: Gorjan Alagic (&amp;lt; 5 mins) Questions/discussions? (5+ mins) 2021 Best Student Paper Prize: Carl Miller &amp;amp; Tobias Gehring (10 mins)  all slides  Best Student Paper Awards Award slides  Theory Congratulations to Tony Metger for Device-independent protocols from computational assumptions with co-authors Yfke Dulek; Andrea Coladangelo; Rotem Arnon-Friedman; Thomas Vidick</description>
+    </item>
+    
+    <item>
+      <title>Caitlin Boonstra</title>
+      <link>/team/org/caitlin_boonstra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/org/caitlin_boonstra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Call for Papers</title>
+      <link>/call/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/call/</guid>
+      <description>download and print it yourself!.  -- Key dates 2021    Date Event     Fri, 9 April 2021 Talk submission open   Tue, 11 May 2021, 23:59 (Anywhere on Earth) Talk submission deadline   Thu, 1 July 2021 Talk acceptance notification   Tue, 6 July 2021, 23:59 (Anywhere on Earth) Poster submission deadline   Fri, 16 July 2021 Poster acceptance notification   Fri, 20 August 2021 Online registration deadline   23-27 August 2021 QCrypt 2021    Subscribe to our calendar to stay updated about the official dates and events.</description>
+    </item>
+    
+    <item>
+      <title>Carl Miller</title>
+      <link>/team/pcchairs/carl_miller/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/pcchairs/carl_miller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CAS Quantum Network</title>
+      <link>/partners/silver/casquantumnetwork/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/partners/silver/casquantumnetwork/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Centrum Wiskunde &amp; Informatica</title>
+      <link>/partners/community/cwi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/partners/community/cwi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Charles H. Bennett</title>
+      <link>/team/advisory/charles_bennett/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/advisory/charles_bennett/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christian Schaffner</title>
+      <link>/team/core/christian_schaffner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/core/christian_schaffner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christoph Marquardt</title>
+      <link>/team/steering/christoph_marquardt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/steering/christoph_marquardt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Closing Remarks</title>
+      <link>/sessions/close/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/close/</guid>
+      <description>Goodbye, folks! See you next year!</description>
+    </item>
+    
+    <item>
+      <title>Contributed Talks 1: Post-quantum (Chair: Carl Miller)</title>
+      <link>/sessions/contributed1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/contributed1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contributed Talks 2a: QKD (Chair: Andreas Poppe)</title>
+      <link>/sessions/contributed2a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/contributed2a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contributed Talks 2b: Device-independence (Chair: Roger Colbeck)</title>
+      <link>/sessions/contributed2b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/contributed2b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contributed Talks 3a: QKD (Chair: Hugo Zbinden)</title>
+      <link>/sessions/contributed3a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/contributed3a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contributed Talks 3b: QKD implementation (Chair: George Kanellos)</title>
+      <link>/sessions/contributed3b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/contributed3b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contributed Talks 5a: Theory in multi-party interactions (Chair: Christian Majenz)</title>
+      <link>/sessions/contributed5a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/contributed5a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contributed Talks 5b: QKD implementation (Chair: Rupesh Kumar)</title>
+      <link>/sessions/contributed5b/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/contributed5b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contributed Talks 5c: Photonic integration (Chair: Moritz Kleinert)</title>
+      <link>/sessions/contributed5c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/contributed5c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contributed Talks 5d: Beyond QKD (Chair: Or Sattath)</title>
+      <link>/sessions/contributed5d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/contributed5d/</guid>
+      <description>This session is dedicated to Stephen Wiesner (1942 – August 12, 2021), one of the fathers of quantum cryptography.
+Photo credit: Lev Vaidman, from https://quantum.tau.ac.il/Obituary-Stephen-Wiesner and https://www.scottaaronson.com/blog/?p=5730</description>
+    </item>
+    
+    <item>
+      <title>CQT</title>
+      <link>/partners/gold/cqt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/partners/gold/cqt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diamant</title>
+      <link>/partners/silver/diamant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/partners/silver/diamant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End of Day &#43; Q&amp;A &#43; networking</title>
+      <link>/sessions/__endofday/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/__endofday/</guid>
+      <description>virtual Meet &amp;amp; Greet Room  . The speakers from the last session are available for an after-talk chat at the tables.-- </description>
+    </item>
+    
+    <item>
+      <title>Esteban Landerreche</title>
+      <link>/team/org/esteban_landerreche/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/org/esteban_landerreche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feihu Xu</title>
+      <link>/team/steering/feihu_xu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/steering/feihu_xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gilles Brassard</title>
+      <link>/team/advisory/gilles_brassard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/advisory/gilles_brassard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gorjan Alagic</title>
+      <link>/team/steering/gorjan_alagic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/steering/gorjan_alagic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Host 2023</title>
+      <link>/2023/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/</guid>
+      <description>QCrypt 2022 As announced at this year&amp;rsquo;s business meeting, QCrypt 2022 will be held from 29 August to 2 September 2022, at Academia Sinica, Taipei, Taiwan.
+Call for Proposals to host QCrypt 2023 This will be handled by a 2-step process:
+ If you are interested, please send a letter of intent to qcrypt-steer@googlegroups.com  by Nov. 1, 2021, with the following information:   Name and affiliation of main organizer Possibilities of conference dates (preferably in late August 2023) Location and size of intended conference venue (according to the current rotation of continents, proposals from North and South America are preferred)  The steering committee will ask the top contenders to work out a full proposal.</description>
+    </item>
+    
+    <item>
+      <title>Hugo Zbinden</title>
+      <link>/team/steering/hugo_zbinden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/steering/hugo_zbinden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ID Quantique</title>
+      <link>/partners/gold/idquantique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/partners/gold/idquantique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industry Session (Chairs: Marco Lucamarini and Feihu Xu)</title>
+      <link>/sessions/industrial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/industrial/</guid>
+      <description>Program 11:00 - 11:45: Fibre-based session (Chair: Marco Lucamarini)  Bruno Huttner, Director of Strategic Quantum Initiatives at ID Quantique Andrew Shields, Head of Quantum Technology at Toshiba Europe Masahide Sasaki, National Institute of Information and Communications Technology (NICT) Discussion  11:45 - 12:30: Space-based session (Chair: Feihu Xu)  Eric Wille, Optical System Engineer at European Space Agency (ESA) Wei Qi, CEO of CAS Quantum Network Co. Rupert Ursin, Founder and Scientist at qtlabs Discussion  </description>
+    </item>
+    
+    <item>
+      <title>Industry Session (Chairs: Marco Lucamarini and Feihu Xu)</title>
+      <link>/sessions/industry_huttner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/industry_huttner/</guid>
+      <description>Bruno Huttner is the Director of Strategic Quantum Initiatives and a Quantum Key Distribution Expert at ID Quantique. Bruno joined ID Quantique in 2014, participating in business development and product management in the Quantum Security division, which develops next-generation encryption, and especially quantum key distribution systems. He then started the space programs, aiming at developing quantum key distribution globally, using satellites. Bruno is an engineer (Ecole Centrale Paris) and a physicist (Ph.</description>
+    </item>
+    
+    <item>
+      <title>Industry Session (Chairs: Marco Lucamarini and Feihu Xu)</title>
+      <link>/sessions/industry_qi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/industry_qi/</guid>
+      <description>Dr. Wei Qi is the CEO of CAS Quantum Network Co., Ltd, and the Chairman of CCSA Special Task Force (ST7) on Quantum Communication and Information Technology. At the same time, he is currently the chief engineer in charge of the national wide-area quantum secure communication backbone network, dedicated to promoting the industrial development of quantum communication technology.</description>
+    </item>
+    
+    <item>
+      <title>Industry Session (Chairs: Marco Lucamarini and Feihu Xu)</title>
+      <link>/sessions/industry_sasaki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/industry_sasaki/</guid>
+      <description>Masahide Sasaki received his Ph.D. degree in physics from Tohoku University, Sendai Japan, in 1992. During 1992-1996, he worked on the development of semiconductor devices in JFE Holdings. In 1996, he joined National Institute of Information and Communications Technology (NICT). He has been working on quantum communication and quantum. He is presently Director General of Quantum ICT Collaboration Center, and NICT Fellow.</description>
+    </item>
+    
+    <item>
+      <title>Industry Session (Chairs: Marco Lucamarini and Feihu Xu)</title>
+      <link>/sessions/industry_shields/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/industry_shields/</guid>
+      <description>Andrew Shields leads R&amp;amp;D and business development on quantum technologies in Toshiba Europe. According to Google Scholar, he has published over 500 research papers and patents in the field of quantum devices and systems, which have been cited over 20,000 times and has a Hirsch-index of &amp;gt;70. He is a member of the leadership team of the OpenQKD consortium in Europe and the EU Strategic Research Agenda Working Group. He was a co-founder of the Industry Specification Group for QKD of ETSI, and served for several years as the Chair.</description>
+    </item>
+    
+    <item>
+      <title>Industry Session (Chairs: Marco Lucamarini and Feihu Xu)</title>
+      <link>/sessions/industry_ursin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/industry_ursin/</guid>
+      <description>Dr. Rupert Ursin is co-founder of qtlabs and group leader at the Institute of Quantum Optics and Quantum Information of the Austrian Academy of Sciences. His research focus is the development of quantum communication and quantum information processing technologies, especially for free space transmission up to satellites, but also for fiber-based systems. Aims of his work range from short-term engineering solutions for secure key partitioning (quantum cryptography) to speculative research (decoherence of entangled states in gravitational fields).</description>
+    </item>
+    
+    <item>
+      <title>Industry Session (Chairs: Marco Lucamarini and Feihu Xu)</title>
+      <link>/sessions/industry_wille/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/industry_wille/</guid>
+      <description>Eric Wille works for the European Space Agency (ESA) since 2009. He is managing activities with European companies and research institutes in the fields of x-ray optics, quantum optics and laser communication. In the area of space based quantum key distribution, Eric Wille is responsible for technology developments and project implementations for commercial and governmental programmes. Before joining ESA, he obtained his PhD in experimental quantum optics at the University of Innsbruck (Austria) following studying physics at the Darmstadt University of Technology (Germany) and the École Polytechnique Fédérale de Lausanne (Switzerland).</description>
+    </item>
+    
+    <item>
+      <title>Invited: An optomechanical quantum memory (Chair: Xiao-Hui Bao)</title>
+      <link>/sessions/invited_groblacher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/invited_groblacher/</guid>
+      <description>Abstract: Mechanical systems have recently attracted significant attention for their potential use in quantum information processing tasks, for example, as compact quantum memories or as transducers between different types of quantum systems. Early experiments included ground-state cooling of the mechanical motion and squeezing of the optical field. Recent advances have allowed to perform measurements which realize various mechanical quantum states.
+Here, we would like to discuss experiments where we demonstrate non-classical behavior of mechanical motion by coupling a micro-fabricated acoustic resonator to single optical photons.</description>
+    </item>
+    
+    <item>
+      <title>Invited: Discrete-variable quantum key distribution using conjugate homodyne detection (Chair: Thomas van Himbeeck)</title>
+      <link>/sessions/invited_qi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/invited_qi/</guid>
+      <description>Abstract: Optical homodyne detection has been widely used in continuous-variable (CV) quantum information processing for measuring field quadrature. Here we explore the possibility of operating a conjugate homodyne detection system in &amp;ldquo;photon counting&amp;rdquo; mode to implement discrete-variable (DV) quantum key distribution (QKD) protocols. A conjugate homodyne detection system, which consists of a beam splitter followed by two optical homodyne detectors, can simultaneously measure a pair of conjugate quadratures of the incoming quantum state.</description>
+    </item>
+    
+    <item>
+      <title>Invited: Experimental repeater-like quantum communications over 600 km of optical fibre with dual-band phase stabilisation (Chair: Marcos Curty)</title>
+      <link>/sessions/invited_pittaluga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/invited_pittaluga/</guid>
+      <description>Abstract: Quantum key distribution (QKD) allows two distant users to establish a common secret string of bits by sending photons across a communication line, often an optical fibre. The photons, however, are scattered by the propagation medium and have only a small probability of reaching the end of the line, which limits the QKD key rate and transmission range. A rigorous theorem limits to 1.44η the number of secure bits delivered by a point-to-point QKD line, with η the channel transmission probability.</description>
+    </item>
+    
+    <item>
+      <title>Invited: Practical long distance twin-field quantum key distribution through sending-or-not-sending (Chair: Norbert Lütkenhaus)</title>
+      <link>/sessions/invited_wang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/invited_wang/</guid>
+      <description>Abstract: The decoy state method makes the secure key rate of practical secure quantum key distribution (QKD) on the linear scale of channel transmittance. The twin-field (TF) QKD, such as the sending-or-not-sending (SNS) protocol, can have a higher secure key rate on square root scale of channel transmittance. Because of the special structure of SNS protocol, its performance can be largely improved if the error rejection method through two-way classical communication is applied.</description>
+    </item>
+    
+    <item>
+      <title>Invited: Quantum Oblivious Transfer from One-way Functions (Chair: Frédéric Dupuis)</title>
+      <link>/sessions/invited_khurana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/invited_khurana/</guid>
+      <description>Abstract: The groundbreaking work by Bennett and Brassard on quantum key distribution raised the tantalizing possibility of realizing cryptographic primitives unconditionally with quantum resources. In particular, it opened the possibility of using quantum resources to realize oblivious transfer (OT), a protocol that enables a receiver to obtain exactly one out of two secret bits that a sender owns, without revealing which secret bit is chosen. OT is an important and versatile cryptographic primitive, which in particular enables secure multiparty (quantum) computation (MPC) of any polynomial-time computable function, among many other applications.</description>
+    </item>
+    
+    <item>
+      <title>Invited: Security Proofs for QKD Protocols in Infinite Dimensions (Chair: Anthony Leverrier)</title>
+      <link>/sessions/invited_upadhyaya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/invited_upadhyaya/</guid>
+      <description>Abstract: The secure key rate of a QKD protocol can be expressed as a convex minimization over all the states compatible with observed statistics. Recently developed numerical methods allow one to reliably and tightly solve this minimization when the states are finite dimensional. However, when the states are infinite dimensional, it is no longer possible to directly solve the minimization. Fortunately, for many discrete-variable protocols, the problem can be mapped into finite dimensions using squashing models or the flag-state squasher.</description>
+    </item>
+    
+    <item>
+      <title>IOP Publishing</title>
+      <link>/partners/bronze/iop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/partners/bronze/iop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ivan Damgård</title>
+      <link>/team/advisory/ivan_damgard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/advisory/ivan_damgard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jelle Don</title>
+      <link>/team/org/jelle_don/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/org/jelle_don/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jian-Wei Pan</title>
+      <link>/team/advisory/jian-wei_pan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/advisory/jian-wei_pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JIQT</title>
+      <link>/partners/gold/jiqt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/partners/gold/jiqt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lunch &#43; Q&amp;A &#43; networking</title>
+      <link>/sessions/__lunch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/__lunch/</guid>
+      <description>virtual Meet &amp;amp; Greet Room  . The speakers from the last session are available for an after-talk chat at the tables. -- </description>
+    </item>
+    
+    <item>
+      <title>Marco Lucamarini</title>
+      <link>/team/steering/marco_lucamarini/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/steering/marco_lucamarini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mehrdad Tahmasbi</title>
+      <link>/team/org/mehrdad_tahmasbi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/org/mehrdad_tahmasbi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Melanie Haije</title>
+      <link>/team/org/melanie_haije/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/org/melanie_haije/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michele Mosca</title>
+      <link>/team/advisory/michele_mosca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/advisory/michele_mosca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicolas Gisin</title>
+      <link>/team/advisory/nicolas_gisin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/advisory/nicolas_gisin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Conference</title>
+      <link>/online-conference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/online-conference/</guid>
+      <description>General format The online edition of QCrypt 2021 will have a similar format as last year that was held online. The authors of accepted papers are asked to prepare and upload a 20-25 minute video of their talks that will be available on our YouTube channel several days before the conference.
+From Monday, 23 August to Friday, 27 August 2021,
+ the main program of the conference (including poster sessions and networking breaks) takes place on the meetanyway  platform.</description>
+    </item>
+    
+    <item>
+      <title>Opening</title>
+      <link>/sessions/open/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/open/</guid>
+      <description>Welcome everybody!</description>
+    </item>
+    
+    <item>
+      <title>Participation Manual</title>
+      <link>/participate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/participate/</guid>
+      <description>Instructions for Participants All QCrypt 2021 events (talks, poster sessions etc.) can be accessed via a browser-based online environment (provided by MeetAnyway), referred to as “the QCrypt space” below. In order to participate in QCrypt 2021, you need to Register here  . After registering, we will send you all participation links by email.
+System requirements The QCrypt space is browser based; it is recommended to use Chrome, though Firefox and Safari should work as well (possibly with some minor bugs).</description>
+    </item>
+    
+    <item>
+      <title>PCQC</title>
+      <link>/partners/silver/pcqccnrs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/partners/silver/pcqccnrs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter van Ormondt</title>
+      <link>/team/org/peter_van_ormondt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/org/peter_van_ormondt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PicoQuant</title>
+      <link>/partners/bronze/picoquant/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/partners/bronze/picoquant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poster Session 1</title>
+      <link>/sessions/poster1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/poster1/</guid>
+      <description>This poster session takes place on Tue, 24 Aug, 15:30 - 17:30 on meetanyway.
+Click link for instructions for authors of accepted posters  Download a zip-archive  of all posters.
+Posters presented in this session  Discrete-phase-randomized measurement-device-independent quantum key distribution Zhu Cao (East China University of Science and Technology)  [abstract] Abstract: Measurement-device-independent quantum key distribution removes all detector-side attacks in quantum cryptography, and in the meantime doubles the secure distance.</description>
+    </item>
+    
+    <item>
+      <title>Poster Session 2</title>
+      <link>/sessions/poster2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/poster2/</guid>
+      <description>This poster session takes place on Thu, 26 Aug, 11:00 - 13:00 on meetanyway.
+Click link for instructions for authors of accepted posters  Download a zip-archive  of all posters.
+Posters presented in this session  Classically Veriﬁable (Dual-Mode) NIZK for QMA with Preprocessing Tomoyuki Morimae (Kyoto University); Takashi Yamakawa (NTT)  [abstract] Abstract: We propose three constructions of classically verifiable non-interactive proofs (CV-NIP) andnon-interactive zero-knowledge proofs and arguments (CV-NIZK) for QMA in various preprocessing models.</description>
+    </item>
+    
+    <item>
+      <title>Poster, Logos and Templates</title>
+      <link>/poster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/poster/</guid>
+      <description>Poster See below for the official poster of QCrypt 2021. You can download and print yourself the following versions:
+ A4 PDF PNG  Logos Here are the logos to use for QCrypt 2021. Click on the logos to download.
+Transparent png, white font (you cannot use this one on white background)
+Transparent png, black font White Sheep Black Sheep Letter template Latex Download a letter template for Latex  and preview the resulting PDF.</description>
+    </item>
+    
+    <item>
+      <title>QCrypt 2019</title>
+      <link>/partners/community/qcrypt2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/partners/community/qcrypt2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QCrypt 2021 - Code of Conduct</title>
+      <link>/code-of-conduct-online/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/code-of-conduct-online/</guid>
+      <description>[text based on the IACR PKC 2020 code of conduct]
+Code of Conduct (online conference) The open exchange of ideas and the freedom of thought and expression are central to the aims and goals of QCrypt; these require an environment that recognizes the inherent worth of every person and group, that fosters dignity, understanding, and mutual respect, and that embraces diversity. For these reasons, the QCrypt 2021 organizers are committed to providing a harassment-free conference experience.</description>
+    </item>
+    
+    <item>
+      <title>QCrypt Charter &amp; History</title>
+      <link>/charter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/charter/</guid>
+      <description>Goal of the conference The Annual conference on quantum cryptography (QCrypt) is a conference for students and researchers working on all aspects of quantum cryptography. This includes theoretical and experimental research on the possibilities and limitations of secure communication and computation with quantum mechanical devices or in the presence of quantum mechanical devices. (The conference includes but is not limited to research on quantum key distribution.)
+It is the goal of the conference to represent the previous year’s best results on quantum cryptography and to support the building of a research community in quantum cryptography.</description>
+    </item>
+    
+    <item>
+      <title>Quantum Software Consortium</title>
+      <link>/partners/gold/qsc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/partners/gold/qsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum.Amsterdam</title>
+      <link>/partners/gold/qa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/partners/gold/qa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QuantumCTek</title>
+      <link>/partners/gold/quantumctek/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/partners/gold/quantumctek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QuICS</title>
+      <link>/partners/gold/quics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/partners/gold/quics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QuICS</title>
+      <link>/partners/pages/quics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/partners/pages/quics/</guid>
+      <description>Description
+Visit their website</description>
+    </item>
+    
+    <item>
+      <title>QuintessenceLabs</title>
+      <link>/partners/silver/quintessencelabs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/partners/silver/quintessencelabs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QuSoft</title>
+      <link>/partners/community/qusoft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/partners/community/qusoft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QuTech</title>
+      <link>/partners/gold/qutech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/partners/gold/qutech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Registration</title>
+      <link>/registration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/registration/</guid>
+      <description>Registration for QCrypt 2021 is now open! QCrypt is the yearly international scientific conference presenting last year’s top results in quantum cryptography. The 2021 event will take place online. Thanks to our sponsors, there is no registration fee for participants. The link below will bring you to the registration form:
+Register here  In case of questions or technical difficulties, please contact: helpdesk2021@qcrypt.net  </description>
+    </item>
+    
+    <item>
+      <title>Richard Hughes</title>
+      <link>/team/advisory/richard_hughes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/advisory/richard_hughes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RMY Electronics</title>
+      <link>/partners/silver/rmyelectronics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/partners/silver/rmyelectronics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serge Fehr</title>
+      <link>/team/core/serge_fehr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/core/serge_fehr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Serge Fehr</title>
+      <link>/team/steering/serge_fehr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/steering/serge_fehr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stacey Jeffery</title>
+      <link>/team/steering/stacey_jeffery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/steering/stacey_jeffery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Start of Day &#43; networking</title>
+      <link>/sessions/__startofday/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/__startofday/</guid>
+      <description>virtual Meet &amp;amp; Greet Room  . You are welcome to have a chat and network before the official program starts. -- </description>
+    </item>
+    
+    <item>
+      <title>Swabian Instruments</title>
+      <link>/partners/maxi/swabian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/partners/maxi/swabian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tobias Gehring</title>
+      <link>/team/pcchairs/tobias_gehring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/pcchairs/tobias_gehring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial Vazirani: Classical proofs of quantumness (Chair: Gorjan Alagic)</title>
+      <link>/sessions/tutorial_vazirani/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/tutorial_vazirani/</guid>
+      <description>Abstract: In this tutorial I will explain the fundamental principles behind the use of trapdoor claw-free functions to build a qubit certification test, which allows a classical verifier to reach into a quantum computer&amp;rsquo;s Hilbert space, and enforce a qubit structure in it. I will discuss how this leads to protocols for proofs of quantumness, certified randomness and verification of quantum computations. I will also describe refinements of these techniques for improving the efficiency of the protocols.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial: Quantum Uncloneability (Chair: Gorjan Alagic)</title>
+      <link>/sessions/tutorial_broadbent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/tutorial_broadbent/</guid>
+      <description>Abstract: According to the uncloneability property of quantum information, it is not possible, in general, to duplicate an unknown quantum state. In this tutorial, we survey the area of quantum cryptography through the lens of uncloneability. We start with the early findings on quantum money and quantum key distributions, and then move on to recent work, including uncloneable encryption and uncloneable software. We argue how a better understanding of the foundations of quantum uncloneability could help elucidate some of the most pressing open questions in the area.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial: Security analysis of practical QKD (Chair: Eleni Diamanti)</title>
+      <link>/sessions/tutorial_lim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/tutorial_lim/</guid>
+      <description>Abstract: The security analysis of a practical QKD has two broad aspects: security of finite-length keys and device modelling. The former studies the trade-off between the producible secret key length, security parameters, and system parameters, while the latter looks at the best possible device models for the actual implementation. In this tutorial, we will introduce the basic concepts of finite-key security and survey some of the recent security analyses for source leakages (Trojan horse attacks, etc).</description>
+    </item>
+    
+    <item>
+      <title>Tutorial: There&#39;s Plenty of Room.. out in Space for QKD! (Chair: Tobias Gehring)</title>
+      <link>/sessions/tutorial_villoresi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/tutorial_villoresi/</guid>
+      <description>Abstract: This tutorial will introduce to the basic principles of the Quantum Communications along Space channels, the relevant models to assess the kay rate and the feasibility of different protocols. Moreover, the demonstrations so far realized will be reviewed as well as the possible applications: quantum key distribution and other quantum information protocols as well as for scientific experiments using these novel tools.</description>
+    </item>
+    
+    <item>
+      <title>University of Amsterdam</title>
+      <link>/partners/community/uva/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/partners/community/uva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Venues</title>
+      <link>/venue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/venue/</guid>
+      <description>Conference Venue QCrypt 2020 will take at Roeterseiland Campus of the University of Amsterdam, located in walking distance to the inner city center of Amsterdam, the Netherlands.
+The Roeterseiland Campus is an open city campus designed to offer future-proof teaching and research facilities. The Faculties of Economics and Business and Social and Behavioural Sciences are located at the Roeterseiland campus. The Faculty of Law has settled in August 2017 on the campus.</description>
+    </item>
+    
+    <item>
+      <title>VeriQloud</title>
+      <link>/partners/silver/veriqloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/partners/silver/veriqloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wessel van Woerden</title>
+      <link>/team/org/wessel_vanwoerden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/org/wessel_vanwoerden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yfke Dulek</title>
+      <link>/team/org/yfke_dulek/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/team/org/yfke_dulek/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

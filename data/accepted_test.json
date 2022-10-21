@@ -1,0 +1,236 @@
+[
+  {
+    "pid": 30,
+    "title": "TEST: Secure Multi-party Quantum Computation with a Dishonest Majority",
+    "authors": [
+      {
+        "email": "yfkedulek@gmail.com",
+        "first": "Yfke",
+        "last": "Dulek",
+        "affiliation": "QuSoft and University of Amsterdam",
+        "contact": true
+      },
+      {
+        "email": "abgrilo@gmail.com",
+        "first": "Alex",
+        "last": "Grilo",
+        "affiliation": "QuSoft and CWI Amsterdam",
+        "contact": true
+      },
+      {
+        "email": "smjeffery@gmail.com",
+        "first": "Stacey",
+        "last": "Jeffery",
+        "affiliation": "QuSoft and CWI Amsterdam",
+        "contact": true
+      },
+      {
+        "email": "c.majenz@uva.nl",
+        "first": "Christian",
+        "last": "Majenz",
+        "affiliation": "QuSoft and CWI Amsterdam",
+        "contact": true
+      },
+      {
+        "email": "c.schaffner@uva.nl",
+        "first": "Christian",
+        "last": "Schaffner",
+        "affiliation": "QuSoft and University of Amsterdam",
+        "contact": true
+      }
+    ],
+    "abstract": "The cryptographic task of secure multi-party (classical) computation has received a lot of attention in the last decades. Even in the extreme case where a computation is performed be- tween k mutually distrustful players, and security is required even for the single honest player if all other players are colluding adversaries, secure protocols are known. For quantum com- putation, on the other hand, protocols allowing arbitrary dishonest majority have only been proven for k = 2. In this work, we generalize the approach taken by Dupuis, Nielsen and Salvail (CRYPTO 2012) in the two-party setting to devise a secure, efficient protocol for multi- party quantum computation for any number of players k, and prove security against up to k − 1 colluding adversaries. The quantum round complexity of the protocol for computing a quantum circuit of {CNOT, T} depth d is O(k · (d + log n)), where n is the security parameter. To achieve efficiency, we develop a novel public verification protocol for the Clifford authen- tication code, and a testing protocol for magic-state inputs, both using classical multi-party computation."
+  },
+  {
+    "pid": 89,
+    "title": "TEST: Impossibility of Quantum Virtual Black-Box Obfuscation of Classical Circuits",
+    "authors": [
+      {
+        "email": "galagic@gmail.com",
+        "first": "Gorjan",
+        "last": "Alagic",
+        "affiliation": "QuICS, University of Maryland, NIST",
+        "contact": true
+      },
+      {
+        "email": "zvika.brakerski@weizmann.ac.il",
+        "first": "Zvika",
+        "last": "Brakerski",
+        "affiliation": "Weizmann Institute of Science",
+        "contact": true
+      },
+      {
+        "email": "yfkedulek@gmail.com",
+        "first": "Yfke",
+        "last": "Dulek",
+        "affiliation": "QuSoft; University of Amsterdam",
+        "contact": true
+      },
+      {
+        "email": "c.schaffner@uva.nl",
+        "first": "Christian",
+        "last": "Schaffner",
+        "affiliation": "QuSoft; University of Amsterdam",
+        "contact": true
+      }
+    ],
+    "abstract": "Virtual black-box obfuscation is a strong cryptographic primitive: it encrypts a circuit while maintaining its full input/output functionality. A remarkable result by Barak et al. (Crypto 2001) shows that a general obfuscator that obfuscates classical circuits into classical circuits can- not exist. A promising direction that circumvents this impossibility result is to obfuscate classical circuits into quantum states, which would potentially be better capable of hiding information about the obfuscated circuit. We show that, under the assumption that learning-with-errors (LWE) is hard for quantum computers, this quantum variant of virtual black-box obfuscation of classical circuits is generally impossible. On the way, we show that under the presence of dependent classical auxiliary input, even the small class of classical point functions cannot be quantum virtual black-box obfuscated."
+  },
+    {
+    "pid": 3,
+    "mergedwith": 8,
+    "title": "merged: Secure Multi-party Quantum Computation with a Dishonest Majority",
+    "authors": [
+      {
+        "email": "yfkedulek@gmail.com",
+        "first": "Yfke",
+        "last": "Dulek",
+        "affiliation": "QuSoft and University of Amsterdam",
+        "contact": true
+      },
+      {
+        "email": "abgrilo@gmail.com",
+        "first": "Alex",
+        "last": "Grilo",
+        "affiliation": "QuSoft and CWI Amsterdam",
+        "contact": true
+      },
+      {
+        "email": "smjeffery@gmail.com",
+        "first": "Stacey",
+        "last": "Jeffery",
+        "affiliation": "QuSoft and CWI Amsterdam",
+        "contact": true
+      },
+      {
+        "email": "c.majenz@uva.nl",
+        "first": "Christian",
+        "last": "Majenz",
+        "affiliation": "QuSoft and CWI Amsterdam",
+        "contact": true
+      },
+      {
+        "email": "c.schaffner@uva.nl",
+        "first": "Christian",
+        "last": "Schaffner",
+        "affiliation": "QuSoft and University of Amsterdam",
+        "contact": true
+      }
+    ],
+    "abstract": "The cryptographic task of secure multi-party (classical) computation has received a lot of attention in the last decades. Even in the extreme case where a computation is performed be- tween k mutually distrustful players, and security is required even for the single honest player if all other players are colluding adversaries, secure protocols are known. For quantum com- putation, on the other hand, protocols allowing arbitrary dishonest majority have only been proven for k = 2. In this work, we generalize the approach taken by Dupuis, Nielsen and Salvail (CRYPTO 2012) in the two-party setting to devise a secure, efficient protocol for multi- party quantum computation for any number of players k, and prove security against up to k − 1 colluding adversaries. The quantum round complexity of the protocol for computing a quantum circuit of {CNOT, T} depth d is O(k · (d + log n)), where n is the security parameter. To achieve efficiency, we develop a novel public verification protocol for the Clifford authen- tication code, and a testing protocol for magic-state inputs, both using classical multi-party computation."
+  },
+  {
+    "pid": 8,
+    "mergedwith": 3,
+    "title": "merged: Impossibility of Quantum Virtual Black-Box Obfuscation of Classical Circuits",
+    "authors": [
+      {
+        "email": "galagic@gmail.com",
+        "first": "Gorjan",
+        "last": "Alagic",
+        "affiliation": "QuICS, University of Maryland, NIST",
+        "contact": true
+      },
+      {
+        "email": "zvika.brakerski@weizmann.ac.il",
+        "first": "Zvika",
+        "last": "Brakerski",
+        "affiliation": "Weizmann Institute of Science",
+        "contact": true
+      },
+      {
+        "email": "yfkedulek@gmail.com",
+        "first": "Yfke",
+        "last": "Dulek",
+        "affiliation": "QuSoft; University of Amsterdam",
+        "contact": true
+      },
+      {
+        "email": "c.schaffner@uva.nl",
+        "first": "Christian",
+        "last": "Schaffner",
+        "affiliation": "QuSoft; University of Amsterdam",
+        "contact": true
+      }
+    ],
+    "abstract": "Virtual black-box obfuscation is a strong cryptographic primitive: it encrypts a circuit while maintaining its full input/output functionality. A remarkable result by Barak et al. (Crypto 2001) shows that a general obfuscator that obfuscates classical circuits into classical circuits can- not exist. A promising direction that circumvents this impossibility result is to obfuscate classical circuits into quantum states, which would potentially be better capable of hiding information about the obfuscated circuit. We show that, under the assumption that learning-with-errors (LWE) is hard for quantum computers, this quantum variant of virtual black-box obfuscation of classical circuits is generally impossible. On the way, we show that under the presence of dependent classical auxiliary input, even the small class of classical point functions cannot be quantum virtual black-box obfuscated."
+  },
+{
+  "pid": 33,
+  "title": "TEST2: Secure Multi-party Quantum Computation with a Dishonest Majority",
+  "authors": [
+    {
+      "email": "yfkedulek@gmail.com",
+      "first": "Yfke",
+      "last": "Dulek",
+      "affiliation": "QuSoft and University of Amsterdam",
+      "contact": true
+    },
+    {
+      "email": "abgrilo@gmail.com",
+      "first": "Alex",
+      "last": "Grilo",
+      "affiliation": "QuSoft and CWI Amsterdam",
+      "contact": true
+    },
+    {
+      "email": "smjeffery@gmail.com",
+      "first": "Stacey",
+      "last": "Jeffery",
+      "affiliation": "QuSoft and CWI Amsterdam",
+      "contact": true
+    },
+    {
+      "email": "c.majenz@uva.nl",
+      "first": "Christian",
+      "last": "Majenz",
+      "affiliation": "QuSoft and CWI Amsterdam",
+      "contact": true
+    },
+    {
+      "email": "c.schaffner@uva.nl",
+      "first": "Christian",
+      "last": "Schaffner",
+      "affiliation": "QuSoft and University of Amsterdam",
+      "contact": true
+    }
+  ],
+  "abstract": "The cryptographic task of secure multi-party (classical) computation has received a lot of attention in the last decades. Even in the extreme case where a computation is performed be- tween k mutually distrustful players, and security is required even for the single honest player if all other players are colluding adversaries, secure protocols are known. For quantum com- putation, on the other hand, protocols allowing arbitrary dishonest majority have only been proven for k = 2. In this work, we generalize the approach taken by Dupuis, Nielsen and Salvail (CRYPTO 2012) in the two-party setting to devise a secure, efficient protocol for multi- party quantum computation for any number of players k, and prove security against up to k − 1 colluding adversaries. The quantum round complexity of the protocol for computing a quantum circuit of {CNOT, T} depth d is O(k · (d + log n)), where n is the security parameter. To achieve efficiency, we develop a novel public verification protocol for the Clifford authen- tication code, and a testing protocol for magic-state inputs, both using classical multi-party computation."
+},
+{
+  "pid": 84,
+  "title": "TEST2: Impossibility of Quantum Virtual Black-Box Obfuscation of Classical Circuits",
+  "authors": [
+    {
+      "email": "galagic@gmail.com",
+      "first": "Gorjan",
+      "last": "Alagic",
+      "affiliation": "QuICS, University of Maryland, NIST",
+      "contact": true
+    },
+    {
+      "email": "zvika.brakerski@weizmann.ac.il",
+      "first": "Zvika",
+      "last": "Brakerski",
+      "affiliation": "Weizmann Institute of Science",
+      "contact": true
+    },
+    {
+      "email": "yfkedulek@gmail.com",
+      "first": "Yfke",
+      "last": "Dulek",
+      "affiliation": "QuSoft; University of Amsterdam",
+      "contact": true
+    },
+    {
+      "email": "c.schaffner@uva.nl",
+      "first": "Christian",
+      "last": "Schaffner",
+      "affiliation": "QuSoft; University of Amsterdam",
+      "contact": true
+    }
+  ],
+  "abstract": "Virtual black-box obfuscation is a strong cryptographic primitive: it encrypts a circuit while maintaining its full input/output functionality. A remarkable result by Barak et al. (Crypto 2001) shows that a general obfuscator that obfuscates classical circuits into classical circuits can- not exist. A promising direction that circumvents this impossibility result is to obfuscate classical circuits into quantum states, which would potentially be better capable of hiding information about the obfuscated circuit. We show that, under the assumption that learning-with-errors (LWE) is hard for quantum computers, this quantum variant of virtual black-box obfuscation of classical circuits is generally impossible. On the way, we show that under the presence of dependent classical auxiliary input, even the small class of classical point functions cannot be quantum virtual black-box obfuscated."
+}
+
+]
