@@ -64,19 +64,23 @@ When you are happy with the result run `npm run build` to build the minified ver
 node-sass is not yet ported to ARM processors, but there is a work-around described here:
 https://github.com/sass/node-sass/issues/3033#issuecomment-763180778
 
-## Setting up the next year 2022 based on year 2021
-1. create new empty repository QCrypt/website-2022
-2. clone QCrypt/website-2022 , remove bulky data like slides and posters, copy the rest over to the empty website-2022, except the themes subdirectory
-3. in QCrypt/website-2022, change remote destination:
-```git remote set-url origin https://github.com/QCrypt/website-2022.git```
-4. ```git branch -M main```
-5. ```git push -u origin main```
 
-6. create new empty repository QCrypt/devfest-theme-hugo-2022
-7. ```git clone QCrypt/devfest-theme-hugo-2021```
-8. ```git remote set-url origin https://github.com/QCrypt/devfest-theme-hugo-2022.git```
-9. ```git branch -M main```
-10. ```git push -u origin main```
+## Setting up the next year 2024 based on year 2023
+1. create new empty repository QCrypt/website-2024 from the web: https://github.com/organizations/QCrypt/repositories/new
+2. clone the empty repository QCrypt/website-2024 onto local hard drive
+3. clone QCrypt/website-2023 into a temporary directory, remove bulky data like slides and posters, copy the rest over to the empty local website-2024, except the themes subdirectory
 
-11. cd website-2022, mkdir themes
-12. git submodule add https://github.com/QCrypt/devfest-theme-hugo-2022 devfest-theme-hugo
+6. create new empty repository QCrypt/devfest-theme-hugo-2024 from the web: https://github.com/organizations/QCrypt/repositories/new
+7. The following commands copy the contents and git history of QCrypt/devfest-theme-hugo-2023 into the new repository:
+   - ```git clone QCrypt/devfest-theme-hugo-2023``` into a temporary directory
+   - ```git remote set-url origin https://github.com/QCrypt/devfest-theme-hugo-2024.git```  (or git@github.com:QCrypt/devfest-theme-hugo-2024.git)
+   - ```git branch -M main```
+   - ```git push -u origin main```
+
+11. in the new website-2024 directory: ```mkdir themes```
+12. ```git submodule add https://github.com/QCrypt/devfest-theme-hugo-2024 devfest-theme-hugo```  (or git@github.com:QCrypt/devfest-theme-hugo-2024.git)
+14. ```cp ../website-2023/.gitignore .```  brings .gitignore along as well
+13. ```git add *```
+15. ```git commit -m 'initial commit'```
+
+The old 2023 website should now be ready to be served by ```hugo server```. It is ready to be updated to the 2024 edition.
