@@ -66,6 +66,8 @@ https://github.com/sass/node-sass/issues/3033#issuecomment-763180778
 
 
 ## Setting up the next year 2024 based on year 2023
+
+### creating new repositories on GitHub
 1. create new empty repository QCrypt/website-2024 from the web: https://github.com/organizations/QCrypt/repositories/new
 2. clone the empty repository QCrypt/website-2024 onto local hard drive
 3. clone QCrypt/website-2023 into a temporary directory, remove bulky data like slides and posters, copy the rest over to the empty local website-2024, except the themes subdirectory
@@ -84,3 +86,22 @@ https://github.com/sass/node-sass/issues/3033#issuecomment-763180778
 15. ```git commit -m 'initial commit'```
 
 The old 2023 website should now be ready to be served by ```hugo server```. It is ready to be updated to the 2024 edition.
+
+### create new team and add admins
+1. on https://github.com/orgs/QCrypt/teams, create a new team ```QCrypt 2024```
+2. add admins https://github.com/orgs/QCrypt/teams/qcrypt-2024/members
+3. add repositories https://github.com/orgs/QCrypt/teams/qcrypt-2024/repositories
+
+### setting up netfliy & domain name
+1. create new site on https://app.netlify.com/teams/qcrypt/overview by "import from existing project"
+2. connect to Git provider: GitHub
+3. pick correct repository: QCrypt/website-2024
+3. rename project to qcrypt2024
+4. In [Gandi](https://admin.gandi.net/domain/c9de5b76-af33-11e7-8de2-00163ec31f40/qcrypt.net/records): add a new DNS entry, as suggested in netlify:  ```2024	CNAME	10800	qcrypt2024.netlify.app.```
+5. In netlify https://app.netlify.com/teams/qcrypt/members: add new admin as collaborator to 2024 site
+
+### slack integration
+1. create a new private channel on QCrypt slack, named website-2024
+1. on https://api.slack.com/apps/A01P06YNCCU/incoming-webhooks , create a new Webhook (on the bottom of the page)
+1. paste the Webhook URL into netfliy:  https://app.netlify.com/sites/qcrypt2024/settings/deploys (for deploy succeesful and deploy failed)
+1. add admins to Slack channel
