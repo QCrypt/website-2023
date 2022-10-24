@@ -1,5 +1,7 @@
 # QCrypt 2022 website
 
+sample text
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3b2d4f11-42a3-42fc-bbfc-1debed945d5e/deploy-status)](https://app.netlify.com/sites/qcrypt2022/deploys)
 
 Live site at https://2022.qcrypt.net
