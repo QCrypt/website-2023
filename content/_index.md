@@ -5,9 +5,9 @@ menu:
     weight: -1
 ---
 <!-- JUMBO -->
-{{% jumbo img="/images/backgrounds/QCrypt_background2022.png" imgLabel="QCrypt 2022 background" %}}
+{{% jumbo img="/images/backgrounds/umd1.jpg" imgLabel="QCrypt 2022 background" %}}
 
-## 29th August to 2nd September 2022
+## 14th August to 18nd September 2023
 <!--
 ### 2021: online conference
 
@@ -40,9 +40,9 @@ menu:
 <!-- INFO -->
 {{% home-info class="primary" %}}
 
-## What is QCrypt 2022?
+## What is QCrypt 2023?
 
-QCrypt 2022 is the 12th edition of the yearly international scientific conference presenting last year's top results in quantum cryptography. See the list of previous conferences <a style="color: yellow" href="/charter/#history-of-qcrypt">here</a>.
+QCrypt 2023 is the 13th edition of the yearly international scientific conference presenting last year's top results in quantum cryptography. See the list of previous conferences <a style="color: yellow" href="/charter/#history-of-qcrypt">here</a>.
 
 {{% /home-info %}}
 
@@ -50,7 +50,9 @@ QCrypt 2022 is the 12th edition of the yearly international scientific conferenc
 
 ## NEWS
 
-### August 28th. 2022 | About conference record
+### Conference page is being updated!!
+
+<!-- ### August 28th. 2022 | About conference record
 Due to time zone, We know that it is difficult for you to participate in the meeting all the time. All the talks will be recorded and made available on the online platform (EventX) a few hours later for our participants.
 
 ### August 27th. 2022 | Prerecorded contributed talks videos now available
@@ -74,7 +76,7 @@ QCrypt 2022 will be a hybrid conference to ensure participation is possible for 
 Taiwan is on the way to opening its border but certain quarantine rules remain. At the moment, a “3+4 days” quarantine rule applies to everyone entering Taiwan: 3 days of quarantine, plus 4 days of "self-health-monitoring" period (in which one is allowed to attend conferences, conditioned on obtaining negative rapid-test results). The quarantine rule is expected to be further relaxed. The up-to-date information about the quarantine rule and VISA information can be found <a style="color: blue" target="_blank" href="/travel/">here</a>. If you have any questions regarding the quarantine rule and VISA application, please feel free to contact us at 2022@QCRYPT.NET.
 
 ### July 5th. 2022 | List of accepted papers now available
-Please click <a style="color: blue" href="/accepted-papers/">here</a>.
+Please click <a style="color: blue" href="/accepted-papers/">here</a>. -->
 
 
 {{% /home-tickets %}}
@@ -134,10 +136,10 @@ Please click <a style="color: blue" href="/accepted-papers/">here</a>.
 
 <!-- THE MAP -->
 {{% home-location
-    image="/images/map_en.jpg"
-    address="Humanities and Social Science Building, Academia Sinica Humanities and Social Sciences Building, No. 128, Section 2, Academia Rd, Nangang District, Taipei City, Taiwan"
-    latitude="25.0457936"
-    longitude="121.6168995"
+    image="/images/map_umd.png"
+    address="University of Maryland, College Park, Maryland, USA 20742"
+    latitude="38.98681820653584"
+    longitude="-76.94265086152035"
     %}}
 
 ## The 2022 venue

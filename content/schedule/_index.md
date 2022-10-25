@@ -1,6 +1,6 @@
 ---
 title: Schedule
-draft: false
+draft: true
 horizontal: false
 menu:
   main:

@@ -2,7 +2,7 @@
 
 # baseURL = "https://competent-nightingale-85ae87.netlify.com/"
 languageCode = "en"
-title = "QCrypt 2022"
+title = "QCrypt 2023"
 
 # Theme
 theme = "devfest-theme-hugo"
@@ -15,11 +15,11 @@ enableMissingTranslationPlaceholders = true
 GoogleAnalytics = "G-221GMGECQ6"
 
 [params]
-    title = "QCrypt 2022"
-    date = "2022-08-29"
+    title = "QCrypt 2023"
+    date = "2023-08-14"
     description = "12th International Conference on Quantum Cryptography, organized from Taipei, Taiwan, 29 August - 2 September 2022"
     images = ["/images/social-share.jpg"]
-    email = "2022@qcrypt.net"
+    email = "2023@qcrypt.net"
     keywords = "event, quantum cryptography, QCrypt, Amsterdam"
     copyright = "We :heart: sheep"
     copyright_link = "https://github.com/QCrypt/website-2022"
@@ -33,8 +33,8 @@ GoogleAnalytics = "G-221GMGECQ6"
     themeColor = "#086788"
 
 [params.logos]
-    jumbo = "/images/logos/QCr_Logo_2022.png"
-    header = "/images/logos/QCrTop_2022.png"
+    jumbo = "/images/logos/QuCrC23_Logo.png"
+    header = "/images/logos/QuCrC23_Logo.png"
     footer = "/images/logos/netlify-color-accent.svg"
     footer_link = "https://www.netlify.com"
 
