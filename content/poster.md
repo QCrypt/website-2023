@@ -5,7 +5,9 @@ draft: false
 type: text_page
 ---
 
-## Poster
+This page will be updated later.
+
+<!-- ## Poster
 See below for the official poster of QCrypt 2022. You can download and print yourself the following versions:
 * <a href="/images/poster/QCryptPosterA4.pdf" download>A4 PDF</a>
 * <a href="/images/poster/QCryptPoster.png" download>PNG</a>
@@ -47,4 +49,4 @@ Download a
 <a href="/images/logos/letter.tex" download>
   letter template for Latex
 </a>
-and preview the <a href="/images/logos/letter.pdf" >resulting PDF</a>.
+and preview the <a href="/images/logos/letter.pdf" >resulting PDF</a>. -->

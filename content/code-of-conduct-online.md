@@ -1,5 +1,5 @@
 ---
-title: QCrypt 2022 - Code of Conduct
+title: QCrypt 2023 - Code of Conduct
 
 draft: false
 type: no_toc
@@ -26,4 +26,4 @@ If you witness harassment or discriminatory behavior, please consider intervenin
 -  code-of-conduct liaison person:
 {{< button-link label="Ivan Damgård" url="mailto:ivan.damgaard@qcrypt.net" icon="email" >}}
 - [Main organizers](/team/#organizing-committee)
-{{< button-link label="2022@qcrypt.net" url="mailto:2022@qcrypt.net" icon="email" >}}
+{{< button-link label="2023@qcrypt.net" url="mailto:2023@qcrypt.net" icon="email" >}}

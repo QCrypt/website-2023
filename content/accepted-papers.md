@@ -7,8 +7,9 @@ draft: false
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
+This page will be updated later.
+<!-- ## List of Accepted Contributed Talks -->
 
-## List of Accepted Contributed Talks
 <!--
 ### Upgraded Talk Slot
 (in order of submission)
@@ -17,14 +18,16 @@ draft: false
 {{< /papers-upgraded >}}
 
 ### Regular Talk Slot-->
-(in order of submission)
+
+
+<!-- (in order of submission)
 
 {{< papers-accepted >}}
-{{< /papers-accepted >}}
+{{< /papers-accepted >}} -->
 
 
-## List of Accepted Posters
-<!--(coming soon)-->
+<!-- ## List of Accepted Posters
+
 (in order of submission)
 
 {{< posters-accepted >}}
@@ -35,7 +38,10 @@ draft: false
 Congratulations to **Tony Metger** for *Generalised entropy accumulation for quantum cryptography* with co-authors Omar Fawzi ; David Sutter ; Renato Renner
 
 ### Experiment
-Congratulations to **Fadri Grünenfelder** for *Towards 100 Mbps secret key rate QKD* with co-authors Alberto Boaron ; Matthieu Perrenoud ; Giovanni Resta ; Raphael Houlmann ; Sylvain El-Khoury ; Hugo Zbinden
+Congratulations to **Fadri Grünenfelder** for *Towards 100 Mbps secret key rate QKD* with co-authors Alberto Boaron ; Matthieu Perrenoud ; Giovanni Resta ; Raphael Houlmann ; Sylvain El-Khoury ; Hugo Zbinden -->
+
+
+
 
 <!-- Download a zip-archive of
 {{< button-link label="all posters" url="https://surfdrive.surf.nl/files/index.php/s/QujOcEzN8b7ndhH/download" icon="tar" >}} available so far.

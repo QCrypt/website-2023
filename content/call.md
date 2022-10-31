@@ -20,7 +20,7 @@ Our poster is now available! Please <a href="/poster">download and print it your
 </a>
 -->
 
-## Key dates QCrypt 2022
+<!-- ## Key dates QCrypt 2022
 
 |Date |Event|
 |:----|:----|
@@ -29,7 +29,7 @@ Our poster is now available! Please <a href="/poster">download and print it your
 |Thu, 30 June 2022|Talk acceptance notification|
 |Tue,5 July 2022, 23:59 (Anywhere on Earth)|Poster submission deadline|
 |Fri, 15 July 2022| Poster acceptance notification|
-|29 August - 2 September 2022| QCrypt 2022|
+|29 August - 2 September 2022| QCrypt 2022| -->
 <!--
 Subscribe to <a href="https://calendar.google.com/calendar/embed?src=4f9rvlunmmrkpih1ibo11goo64%40group.calendar.google.com&ctz=Europe%2FAmsterdam"  target="_blank">our calendar</a> to stay updated about the official dates and events.
 -->
@@ -51,16 +51,17 @@ For a “poster only” submission, a one-page non-technical description is suff
 
 The extended abstract may refer to technical details which are presented elsewhere. In particular, authors may include citations to a full version of the paper that is either published, available on arXiv.org or provided as an attachment (links to full versions on personal webpages are not accepted). This is strongly recommended for theory submissions to help the peer-review process. The extended abstract should not be a compressed version of the full-length paper.
 
-The submission server is now available at: <a href="https://easychair.org/my/conference?conf=qcrypt2022" target="_blank">easychair.org/my/conference?conf=qcrypt2022</a>
+The submission server will be open soon.
+<!-- The submission server is now available at: <a href="https://easychair.org/my/conference?conf=qcrypt2022" target="_blank">easychair.org/my/conference?conf=qcrypt2022</a> -->
 
 ## Student Paper Prize
 Since 2011, QCrypt features a prize for the best student submission. A submission is eligible for the student prize if and only if the main author(s) is/are a student(s) at the time of the submission, will present the work at QCrypt, and further a significant portion of the work must have been done by said student(s), including contributions to the key ideas. More details can be found in the <a href="/charter/#student-paper-prize">Charter</a>.
 
 ## Program Committee
-The program committee list can be found <a href="/team/#program-committee">here</a>.
-<!--
-Please contact the PC chairs via email to {{< button-link label="pcchairs2021@qcrypt.net" url="mailto:pcchairs2022@qcrypt.net" icon="email" >}} with any questions.
--->
+<!-- The program committee list can be found <a href="/team/#program-committee">here</a>. -->
+
+Please contact the PC chairs via email to {{< button-link label="pcchairs2023@qcrypt.net" url="mailto:pcchairs2023@qcrypt.net" icon="email" >}} with any questions.
+
 
 <!--
 "Poster only" submissions will be accepted after the notification for talks (7th June). For these submissions,  a one-page non-technical PDF is sufficient as the extended abstract.
@@ -68,5 +69,5 @@ Please contact the PC chairs via email to {{< button-link label="pcchairs2021@qc
 
 Extended abstracts should be submitted electronically here using the EasyChair system (if the link doesn’t work, visit https://easychair.org/conferences/?conf=qcrypt2019 directly).
 If you are designing a new poster for QCrypt, consider using the following templates:  https://osf.io/8ajqs/
-This is simply a suggestion, and if you decide to follow this template, feel free to modify it as you see fit
+This is simply a suggestion, and if you decide to follow this template, feel free to modify it as you see fit.
 -->

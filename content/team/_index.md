@@ -8,17 +8,19 @@ type: team
 layout: list_with_header
 draft: false
 ---
- 
-To make all this possible, these people are working behind the scenes.
+
+This page is being updated.
+
+<!-- To make all this possible, these people are working behind the scenes. -->
 
 ## Organizing Committee
 
-You can contact us via email to {{< button-link label="2022@qcrypt.net" url="mailto:2022@qcrypt.net" icon="email" >}}.
+You can contact us via email to {{< button-link label="2023@qcrypt.net" url="mailto:2023@qcrypt.net" icon="email" >}}.
 
 
-{{< teams types="core=Main Organizers,org=Organizers" >}}
+<!-- {{< teams types="core=Main Organizers,org=Organizers" >}} -->
 
-## Steering Committee
+<!-- ## Steering Committee
 
 {{< teams types="steering" >}}
 
@@ -36,7 +38,7 @@ You can contact the PC chairs via email to {{< button-link label="pcchairs2022@q
 -->
 
 
-### PC members
+<!-- ### PC members
 * Anthony Leverrier (Inria, FR)
 * Mario Berta (AWS & Imperial College London, US/GB)
 * Yanbao Zhang (NTT, JP)
@@ -64,4 +66,4 @@ You can contact the PC chairs via email to {{< button-link label="pcchairs2022@q
 * Davide Rusca (University of Geneva, CH)
 * Djeylan Aktas (Slovak Academy of Sciences, SK)
 * Siddarth Joshi (University of Bristol, GB)
-* Yunhong Ding (Technical University of Denmark, DK)
+* Yunhong Ding (Technical University of Denmark, DK)  -->

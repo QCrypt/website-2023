@@ -8,7 +8,10 @@ menu:
 
 ---
 
-## Helpdesk
+This page is being updated. If you have queries regarding the conference, please email to<br>
+{{< button-link label="2023@qcrypt.net" url="mailto:2023@qcrypt.net" icon="email" >}}
+
+<!-- ## Helpdesk
 
 1. If you have registration questions, it contains student fee waiver support, the payment fails, and receipts, please email to<br>
 {{< button-link label="ele8ej@iis.sinica.edu.tw" url="mailto:ele8ej@iis.sinica.edu.tw" icon="email" >}}
@@ -27,4 +30,4 @@ Use the right-side chat room under the people tag, and you could contact E-think
 
 <img src="/images/instructions/12help.png" alt="help" title="help" style="width:85%;height:auto;" />
 
-Shall you have any question, please contact the secretariat via {{< button-link label="irenekoethinkpco@gmail.com" url="mailto:irenekoethinkpco@gmail.com" icon="email" >}}
+Shall you have any question, please contact the secretariat via {{< button-link label="irenekoethinkpco@gmail.com" url="mailto:irenekoethinkpco@gmail.com" icon="email" >}} -->
