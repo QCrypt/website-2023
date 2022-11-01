@@ -7,7 +7,7 @@ menu:
 <!-- JUMBO -->
 {{% jumbo img="/images/backgrounds/umd1.jpg" imgLabel="QCrypt 2022 background" %}}
 
-## 14th August to 18nd September 2023
+## 14th to 18th August 2023
 <!--
 ### 2021: online conference
 
@@ -142,7 +142,7 @@ Please click <a style="color: blue" href="/accepted-papers/">here</a>. -->
     longitude="-76.94265086152035"
     %}}
 
-## The 2022 venue
+## The 2023 venue
 <!-- ### online -->
 {{% /home-location %}}
 <!--
