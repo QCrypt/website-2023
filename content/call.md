@@ -1,6 +1,6 @@
 ---
 title: Call for papers
-draft: false
+draft: true
 type: text_page
 ---
 <!--
