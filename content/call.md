@@ -3,13 +3,6 @@ title: Call for papers
 draft: false
 type: text_page
 ---
-<!--
-title: Call for Papers
-type: text_page
-aliases: [/call_staging/]
-draft: false
--->
----
 
 <!--
 ## Poster
@@ -20,16 +13,17 @@ Our poster is now available! Please <a href="/poster">download and print it your
 </a>
 -->
 
-<!-- ## Key dates QCrypt 2022
+## Key dates QCrypt 2023
 
 |Date |Event|
 |:----|:----|
-|Sat, 2 April 2022 | Talk submission open||
-|Tue, 3 May 2022, 23:59 (Anywhere on Earth)|Talk submission deadline|
-|Thu, 30 June 2022|Talk acceptance notification|
-|Tue,5 July 2022, 23:59 (Anywhere on Earth)|Poster submission deadline|
-|Fri, 15 July 2022| Poster acceptance notification|
-|29 August - 2 September 2022| QCrypt 2022| -->
+|March 2023 | Talk submission open||
+|Tue, 12 April 2023, 16:00 CET|Talk submission deadline|
+|Wed, 21 June 2023|Talk acceptance notification|
+|Tue, 27 June 2023, 16:00 CET|Poster submission deadline|
+|Fri, 8 July 2023| Poster acceptance notification|
+|14-18 August 2023| QCrypt 2023|
+
 <!--
 Subscribe to <a href="https://calendar.google.com/calendar/embed?src=4f9rvlunmmrkpih1ibo11goo64%40group.calendar.google.com&ctz=Europe%2FAmsterdam"  target="_blank">our calendar</a> to stay updated about the official dates and events.
 -->
@@ -37,7 +31,7 @@ Subscribe to <a href="https://calendar.google.com/calendar/embed?src=4f9rvlunmmr
 QCRYPT is a conference for students and researchers who work on quantum cryptography, broadly defined.  We invite research contributions on the possibilities and limitations of quantum methods for secure communication and computation.  (Research on classical post-quantum cryptography is considered to be within scope if it makes innovative use of quantum information concepts.)  QCRYPT features both experimental and theoretical talks.
 
 ## Contributed Talks and Posters
-QCrypt solicits submissions of extended abstracts describing recent research results in quantum cryptography. These will be reviewed by the program committee, which will select a small number of contributed talks, and a larger number of poster presentations. The selection will be based on scientific merit of the submissions, keeping in mind the desire to create an attractive and balanced program. A small number of submissions may be upgraded to invited talks at the discretion of the PC chair and of the steering committee.
+QCrypt solicits submissions of extended abstracts describing recent research results in quantum cryptography. These will be reviewed by the program committee, which will select a small number of contributed talks, and a larger number of poster presentations. The selection will be based on scientific merit of the submissions, keeping in mind the desire to create an attractive and balanced program. A small number of submissions may be upgraded to invited talks at the discretion of the PC chairs and of the steering committee.
 
 In line with the goal of showcasing the best results each year from all subfields, the conference has no published proceedings. Yet, contributed talks are highly competitive. QCrypt welcomes the submission of any interesting and important result, while allowing researchers from a wide range of disciplines to pursue publication in any venue appropriate to their field.
 <!--

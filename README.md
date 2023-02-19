@@ -106,3 +106,7 @@ The old 2023 website should now be ready to be served by ```hugo server```. It i
 1. on https://api.slack.com/apps/A01P06YNCCU/incoming-webhooks , create a new Webhook (on the bottom of the page)
 1. paste the Webhook URL into netfliy:  https://app.netlify.com/sites/qcrypt2024/settings/deploys (for deploy succeesful and deploy failed)
 1. add admins to Slack channel
+
+### general
+- connect new admins to admins from last year
+- update hugo version? check what needs to be updated.
