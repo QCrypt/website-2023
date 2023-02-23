@@ -84,6 +84,8 @@ QCRYPT was founded by Matthias Christandl and Stephanie Wehner, and the initial 
 |2020 Amsterdam | Frédéric Dupuis | Feihu Xu | Serge Fehr, Christian Schaffner
 |2021 Amsterdam | Carl Miller | Tobias Gehring | Serge Fehr, Christian Schaffner
 |2022 Taiwan | Lim Ci Wen (Charles) | Anthony Martin | Bo-Yin Yang, Kai-Min Chung, Yeong-Cherng Liang
+|2023 Maryland | Christian Schaffner | Giuseppe Vallone | Oliver Slattery, Gorjan Alagic
+
 
 ### Steering Committees
 
