@@ -24,9 +24,9 @@ content:
       - nameKey: footer_papers
         url: /accepted-papers/
         newTab: false
-      # - nameKey: footer_call
-      #   url: /call/
-        # newTab: false
+      - nameKey: footer_call
+        url: /call/
+        newTab: false
       - nameKey: footer_poster
         url: /poster/
         newTab: false
