@@ -48,9 +48,20 @@ QCrypt 2023 is the 13th edition of the yearly international scientific conferenc
 
 {{% home-tickets %}}
 
-## NEWS
+## News
 
-### Conference page is being updated!!
+### Key dates QCrypt 2023
+|Date |Event|
+|:----|:----|
+|March 2023 | Talk submission open||
+|April 2023|Registration open|
+|Tue, 12 April 2023, 16:00 CET|Talk submission deadline|
+|Wed, 21 June 2023|Talk acceptance notification|
+|Tue, 27 June 2023, 16:00 CET|Poster submission deadline|
+|Sat, 8 July 2023| Poster acceptance notification|
+|14-18 August 2023| QCrypt 2023|
+
+### <a style="color: blue" href="/call">Call for papers</a> open soon.
 
 <!-- ### August 28th. 2022 | About conference record
 Due to time zone, We know that it is difficult for you to participate in the meeting all the time. All the talks will be recorded and made available on the online platform (EventX) a few hours later for our participants.
