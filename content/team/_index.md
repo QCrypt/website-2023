@@ -15,10 +15,9 @@ This page is being updated.
 
 ## Organizing Committee
 
-You can contact us via email to {{< button-link label="2023@qcrypt.net" url="mailto:2023@qcrypt.net" icon="email" >}}.
-
-
 <!-- {{< teams types="core=Main Organizers,org=Organizers" >}} -->
+{{< teams types="core=Main Organizers" >}}
+You can contact us via email to {{< button-link label="2023@qcrypt.net" url="mailto:2023@qcrypt.net" icon="email" >}}.
 
 <!-- ## Steering Committee
 
@@ -31,9 +30,8 @@ You can contact us via email to {{< button-link label="2023@qcrypt.net" url="mai
 
 -->
 ## Program Committee
-### PC chairs
 
-{{< teams types="pcchairs" >}}
+{{< teams types="pcchairs=PC Chairs" >}}
 You can contact the PC chairs via email to {{< button-link label="pcchairs2023@qcrypt.net" url="mailto:pcchairs2023@qcrypt.net" icon="email" >}}<br>
 
 
