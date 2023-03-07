@@ -2,6 +2,10 @@
 title: Call for papers
 draft: false
 type: text_page
+menu:
+    main:
+        weight: 10
+
 ---
 
 <!--
