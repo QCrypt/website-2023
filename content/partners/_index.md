@@ -42,7 +42,7 @@ The 13th anniversary edition of the conference, QCrypt 2023, will take place at 
 
 QCrypt 2023 is seeking sponsors. Sponsoring the conference gives companies and institutions the opportunity to call the attention of the participants of QCrypt 2023, and to present themselves during the conference by having their logo displayed, their leaflet distributed and, depending on the level of sponsorship, by being present at the conference with a stand. For QCrypt 2023, sponsorship is a crucial means to pay for certain features of the conference like tutorial talks and keynote speakers, as well as registration waving and travel grants for students from less privileged institutes.
 
-QCrypt 2023 will offer sponsor packages; the details will be announced in due course.
+QCrypt 2023 will offer sponsor packages – please email {{< button-link label="2023@qcrypt.net" url="mailto:2023@qcrypt.net?subject=Sponsorship Enquiry" icon="email" >}} for more information. 
 
 <!-- for a more detailed description of these packages please find <a href="https://drive.google.com/file/d/1XkABMRsQw5EMnt3CiNhjGN3kYn6VPvRd/view?usp=sharing">here</a>
 
