@@ -23,7 +23,7 @@ Our poster is now available! Please <a href="/poster">download and print it your
 |:----|:----|
 |March 2023 | Talk submission open||
 |April 2023|Registration open|
-|Tue, 12 April 2023, 16:00 CET|Talk submission deadline|
+|Wed, 12 April 2023, 16:00 CET|Talk submission deadline|
 |Wed, 21 June 2023|Talk acceptance notification|
 |Tue, 27 June 2023, 16:00 CET|Poster submission deadline|
 |Sat, 8 July 2023| Poster acceptance notification|
