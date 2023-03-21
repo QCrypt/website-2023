@@ -9,16 +9,15 @@ layout: list_with_header
 draft: false
 ---
 
-This page is being updated.
-
 <!-- To make all this possible, these people are working behind the scenes. -->
 
 ## Organizing Committee
 
 <!-- {{< teams types="core=Main Organizers,org=Organizers" >}} -->
-{{< teams types="core=Main Organizers" >}}
-You can contact us via email to {{< button-link label="2023@qcrypt.net" url="mailto:2023@qcrypt.net" icon="email" >}}.
+{{< teams types="core" >}}
 
+{{< teams types="org" >}}
+You can contact us via email to {{< button-link label="2023@qcrypt.net" url="mailto:2023@qcrypt.net" icon="email" >}}.
 <!-- ## Steering Committee
 
 {{< teams types="steering" >}}
@@ -31,10 +30,11 @@ You can contact us via email to {{< button-link label="2023@qcrypt.net" url="mai
 -->
 ## Program Committee
 
-{{< teams types="pcchairs=PC Chairs" >}}
+{{< teams types="pcchairs" >}}
 You can contact the PC chairs via email to {{< button-link label="pcchairs2023@qcrypt.net" url="mailto:pcchairs2023@qcrypt.net" icon="email" >}}<br>
 
-
+...
+This page is being updated.
 <!-- ### PC members
 * Anthony Leverrier (Inria, FR)
 * Mario Berta (AWS & Imperial College London, US/GB)
