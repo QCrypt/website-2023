@@ -14,12 +14,12 @@ menu:
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="/2023">Host QCrypt 2023</a>
 -->
 
-<!--
-<a class="btn primary btn-lg" href="/schedule">
+
+<a class="btn primary btn-lg" href="/call">
  <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>
-    Schedule
+    Call for Papers
 </a>
--->
+
 
 {{% /jumbo %}}
 
