@@ -57,7 +57,7 @@ The submission server will be open soon.
 Since 2011, QCrypt features a prize for the best student submission. A submission is eligible for the student prize if and only if the main author(s) is/are a student(s) at the time of the submission, will present the work at QCrypt, and further a significant portion of the work must have been done by said student(s), including contributions to the key ideas. More details can be found in the <a href="/charter/#student-paper-prize">Charter</a>.
 
 ## Program Committee
-<!-- The program committee list can be found <a href="/team/#program-committee">here</a>. -->
+The program committee list can be found <a href="/team/#program-committee">here</a>.
 
 Please contact the PC chairs via email to {{< button-link label="pcchairs2023@qcrypt.net" url="mailto:pcchairs2023@qcrypt.net" icon="email" >}} with any questions.
 
