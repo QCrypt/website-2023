@@ -41,7 +41,7 @@ You can contact the PC chairs via email to {{< button-link label="pcchairs2023@q
 * Eleni Diamanti (CNRS and Sorbonne Université, FR)
 * Frederic Dupuis (Université de Montréal, CA)
 * Tobias Gehring (Technical University of Denmark, DK)
-* Christian Kurtsiefer (National University of Sinapore, SG)
+* Christian Kurtsiefer (National University of Singapore, SG)
 * Paul Kwiat (University of Illinois Urbana-Champaign, US)
 * Alexander Ling (National University of Singapore, SG)
 * Charles Lim (JPMorgan Chase & Co., US/SG)
