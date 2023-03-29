@@ -1,14 +1,14 @@
-# QCrypt 2022 website
+# QCrypt 2023 website
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3b2d4f11-42a3-42fc-bbfc-1debed945d5e/deploy-status)](https://app.netlify.com/sites/qcrypt2022/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3b2d4f11-42a3-42fc-bbfc-1debed945d5e/deploy-status)](https://app.netlify.com/sites/qcrypt2023/deploys)
 
-Live site at https://2022.qcrypt.net
+Live site at https://2023.qcrypt.net
 
 Using the Hugo template from https://github.com/GDGToulouse/devfest-theme-hugo
 adapted from the fork by the cloudnative-amsterdam people: https://github.com/cloudnative-amsterdam/public-website
 
-theme submodule at https://github.com/QCrypt/devfest-theme-hugo-2022
+theme submodule at https://github.com/QCrypt/devfest-theme-hugo-2023
 
 ## Building this conference site from scratch
 
@@ -16,13 +16,13 @@ theme submodule at https://github.com/QCrypt/devfest-theme-hugo-2022
 2. Clone this repo:
 
 ```bash
-git clone git@github.com:QCrypt/website-2022.git
+git clone git@github.com:QCrypt/website-2023.git
 ```
 
 3. Update the theme submodule
 
 ```bash
-cd website-2022/themes/devfest-theme-hugo
+cd website-2023/themes/devfest-theme-hugo
 git submodule init
 git submodule update
 ```
@@ -38,10 +38,10 @@ hugo server
 
 6. Using a suitable editor like [Atom](https://atom.io/) allows to easily search across all source files, and will help finding the correct file to edit if you want to make specific changes.
 
-7. When you are happy with the result, commit the changes to the master branch. The site is then automatically deployed to https://qcrypt2022.netlify.com/ and accessible under https://2022.qcrypt.net . If you have the proper rights, you can see the deployment logs on [netlify](https://app.netlify.com/sites/qcrypt2022/deploys).
+7. When you are happy with the result, commit the changes to the master branch. The site is then automatically deployed to https://qcrypt2023.netlify.com/ and accessible under https://2022.qcrypt.net . If you have the proper rights, you can see the deployment logs on [netlify](https://app.netlify.com/sites/qcrypt2022/deploys).
 
 ## Customizing the theme
-The theme is located at https://github.com/QCrypt/devfest-theme-hugo-2022
+The theme is located at https://github.com/QCrypt/devfest-theme-hugo-2023
 
 First, install [yarn](https://yarnpkg.com/lang/en/docs/install/).
 
