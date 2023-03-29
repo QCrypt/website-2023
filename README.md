@@ -8,7 +8,7 @@ Live site at https://2023.qcrypt.net
 Using the Hugo template from https://github.com/GDGToulouse/devfest-theme-hugo
 adapted from the fork by the cloudnative-amsterdam people: https://github.com/cloudnative-amsterdam/public-website
 
-theme submodule at https://github.com/QCrypt/devfest-theme-hugo-2023
+theme submodule now included directly in this git repository.
 
 ## Building this conference site from scratch
 
@@ -19,15 +19,7 @@ theme submodule at https://github.com/QCrypt/devfest-theme-hugo-2023
 git clone git@github.com:QCrypt/website-2023.git
 ```
 
-3. Update the theme submodule
-
-```bash
-cd website-2023/themes/devfest-theme-hugo
-git submodule init
-git submodule update
-```
-
-4. It's done. Just start Hugo server to see the site live!
+3. It's done. Just start Hugo server to see the site live!
 
 ```bash
 cd ../..
@@ -36,12 +28,12 @@ hugo server
 
 5. Edit the markdown source files with ending .md in the /content/ subdirectory to make changes to the site. You might also have to edit .json and .yml files in the /data/ subdirectory. As long as the hugo server is running, your changes should be visible immediately at http://localhost:1313/.
 
-6. Using a suitable editor like [Atom](https://atom.io/) allows to easily search across all source files, and will help finding the correct file to edit if you want to make specific changes.
+6. Using a suitable editor like [Visual Studio Code](https://code.visualstudio.com/) or [Atom](https://atom.io/) allows to easily search across all source files, and will help finding the correct file to edit if you want to make specific changes.
 
-7. When you are happy with the result, commit the changes to the master branch. The site is then automatically deployed to https://qcrypt2023.netlify.com/ and accessible under https://2022.qcrypt.net . If you have the proper rights, you can see the deployment logs on [netlify](https://app.netlify.com/sites/qcrypt2022/deploys).
+7. When you are happy with the result, commit the changes to the master branch. The site is then automatically deployed to https://qcrypt2023.netlify.com/ and accessible under https://2023.qcrypt.net . If you have the proper rights, you can see the deployment logs on [netlify](https://app.netlify.com/sites/qcrypt2023/deploys).
 
 ## Customizing the theme
-The theme is located at https://github.com/QCrypt/devfest-theme-hugo-2023
+The theme is located in the themes/devfest-theme-hugo subdirectory. 
 
 First, install [yarn](https://yarnpkg.com/lang/en/docs/install/).
 
@@ -52,37 +44,27 @@ yarn
 ```
 to install the dependencies.
 
-As you might have the right version of npm, you might have to install the node version manager [nvm](https://github.com/nvm-sh/nvm). Then, use
+As you might not have the right version of npm, you might have to install the node version manager [nvm](https://github.com/nvm-sh/nvm). Then, use
 ```
 nvm install 10.0
 ```
 
-In the same directory, run `npm start` to watch Sass changes.
+In the same directory, run `npm start` to watch [Sass](https://sass-lang.com/) changes.
 
-When you are happy with the result run `npm run build` to build the minified version. Then commit the theme submodule.
+When you are happy with the result run `npm run build` to build the minified versions of `theme.js` and `theme.css`. Then commit to these.
 
 ### Installing on a new ARM Mac
 node-sass is not yet ported to ARM processors, but there is a work-around described here:
 https://github.com/sass/node-sass/issues/3033#issuecomment-763180778
-
+TODO: newer software exists now...
 
 ## Setting up the next year 2024 based on year 2023
 
 ### creating new repositories on GitHub
 1. create new empty repository QCrypt/website-2024 from the web: https://github.com/organizations/QCrypt/repositories/new
 2. clone the empty repository QCrypt/website-2024 onto local hard drive
-3. clone QCrypt/website-2023 into a temporary directory, remove bulky data like slides and posters, copy the rest over to the empty local website-2024, except the themes subdirectory
+3. clone QCrypt/website-2023 into a temporary directory, remove bulky data like slides and posters, copy the rest over to the empty local website-2024
 
-6. create new empty repository QCrypt/devfest-theme-hugo-2024 from the web: https://github.com/organizations/QCrypt/repositories/new
-7. The following commands copy the contents and git history of QCrypt/devfest-theme-hugo-2023 into the new repository:
-   - ```git clone QCrypt/devfest-theme-hugo-2023``` into a temporary directory
-   - ```git remote set-url origin https://github.com/QCrypt/devfest-theme-hugo-2024.git```  (or git@github.com:QCrypt/devfest-theme-hugo-2024.git)
-   - ```git branch -M main```
-   - ```git push -u origin main```
-
-11. in the new website-2024 directory: ```mkdir themes```
-12. ```git submodule add https://github.com/QCrypt/devfest-theme-hugo-2024 devfest-theme-hugo```  (or git@github.com:QCrypt/devfest-theme-hugo-2024.git)
-14. ```cp ../website-2023/.gitignore .```  brings .gitignore along as well
 13. ```git add *```
 15. ```git commit -m 'initial commit'```
 
