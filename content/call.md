@@ -35,14 +35,14 @@ Subscribe to <a href="https://calendar.google.com/calendar/embed?src=4f9rvlunmmr
 ## Goal of the Conference
 QCRYPT is a conference for students and researchers who work on quantum cryptography, broadly defined.  We invite research contributions on the possibilities and limitations of quantum methods for secure communication and computation.  (Research on classical post-quantum cryptography is considered to be within scope if it makes innovative use of quantum information concepts.)  QCRYPT features both experimental and theoretical talks.
 
+
 ## Contributed Talks and Posters
 QCrypt solicits submissions of extended abstracts describing recent research results in quantum cryptography. These will be reviewed by the program committee, which will select a small number of contributed talks, and a larger number of poster presentations. The selection will be based on scientific merit of the submissions, keeping in mind the desire to create an attractive and balanced program. A small number of submissions may be upgraded to invited talks at the discretion of the PC chairs and of the steering committee.
 
 In line with the goal of showcasing the best results each year from all subfields, the conference has no published proceedings. Yet, contributed talks are highly competitive. QCrypt welcomes the submission of any interesting and important result, while allowing researchers from a wide range of disciplines to pursue publication in any venue appropriate to their field.
-<!--
-## Online conference
-The conference will take place virtually during the week of August 23-27, 2021.  The format and schdule will be similar to <a href="https://2020.qcrypt.net/online-conference/">last year's edition</a>. The conference will feature invited speakers, contributed talks, poster sessions, tutorials, and industry exhibitions.
--->
+
+**By default, QCrypt 2023 will be an on-site conference, and it is requested that the authors of accepted papers give an in-person presentation at the conference. Exceptions will be made only if special circumstances prevent the authors from attending the conference.**
+
 ## Submission Instructions
 All submissions should be in PDF (Portable Document Format).  An extended abstract for a talk submission should be 2-3 pages, in A4 or letter size, using reasonable margins and at least 11pt font.  (The 3-page limit does not include references.)  An extended abstract for a talk should give a non-technical, clear and insightful description of the results and main ideas, their impact, and their importance to quantum cryptography.
 
