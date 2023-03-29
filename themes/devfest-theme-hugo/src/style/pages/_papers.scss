@@ -1,0 +1,47 @@
+.papers {
+
+  .poster-list {
+    list-style: decimal;
+
+    .paper-single {
+      padding: var(--space-1) var(--space-3);
+      margin: var(--space-4) 0;
+    }
+
+    .paper-id {
+      display: none;
+    }
+    .paper-title {
+      display: inline;
+      font-weight: bold;
+    }
+
+    .paper-authors {
+      display: block;
+    }
+
+    .paper-abstract {
+      ::before {
+        height: 0;
+      }
+      display: inline;
+    }
+
+    .paper-arxivid {
+      display: inline;
+      padding-left: var(--space-1);
+    }
+
+    .paper-youtubeid {
+      display: inline;
+      padding-left: var(--space-1);
+    }
+
+    .poster-pdf {
+      display: inline;
+      padding-left: var(--space-1);
+    }
+
+
+  }
+}

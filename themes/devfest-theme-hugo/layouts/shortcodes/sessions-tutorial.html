@@ -1,0 +1,21 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+{{ $site := .Site }}
+
+<section class="sessions">
+
+	<div class="inner">
+		{{ .Inner }}
+	</div>
+
+<ul class="talks">
+	{{ $sessions := where .Site.AllPages ".Section" "sessions" }}
+	{{ $types := (slice "tutorial") }}
+	{{ range sort $sessions ".Title" }}
+	{{ if intersect (slice .Params.format) $types }}
+	<li class="talk tag-{{ anchorize (delimit (.Params.tags | default (slice)) "" ) }}">{{ partial "session.html" . }}</li>
+		{{ end }}
+	{{ end }}
+</ul>
+
+
+</section>

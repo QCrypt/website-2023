@@ -1,0 +1,34 @@
+
+// .page.code-of-conduct {
+//
+//
+//   main h1, #TableOfContents, main .content {
+//     max-width: var(--theJdrSize);
+//     margin: 0 auto;
+//   }
+//
+//
+//   .content {
+//
+//     p {
+//       margin-left: 0;
+//       text-align: justify;
+//     }
+//
+//     ul {
+//       margin-left: 2rem;
+//
+//       li {
+//         line-height: 1.25;
+//       }
+//     }
+//   }
+// }
+//
+// @include mq($until: xl) {
+//   .page.code-of-conduct {
+//     .content {
+//       padding: 0 .5em;
+//     }
+//   }
+// }

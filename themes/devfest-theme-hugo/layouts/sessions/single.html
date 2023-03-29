@@ -1,0 +1,128 @@
+{{ define "main" }}
+{{ $papers := $.Site.Data.accepted_final }}
+
+
+<section class="talk">
+
+
+	{{ if.Params.tags }}
+	<header class="tag-{{ anchorize (delimit .Params.tags "" ) }}">
+	<div class="tags">
+		{{ range .Params.tags }}
+			{{ range first 1 (where $.Site.Data.categories "key" .) }}
+			<span>{{ .name }}</span>
+			{{ end }}
+		{{ end }}
+	</div>
+	{{ else }}
+	<header>
+	{{ end }}
+
+	<h1 class="text">{{ .Title }}</h1>
+	<span class="language {{ anchorize .Params.language }}"></span>
+	</header>
+
+	<div class="info">
+		{{ if .Params.level }}
+		<div class="complexity">{{ .Params.level }}</div>
+		{{ end }}
+		{{ if .Params.format }}
+        <div class="type type-{{ anchorize .Params.format }}">{{ .Params.format }}</div>
+        {{ end }}
+
+		{{ $sessionname := .File.TranslationBaseName }}
+        {{ if (hasPrefix $sessionname "industry") }}
+            {{ $sessionname = "industrial" }}
+        {{ end }}
+		{{ if not (hasPrefix $sessionname "__") }}
+
+		{{/* figure out when this session is running from schedule */}}
+		{{ $startday := "" }}
+		{{ $starttime := "" }}
+		{{ $endtime := "" }}
+		{{ range $day := $.Site.Data.schedule }}
+		  {{ range $session := $day.sessions }}
+  			{{ if and (ne $starttime "") (eq $endtime "") }}
+		  		 {{ $endtime = $session.time }}
+			  {{ else if eq $session.session $sessionname }}
+				  {{ $startday = $day.day }}
+					{{ $starttime = $session.time }}
+		  	{{ end }}
+			{{ end }}
+		{{ end }}
+
+		<div class="time">{{- partial "date-long.html" (dict "time" $startday "lang" "en") -}}, {{ $starttime }} - {{ $endtime }}</div>
+
+		{{ end }}
+
+		<div class="detail">
+			<ul class="speakers">
+				{{ range where .Site.RegularPages "Params.key" "in" .Params.speakers }}
+				<li>
+
+					<a class="visually-hidden" aria-hidden="true" href="{{ .Params.website }}" target="_blank">{{ .Params.name }}</a>
+   				<a class="speaker" href="{{ .Params.website }}" target="_blank">
+						<div class="speaker-img" style="background-image: url({{ .Params.photoURL }});"></div>
+						<strong class="speaker-name">{{ .Params.name }}</strong>
+						<span class="speaker-country">{{ .Params.city }}</span>
+						<div class="speaker-company">{{ .Params.company }}</div>
+					</a>
+				</li>
+				{{ end }}
+			</ul>
+
+			<ul class="paper-list">
+			  {{ range $pid := .Params.papers }}
+					{{ $paper := index (where $papers "pid" (int $pid) ) 0 }}
+					{{/* display if no merge, or if the id of the paper merged with is higher than own id */}}
+					{{ if or (not (isset $paper "mergedwith")) (gt $paper.mergedwith $paper.pid) }}
+		  			<li>
+					  {{ partial "paper.html" $paper }}
+						{{ if isset $paper "mergedwith" }}
+		  				{{ $mergedpaper := index (where $papers "pid" $paper.mergedwith) 0 }}
+			   			merged with
+				  		{{ partial "paper.html" $mergedpaper}}
+						{{ end }}
+	  				</li>
+			 		{{ end }}
+				{{ end }}
+			</ul>
+			<div class="content">{{ .Content }}</div>
+		</div>
+
+	</div>
+
+
+	<div class="media">
+		{{ if .Params.presentation }}
+		<a class="social-slides"
+		   href="{{ .Params.presentation }}"
+		   rel="noreferrer"
+		   target="_blank">See the slides</a>
+		{{ end }}
+
+		{{ if .Params.presentations }}
+		  {{ range $i, $presentation := .Params.presentations }}
+		  <a class="social-slides"
+		   href="{{ $presentation }}"
+		   rel="noreferrer"
+		   target="_blank">See the slides {{ add $i 1 }}</a><br>
+		  {{ end }}
+		{{ end }}
+
+		{{ if .Params.videoId }}
+		<div class="video" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+			<iframe src="//www.youtube.com/embed/{{ .Params.videoId }}?{{ if .Params.videoTime }}start={{ .Params.videoTime }};{{ end }}autoplay=1"
+			        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen
+			        title="YouTube Video"></iframe>
+		</div>
+		{{ end }}
+
+	</div>
+
+</section>
+{{ end }}
+
+{{ define "scripts" }}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+{{ end }}

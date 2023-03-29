@@ -1,0 +1,97 @@
+{{ define "main" }}
+
+{{ $lang := $.Page.Language.Lang }}
+
+
+<section class="schedule">
+	{{ range $day := $.Site.Data.schedule }}
+	{{ $time := split $day.start ":" }}
+	{{ $dayStartH := index $time 0 }}
+	{{ $dayStartM := index $time 1 }}
+	{{ $time := split $day.end ":" }}
+	{{ $dayEndH := index $time 0 }}
+	{{ $dayEndM := index $time 1 }}
+
+
+	<article id="day_{{$day.day}}" class="day">
+		<nav class="day-tabs">
+			{{ range $day := $.Site.Data.schedule }}
+			<a href="#day_{{$day.day}}">{{- partial "date-long.html" (dict "time" .day "lang" $lang) }}</a>
+			{{ end }}
+		</nav>
+<!--
+		All sessions are accessible from the
+		<a class="btn primary" href="https://meetanyway.com/events/qcrypt2021/" target="_blank">
+			<svg class="icon icon-link">
+			<use xlink:href="#link"></use>
+		</svg>meetanyway platform.
+		</a>
+		<span class="tag-break">Sessions marked with color</span> are taking place in the "Main Lobby" on the
+		<a class="btn primary" href="https://meetanyway.com/events/qcrypt2021/" target="_blank">
+			<svg class="icon icon-link">
+			<use xlink:href="#link"></use>
+		</svg>meetanyway platform.
+		</a>
+	-->
+	<div ><h1>Program</h1>	</div>
+
+		<div class="timezone">
+			Date and time are shown in:
+			<a class="btn primary" href="https://www.timeanddate.com/worldclock/personal.html?cities=241,224,165,136,176,248&wch=3" target="_blank">
+				<svg class="icon icon-link">
+				<use xlink:href="#link"></use>
+			</svg> GMT+8 Time - Taipei, Taiwan
+			</a>
+		</div>
+
+
+		<ul class="talks">
+			{{ range $session := $day.sessions }}
+			{{ $sessionPage := $.Site.GetPage (path.Join "/sessions" $session.session) }}
+			{{ $time := split $session.time ":" }}
+			{{ $hh := index $time 0 }}
+			{{ $mm := index $time 1 }}
+
+
+				<div class="session tag-{{ anchorize (delimit ($sessionPage.Params.tags | default (slice)) " " ) }}">
+					<span class="startt">
+						<span class="hh">{{ $hh }}</span>
+						<span class="mm">{{ $mm }}</span>
+					</span>
+					{{ partial "schedule-session" $sessionPage }}
+				</div>
+
+
+			{{ end }}
+		</ul>
+
+	</article>
+	{{ end }}
+
+</section>
+
+<!--<a href="#" class="goto-top" aria-label="Top">⬆︎</a>-->
+
+{{ .Content }}
+
+{{ end }}
+
+{{ define "scripts" }}
+<script>
+function checkLinks() {
+    const currentDay = document.location.hash;
+    if (!currentDay) {
+        let firstDay = document.querySelector('nav.day-tabs a');
+        if (firstDay) {
+            firstDay.click();
+        }
+    }
+    document.querySelectorAll('nav.day-tabs a')
+        .forEach(function(lnk) {
+            lnk.classList.toggle('active', lnk.getAttribute('href') === currentDay);
+        });
+}
+window.addEventListener("load", checkLinks, false);
+window.addEventListener("hashchange", checkLinks, false);
+</script>
+{{ end }}

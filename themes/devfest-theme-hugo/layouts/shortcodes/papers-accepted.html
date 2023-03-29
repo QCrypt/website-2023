@@ -1,0 +1,29 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+{{ $site := .Site }}
+{{ $papers := $.Site.Data.accepted_final }}
+
+<section class="papers">
+	{{/* fix as suggested in https://github.com/gohugoio/hugo/issues/6984#issuecomment-617879910 */}}
+	<div class="inner">
+		{{ .Inner }}
+	</div>
+
+	<ul class="paper-list">
+		{{ range $paper := $papers }}
+		  {{/* display if no merge, or if the id of the paper merged with is higher than own id */}}
+			{{ if or (not (isset $paper "mergedwith")) (gt $paper.mergedwith $paper.pid) }}
+  			<li value ="{{ $paper.pid }}">
+  			{{ partial "paper.html" $paper }}
+
+				{{ if isset $paper "mergedwith" }}
+  				{{ $mergedpaper := index (where $papers "pid" $paper.mergedwith) 0 }}
+	   			merged with #{{ $mergedpaper.pid }}:
+		  		{{ partial "paper.html" $mergedpaper}}
+				{{ end }}
+		  	</li>
+			{{ end }}
+	  {{ end }}
+
+	</ul>
+
+</section>

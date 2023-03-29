@@ -1,0 +1,11 @@
+<div class="paper-simple">
+	<div class="paper-title">{{ .title }}</div>
+
+	{{ $authors := .authors}}
+	<div class="paper-authors">
+		{{ range $key, $author := .authors }}
+		  {{ $author.first }} {{ $author.last }}{{ if ne $key (sub (len $authors) 1) }};{{ else }}{{ end }}
+		{{ end }}
+	</div>
+
+</div>

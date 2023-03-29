@@ -1,0 +1,18 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+{{ $site := .Site }}
+<section class="speakers">
+
+	<div class="inner">
+		{{ .Inner }}
+	</div>
+
+	<ul class="speakers">
+
+		{{ range sort (where $site.AllPages "Params.type" "tutorial") ".Params.surname"}}
+		<li>
+			{{ partial "speaker-simple.html" . }}
+		</li>
+		{{ end }}
+	</ul>
+
+</section>

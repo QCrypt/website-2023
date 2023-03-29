@@ -1,0 +1,4 @@
+{{- $monthFr := (slice "janvier" "février" "march" "avril" "mai" "juin" "juillet" "août" "septembre" "octobre" "novembre" "décembre")}}
+{{- $time := time (index . "time") }}
+{{- $lang := index . "lang" }}
+{{- if eq $lang "fr" }}{{ index $monthFr (sub $time.Month 1) }}{{- else }} {{ dateFormat "Mon, 2 Jan" $time}}{{ end }}

@@ -1,0 +1,40 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+{{ $site := .Site }}
+
+{{ $session := .Get "session" }}
+
+{{ $papers := $.Site.Data.posters }}
+{{ if eq $session "tue_afternoon" }}
+  {{ $papers = $.Site.Data.poster_tue_afternoon }}
+{{ else if eq $session "thu_morning" }}
+  {{ $papers = $.Site.Data.poster_thu_morning }}
+{{ else if eq $session "thu_afternoon" }}
+  {{ $papers = $.Site.Data.poster_thu_afternoon }}
+
+{{ end }}
+
+<section class="papers">
+	{{/* fix as suggested in https://github.com/gohugoio/hugo/issues/6984#issuecomment-617879910 */}}
+	<div class="inner">
+		{{ .Inner }}
+	</div>
+
+	<ul class="poster-list">
+		{{ range $paper := $papers }}
+		  {{/* display if no merge, or if the id of the paper merged with is higher than own id */}}
+			{{ if or (not (isset $paper "mergedwith")) (gt $paper.mergedwith $paper.pid) }}
+			  <li value="{{ $paper.pid }}">
+  			{{ partial "paper.html" $paper }}
+
+				{{ if isset $paper "mergedwith" }}
+  				{{ $mergedpaper := index (where $papers "pid" $paper.mergedwith) 0 }}
+	   			merged with
+		  		{{ partial "paper.html" $mergedpaper}}
+				{{ end }}
+		  	</li>
+			{{ end }}
+	  {{ end }}
+
+	</ul>
+
+</section>

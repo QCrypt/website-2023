@@ -1,0 +1,57 @@
+{{ $papers := $.Site.Data.accepted_final }}
+
+<a href="{{ .RelPermalink }}">
+	<h4>
+		{{ .Title }}
+		<span class="language {{ anchorize .Params.language }}"></span>
+	</h4>
+
+	<hr>
+
+	<div class="info">
+		{{ if .Params.tags }}
+		<div class="tags">
+			{{ range .Params.tags }}
+			{{ range first 1 (where $.Site.Data.categories "key" .) }}
+			<span>{{ .name }}</span>
+			{{ end }}
+			{{ end }}
+		</div>
+		{{ end }}
+
+		{{ if .Params.level }}
+		<div class="complexity">{{ .Params.level }}</div>
+		{{ end }}
+	</div>
+
+	<ul class="paper-list">
+		{{ range $pid := .Params.papers }}
+		  {{ $paper := index (where $papers "pid" (int $pid) ) 0 }}
+
+			{{/* display if no merge, or if the id of the paper merged with is higher than own id */}}
+			{{ if or (not (isset $paper "mergedwith")) (gt $paper.mergedwith $paper.pid) }}
+  			<li class="paper-short">
+			  {{ partial "paper-simple.html" $paper }}
+			  {{ if isset $paper "mergedwith" }}
+				  {{ $mergedpaper := index (where $papers "pid" $paper.mergedwith) 0 }}
+				  <i>merged with</i>
+				  {{ partial "paper-simple.html" $mergedpaper}}
+			  {{ end }}
+  			</li>
+	 		{{ end }}
+		{{ end }}
+	</ul>
+
+	{{ if .Params.speakers }}
+	<ul class="speakers">
+		{{ range where $.Site.RegularPages "Params.key" "in" .Params.speakers }}
+		<li class="speaker">
+			<div class="speaker-img" style="background-image: url({{ .Params.photoURL }});"></div>
+			<strong class="speaker-name">{{ .Params.name }}</strong>
+<!--			<div class="speaker-company">{{ .Params.company }}</div>-->
+		</li>
+		{{ end }}
+	</ul>
+	{{ end }}
+
+</a>

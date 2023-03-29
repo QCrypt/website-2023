@@ -1,0 +1,108 @@
+{{ $youtube := site.Data.youtube }}
+
+<div class="paper-single">
+	<div class="paper-title">{{ .title }}</div>
+
+	{{ $authors := .authors }}
+	{{ $options := .options }}
+	<div class="paper-authors">
+		{{ range $key, $author := .authors }}
+		  {{ $author.first }} {{ $author.last }} {{ $author.affiliation}}{{ if ne $key (sub (len $authors) 1) }};{{ else }}{{ end }}
+		{{ end }}
+	</div>
+<!--
+	<div class="paper-abstract">
+		<a style="color:#4c9cde;" onclick="$('#abstract-{{ .pid }}').toggle(200); return false">[abstract]</a>
+		<div class="paper-abstract-full" id="abstract-{{.pid}}" style="display:none">
+			<b>Abstract:</b> {{ .abstract }}
+		</div>
+	</div>
+-->
+	{{ if isset .options "arxiv-id" }}
+	<div class="paper-arxivid">
+		<a href="https://arxiv.org/abs/{{index .options "arxiv-id" }}" target="_blank">[arXiv: {{index .options "arxiv-id" }}]</a>
+	</div>
+  {{ end }}
+
+<!--	<div class="paper-youtubeid">
+	{{ range first 1 (where site.Data.youtube "pid" .pid) }}
+	  {{ if .id }}
+			<a href="https://youtu.be/{{ .id }}" target="_blank">[YouTube,
+				{{/* first check if presenter name is present in youtube.json , otherwise try to take it from accepted_final.json */}}
+				{{ if .presenter}}
+				  presented by {{ .presenter -}}
+				{{ else if isset $options "presenter-prerecorded-talk" }}
+					presented by {{ index $options "presenter-prerecorded-talk" -}}
+			  {{ end }}]</a>
+		{{ else }}
+		{{ if isset $options "presenter-prerecorded-talk" }}
+			[YouTube, still waiting for {{ index $options "presenter-prerecorded-talk" }}]
+		{{ end }}
+	  {{ end }}
+	{{ end }}
+  </div>
+-->
+
+
+	{{/* first make sure we are dealing with a poster here */}}
+  {{ if eq .decision "Poster" }}
+	  {{ $formatted_pid := printf "%03.f" .pid }}
+	  {{ $prefix := delimit (slice "QCrypt2021Poster" $formatted_pid) "" }}
+	  {{/* figure out if a PDF with that id exists in the poster directory */}}
+		{{ $filename := "" }}
+		{{ range (readDir "/static/posters") }}
+		  {{ if hasPrefix .Name $prefix }}
+			  {{ $filename = .Name }}
+			{{ end }}
+		{{ end }}
+		<div class="poster-pdf">
+		{{ if ne $filename "" }}
+	 		<a href="/posters/{{ $filename }}" target="_blank">[PDF]</a>
+		{{ else }}
+		  <!--[no PDF yet]-->
+		{{ end }}
+  	</div>
+
+		{{ if isset .options "name-main-presenter" }}
+		<div class="poster-presenter">
+			Poster presented by: {{ index .options "name-main-presenter" }}
+			{{ range first 1 (where site.Data.poster_floors "pid" .pid) }}
+			  {{ if .floor }}
+						on Floor {{ .floor }}
+			  {{ end }}
+			{{ end }}
+		</div>
+	  {{ end }}
+
+
+
+	{{ else }}
+	{{/* we have a contributed paper here */}}
+	  {{ $formatted_pid := printf "%03.f" .pid }}
+	  {{ $prefix := delimit (slice "QCrypt2021TalkSlides" $formatted_pid) "" }}
+	  {{/* figure out if a PDF with that id exists in the poster directory */}}
+	  {{ $filename := "" }}
+	  {{ range (readDir "/static/slides") }}
+		  {{ if hasPrefix .Name $prefix }}
+			  {{ $filename = .Name }}
+		  {{ end }}
+	  {{ end }}
+<!--	  <div class="paper-slides">
+	  {{ if ne $filename "" }}
+		  <a href="/slides/{{ $filename }}" target="_blank">[slides]</a>
+	  {{ end }}
+	  </div>
+-->
+
+
+  	{{ if isset .options "presenter-live-session" }}
+	  <div class="paper-presenter-live-session">
+		  Presenter live session: {{ index .options "presenter-live-session" }}
+	  </div>
+	  {{ end }}
+
+	  <!-- <div class="paper-id">submission #{{ .pid }}</div> -->
+
+	{{ end }}
+
+</div>

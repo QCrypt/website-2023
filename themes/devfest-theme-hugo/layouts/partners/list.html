@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+<div class="text_page">
+	<div class="hero">
+		<h1>{{ .Title }}</h1>
+		<div class="description">
+			{{ .TableOfContents }}
+		</div>
+	</div>
+
+	<section class="content">
+		{{ .Content }}
+	</section>
+</div>
+
+{{ end }}

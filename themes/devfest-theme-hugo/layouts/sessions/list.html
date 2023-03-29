@@ -1,0 +1,53 @@
+{{ define "main" }}
+
+{{ .Content }}
+
+<section>
+	<h2>Tutorials</h2>
+	<ul class="talks">
+		{{ $sessions := where .Site.AllPages ".Section" "sessions" }}
+		{{ $types := (slice "tutorial") }}
+		{{ range sort $sessions ".Title" }}
+		{{ if intersect (slice .Params.format) $types }}
+		<li class="talk tag-{{ anchorize (delimit (.Params.tags | default (slice)) "" ) }}">{{ partial "session.html" . }}</li>
+			{{ end }}
+		{{ end }}
+	</ul>
+
+	<h2>Invited Talks</h2>
+	<ul class="talks">
+		{{ $sessions := where .Site.AllPages ".Section" "sessions" }}
+		{{ $types := (slice "invited") }}
+		{{ range sort $sessions ".Title" }}
+		{{ if intersect (slice .Params.format) $types }}
+		<li class="talk tag-{{ anchorize (delimit (.Params.tags | default (slice)) "" ) }}">{{ partial "session.html" . }}</li>
+			{{ end }}
+		{{ end }}
+	</ul>
+
+	<h2>Contributed Talks</h2>
+	<ul class="talks">
+		{{ $sessions := where .Site.AllPages ".Section" "sessions" }}
+		{{ $types := (slice "contributed") }}
+		{{ range sort $sessions ".Title" }}
+		{{ if intersect (slice .Params.format) $types }}
+		<li class="talk tag-{{ anchorize (delimit (.Params.tags | default (slice)) "" ) }}">{{ partial "session.html" . }}</li>
+			{{ end }}
+		{{ end }}
+	</ul>
+
+	<h2>Others</h2>
+	<ul class="talks">
+		{{ $sessions := where .Site.AllPages ".Section" "sessions" }}
+		{{ $types := (slice "other") }}
+		{{ range sort $sessions ".Title" }}
+		{{ if intersect (slice .Params.format) $types }}
+		<li class="talk tag-{{ anchorize (delimit (.Params.tags | default (slice)) "" ) }}">{{ partial "session.html" . }}</li>
+			{{ end }}
+		{{ end }}
+	</ul>
+
+
+</section>
+
+{{ end }}

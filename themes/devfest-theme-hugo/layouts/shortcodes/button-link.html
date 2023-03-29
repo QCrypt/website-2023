@@ -1,0 +1,13 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+{{ $icon := .Get "icon" }}
+{{ $url := .Get "url" }}
+{{ $label := .Get "label" }}
+{{ $target := .Get "target" }}
+{{ $disabled := .Get "disabled" }}
+{{ $download := .Get "download" }}
+
+<a class="btn primary" href="{{ $url }}" {{ if $target }}target="_blank"{{ end }} {{ if $disabled }}style="pointer-events: none; display: inline-block; color: gray;"{{ end }} {{ if $download }} download {{ end}}>
+	{{ if and $icon (not (eq $icon "right")) }}{{ partial "icon.html" $icon }}{{ end }}
+	{{- $label -}}
+	{{ if eq $icon "right" }}{{ partial "icon.html" $icon }}{{ end }}
+</a>
