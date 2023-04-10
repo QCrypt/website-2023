@@ -90,14 +90,33 @@ Taiwan is on the way to opening its border but certain quarantine rules remain. 
 Please click <a style="color: blue" href="/accepted-papers/">here</a>. -->
 
 
-{{% /home-tickets %}}
-
 <!-- SPEAKERS -->
-<!-- BREAKS JUMBO IMAGE
-{{% home-speakers %}}
-## Featured Speakers
+<!-- BREAKS JUMBO IMAGE -->
 
-{{< button-link label="Submit a presentation"
+### Featured Speakers
+
+| | | |
+|:----|:----|:----|
+| | | |
+|Tutorial:| Henry Yuen | Columbia, USA|
+|Tutorial:| James Bartusek | UC Berkeley, USA|
+|Tutorial:| Xiongfeng Ma | Tsinghua, China|
+| ......... | | |
+
+| | | |
+|:----|:----|:----
+| | | |
+|Invited:| Minki Hhan | South Korea|
+|Invited:| Yael Kalai | Microsoft & MIT, USA|
+|Invited:| William Kretschmer | UT Austin, USA|
+|Invited:| Shengkai Liao | USTC, China|
+|Invited:| Nathan Arnold | Illinois, USA|
+|Invited:| Rebecka Sax | Geneva, Switzerland|
+| ......... | | |
+
+
+{{% /home-tickets %}}
+<!-- {{< button-link label="Submit a presentation"
                 url="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
                 icon="cfp" >}}
 
@@ -105,8 +124,9 @@ Please click <a style="color: blue" href="/accepted-papers/">here</a>. -->
                 url="./speakers"
                 icon="right" >}}
 
-{{% /home-speakers %}}
--->
+<!-- {{% home-speakers %}}
+{{% /home-speakers %}} -->
+
 
 <!--
 {{% home-tickets %}}
