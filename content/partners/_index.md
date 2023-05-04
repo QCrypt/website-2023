@@ -2,7 +2,7 @@
 title: Sponsors
 menu:
   main:
-    weight: 90
+    weight: 10
 
 type: text_page
 draft: false

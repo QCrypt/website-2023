@@ -4,7 +4,7 @@ draft: false
 type: text_page
 menu:
     main:
-        weight: 10
+        weight: 3
 
 ---
 

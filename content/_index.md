@@ -20,6 +20,9 @@ menu:
     Call for Papers
 </a>
 
+<a class="btn primary btn-lg" href="/registration">
+    Registration Open
+</a>
 
 {{% /jumbo %}}
 
@@ -50,18 +53,21 @@ QCrypt 2023 is the 13th edition of the yearly international scientific conferenc
 
 ## News
 
+<h1><a style="color: blue" href="/registration">Registration</a> open now!
+
 ### Key dates QCrypt 2023
 |Date |Event|
 |:----|:----|
 |<strike> 27 March 2023 </strike> | <!-- <a href="https://hotcrp.science.uva.nl/" target="_blank"> --> <strike> Talk submission open now </strike>|
 |<strike> Wed, 12 April 2023, 16:00 CET </strike> | <strike> Talk submission deadline </strike>|
-|<strong> Coming Soon </strong>| <strong> Registration open </Strong>|
+|<strong> Wed, 3 May - Mon, 31 July 2023 </strong>| <strong> Registration open </Strong>|
 |Wed, 21 June 2023|Talk acceptance notification|
 |Tue, 27 June 2023, 16:00 CET|Poster submission deadline|
 |Sat, 8 July 2023| Poster acceptance notification|
-|14-18 August 2023| QCrypt 2023|
+|Mon, 14 - Fri, 18 August 2023| QCrypt 2023|
 
-### <a style="color: blue" href="/call">Call for papers</a> open now!
+
+
 
 <!-- ### August 28th. 2022 | About conference record
 Due to time zone, We know that it is difficult for you to participate in the meeting all the time. All the talks will be recorded and made available on the online platform (EventX) a few hours later for our participants.

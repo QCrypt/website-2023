@@ -8,7 +8,6 @@ menu:
         weight: 99
 
 ---
-
 ## Venue
 The venue for QCrypt2023 is the <a href="https://iribe.umd.edu/"> Brendan Iribe Center for Computer Science and Engineering </a>, a new, state-of-the-art building on campus that houses the University’s Department of Computer Science and its Institute for Advanced Computer Studies (UMIACS) – the parent organization of QuICS – and includes the Michael Antonov auditorium that collaboratively seats 298 people, a second 100-seat auditorium (for overflow), an expansive lobby space (for poster sessions, sponsor tables and coffee breaks), and a number of seminar and classroom (as needed for possible breakout sessions or focused meetings). The address for the Iribe Center is: 8125 Paint Branch Dr, College Park, MD 20742.
 
@@ -21,8 +20,10 @@ The venue for QCrypt2023 is the <a href="https://iribe.umd.edu/"> Brendan Iribe 
 <figcaption>Michael Antonov Auditorium.  <br>	Image Credit: <a href ="https://www.cs.umd.edu/">UMD Computer Science </a> </figcaption>
 </figure>
 
-## VISA
-A visa letter can be requested during the registration process. Payment of the registration is required to issue a VISA letter. 
+## Local Accommodations
+The Conference and Visitor Services for the University of Maryland has partnered with many local area hotels (including on-campus and off-campus hotels) to provide competitive rates for UMD visitors. These hotels individually can be accessed at <a href="https://campustravel.com/university/university-of-maryland-conference-visitor-services/">here </a>. 
+
+If you want to compare available rates across multiple local area hotels, you can go <a href=" https://campustravel.com/university/university-of-maryland-conference-visitor-services/university-of-maryland-conference-visitor-services-search/"> here </a> (Note: These are not arranged by distance from the campus). 
 
 ## Transportation
 * Airports 
@@ -39,9 +40,8 @@ Image Credit: Greater Washington (Map by David Albert).
 </figcaption>
 </figure>
 
-
-## Local Accommodations
-The Conference and Visitor Services for the University of Maryland has partnered with many local area hotels (including on-campus and off-campus hotels) to provide competitive rates for UMD visitors. These hotels individually can be accessed at <a href="https://campustravel.com/university/university-of-maryland-conference-visitor-services/">here </a>. If you want to compare available rates across multiple local area hotels, you can go <a href=" https://campustravel.com/university/university-of-maryland-conference-visitor-services/university-of-maryland-conference-visitor-services-search/"> here </a> (Note: These are not arranged by distance from the campus). 
+## VISA
+A visa letter can be requested upon completion of the registration. 
 
 ## Regional attractions
 The University of Maryland is located approximately 10 miles (16 KM) from the nation’s capital of <a href="www.washington.org">Washington DC </a>- a stunning destination city. Washington DC is well known for its dramatic neoclassical monuments and buildings that are scattered around a vast open area called <a href="www.washington.org/visit-dc/monuments-memorials">‘The National Mall’</a>. A gem of the city’s amenities is the <a href="www.si.edu/museums">Smithsonian Institution </a> – the world’s largest complex of museums, galleries and zoo which are free to visit. 
