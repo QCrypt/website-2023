@@ -1,6 +1,6 @@
 ---
 title: Nijil Lal
-surname: z
+surname: Lal
 type: org
 subtitle: 'NIST'
 job: support
