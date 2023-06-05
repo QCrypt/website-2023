@@ -131,6 +131,6 @@ If you wish to become a industry exhibitor, please contact us at
 -->
 
 
-<!-- {{% partners categories="community" %}}
+{{% partners categories="community" %}}
 
-{{% /partners %}} -->
+{{% /partners %}}
