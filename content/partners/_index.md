@@ -23,11 +23,11 @@ We are grateful to our generous sponsors. With their contributions, they not onl
 
 
 
-<!-- ## Our Sponsors -->
+## Our Sponsors
 
-<!-- {{% partners categories="gold,silver,bronze,community" %}}
+{{% partners categories="gold,silver,community" %}}
 
-{{% /partners %}} -->
+{{% /partners %}}
 <!--
 
 We thank the organizers of QCrypt 2019: Gilles Brassard, Claude Crépeau, Sébastien Gambs and Louis Salvail and their institutes: University of Montréal, McGill University and Université du Québec
@@ -131,6 +131,6 @@ If you wish to become a industry exhibitor, please contact us at
 -->
 
 
-{{% partners categories="community" %}}
+<!-- {{% partners categories="community" %}}
 
-{{% /partners %}}
+{{% /partners %}} -->
