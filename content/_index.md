@@ -198,7 +198,7 @@ Please click <a style="color: blue" href="/accepted-papers/">here</a>. -->
 
 {{% /partners %}}
 
-QCrypt 2023 is seeking sponsors. Sponsor packages and other details will be announced in due course.
+QCrypt 2023 is seeking sponsors. To know more about sponsor packages and other information – please email {{< button-link label="2023@qcrypt.net" url="mailto:2023@qcrypt.net?subject=Sponsorship Enquiry" icon="email" >}}. 
 
 <!-- {{% /partners %}} -->
 
