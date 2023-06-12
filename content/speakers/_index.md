@@ -1,6 +1,6 @@
 ---
 title: Speakers
-draft: true
+draft: false
 type: speakers
 layout: list_with_header
 menu:
@@ -22,12 +22,12 @@ menu:
 {{< speakers-tutorial >}}
 {{< /speakers-tutorial >}}
 
-## Industry Session
+<!-- ## Industry Session -->
 <!--Click on a speaker's name to read their bio.-->
-(Alphabetical Listing by Company Name)
+<!-- (Alphabetical Listing by Company Name)
 
 {{< speakers-industry  >}}
-{{< /speakers-industry >}}
+{{< /speakers-industry >}} -->
 
 <!--
 
