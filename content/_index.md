@@ -67,8 +67,27 @@ QCrypt 2023 is the 13th edition of the yearly international scientific conferenc
 |Sat, 8 July 2023| Poster acceptance notification|
 |Mon, 14 - Fri, 18 August 2023| QCrypt 2023|
 
+### Featured Speakers
 
+| | | |
+|:----|:----|:----|
+| | | |
+|Tutorial:| James Bartusek | UC Berkeley, USA|
+|Tutorial:| Xiongfeng Ma | IIIS, Tsinghua University, China|
+|Tutorial:| Henry Yuen | Columbia University, USA|
+| ......... | | |
 
+| | | |
+|:----|:----|:----
+| | | |
+|Invited:| Nathan Arnold | UIUC, USA|
+|Invited:| Minki Hhan | KIAS, South Korea|
+|Invited:| Yael Kalai | Microsoft Research & MIT, USA|
+|Invited:| William Kretschmer | UT Austin, USA|
+|Invited:| Zhou Lai | BAQIS, China|
+|Invited:| Sheng-Kai Liao | USTC, China|
+|Invited:| Rebecka Sax | University of Geneva, Switzerland|
+| ......... | | |
 
 <!-- ### August 28th. 2022 | About conference record
 Due to time zone, We know that it is difficult for you to participate in the meeting all the time. All the talks will be recorded and made available on the online platform (EventX) a few hours later for our participants.
@@ -99,41 +118,22 @@ Please click <a style="color: blue" href="/accepted-papers/">here</a>. -->
 
 <!-- SPEAKERS -->
 <!-- BREAKS JUMBO IMAGE -->
-
-### Featured Speakers
-
-| | | |
-|:----|:----|:----|
-| | | |
-|Tutorial:| Henry Yuen | Columbia, USA|
-|Tutorial:| James Bartusek | UC Berkeley, USA|
-|Tutorial:| Xiongfeng Ma | Tsinghua, China|
-| ......... | | |
-
-| | | |
-|:----|:----|:----
-| | | |
-|Invited:| Minki Hhan | South Korea|
-|Invited:| Yael Kalai | Microsoft & MIT, USA|
-|Invited:| William Kretschmer | UT Austin, USA|
-|Invited:| Shengkai Liao | USTC, China|
-|Invited:| Nathan Arnold | Illinois, USA|
-|Invited:| Rebecka Sax | Geneva, Switzerland|
-| ......... | | |
-
-
 {{% /home-tickets %}}
+
+<!-- {{< speakers-tutorial >}}
+<strong> Tutorial Speakers </strong>
+{{< /speakers-tutorial >}}
+
+{{< speakers-invited >}}
+<strong> Invited Speakers </strong>
+{{< /speakers-invited >}} -->
 <!-- {{< button-link label="Submit a presentation"
                 url="https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
                 icon="cfp" >}}
 
-{{< button-link label="See all speakers"
+<!-- {{< button-link label="See all speakers"
                 url="./speakers"
-                icon="right" >}}
-
-<!-- {{% home-speakers %}}
-{{% /home-speakers %}} -->
-
+                icon="right" >}} -->
 
 <!--
 {{% home-tickets %}}
@@ -190,6 +190,8 @@ Please click <a style="color: blue" href="/accepted-papers/">here</a>. -->
 <img src="/images/partners/ccisa.png" alt="ccisa-logo" style="width:15%;margin-left:auto;margin-right:auto;display: black;"/>
 {{% /home-tickets %}}
 -->
+
+
 {{% partners categories="gold,silver,bronze,community" %}}
 
 ## Sponsors

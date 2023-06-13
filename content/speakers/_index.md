@@ -10,17 +10,17 @@ menu:
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
-## Invited Speakers
-<!--Click on a speaker's name to read the title and abstract for their presentation.-->
-
-{{< speakers-invited >}}
-{{< /speakers-invited >}}
-
 ## Tutorial Speakers
 <!--Click on a speaker's name to read the title and abstract for their presentation.-->
 
 {{< speakers-tutorial >}}
 {{< /speakers-tutorial >}}
+
+## Invited Speakers
+<!--Click on a speaker's name to read the title and abstract for their presentation.-->
+
+{{< speakers-invited >}}
+{{< /speakers-invited >}}
 
 <!-- ## Industry Session -->
 <!--Click on a speaker's name to read their bio.-->
