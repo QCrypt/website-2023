@@ -51,8 +51,8 @@ A visa letter can be requested during the registration process. Completion of th
 P.S. If you need an invitation letter for the VISA application, please reply to the registration confirmation letter. -->
 
 ### Student Fee Waiver
-A limited amount of funding is being made available to support students who need assistance and would not be able to attend without that assistance. Students who seek for a fee waiver should write to the conference organizers at {{< button-link label="2023@QCRYPT.NET" url="mailto:2023@QCRYPT.NET " icon="email" >}}
- with the subject line “QCrypt 2023 Student Fee Waiver” as soon as possible (preferably before mid-July). 
+A limited amount of funding is being made available to support students who need assistance and would not be able to attend without that assistance. Students who seek for a fee waiver should write to the conference organizers at {{< button-link label="2023@QCRYPT.NET" url="mailto:2023@QCRYPT.NET?subject=QCrypt 2023 Student Fee Waiver" icon="email" >}}
+ with the subject line “QCrypt 2023 Student Fee Waiver” <strong> by July 8<sup>th</sup> </strong> to receive further instructions. 
 
 <!-- **You can still register for the conference, but participation links will only be sent out twice a day.** In the meanwhile, you can watch the live stream on our QCrypt Conference YouTube channel: https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw/videos
 
