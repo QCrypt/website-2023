@@ -26,7 +26,7 @@ Our poster is now available! Please <a href="/poster">download and print it your
 |<strong> Wed, 3 May - Mon, 31 July 2023 </strong>| <strong> Registration open now </Strong>|
 |<strike>Wed, 21 June 2023</strike>|<strike>Talk acceptance notification</strike>|
 |Thu, 22 June 2023|Poster submission opens|
-|Tue, 27 June 2023, 16:00 CET|Poster submission deadline|
+|<strike>Tue, 27</strike>Fri, 30 June 2023, 16:00 CET|Poster submission deadline|
 |Sat, 8 July 2023| Poster acceptance notification|
 |14-18 August 2023| QCrypt 2023|
 
