@@ -15,9 +15,14 @@ menu:
 -->
 
 
-<a class="btn primary btn-lg" href="/call">
+<a class="btn primary btn-lg" href="/accepted-papers">
  <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>
-    Call for Papers
+    Accepted Papers
+</a>
+
+<a class="btn primary btn-lg" href="/speakers">
+ <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>
+    Tutorial and Invited Speakers
 </a>
 
 <a class="btn primary btn-lg" href="/registration">

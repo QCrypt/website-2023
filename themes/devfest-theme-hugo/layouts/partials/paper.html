@@ -7,17 +7,17 @@
 	{{ $options := .options }}
 	<div class="paper-authors">
 		{{ range $key, $author := .authors }}
-		  {{ $author.first }} {{ $author.last }} {{ $author.affiliation}}{{ if ne $key (sub (len $authors) 1) }};{{ else }}{{ end }}
+		  {{ $author.first }} {{ $author.last }} ({{ $author.affiliation}}){{ if ne $key (sub (len $authors) 1) }};{{ else }}{{ end }}
 		{{ end }}
 	</div>
-<!--
+
 	<div class="paper-abstract">
 		<a style="color:#4c9cde;" onclick="$('#abstract-{{ .pid }}').toggle(200); return false">[abstract]</a>
 		<div class="paper-abstract-full" id="abstract-{{.pid}}" style="display:none">
 			<b>Abstract:</b> {{ .abstract }}
 		</div>
 	</div>
--->
+
 	{{ if isset .options "arxiv-id" }}
 	<div class="paper-arxivid">
 		<a href="https://arxiv.org/abs/{{index .options "arxiv-id" }}" target="_blank">[arXiv: {{index .options "arxiv-id" }}]</a>

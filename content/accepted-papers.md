@@ -2,28 +2,21 @@
 title: Accepted Papers
 type: text_page
 draft: false
+menu:
+    main:
+        weight: 10
+
 ---
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
-This page will be updated later.
-<!-- ## List of Accepted Contributed Talks -->
+## List of Accepted Contributed Talks
 
-<!--
-### Upgraded Talk Slot
 (in order of submission)
 
-{{< papers-upgraded >}}
-{{< /papers-upgraded >}}
-
-### Regular Talk Slot-->
-
-
-<!-- (in order of submission)
-
 {{< papers-accepted >}}
-{{< /papers-accepted >}} -->
+{{< /papers-accepted >}}
 
 
 <!-- ## List of Accepted Posters

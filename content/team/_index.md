@@ -2,7 +2,7 @@
 title: Committees
 menu:
   main:
-    weight: 4
+    weight: 100
 
 type: team
 layout: list_with_header
