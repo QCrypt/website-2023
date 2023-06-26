@@ -44,6 +44,8 @@ In line with the goal of showcasing the best results each year from all subfield
 
 **By default, QCrypt 2023 will be an on-site conference, and it is requested that the authors of accepted papers give an in-person presentation at the conference. Exceptions will be made only if special circumstances prevent the authors from attending the conference.**
 
+Poster Size:  Posters should be no wider than 1 meter and no higher than 1.2 meters to fit comfortably on the poster support boards.
+
 ## Submission Instructions
 All submissions should be in PDF (Portable Document Format).  An extended abstract for a talk submission should be 2-3 pages, in A4 or letter size, using reasonable margins and at least 11pt font.  (The 3-page limit does not include references.)  An extended abstract for a talk should give a non-technical, clear and insightful description of the results and main ideas, their impact, and their importance to quantum cryptography.
 

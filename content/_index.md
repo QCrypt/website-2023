@@ -70,6 +70,8 @@ QCrypt 2023 is the 13th edition of the yearly international scientific conferenc
 |Thu, 22 June 2023|Poster submission opens|
 |<strike>Tue, 27</strike>Fri, 30 June 2023, 16:00 CET|Poster submission deadline|
 |Sat, 8 July 2023| Poster acceptance notification|
+|Mon, 10 July 2023| Early bird rate deadline|
+|Mon, 31 July 2023| Registration deadline|
 |Mon, 14 - Fri, 18 August 2023| QCrypt 2023|
 
 ### Featured Speakers
