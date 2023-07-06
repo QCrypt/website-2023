@@ -22,7 +22,7 @@ In case of questions or technical difficulties with the registration process, pl
 The registration fees are as follows:
 |  Fees |  Early Bird  |  Regular  |
 |:------|:-----|:-----|
-||  Until July 10.  |  After Jul 10.   |
+||  Until July 15.  |  After Jul 15.   |
 |General Registration | US$545 |US$645|
 |Student Registration* | US$345 |US$445|
 
