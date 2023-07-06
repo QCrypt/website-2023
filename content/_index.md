@@ -66,11 +66,11 @@ QCrypt 2023 is the 13th edition of the yearly international scientific conferenc
 |<strike> 27 March 2023 </strike> | <!-- <a href="https://hotcrp.science.uva.nl/" target="_blank"> --> <strike> Talk submission open now </strike>|
 |<strike> Wed, 12 April 2023, 16:00 CET </strike> | <strike> Talk submission deadline </strike>|
 |<strong> Wed, 3 May - Mon, 31 July 2023 </strong>| <strong> Registration open now </Strong>|
-|<strike>Wed, 21 June 2023|Talk acceptance notification</strike>|
+|<strike> Wed, 21 June 2023|Talk acceptance notification </strike>|
 |Thu, 22 June 2023|Poster submission opens|
-|<strike>Tue, 27</strike>Fri, 30 June 2023, 16:00 CET|Poster submission deadline|
+|<strike>Tue, 27 Fri, 30 June 2023, 16:00 CET|Poster submission deadline|</strike>
 |Sat, 8 July 2023| Poster acceptance notification|
-|Mon, 10 July 2023| Early bird rate deadline|
+|Mon, 15 July 2023| Early bird rate deadline|
 |Mon, 31 July 2023| Registration deadline|
 |Mon, 14 - Fri, 18 August 2023| QCrypt 2023|
 
