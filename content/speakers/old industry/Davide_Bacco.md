@@ -4,6 +4,6 @@ name: Davide Bacco
 surname: QTI
 company: QTI
 photoURL: /images/speakers/bacco.jpeg
-type: industry
+type: old industry
 website: '/sessions/industry_bacco'
 ---

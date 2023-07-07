@@ -4,6 +4,6 @@ name: Robert Starkwood
 surname: KETS
 company: KETS
 photoURL: /images/team/starkwood.jpg
-type: industry
+type: old industry
 website: '/sessions/industry_starkwood'
 ---

@@ -28,6 +28,12 @@ menu:
 {{< speakers-invited >}}
 {{< /speakers-invited >}}
 
+## Industry Panel
+<!--Click on a speaker's name to read the title and abstract for their presentation.-->
+
+{{< speakers-industry >}}
+{{< /speakers-industry >}}
+
 
 <!-- ## Industry Session -->
 <!--Click on a speaker's name to read their bio.-->
