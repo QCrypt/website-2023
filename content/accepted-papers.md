@@ -19,13 +19,14 @@ menu:
 {{< /papers-accepted >}}
 
 
-<!-- ## List of Accepted Posters
+## List of Accepted Posters
 
 (in order of submission)
 
 {{< posters-accepted >}}
 {{< /posters-accepted >}}
 
+<!--
 ## Best Student Paper Awards
 ### Theory
 Congratulations to **Tony Metger** for *Generalised entropy accumulation for quantum cryptography* with co-authors Omar Fawzi ; David Sutter ; Renato Renner
