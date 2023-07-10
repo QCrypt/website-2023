@@ -65,7 +65,7 @@ QCrypt 2023 is the 13th edition of the yearly international scientific conferenc
 > <h3>June 6 – <strong>UMD President and NIST ADLP to address QCrypt 23</h3></strong>We are delighted to announce that UMD President Dr. Darryll Pines and NIST Associate Director for Laboratory Programs, Dr. Charles Romine will <a style="color: blue" href="/speakers">address the attendees</a> of QCrypt during the reception on Monday, August 14.
 		
 > <h3>July 6 – <strong>Deadline for registration fee waiver extended</strong></h3> A limited amount of funding is being made available to support students who need assistance and would not be able to attend without that assistance. Students who seek a fee waiver should <a style="color: blue" href="mailto:2023@qcrypt.net?subject=Sponsorship Enquiry">write to the conference organizers</a> with the subject line "QCrypt 2023 Student Fee Waiver" by July 15 to receive further instructions.
-		
+
 > <h3>June 30 – <strong>Industry Panel Announced</strong></h3>An Industry Panel discussion will take place on Thursday morning. <a style="color: blue" href="/speakers">The panel</a> will include representatives from IDQuantique, Toshiba, Cisco, Qubitekk and NIST.
 		
 > <h3>June 21 – <strong>Accepted Papers Announced</h3></strong> Over 30 papers have been selected for contributed talks. <a style="color: blue" href="/accepted-papers">Learn more.</a>
