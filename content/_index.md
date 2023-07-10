@@ -59,18 +59,17 @@ QCrypt 2023 is the 13th edition of the yearly international scientific conferenc
 ## News
 	
 > <h3>July 9 – <strong>Visa and ESTA info</h3></strong>If needed, the responsibility for obtaining a visa is on the attendee. Attendees from certain countries <a style="color: blue" href="https://esta.cbp.dhs.gov/esta">may qualify for a visa waiver</a>. However, attendees will still require <a style="color: blue" href="https://esta.cbp.dhs.gov/esta">Electronic System for Travel Authorization (ESTA)</a> approval prior to travel.
-
-		
+	
 > <h3>July 6 – <strong>Early Bird Registration Deadline Extended</strong></h3> The deadline for the earlybird registration rate has been extended to July 15. Be sure to <a style="color: blue" href="/registration">register</a> for your spot at QCrypt23 before prices go up. 
 
 > <h3>June 6 – <strong>UMD President and NIST ADLP to address QCrypt 23</h3></strong>We are delighted to announce that UMD President Dr. Darryll Pines and NIST Associate Director for Laboratory Programs, Dr. Charles Romine will <a style="color: blue" href="/speakers">address the attendees</a> of QCrypt during the reception on Monday, August 14.
 		
 > <h3>July 6 – <strong>Deadline for registration fee waiver extended</strong></h3> A limited amount of funding is being made available to support students who need assistance and would not be able to attend without that assistance. Students who seek a fee waiver should <a style="color: blue" href="mailto:2023@qcrypt.net?subject=Sponsorship Enquiry">write to the conference organizers</a> with the subject line "QCrypt 2023 Student Fee Waiver" by July 15 to receive further instructions.
-
+		
 > <h3>June 30 – <strong>Industry Panel Announced</h3></strong>An Industry Panel discussion will take place on Thursday morning. <a style="color: blue" href="/speakers">The panel</a> will include representatives from IDQuantique, Toshiba, Cisco, Qubitekk and NIST.
-
+		
 > <h3>June 21 – <strong>Accepted Papers Announced</h3></strong> Over 30 papers have been selected for contributed talks. <a style="color: blue" href="/accepted-papers">Learn more.</a>
-
+		
 > <h3>June 15 – <strong>Tutuorial and Invited Speakers Announced</h3></strong>We are excited to have a great list of tutorial and invited speakers. See the <a style="color: blue" href="/speakers">speaker page</a> for more details.
 
 ### <strong>Key Dates QCrypt 2023</strong>
