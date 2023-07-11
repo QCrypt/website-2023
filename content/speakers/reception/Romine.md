@@ -1,6 +1,6 @@
 ---
 key: Romine
-name: Charles Romine
+name: Charles H. Romine
 surname: Romine
 company: Associate Director for Laboratory Programs at NIST
 photoURL: /images/speakers/Romine.jpg

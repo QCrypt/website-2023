@@ -35,7 +35,7 @@
             {{ $sessionname = "industrial" }}
         {{ end }}
 		{{ if not (hasPrefix $sessionname "__") }}
-		{{ warnf $sessionname }}
+		{{/* warnf $sessionname */}}
 
 		{{/* figure out when this session is running from schedule */}}
 		{{ $startday := "" }}

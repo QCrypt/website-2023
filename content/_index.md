@@ -7,13 +7,20 @@ menu:
 <!-- JUMBO -->
 {{% jumbo img="/images/backgrounds/umd1.jpg" imgLabel="QCrypt 2022 background" %}}
 
-## 14th to 18th August 2023
+## August 14–18, 2023
 <!--
 ### 2021: online conference
 
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="/2023">Host QCrypt 2023</a>
 -->
 
+<a class="btn primary btn-lg" href="/news">
+    News & Announcements
+</a>
+
+<a class="btn primary btn-lg" href="/registration">
+    Registration Open
+</a>
 
 <a class="btn primary btn-lg" href="/accepted-papers">
  <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>
@@ -22,12 +29,12 @@ menu:
 
 <a class="btn primary btn-lg" href="/speakers">
  <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>
-    Tutorial and Invited Speakers
+    Tutorial & Invited Speakers
 </a>
 
-<a class="btn primary btn-lg" href="/registration">
-    Registration Open
-</a>
+
+
+
 
 {{% /jumbo %}}
 
@@ -55,7 +62,7 @@ QCrypt 2023 is the 13th edition of the yearly international scientific conferenc
 {{% /home-info %}}
 
 {{% home-tickets %}}
-
+<!-- 
 ## News
 	
 > <h3>July 9 – <strong>Visa and ESTA info</h3></strong><body style="text-align:left">If needed, the responsibility for obtaining a visa is on the attendee. Attendees from certain countries <a style="color: blue" href="https://esta.cbp.dhs.gov/esta">may qualify for a visa waiver</a>. However, attendees will still require <a style="color: blue" href="https://esta.cbp.dhs.gov/esta">Electronic System for Travel Authorization (ESTA)</a> approval prior to travel.</body>
@@ -70,7 +77,7 @@ QCrypt 2023 is the 13th edition of the yearly international scientific conferenc
 
 > <h3>June 21 – <strong>Accepted Papers Announced</h3></strong><body style="text-align:left">Over 30 papers have been selected for contributed talks. <a style="color: blue" href="/accepted-papers">Learn more.</a></body>
 
-> <h3>June 15 – <strong>Tutuorial and Invited Speakers Announced</h3></strong><body style="text-align:left">We are excited to have a great list of tutorial and invited speakers. See the <a style="color: blue" href="/speakers">speaker page</a> for more details.</body>
+> <h3>June 15 – <strong>Tutuorial and Invited Speakers Announced</h3></strong><body style="text-align:left">We are excited to have a great list of tutorial and invited speakers. See the <a style="color: blue" href="/speakers">speaker page</a> for more details.</body>-->
 		
 
 ### <strong>Key Dates QCrypt 2023</strong>
@@ -87,6 +94,8 @@ QCrypt 2023 is the 13th edition of the yearly international scientific conferenc
 |Mon, 31 July 2023| Registration deadline|
 |Mon, 14 - Fri, 18 August 2023| QCrypt 2023|
 
+
+<!-- 
 ### <strong>Featured Speakers</strong>
 
 | | | |
@@ -109,7 +118,7 @@ QCrypt 2023 is the 13th edition of the yearly international scientific conferenc
 |Invited:| Rebecka Sax | University of Geneva, Switzerland|
 
 
-<!-- ### August 28th. 2022 | About conference record
+### August 28th. 2022 | About conference record
 Due to time zone, We know that it is difficult for you to participate in the meeting all the time. All the talks will be recorded and made available on the online platform (EventX) a few hours later for our participants.
 
 ### August 27th. 2022 | Prerecorded contributed talks videos now available

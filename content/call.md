@@ -26,7 +26,7 @@ Our poster is now available! Please <a href="/poster">download and print it your
 |<strong> Wed, 3 May - Mon, 31 July 2023 </strong>| <strong> Registration open now </Strong>|
 |<strike>Wed, 21 June 2023</strike>|<strike>Talk acceptance notification</strike>|
 |<strike>Thu, 22 June 2023</strike>|<strike>Poster submission opens</strike>|
-|<strike>Fri, 30 June 2023, 16:00 CET|Poster submission deadline|
+|<strike>Fri, 30 June 2023, 16:00 CET</strike>|<strike>Poster submission deadline|</strike>
 |<strike>Sat, 8 July 2023</strike>|<strike>Poster acceptance notification</strike>|
 |14-18 August 2023| QCrypt 2023|
 
@@ -35,7 +35,6 @@ Subscribe to <a href="https://calendar.google.com/calendar/embed?src=4f9rvlunmmr
 -->
 ## Goal of the Conference
 QCRYPT is a conference for students and researchers who work on quantum cryptography, broadly defined.  We invite research contributions on the possibilities and limitations of quantum methods for secure communication and computation.  (Research on classical post-quantum cryptography is considered to be within scope if it makes innovative use of quantum information concepts.)  QCRYPT features both experimental and theoretical talks.
-
 
 ## Contributed Talks and Posters
 QCrypt solicits submissions of extended abstracts describing recent research results in quantum cryptography. These will be reviewed by the program committee, which will select a small number of contributed talks, and a larger number of poster presentations. The selection will be based on scientific merit of the submissions, keeping in mind the desire to create an attractive and balanced program. A small number of submissions may be upgraded to invited talks at the discretion of the PC chairs and of the steering committee.
