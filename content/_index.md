@@ -86,7 +86,7 @@ QCrypt 2023 is the 13th edition of the yearly international scientific conferenc
 |Sat, 15 July 2023| Early bird rate deadline|
 |Mon, 31 July 2023| Registration deadline|
 |Mon, 14 - Fri, 18 August 2023| QCrypt 2023|
-
+<!-- 
 ### <strong>Featured Speakers</strong>
 
 | | | |
@@ -109,7 +109,7 @@ QCrypt 2023 is the 13th edition of the yearly international scientific conferenc
 |Invited:| Rebecka Sax | University of Geneva, Switzerland|
 
 
-<!-- ### August 28th. 2022 | About conference record
+### August 28th. 2022 | About conference record
 Due to time zone, We know that it is difficult for you to participate in the meeting all the time. All the talks will be recorded and made available on the online platform (EventX) a few hours later for our participants.
 
 ### August 27th. 2022 | Prerecorded contributed talks videos now available
