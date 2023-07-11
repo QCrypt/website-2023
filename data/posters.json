@@ -3776,32 +3776,5 @@
             "experiment",
             "theory"
         ]
-    },
-    {
-        "pid": 179,
-        "submission_class": "poster",
-        "title": "Quantum key distribution with multiple photon number distributions",
-        "abstract": "High brightness, low-g2 single-photon sources (SPSs) are an alternative to commonly employed weak coherent pulse (WCP) sources for discrete variable quantum key distribution (QKD) and offer potential key-rate and finite-block scaling advantages. However, the loss tolerance of SPS-based QKD is compromised by photon number splitting (PNS) attacks against non-negligible multiphoton emissions. Decoy state (DS) techniques mitigate against PNS attacks, with WCP-DS QKD over several hundred km in fibre being demonstrated. Here, we adapt the DS method to any practical SPS that can easily generate multiple photon number distributions (PND) by attenuating its original photon emissions. Hence, we provide finite-key security bounds for a Multi-PND (adapted 2-Decoy) protocol using Efficient BB84 with optimised parameters. We use a particular true quantum dot source to compare its key rate generation with a Single-PND (adapted Non-Decoy) protocol for several finite block sizes. As expected, the Multi-PND gives higher key rates than the Single-PND, except for considerably small blocks. Moreover, the Multi-PND protocol goes beyond 200 km of tolerable fibre distance for high acquisition times. In this work, we set a generalised method to employ the DS techniques with any realistic SPS and further research may be done implementing distinct SPS characteristics.",
-        "authors": [
-            {
-                "first": "Roberto G.",
-                "last": "Pousa",
-                "affiliation": "The University of Strathclyde"
-            },
-            {
-                "first": "Daniel",
-                "last": "Oi",
-                "affiliation": "The University of Strathclyde"
-            },
-            {
-                "first": "John",
-                "last": "Jeffers",
-                "affiliation": "The University of Strathclyde"
-            }
-        ],
-        "topics": [
-            "QKD theory",
-            "theory"
-        ]
     }
 ]
