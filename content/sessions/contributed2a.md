@@ -4,7 +4,7 @@ papers:
 - 46
 - 76
 - 77
-videoId: Oq4aAbFrGik
+videoId: null
 presentation: null
 draft: false
 ---

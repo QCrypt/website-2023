@@ -1,10 +1,11 @@
 ---
-title: "Contributed Talks 1b: Theory talks (Chair: Valerio Scarani)"
+title: "Contributed Talks 1b: Theory talks (Chair: TBA)"
 papers:
-- 41
+- 35
 - 53
-- 86
-videoId: aCsVkqfz3vU
+- 58
+- 57
+videoId: null
 presentation: null
 draft: false
 ---

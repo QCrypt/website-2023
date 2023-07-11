@@ -35,6 +35,7 @@
             {{ $sessionname = "industrial" }}
         {{ end }}
 		{{ if not (hasPrefix $sessionname "__") }}
+		{{ warnf $sessionname }}
 
 		{{/* figure out when this session is running from schedule */}}
 		{{ $startday := "" }}
@@ -51,7 +52,16 @@
 			{{ end }}
 		{{ end }}
 
-		<div class="time">{{- partial "date-long.html" (dict "time" $startday "lang" "en") -}}, {{ $starttime }} - {{ $endtime }}</div>
+		{{/* 	
+		{{ warnf $startday }}
+		{{ warnf $starttime }}
+		{{ warnf $endtime }} */}}
+
+		{{ if $startday }}
+			<div class="time">{{- partial "date-long.html" (dict "time" $startday "lang" "en") -}}, {{ $starttime }} - {{ $endtime }}</div>
+		{{ else }}
+			{{ warnf "no startday found" }}
+		{{ end }}
 
 		{{ end }}
 

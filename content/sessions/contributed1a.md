@@ -1,9 +1,8 @@
 ---
-title: "Contributed Talks 1a: Theory Talks (Chair: Anurag Anshu)"
+title: "Contributed Talk 1a (Chair: TBA)"
 papers:
-- 10
-- 94
-videoId: -KfXebfoWGM
+- 100
+videoId: null
 presentation: null
 draft: false
 ---
