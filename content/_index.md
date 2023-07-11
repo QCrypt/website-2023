@@ -55,7 +55,7 @@ QCrypt 2023 is the 13th edition of the yearly international scientific conferenc
 {{% /home-info %}}
 
 {{% home-tickets %}}
-
+<!-- 
 ## News
 	
 > <h3>July 9 – <strong>Visa and ESTA info</h3></strong><body style="text-align:left">If needed, the responsibility for obtaining a visa is on the attendee. Attendees from certain countries <a style="color: blue" href="https://esta.cbp.dhs.gov/esta">may qualify for a visa waiver</a>. However, attendees will still require <a style="color: blue" href="https://esta.cbp.dhs.gov/esta">Electronic System for Travel Authorization (ESTA)</a> approval prior to travel.</body>
@@ -70,7 +70,7 @@ QCrypt 2023 is the 13th edition of the yearly international scientific conferenc
 
 > <h3>June 21 – <strong>Accepted Papers Announced</h3></strong><body style="text-align:left">Over 30 papers have been selected for contributed talks. <a style="color: blue" href="/accepted-papers">Learn more.</a></body>
 
-> <h3>June 15 – <strong>Tutuorial and Invited Speakers Announced</h3></strong><body style="text-align:left">We are excited to have a great list of tutorial and invited speakers. See the <a style="color: blue" href="/speakers">speaker page</a> for more details.</body>
+> <h3>June 15 – <strong>Tutuorial and Invited Speakers Announced</h3></strong><body style="text-align:left">We are excited to have a great list of tutorial and invited speakers. See the <a style="color: blue" href="/speakers">speaker page</a> for more details.</body>-->
 		
 
 ### <strong>Key Dates QCrypt 2023</strong>
