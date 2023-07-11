@@ -93,6 +93,8 @@ QCrypt 2023 is the 13th edition of the yearly international scientific conferenc
 |Sat, 15 July 2023| Early bird rate deadline|
 |Mon, 31 July 2023| Registration deadline|
 |Mon, 14 - Fri, 18 August 2023| QCrypt 2023|
+
+
 <!-- 
 ### <strong>Featured Speakers</strong>
 

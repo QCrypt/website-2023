@@ -10,12 +10,10 @@ menu:
 
 ## Registration for QCrypt 2023 is now open!
 QCrypt is the annual international scientific conference presenting the latest results in quantum cryptography. The 2023 conference will take place at the University of Maryland in 
-Collage Park, Maryland, USA. The final deadline to register is Monday, July 31.<br>
-{{< button-link label="Register here" url="https://app.certain.com/profile/3363153" icon="link" target="_blank">}}<br>
+College Park. The final deadline to register is Monday, July 31.{{< button-link label="Register" url="https://app.certain.com/profile/3363153" icon="link" target="_blank">}}<br>
 <a style="color: red"></a>
 
 In case of questions or technical difficulties with the registration process, please contact: {{< button-link label="qcryptregistration@umd.edu" url="mailto:qcryptregistration@umd.edu " icon="email" >}}
-
 
 
 ### General Information
@@ -51,8 +49,8 @@ A visa letter can be requested during the registration process. Completion of th
 P.S. If you need an invitation letter for the VISA application, please reply to the registration confirmation letter. -->
 
 ### Student Fee Waiver
-A limited amount of funding is being made available to support students who need assistance and would not be able to attend without that assistance. Students who seek for a fee waiver should write to the conference organizers at {{< button-link label="2023@QCRYPT.NET" url="mailto:2023@QCRYPT.NET?subject=QCrypt 2023 Student Fee Waiver" icon="email" >}}
- with the subject line “QCrypt 2023 Student Fee Waiver” <strong> by July 8<sup>th</sup> </strong> to receive further instructions. 
+A limited amount of funding is available to support students who need assistance and would not be able to attend without it. Students seeking a fee waiver should write to the conference organizers at {{< button-link label="2023@QCRYPT.NET" url="mailto:2023@QCRYPT.NET?subject=QCrypt 2023 Student Fee Waiver" icon="email" >}}
+ with the subject line “QCrypt 2023 Student Fee Waiver” <strong> by July 15<sup>th</sup> </strong> to receive further instructions. 
 
 <!-- **You can still register for the conference, but participation links will only be sent out twice a day.** In the meanwhile, you can watch the live stream on our QCrypt Conference YouTube channel: https://www.youtube.com/channel/UClpn9CxuZPHw3nzhdv0m3Hw/videos
 
