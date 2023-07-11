@@ -7,13 +7,20 @@ menu:
 <!-- JUMBO -->
 {{% jumbo img="/images/backgrounds/umd1.jpg" imgLabel="QCrypt 2022 background" %}}
 
-## 14th to 18th August 2023
+## August 14–18, 2023
 <!--
 ### 2021: online conference
 
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="/2023">Host QCrypt 2023</a>
 -->
 
+<a class="btn primary btn-lg" href="/news">
+    News & Announcements
+</a>
+
+<a class="btn primary btn-lg" href="/registration">
+    Registration Open
+</a>
 
 <a class="btn primary btn-lg" href="/accepted-papers">
  <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>
@@ -22,12 +29,12 @@ menu:
 
 <a class="btn primary btn-lg" href="/speakers">
  <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>
-    Tutorial and Invited Speakers
+    Tutorial & Invited Speakers
 </a>
 
-<a class="btn primary btn-lg" href="/registration">
-    Registration Open
-</a>
+
+
+
 
 {{% /jumbo %}}
 

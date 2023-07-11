@@ -1,6 +1,6 @@
 ---
 key: Pines
-name: Darryll Pines
+name: Darryll J. Pines
 surname: Pines
 company: President of the University of Maryland
 photoURL: /images/speakers/Pines.jpg
