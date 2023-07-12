@@ -1,7 +1,7 @@
 ---
-key: lai
-name: Zhou Lai
-surname: Lai
+key: zhou
+name: Lai Zhou
+surname: zhou
 company: Beijing Academy of Quantum Information Sciences
 photoURL: /images/speakers/ZhouLai.png
 type: invited
