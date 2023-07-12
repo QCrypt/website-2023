@@ -722,49 +722,7 @@
             "theory"
         ]
     },
-    {
-        "pid": 70,
-        "submission_class": "poster",
-        "title": "Improved finite-size local randomness from CHSH games with simple constraints",
-        "abstract": "The security of virtually all cryptographic protocols relies on the ability to produce randomness that is unknown to external parties. Device-independent randomness generation is based on the observation that the violation of a Bell inequality can be used to certify, without trusting devices, that the outputs of a nonlocal game are truly random. In the task of device-independent local randomness expansion, we show that by adding simple constraints to the nonlocal game, we can achieve a significant improvement in the extractable rate in both the asymptotic limit and finite-size range. In this work, we consider the several classes of quantum correlations that can be constructed from the Clauser-Horne-Shimony-Holt (CHSH) inequality and zero probability constraints to construct a local randomness expansion protocol that can be implemented for each class. Using the generalized entropy accumulation theorem and some refinement to the construction of the min-tradeoff function, we find that a rate of up to 0.9 bits per round can be realized by the other classes, compared to the at most 0.55 bits that can be achieved with the usual CHSH game.",
-        "authors": [
-            {
-                "first": "Chun-Yu",
-                "last": "Chen",
-                "affiliation": "Institute of Information Science, Academia Sinica, Taipei 115, Taiwan"
-            },
-            {
-                "first": "Kai-Siang",
-                "last": "Chen",
-                "affiliation": "Department of Physics and Center for Quantum Frontiers of Research & Technology (QFort), National Cheng Kung University, Tainan 701, Taiwan"
-            },
-            {
-                "first": "Kai-Min",
-                "last": "Chung",
-                "affiliation": "Institute of Information Science, Academia Sinica, Taipei 115, Taiwan"
-            },
-            {
-                "first": "Min-Hsiu",
-                "last": "Hsieh",
-                "affiliation": "Hon Hai (Foxconn) Research Institute, Taipei, Taiwan"
-            },
-            {
-                "first": "Yeong-Cherng",
-                "last": "Liang",
-                "affiliation": "Department of Physics and Center for Quantum Frontiers of Research & Technology (QFort), National Cheng Kung University, Tainan 701, Taiwan"
-            },
-            {
-                "first": "Gelo Noel M.",
-                "last": "Tabia",
-                "affiliation": "Department of Physics and Center for Quantum Frontiers of Research & Technology (QFort), National Cheng Kung University, Tainan 701, Taiwan"
-            }
-        ],
-        "topics": [
-            "device independence",
-            "random-number generation",
-            "theory"
-        ]
-    },
+
     {
         "pid": 71,
         "submission_class": "poster",
