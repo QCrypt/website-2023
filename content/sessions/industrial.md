@@ -1,22 +1,15 @@
 ---
 key: industry
-title: "Industry Session (Chairs: Marco Lucamarini)"
+title: "Industry Session (Chairs: TBA)"
 id: industry
 format: other
 speakers:
-- gehring
-- peev
+- Chen
+- Hanai
 - pegon
-- khan
-- starkwood
-- diaz
-- bacco
-- zhao
-- capeleto
-- woodward
-- zeng
-- zhou
-videoId: VGRMQ7FtK-U
+- McClelland
+- Shabani
+videoId: null
 presentation: null
 draft: false
 ---

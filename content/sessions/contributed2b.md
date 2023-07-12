@@ -1,11 +1,13 @@
 ---
-title: "Contributed Talks 2b: Experimental talks (Chair: Bing Qi)"
+title: "Contributed Talks 2b: Experimental talks (Chair: TBA)"
 
 papers:
-- 27
-- 30
-- 31
-videoId: pSsUhK-XWmQ
+- 15
+- 109
+- 97
+- 32
+- 54
+videoId: null
 presentation: null
 draft: false
 ---

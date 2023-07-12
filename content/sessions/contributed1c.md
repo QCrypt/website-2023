@@ -1,11 +1,9 @@
 ---
-title: "Contributed Talks 1c: Experimental talks (Chair: Yuan Zhiliang)"
+title: "Contributed Talks 1c: Theory talks (Chair: TBA)"
 papers:
-- 54
-- 62
-- 85
-- 107
-videoId: aDiZqkSYz-8
+- 57
+- 41
+videoId: null
 presentation: null
 draft: false
 ---

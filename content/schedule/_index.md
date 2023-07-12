@@ -1,10 +1,7 @@
 ---
 title: Schedule
-draft: true
+draft: false
 horizontal: false
-menu:
-  main:
-    weight: 21
 ---
 
 <center>

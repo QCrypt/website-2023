@@ -37,10 +37,10 @@
 
 		<div class="timezone">
 			Date and time are shown in:
-			<a class="btn primary" href="https://www.timeanddate.com/worldclock/personal.html?cities=241,224,165,136,176,248&wch=3" target="_blank">
+			<a class="btn primary" href="https://www.timeanddate.com/worldclock/personal.html?cities=263,136,16,248" target="_blank">
 				<svg class="icon icon-link">
 				<use xlink:href="#link"></use>
-			</svg> GMT+8 Time - Taipei, Taiwan
+			</svg> EDT Time - Washington DC, USA
 			</a>
 		</div>
 
@@ -51,7 +51,6 @@
 			{{ $time := split $session.time ":" }}
 			{{ $hh := index $time 0 }}
 			{{ $mm := index $time 1 }}
-
 
 				<div class="session tag-{{ anchorize (delimit ($sessionPage.Params.tags | default (slice)) " " ) }}">
 					<span class="startt">
