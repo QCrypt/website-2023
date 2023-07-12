@@ -1,5 +1,5 @@
 ---
-title: "Tutorial: TBA"
+title: "Tutorial Speaker"
 speakers:
   - bartusek
 presentation: null

@@ -1,7 +1,7 @@
 ---
-title: "Tutorial Speaker"
+title: "Invited Speaker"
 speakers:
-  - ma
+  - kalai
 presentation: null
 draft: false
 ---

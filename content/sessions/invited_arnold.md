@@ -1,7 +1,7 @@
 ---
-title: "Tutorial Speaker"
+title: "Invited Speaker"
 speakers:
-  - ma
+  - arnold
 presentation: null
 draft: false
 ---
