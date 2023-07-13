@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talk 4b (Chair: TBA)"
+title: "Contributed Talk 4b"
 
 papers:
 - 105

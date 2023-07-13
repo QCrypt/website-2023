@@ -1,6 +1,6 @@
 ---
 key: industry
-title: "Industry Session (Chairs: TBA)"
+title: "Industry Session"
 id: industry
 format: other
 speakers:

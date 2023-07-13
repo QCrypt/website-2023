@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 2a: Experimental talks (Chair: Wang Chao)"
+title: "Contributed Talks 2a: Experimental Talks (Chair: Wang Chao)"
 papers:
 - 46
 videoId: null

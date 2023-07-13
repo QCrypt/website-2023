@@ -1,5 +1,5 @@
 ---
-title: 'Business Meeting & Best Student Paper Prize'
+title: 'Awards and Business Meeting'
 format: other
 videoId: null
 presentation: null

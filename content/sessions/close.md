@@ -3,7 +3,7 @@ title: Closing Remarks
 format: other
 speakers:
 - slattery
-- yang
+- alagic
 videoId: null
 videoTime: null
 presentation: null

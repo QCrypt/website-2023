@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talk 1a (Chair: TBA)"
+title: "Contributed Talk 1a"
 papers:
 - 100
 videoId: null

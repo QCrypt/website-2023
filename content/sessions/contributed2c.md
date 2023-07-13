@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 2c: QKD implementation (Chair: TBA)"
+title: "Contributed Talks 2c: QKD Implementation"
 
 papers:
 - 7

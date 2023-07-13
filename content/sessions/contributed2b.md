@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 2b: Experimental talks (Chair: TBA)"
+title: "Contributed Talks 2b: Experimental Talks"
 
 papers:
 - 15

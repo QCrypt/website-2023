@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talk 3: (Chair: TBA)"
+title: "Contributed Talk 3"
 
 papers:
 - 10

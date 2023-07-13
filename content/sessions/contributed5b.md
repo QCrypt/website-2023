@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 5a: device independence (Chair: TBA)"
+title: "Contributed Talks 5b: Device Independence"
 
 papers:
 - 66

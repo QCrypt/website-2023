@@ -1,5 +1,5 @@
 ---
-title: "Invited: TBA (Chair: TBA)"
+title: "Invited Speaker"
 speakers:
   - kretschmer
 videoId: null

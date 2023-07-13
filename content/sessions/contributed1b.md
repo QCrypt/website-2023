@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 1b: Theory talks (Chair: TBA)"
+title: "Contributed Talks 1b: Theory Talks"
 papers:
 - 35
 - 53

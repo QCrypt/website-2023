@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 5a: photonic integration (Chair: TBA)"
+title: "Contributed Talks 5a: Photonic Integration"
 
 papers:
 - 103

@@ -53,10 +53,10 @@
       time: '16:30'
     - session: rump
       time: '17:30'
-    - session: __walk_to_stamp
-      time: '18:30'
-    - session: dinner
+    - session: Group Photo
       time: '18:45'
+    - session: __walk_to_stamp
+      time: '19:00'
     - session: __endofday
       time: '20:45'
 
