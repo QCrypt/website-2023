@@ -7,7 +7,7 @@ videoId: null
 presentation: null
 draft: false
 ---
-This poster session takes place on Tue, 30 Aug, 10:15 - 12:15 online
+This poster session takes place on Mon, 14 Aug, 16:30 - 17:30
 <!-- [evemtX](/participate/#poster-sessions).
 
 Click link for

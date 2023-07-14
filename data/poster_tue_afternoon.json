@@ -1,57 +1,90 @@
 [
   {
-    "pid": 6,
-    "title": "Fiat-Shamir for Proofs Lacks a Proof Even in the Presence of Shared Entanglement",
-    "authors": [
-      {
-        "first": "Frédéric",
-        "last": "Dupuis"
-      },
-      {
-        "first": "Philippe",
-        "last": "Lamontagne"
-      },
-      {
-        "first": "Louis",
-        "last": "Salvail"
-      }
-    ]
-  },
-  {
     "pid": 8,
-    "title": "Quantum Differential Privacy: An Information Theory Perspective",
+    "title": "Cost of quantum secret key",
     "authors": [
       {
-        "first": "Christoph",
-        "last": "Hirche"
+        "first": "Karol",
+        "last": "Horodecki"
       },
       {
-        "first": "Cambyse",
-        "last": "Rouze"
+        "first": "Siddhartha",
+        "last": "Das"
       },
       {
-        "first": "Daniel Stilck",
-        "last": "França"
+        "first": "Mark M",
+        "last": "Wilde"
       }
     ]
   },
   {
-    "pid": 9,
-    "title": "Quantum Cryptography for Quantum Metrology",
+    "pid": 12,
+    "title": "Private network parameter estimation with quantum sensors",
     "authors": [
       {
-        "first": "Nathan",
-        "last": "Shettell"
+        "first": "Majid",
+        "last": "Hassani"
       },
       {
         "first": "Damian",
         "last": "Markham"
+      },
+      {
+        "first": "Nathan",
+        "last": "Shettell"
       }
     ]
   },
   {
-    "pid": 13,
-    "title": "Concentration inequality for security analysis of finite-size QKD",
+    "pid": 19,
+    "title": "Effect of light injection on the security of practical quantum key distribution",
+    "authors": [
+      {
+        "first": "Liying",
+        "last": "Han"
+      },
+      {
+        "first": "Yang",
+        "last": "Li"
+      },
+      {
+        "first": "Hao",
+        "last": "Tan"
+      },
+      {
+        "first": "Weiyang",
+        "last": "Zhang"
+      },
+      {
+        "first": "Wenqi",
+        "last": "Cai"
+      },
+      {
+        "first": "Juan",
+        "last": "Yin"
+      },
+      {
+        "first": "Jigang",
+        "last": "Ren"
+      },
+      {
+        "first": "Feihu",
+        "last": "Xu"
+      },
+      {
+        "first": "Shengkai",
+        "last": "Liao"
+      },
+      {
+        "first": "Chengzhi",
+        "last": "Peng"
+      }
+      
+    ]
+  },
+  {
+    "pid": 33,
+    "title": "Good Gottesman-Kitaev-Preskill codes from the NTRU cryptosystem",
     "authors": [
       {
         "first": "Go",
@@ -60,8 +93,8 @@
     ]
   },
   {
-    "pid": 16,
-    "title": "Improvement in quantum communication using quantum switch",
+    "pid": 38,
+    "title": "Implementation of a privacy preserving publicly verifiable quantum random number generator",
     "authors": [
       {
         "first": "Arindam",
@@ -78,8 +111,8 @@
     ]
   },
   {
-    "pid": 21,
-    "title": "Improving the Security of \"Measurement-Device-Independent Quantum Communication without Encryption\"",
+    "pid": 40,
+    "title": "General treatment of trusted gaussian noise in continuous variable quantum key distribution",
     "authors": [
       {
         "first": "Nayana",
@@ -92,8 +125,8 @@
     ]
   },
   {
-    "pid": 23,
-    "title": "Commitment capacity of classical-quantum channels",
+    "pid": 47,
+    "title": "Cryptographic advantage of multi-partite entanglement over long ranged networks",
     "authors": [
       {
         "first": "Naqueb Ahmad",
@@ -106,8 +139,8 @@
     ]
   },
   {
-    "pid": 25,
-    "title": "MIMO Terahertz Continuous Variable Quantum Key Distribution",
+    "pid": 56,
+    "title": "Lattice-Based Quantum Advantage from Rotated Measurements",
     "authors": [
       {
         "first": "Neel Kanth",
@@ -128,8 +161,8 @@
     ]
   },
   {
-    "pid": 26,
-    "title": "External magnetic effect for the security of practical quantum key distribution",
+    "pid": 61,
+    "title": "Robustness of implemented device-independent protocols and device-dependent QKD against constrained leakage",
     "authors": [
       {
         "first": "Hao",
@@ -150,8 +183,8 @@
     ]
   },
   {
-    "pid": 32,
-    "title": "Finite-Key Analysis of Quantum Key Distribution with Characterized Devices Using Entropy Accumulation",
+    "pid": 67,
+    "title": "Device-independent uncloneable encryption",
     "authors": [
       {
         "first": "Ian",
@@ -176,8 +209,8 @@
     ]
   },
   {
-    "pid": 33,
-    "title": "Device-Independent-Quantum-Randomness-Enhanced Zero-Knowledge Proof",
+    "pid": 129,
+    "title": "Procrustean entanglement concentration for quantum-classical coexistence",
     "authors": [
       {
         "first": "Cheng-Long",
@@ -254,8 +287,8 @@
     ]
   },
   {
-    "pid": 34,
-    "title": "Towards a photonic demonstration of device-independent quantum key distribution",
+    "pid": 72,
+    "title": "Efficient polar encoding for information reconciliation in QKD",
     "authors": [
       {
         "first": "Wenzhao",
@@ -280,8 +313,8 @@
     ]
   },
   {
-    "pid": 39,
-    "title": "7-km free-space drone-based quantum key distribution",
+    "pid": 80,
+    "title": "Sampled sub-block hashing for large input randomness extraction",
     "authors": [
       {
         "first": "Wenqi",
@@ -330,8 +363,8 @@
     ]
   },
   {
-    "pid": 40,
-    "title": "Integrated-Chip-Based Quantum Key Distribution",
+    "pid": 83,
+    "title": "Fast and reliable entanglement distribution with quantum repeaters: principles for improving protocols using reinforcement learning",
     "authors": [
       {
         "first": "Zhao-Yuan",
@@ -368,8 +401,8 @@
     ]
   },
   {
-    "pid": 45,
-    "title": "Multi-rate and multi-protocol quantum key distribution system using continuous variables",
+    "pid": 87,
+    "title": "Parameter Optimisation for CV-QKD with arbitrary modulation",
     "authors": [
       {
         "first": "Tao",
@@ -394,8 +427,8 @@
     ]
   },
   {
-    "pid": 47,
-    "title": "Networking of measurement-device-independent quantum key distribution",
+    "pid": 90,
+    "title": "Simulation of device-independent quantum key distribution protocols",
     "authors": [
       {
         "first": "Yuanguanjie",
@@ -456,8 +489,8 @@
     ]
   },
   {
-    "pid": 50,
-    "title": "Device-independent quantum key distribution with random postselection",
+    "pid": 92,
+    "title": "Establishing shared secret keys on quantum line networks: protocol and security",
     "authors": [
       {
         "first": "Yuzhe",
@@ -470,8 +503,8 @@
     ]
   },
   {
-    "pid": 56,
-    "title": "Experimental twin-field quantum key distribution without phase locking",
+    "pid": 94,
+    "title": "Investigation of the avalanche delay effect in sine-gated single-photon detector",
     "authors": [
       {
         "first": "Wei",
@@ -492,8 +525,8 @@
     ]
   },
   {
-    "pid": 57,
-    "title": "Near-Optimal Characterizations of Privacy Amplification against Quantum Side Information and Quantum Soft Covering",
+    "pid": 96,
+    "title": "Afterpulse effect model of InGaAs/InP single-photon avalanche diodes for application in quantum key distribution systems",
     "authors": [
       {
         "first": "Hao-Chung",
@@ -510,8 +543,8 @@
     ]
   },
   {
-    "pid": 58,
-    "title": "Characterisation of state preparation uncertainty in quantum key distribution",
+    "pid": 101,
+    "title": "Self-stabilized quantum key distribution using planar lightwave circuit chips",
     "authors": [
       {
         "first": "Anqi",
@@ -536,8 +569,8 @@
     ]
   },
   {
-    "pid": 63,
-    "title": "Experimental Authentication of Quantum Key Distribution with Post-quantum Cryptography",
+    "pid": 111,
+    "title": "Practical High-Dimensional Quantum Key Distribution Protocol over deployed Multicore fiber",
     "authors": [
       {
         "first": "Liujun",
@@ -590,8 +623,8 @@
     ]
   },
   {
-    "pid": 64,
-    "title": "Distributing Polarization Entangled Photon Pairs with High Rate over Long Distance through Standard Telecommunication Fiber",
+    "pid": 113,
+    "title": "Long-distance continuous-variable quantum key distribution over 100 km fiber with local local oscillator",
     "authors": [
       {
         "first": "Lijiong",
@@ -620,8 +653,8 @@
     ]
   },
   {
-    "pid": 65,
-    "title": "Countering detector manipulation attacks in quantum communication through detector self-testing",
+    "pid": 115,
+    "title": "Asymmetric Quantum Secure Multi-Party Computation With Weak Clients Against Dishonest Majority",
     "authors": [
       {
         "first": "Lijiong",
@@ -634,8 +667,8 @@
     ]
   },
   {
-    "pid": 71,
-    "title": "Simple and Practical Device-Independent Security Analysis",
+    "pid": 117,
+    "title": "Quantum Cryptanalysis of Affine Cipher",
     "authors": [
       {
         "first": "Xingjian",
@@ -660,8 +693,8 @@
     ]
   },
   {
-    "pid": 78,
-    "title": "Finite-Size Security Proof for Discrete-Modulated Continuous-Variable Quantum Key Distribution",
+    "pid": 120,
+    "title": "High-Dimensional Quantum Key Distribution using Time-Bin Entanglement",
     "authors": [
       {
         "first": "Florian",
@@ -686,8 +719,8 @@
     ]
   },
   {
-    "pid": 89,
-    "title": "A constant lower bound for any quantum protocol for secure function evaluation",
+    "pid": 122,
+    "title": "Maximal device-independent randomness certification by more than two observers through bipartite Bell tests",
     "authors": [
       {
         "first": "Sarah A.",
@@ -700,8 +733,8 @@
     ]
   },
   {
-    "pid": 93,
-    "title": "Improving the security of device-independent weak coin flipping protocols",
+    "pid": 124,
+    "title": "An optical ground station in Singapore for satellite-to-ground quantum communication",
     "authors": [
       {
         "first": "Atul Singh",
@@ -718,8 +751,8 @@
     ]
   },
   {
-    "pid": 97,
-    "title": "Frameworks for Efficient Quantum Oblivious Transfer in the QROM",
+    "pid": 126,
+    "title": "Experimental free-space continuous-variable quantum key distribution with passive-state preparation",
     "authors": [
       {
         "first": "Amit",
@@ -740,8 +773,8 @@
     ]
   },
   {
-    "pid": 99,
-    "title": "Fully device-independent quantum key distribution using synchronous correlations",
+    "pid": 128,
+    "title": "A test bed of dynamic scattering channel for quantum key distribution",
     "authors": [
       {
         "first": "Nishant",
@@ -754,8 +787,8 @@
     ]
   },
   {
-    "pid": 100,
-    "title": "Device-Independent Oblivious Transfer from the Bounded-Quantum-Storage-Model and Computational Assumptions",
+    "pid": 130,
+    "title": "Measurement device-independent quantum key distribution with vortex vector modes under diverse weather conditions",
     "authors": [
       {
         "first": "Peter",
@@ -768,8 +801,8 @@
     ]
   },
   {
-    "pid": 102,
-    "title": "Intrinsic Non-Locality and Device-Independent Conference Key Agreement",
+    "pid": 133,
+    "title": "Implementation of a multiplexed quantum key distribution system simulator with a detailed secure key generation model",
     "authors": [
       {
         "first": "Aby",
@@ -790,8 +823,8 @@
     ]
   },
   {
-    "pid": 103,
-    "title": "QKD in the NISQ era: enhancing secure key rates via quantum error correction",
+    "pid": 135,
+    "title": "A Simple and Self-Testing Quantum Random Number Generator",
     "authors": [
       {
         "first": "Shashank",
@@ -808,8 +841,8 @@
     ]
   },
   {
-    "pid": 104,
-    "title": "Collusion-Resistant Copy-Protection for Watermarkable Functionalities",
+    "pid": 137,
+    "title": "Taking quantum key distribution from fundamental science to accredited systems in space",
     "authors": [
       {
         "first": "Jiahui",
@@ -830,8 +863,8 @@
     ]
   },
   {
-    "pid": 108,
-    "title": "Cryptography with Certified Deletion",
+    "pid": 139,
+    "title": "Security of Partially Corrupted Repeater Chains",
     "authors": [
       {
         "first": "James",
@@ -844,8 +877,8 @@
     ]
   },
   {
-    "pid": 111,
-    "title": "Stream privacy amplification for quantum cryptography",
+    "pid": 144,
+    "title": "Practical implementation of a simplified BB84 protocol resilient to source imperfections",
     "authors": [
       {
         "first": "Yizhi",
@@ -862,8 +895,8 @@
     ]
   },
   {
-    "pid": 126,
-    "title": "Sending-or-not-sending twin-field quantum key distribution with multiphoton states",
+    "pid": 147,
+    "title": "Quantum secure direct communication with private dense coding using general preshared quantum state",
     "authors": [
       {
         "first": "Jun",
@@ -884,8 +917,8 @@
     ]
   },
   {
-    "pid": 129,
-    "title": "Finite-key analysis for twin-field quantum key distribution based on generalized operator dominance condition",
+    "pid": 150,
+    "title": "An efficient method for certifying quantum properties with non-i.i.d. spot-checking trials",
     "authors": [
       {
         "first": "Rui Qiang",
@@ -902,8 +935,8 @@
     ]
   },
   {
-    "pid": 130,
-    "title": "Experimental symmetric private information retrieval with measurement-device-independent quantum network",
+    "pid": 152,
+    "title": "FPGA-Based LED Source with Indistinguishable States for Decoy State QKD",
     "authors": [
       {
         "first": "Chao",
@@ -920,8 +953,8 @@
     ]
   },
   {
-    "pid": 133,
-    "title": "Robustness of implemented device-independent protocols against bounded leakage",
+    "pid": 154,
+    "title": "Qubit-based clock synchronization using a Bayesian approach Applied to Drone-Based QKD Systems",
     "authors": [
       {
         "first": "Ernest Y.-Z.",
@@ -930,8 +963,8 @@
     ]
   },
   {
-    "pid": 134,
-    "title": "Quantum random number generation with uncharacterised homodyne detection",
+    "pid": 156,
+    "title": "Analysis of a High-dimensional Restricted Quantum Key Distribution Protocol",
     "authors": [
       {
         "first": "Chao",
@@ -968,8 +1001,8 @@
     ]
   },
   {
-    "pid": 139,
-    "title": "Development of Large-scale Quantum Key Distribution Network Simulation Modules",
+    "pid": 158,
+    "title": "Postselection technique for optical prepare-and-measure QKD protocols",
     "authors": [
       {
         "first": "Yu",
@@ -986,8 +1019,8 @@
     ]
   },
   {
-    "pid": 142,
-    "title": "Extract more randomness using dimension witness",
+    "pid": 160,
+    "title": "Impact of multiphoton states in entangled photon distribution",
     "authors": [
       {
         "first": "Zhenqiu",
@@ -1004,8 +1037,8 @@
     ]
   },
   {
-    "pid": 144,
-    "title": "Reference Frame Independent Quantum Key Distribution with Integrated 6-ch Array Optical Source and Variable Optical Attenuator",
+    "pid": 162,
+    "title": "Reliable lower bounds for practical variants of Coherent One-Way protocols",
     "authors": [
       {
         "first": "Kyongchun",
@@ -1038,8 +1071,8 @@
     ]
   },
   {
-    "pid": 145,
-    "title": "Improved Keyrates for Quantum Key Distribution from two-way classical communication",
+    "pid": 164,
+    "title": "Separating SNARGs from Falsifiable Assumptions in the Quantum Setting",
     "authors": [
       {
         "first": "Devashish",
@@ -1052,8 +1085,8 @@
     ]
   },
   {
-    "pid": 147,
-    "title": "Security of the Six-State Protocol via Quantum Probability Estimation",
+    "pid": 166,
+    "title": "Quantum Randomness from Untrusted Light Using a Single Photodiode",
     "authors": [
       {
         "first": "Frits",
@@ -1070,8 +1103,8 @@
     ]
   },
   {
-    "pid": 148,
-    "title": "Performance improvement on tracking error of bidirectional beam tracking system in a short distance for fast-moving free-space QKD",
+    "pid": 168,
+    "title": "Experimental investigation of residual phase impact on CV-QKD",
     "authors": [
       {
         "first": "Minchul",
@@ -1108,8 +1141,8 @@
     ]
   },
   {
-    "pid": 149,
-    "title": "One-sided Device-Independent Continuous-Variable Quantum Key Distribution with discrete modulation",
+    "pid": 170,
+    "title": "New concepts and construction of quantum random number generators",
     "authors": [
       {
         "first": "Shouvik",
@@ -1126,8 +1159,8 @@
     ]
   },
   {
-    "pid": 150,
-    "title": "Presharing of quantum shares for classical secrets",
+    "pid": 172,
+    "title": "The Quantum Chernoff Divergence in Advantage Distillation for QKD and DIQKD",
     "authors": [
       {
         "first": "Rina",
@@ -1140,8 +1173,8 @@
     ]
   },
   {
-    "pid": 157,
-    "title": "Device-independent entanglement quantification in the presence of losses",
+    "pid": 174,
+    "title": "Quantum key distribution with multiple photon number distributions",
     "authors": [
       {
         "first": "Shiladitya",
@@ -1166,8 +1199,8 @@
     ]
   },
   {
-    "pid": 158,
-    "title": "Tight Single-Decoy Key Rates using Generalised Decoy State Methods",
+    "pid": 176,
+    "title": "Time-bin Entanglement Swapping",
     "authors": [
       {
         "first": "Lars",
@@ -1184,8 +1217,8 @@
     ]
   },
   {
-    "pid": 159,
-    "title": "Self-testing quantum correlations on the no-signaling boundary",
+    "pid": 178,
+    "title": "Generation of Time-bin GHZ States",
     "authors": [
       {
         "first": "Kai-Siang",
@@ -1210,248 +1243,6 @@
       {
         "first": "Shiladitya",
         "last": "Mal"
-      }
-    ]
-  },
-  {
-    "pid": 160,
-    "title": "Twin-field quantum key distribution with partial phase postselection",
-    "authors": [
-      {
-        "first": "Yao",
-        "last": "Zhou"
-      },
-      {
-        "first": "Zhen-Qiang",
-        "last": "Yin"
-      }
-    ]
-  },
-  {
-    "pid": 161,
-    "title": "Integrated photonic platform with high-speed single-photon path entanglement",
-    "authors": [
-      {
-        "first": "Gong",
-        "last": "Zhang"
-      },
-      {
-        "first": "Chao",
-        "last": "Wang"
-      },
-      {
-        "first": "Koon Tong",
-        "last": "Goh"
-      },
-      {
-        "first": "Si Qi",
-        "last": "Ng"
-      },
-      {
-        "first": "Haibo",
-        "last": "Wang"
-      },
-      {
-        "first": "Yue",
-        "last": "Chen"
-      },
-      {
-        "first": "Jing Yan",
-        "last": "Haw"
-      },
-      {
-        "first": "Xiao",
-        "last": "Gong"
-      },
-      {
-        "first": "Charles C. W.",
-        "last": "Lim"
-      }
-    ]
-  },
-  {
-    "pid": 163,
-    "title": "Suppression of pattern effects using IQ modulator for high-speed QKD system",
-    "authors": [
-      {
-        "first": "Yuanfei",
-        "last": "Gao"
-      },
-      {
-        "first": "Zhiliang",
-        "last": "Yuan"
-      }
-    ]
-  },
-  {
-    "pid": 165,
-    "title": "Practical 256-QAM continuous-variable quantum key distribution with imperfect sources",
-    "authors": [
-      {
-        "first": "Mingze",
-        "last": "Wu"
-      },
-      {
-        "first": "Yiming",
-        "last": "Bian"
-      },
-      {
-        "first": "Yichen",
-        "last": "Zhang"
-      },
-      {
-        "first": "Song",
-        "last": "Yu"
-      }
-    ]
-  },
-  {
-    "pid": 174,
-    "title": "Forced carrier perturbation opens a loophole for chip-based continuous variable quantum key distribution system",
-    "authors": [
-      {
-        "first": "Lang",
-        "last": "Li"
-      },
-      {
-        "first": "Tao",
-        "last": "Wang"
-      },
-      {
-        "first": "Peng",
-        "last": "Huang"
-      },
-      {
-        "first": "Jing",
-        "last": "Dong"
-      },
-      {
-        "first": "Zhiyue",
-        "last": "Zuo"
-      },
-      {
-        "first": "Guihua",
-        "last": "Zeng"
-      }
-    ]
-  },
-  {
-    "pid": 175,
-    "title": "Long distance and high rate Gaussian modulated continuous variable quantum key distribution with a local local oscillator",
-    "authors": [
-      {
-        "first": "Heng",
-        "last": "Wang"
-      },
-      {
-        "first": "Yaodi",
-        "last": "Pi"
-      },
-      {
-        "first": "Yan",
-        "last": "Pan"
-      },
-      {
-        "first": "Yun",
-        "last": "Shao"
-      },
-      {
-        "first": "Yang",
-        "last": "Li"
-      },
-      {
-        "first": "Wei",
-        "last": "Huang"
-      },
-      {
-        "first": "Bingjie",
-        "last": "Xu"
-      }
-    ]
-  },
-  {
-    "pid": 177,
-    "title": "Simple continuous-variable quantum key distribution scheme using a Sagnac-based Gaussian modulator",
-    "authors": [
-      {
-        "first": "Huanxi",
-        "last": "Zhao"
-      },
-      {
-        "first": "Huasheng",
-        "last": "Li"
-      },
-      {
-        "first": "Yuehan",
-        "last": "Xu"
-      },
-      {
-        "first": "Peng",
-        "last": "Huang"
-      },
-      {
-        "first": "Tao",
-        "last": "Wang"
-      },
-      {
-        "first": "Guihua",
-        "last": "Zeng"
-      }
-    ]
-  },
-  {
-    "pid": 178,
-    "title": "Efficient frame synchronization using a weak coherent state for continuous-variable quantum key distribution",
-    "authors": [
-      {
-        "first": "Jing",
-        "last": "Dong"
-      },
-      {
-        "first": "Tao",
-        "last": "Wang"
-      },
-      {
-        "first": "Lang",
-        "last": "Li"
-      },
-      {
-        "first": "Peng",
-        "last": "Huang"
-      },
-      {
-        "first": "Guihua",
-        "last": "Zeng"
-      }
-    ]
-  },
-  {
-    "pid": 179,
-    "title": "Experimental proposal of discrete-variable quantum key distribution with homodyne detector",
-    "authors": [
-      {
-        "first": "Cassey C.",
-        "last": "Liang"
-      },
-      {
-        "first": "Chao",
-        "last": "Wang"
-      },
-      {
-        "first": "Ignatius W.",
-        "last": "Primaatmaja"
-      },
-      {
-        "first": "Gong",
-        "last": "Zhang"
-      },
-      {
-        "first": "Jing Yan",
-        "last": "Haw"
-      },
-      {
-        "first": "Charles C.-W.",
-        "last": "Lim"
       }
     ]
   }

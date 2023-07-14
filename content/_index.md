@@ -23,12 +23,10 @@ menu:
 </a>
 
 <a class="btn primary btn-lg" href="/accepted-papers">
- <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>
     Accepted Papers
 </a>
 
 <a class="btn primary btn-lg" href="/speakers">
- <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>
     Tutorial & Invited Speakers
 </a>
 
