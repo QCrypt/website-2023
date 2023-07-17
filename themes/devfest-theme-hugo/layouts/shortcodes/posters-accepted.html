@@ -4,12 +4,10 @@
 {{ $session := .Get "session" }}
 
 {{ $papers := $.Site.Data.posters }}
-{{ if eq $session "tue_afternoon" }}
-  {{ $papers = $.Site.Data.poster_tue_afternoon }}
-{{ else if eq $session "thu_morning" }}
-  {{ $papers = $.Site.Data.poster_thu_morning }}
-{{ else if eq $session "thu_afternoon" }}
-  {{ $papers = $.Site.Data.poster_thu_afternoon }}
+{{ if eq $session "monday" }}
+  {{ $papers = $.Site.Data.posters_monday }}
+{{ else if eq $session "tuesday" }}
+  {{ $papers = $.Site.Data.posters_tuesday }}
 
 {{ end }}
 

@@ -20,4 +20,4 @@ Download a {{< button-link label="zip-archive" url="https://surfdrive.surf.nl/fi
 coming soon-->
 
 ## Posters presented in this session
-{{< posters-accepted session="thu_morning">}}{{< /posters-accepted >}}
+{{< posters-accepted session="tuesday">}}{{< /posters-accepted >}}

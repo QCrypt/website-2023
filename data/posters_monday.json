@@ -1,0 +1,1932 @@
+[
+    {
+        "pid": 5,
+        "submission_class": "poster",
+        "title": "A practical transmitter device for passive state BB84",
+        "abstract": "One of the most important requirements for the correct implementation of prepare-and-measure QKD protocols is the random choice of the transmitted quantum state. Most realizations follow this logic: Alice prepares random quantum states, measures them to extract random numbers (i.e. she operates a QRNG), and then uses them to modulate the state of the transmitted qubits. The alternative approach is passive state preparation. It was proposed in 2010 [1] and recently studied for security aspects [2]. The idea is to use the natural phase randomness of pulses from a gain-switched laser diode to prepare intrinsically random states. This approach can help to resolve security problems related to the state preparation apparatus. Early work in this field focused on preparing a random polarization state. This required two lasers, or an additional intensity modulator. In this work, we use a laser that generates random phase pairs of subsequent pulses as a ready-to-use qubit. This allows us to significantly simplify the Alice (transmitter) device.\r\n\r\nPrior to transmitting a weak coherent pulse, Alice must identify the state she has prepared. To perform a full phase characterization, we split a portion of the signal, convert it to polarization, and perform polarization tomography where we postselect four BB84 states.. By balancing the thresholds of postselection, we can balance the successful state preparation and QBER. Without a decoy state, this QKD system is well suited for the \u201clast mile\u201d of a star quantum network with a loss budget of up to 10 dB. We demonstrate a practical QBER of less than 6%, opening a possibility for simple and low-cost QKD devices for urban networks.\r\n\r\n[1] M Curty, et al. \u201cPassive sources for the Bennett-Brassard 1984 quantum-key-distribution protocol with practical signals.\u201d Physical Review A 82.5 (2010): 052325\r\n[2] W Wang, et al. \u201cFully-Passive Quantum Key Distribution.\u201d  arxiv.org/abs/2207.05916",
+        "authors": [
+            {
+                "first": "Yury",
+                "last": "Kurochkin",
+                "affiliation": "Technology Innovation Institute"
+            },
+            {
+                "first": "Marios",
+                "last": "Papadovasilakis",
+                "affiliation": "Technology Innovation Institute"
+            },
+            {
+                "first": "James",
+                "last": "Grieve",
+                "affiliation": "Technology Innovation Institute"
+            }
+        ],
+        "topics": [
+            "experiment",
+            "QKD implementation",
+            "random-number generation"
+        ]
+    },
+    {
+        "pid": 9,
+        "submission_class": "poster",
+        "title": "Reference-Frame-Independent quantum communication among multiple parties",
+        "abstract": "It is usually essential to have a common reference frame between two communication parties to perform quantum communication. Notably,\u00a0 Reference-Frame-Independent Quantum Key Distribution (RFI-QKD) provides a practical way to generate secret keys between two remote parties without sharing standard reference frames.\u00a0Here, we have shown that the RFI-QKD protocol can be expanded into a multiparty system with Greenberger-Horne-Zeilinger (GHZ) entangled state. We derive the asymptotic key rate and perform the proof-of-principle experiment to verify the proposed multiparty protocols feasibility. Considering that sharing a common reference frame becomes more difficult as the number of parties increases, our protocol provides a new path to implement multipartite quantum communication in real world.",
+        "authors": [
+            {
+                "first": "Donghwa",
+                "last": "Lee",
+                "affiliation": "Korea Institute of Science and Technology"
+            },
+            {
+                "first": "Kyujin",
+                "last": "Shin",
+                "affiliation": "Korea Institute of Science and Technology"
+            },
+            {
+                "first": "Hyang-Tag",
+                "last": "Lim",
+                "affiliation": "Korea Institute of Science and Technology"
+            },
+            {
+                "first": "Yosep",
+                "last": "Kim",
+                "affiliation": "Korea Institute of Science and Technology"
+            },
+            {
+                "first": "Yong-Su",
+                "last": "Kim",
+                "affiliation": "Korea Institute of Science and Technology"
+            }
+        ],
+        "topics": [
+            "beyond QKD",
+            "experiment",
+            "QKD implementation"
+        ]
+    },
+    {
+        "pid": 16,
+        "submission_class": "poster",
+        "title": "Security boundaries of an optical power limiter for protecting quantum key distribution systems",
+        "abstract": "Unauthorized light injection has always been a vital threat to the practical security of a quantum key distribution (QKD) system. An optical power limiter (OPL) based on the thermo-optical defocusing effect has been proposed and implemented, limiting the injected hacking light. As a hardware countermeasure, the performance of the OPL under various light-injection attacks shall be tested to clarify the security boundary before being widely deployed. To investigate the OPL's security boundary in quantum cryptography, we comprehensively test and analyse the behavior of OPL under continuous-wave (c.w.) light-injection attacks and pulse illumination attacks with pulses' repetition rate at 40-MHz and 1-GHz. This work illuminates the security boundary of the OPL, which allows one to properly employ the OPL in the use cases. The methodology of testing and analysis proposed here is applicable to other power-limitation components in a QKD system.",
+        "authors": [
+            {
+                "first": "Peng",
+                "last": "Qingquan",
+                "affiliation": "School of Automation, Central South University"
+            },
+            {
+                "first": "Binwu",
+                "last": "Gao",
+                "affiliation": "Institute for Quantum Information & State Key Laboratory of High Performance Computing, College of Computer, National University of Defense Technology"
+            },
+            {
+                "last": "Konstantin~Zaitsev",
+                "affiliation": "NTI Center for Quantum Communications, National University of Science and Technology MISiS"
+            },
+            {
+                "first": "Dongyang",
+                "last": "Wang",
+                "affiliation": "Institute for Quantum Information & State Key Laboratory of High Performance Computing, College of Computer, National University of Defense Technology"
+            },
+            {
+                "first": "Jiangfang",
+                "last": "Ding",
+                "affiliation": "Institute for Quantum Information & State Key Laboratory of High Performance Computing, College of Computer, National University of Defense Technology"
+            },
+            {
+                "first": "Yingwen",
+                "last": "Liu",
+                "affiliation": "Institute for Quantum Information & State Key Laboratory of High Performance Computing, College of Computer, National University of Defense Technology"
+            },
+            {
+                "first": "Qin",
+                "last": "Liao",
+                "affiliation": "School of Computer Science, Beijing University of Posts and Telecommunications, Beijing 100876, China"
+            },
+            {
+                "first": "Ying",
+                "last": "Guo"
+            },
+            {
+                "first": "Anqi",
+                "last": "Huang",
+                "affiliation": "Institute for Quantum Information & State Key Laboratory of High Performance Computing, College of Computer, National University of Defense Technology"
+            },
+            {
+                "first": "Junjie",
+                "last": "Wu",
+                "affiliation": "Institute for Quantum Information & State Key Laboratory of High Performance Computing, College of Computer, National University of Defense Technology"
+            }
+        ],
+        "topics": [
+            "device independence",
+            "experiment",
+            "QKD theory"
+        ]
+    },
+    {
+        "pid": 27,
+        "submission_class": "poster",
+        "title": "Mode-pairing quantum key distribution with advantage distillation",
+        "abstract": "Mode-pairing quantum key distribution (MP-QKD) is an easy-to-implement scheme that transcends the Pirandola--Laurenza--Ottaviani--Banchi bound without using quantum repeaters. In this study, we present an improvement of the performance of mode-pairing QKD (MP-QKD) using an advantage distillation method. The simulation results show that the proposed scheme extends the transmission distance significantly with a channel loss exceeding 7.6 dB. Moreover, the scheme tolerates a maximum quantum bit error rate of 8.9%, which is nearly twice that of the original MP-QKD. In particular, as the system misalignment error increases, the expandable distance of the proposed scheme also increases.",
+        "authors": [
+            {
+                "first": "Xin",
+                "last": "Liu",
+                "affiliation": "Guangxi Key Laboratory for Relativistic Astrophysics, School of Physical Science and Technology, Guangxi University, Nanning 530004, China"
+            },
+            {
+                "first": "Di",
+                "last": "Luo",
+                "affiliation": "Guangxi Key Laboratory for Relativistic Astrophysics, School of Physical Science and Technology, Guangxi University, Nanning 530004, China"
+            },
+            {
+                "first": "Zhenrong",
+                "last": "Zhang",
+                "affiliation": "Guangxi Key Laboratory of Multimedia Communications and Network Technology, School of Computer Electronics and Information, Guangxi University, Nanning 530004, China"
+            },
+            {
+                "first": "Kejin",
+                "last": "Wei",
+                "affiliation": "Guangxi Key Laboratory for Relativistic Astrophysics, School of Physical Science and Technology, Guangxi University, Nanning 530004, China"
+            }
+        ],
+        "topics": [
+            "QKD theory"
+        ]
+    },
+    {
+        "pid": 37,
+        "submission_class": "poster",
+        "title": "Parallel self-testing of EPR pairs under computational assumptions",
+        "abstract": "Self-testing is a fundamental feature of quantum mechanics that allows a classical verifier to force untrusted quantum devices to prepare certain states and perform certain measurements on them. The standard approach assumes at least two spatially separated devices. Recently, Metger and Vidick [Quantum, 2021] showed that a single EPR pair of a single quantum device can be self-tested under computational assumptions. In this work, we generalize their results to give the first parallel self-test of N EPR pairs and measurements on them in the single-device setting under the same computational assumptions. We show that our protocol can be passed with probability negligibly close to 1 by an honest quantum device using poly(N) resources. Moreover, we show that any quantum device that fails our protocol with probability at most epsilon must be poly(N, epsilon)-close to being honest in the appropriate sense. In particular, our protocol can test any distribution over tensor products of computational or Hadamard basis measurements, making it suitable for applications such as device-independent quantum key distribution under computational assumptions. Moreover, a simplified version of our protocol is the first that can efficiently certify an arbitrary number of qubits of a single cloud quantum computer using only classical communication.",
+        "authors": [
+            {
+                "first": "Honghao",
+                "last": "Fu",
+                "affiliation": "Massachusetts Institute of Technology"
+            },
+            {
+                "first": "Daochen",
+                "last": "Wang",
+                "affiliation": "University of Maryland"
+            },
+            {
+                "first": "Qi",
+                "last": "Zhao",
+                "affiliation": "University of Maryland and The University of Hong Kong"
+            }
+        ],
+        "topics": [
+            "device independence",
+            "post-quantum cryptography",
+            "QKD theory",
+            "theory"
+        ]
+    },
+    {
+        "pid": 39,
+        "submission_class": "poster",
+        "title": "Hybrid high-dimensional quantum key distribution for composable quantum network",
+        "abstract": "High-dimensional QKD (HD-QKD) possesses higher noise tolerant ability and secure key rate. In this work, by developing a mapping method among multiple degrees of freedom (DOFs), we propose and implement a HD-QKD system with a quantum bit error rate (QBER) as low as 0.57%. The HD-QKD system can stably achieve high secure key rates and is composable to build HD quantum networks compatible with multiple DOFs. The results indicate that the proposed scheme could bridge HD and 2D terminals encoding in different DOFs and can support large-deployment quantum networks with high performance. Our work significantly enhances the performance of HDQKD and strengthens the practical applications of large-deployment quantum networks in a hybrid way.",
+        "authors": [
+            {
+                "first": "Fang-Xiang",
+                "last": "Wang",
+                "affiliation": "University of Science and Technology of China"
+            },
+            {
+                "first": "Qi-Hang",
+                "last": "Lu",
+                "affiliation": "University of Science and Technology of China"
+            },
+            {
+                "first": "Wei",
+                "last": "Chen",
+                "affiliation": "University of Science and Technology of China"
+            },
+            {
+                "first": "Shuang",
+                "last": "Wang",
+                "affiliation": "University of Science and Technology of China"
+            },
+            {
+                "first": "Haiyang",
+                "last": "Fu",
+                "affiliation": "University of Science and Technology of China"
+            },
+            {
+                "first": "Yinjie",
+                "last": "Lu",
+                "affiliation": "University of Science and Technology of China"
+            },
+            {
+                "first": "Penglei",
+                "last": "Hao",
+                "affiliation": "University of Science and Technology of China"
+            },
+            {
+                "first": "Jia-Lin",
+                "last": "Chen",
+                "affiliation": "University of Science and Technology of China"
+            },
+            {
+                "first": "Wenjing",
+                "last": "Ding",
+                "affiliation": "University of Science and Technology of China"
+            },
+            {
+                "first": "Jianyu",
+                "last": "Ma",
+                "affiliation": "University of Science and Technology of China"
+            },
+            {
+                "first": "De-Yong",
+                "last": "He",
+                "affiliation": "University of Science and Technology of China"
+            },
+            {
+                "first": "Zheng-Qiang",
+                "last": "Yin",
+                "affiliation": "University of Science and Technology of China"
+            },
+            {
+                "first": "Zheng",
+                "last": "Zhou",
+                "affiliation": "University of Science and Technology of China"
+            },
+            {
+                "first": "Guang-Can",
+                "last": "Guo",
+                "affiliation": "University of Science and Technology of China"
+            },
+            {
+                "first": "Zheng-Fu",
+                "last": "Han",
+                "affiliation": "University of Science and Technology of China"
+            }
+        ],
+        "topics": [
+            "experiment",
+            "QKD implementation"
+        ]
+    },
+    {
+        "pid": 45,
+        "submission_class": "poster",
+        "title": "On Zero-Knowledge Proofs over the Quantum Internet",
+        "abstract": "This paper presents a new method for quantum identity authentication (QIA) protocols. The logic of classical zero-knowledge proofs (ZKPs) due to Schnorr is applied in quantum circuits and algorithms. This novel approach gives an exact way with which a prover $P$ can prove they know some secret by encapsulating it in a quantum state before sending to a verifier $V$ by means of a quantum channel - allowing for a ZKP wherein an eavesdropper or manipulation can be detected with a fail-safe design. This is achieved by moving away from the hardness of the Discrete Logarithm Problem towards the hardness of estimating quantum states. This paper presents a method with which this can be achieved and some bounds for the security of the protocol provided. With the anticipated advent of a `quantum internet', such protocols and ideas may soon have utility and execution in the real world.",
+        "authors": [
+            {
+                "first": "Mark",
+                "last": "Carney",
+                "affiliation": "Quantum Village Inc."
+            }
+        ],
+        "topics": [
+            "beyond QKD",
+            "theory"
+        ]
+    },
+    {
+        "pid": 48,
+        "submission_class": "poster",
+        "title": "Powerful Primitives in the Bounded Quantum Storage Model",
+        "abstract": "The bounded quantum storage model aims to achieve security against computationally unbounded adversaries that are restricted only with respect to their quantum memories. In this work, we provide everlasting and information-theoretic secure constructions in this model for the following powerful primitives:\r\n(1) CCA1-secure symmetric key encryption, message-authentication, and one-time programs. These schemes require no quantum memory for the honest user, while they can be made secure against adversaries with arbitrarily large memories by increasing the transmission length sufficiently.\r\n(2) CCA1-secure asymmetric key encryption, encryption tokens, signatures, and signature tokens. These schemes are secure against adversaries with roughly $e^{\\sqrt{m}}$ quantum memory where $m$ is the quantum memory required for the honest user. \r\nAll of the constructions additionally satisfy notions of disappearing and unclonable security.",
+        "authors": [
+            {
+                "first": "Mohammed",
+                "last": "Barhoush",
+                "affiliation": "University of Montreal"
+            },
+            {
+                "first": "Louis",
+                "last": "Salvail",
+                "affiliation": "University of Montreal"
+            }
+        ],
+        "topics": [
+            "post-quantum cryptography",
+            "theory"
+        ]
+    },
+    {
+        "pid": 60,
+        "submission_class": "poster",
+        "title": "On the Two-sided Permutation Inversion Problem",
+        "abstract": "In the permutation inversion problem, the task is to find the preimage of some challenge value,\r\ngiven oracle access to the permutation. This is a fundamental problem in query complexity, and\r\nappears in many contexts, particularly cryptography. In this work, we examine the setting in\r\nwhich the oracle allows for quantum queries to both the forward and the inverse direction of\r\nthe permutation\u2014except that the challenge value cannot be submitted to the latter. Within\r\nthat setting, we consider two options for the inversion algorithm: whether it can get quantum\r\nadvice about the permutation, and whether it must produce the entire preimage (search) or\r\nonly the first bit (decision). We prove several theorems connecting the hardness of the resulting\r\nvariations of the inversion problem, and establish lower bounds for them. Our results indicate\r\nthat, perhaps surprisingly, the inversion problem does not become significantly easier when the\r\nadversary is granted oracle access to the inverse, provided it cannot query the challenge itself.",
+        "authors": [
+            {
+                "first": "Gorjan",
+                "last": "Alagic",
+                "affiliation": "University of Maryland and NIST"
+            },
+            {
+                "first": "Chen",
+                "last": "Bai",
+                "affiliation": "University of Maryland-College Park"
+            },
+            {
+                "first": "Alexander",
+                "last": "Poremba",
+                "affiliation": "California Institute of Technology"
+            },
+            {
+                "first": "Kaiyan",
+                "last": "Shi",
+                "affiliation": "University of Maryland-College Park"
+            }
+        ],
+        "topics": [
+            "post-quantum cryptography",
+            "theory"
+        ]
+    },
+    {
+        "pid": 65,
+        "submission_class": "poster",
+        "title": "Uncloneable Cryptographic Primitives with Interaction",
+        "abstract": "Much of the strength of quantum cryptography may be attributed to the no-cloning property of quantum information. We construct three new cryptographic primitives whose security is based on uncloneability, and that have in common that their security can be established via a novel monogamy-of-entanglement (MoE) property:\r\n -- We define interactive uncloneable encryption, a version of the uncloneable encryption defined by Broadbent and Lord [TQC 2020] where the receiver must partake in an interaction with the sender in order to decrypt the ciphertext. We provide a one-round construction that is secure in the information-theoretic setting, in the sense that no other receiver may learn the message even if she eavesdrops on all the interactions.\r\n -- We provide a way to make a bit string commitment scheme uncloneable. The scheme is augmented with a check step chronologically in between the commit and open steps, where an honest sender verifies that the commitment may not be opened by an eavesdropper, even if the receiver is malicious. Our construction preserves the assumptions of the original commitment  while requiring only a polynomial decrease in the length of the committed string.\r\n -- We construct a receiver-independent quantum key distribution (QKD) scheme, which strengthens the notion of one-sided device independent QKD of Tomamichel, Fehr, Kaniewski, and Wehner (TFKW) [NJP 2013] by also permitting the receiver's classical device to be untrusted. Explicitly, the sender remains fully trusted while only the receiver's communication is trusted. We provide a construction that achieves the same asymptotic error tolerance as the scheme of TFKW.\r\nTo show security, we prove an extension of the MoE property of coset states introduced by Coladangelo, Liu, Liu, and Zhandry [Crypto 2021]. In our stronger version, the player Charlie also receives Bob's answer prior to making his guess, thus simulating a party who eavesdrops on an interaction. To make use of this property, we express it as a new type of entropic uncertainty relation which arises naturally from the structure of the underlying MoE game.",
+        "authors": [
+            {
+                "first": "Anne",
+                "last": "Broadbent",
+                "affiliation": "University of Ottawa"
+            },
+            {
+                "first": "Eric",
+                "last": "Culf",
+                "affiliation": "University of Waterloo"
+            }
+        ],
+        "topics": [
+            "beyond QKD",
+            "device independence",
+            "QKD theory",
+            "theory"
+        ]
+    },
+    {
+        "pid": 68,
+        "submission_class": "poster",
+        "title": "Breaking barriers in two-party quantum cryptography via stochastic semidefinite programming",
+        "abstract": "In the last two decades, there has been much effort in finding secure protocols for two-party cryptographic tasks. It has since been discovered that even with quantum mechanics, many such protocols are limited in their security promises. In this work, we use stochastic selection, an idea from stochastic programming, to circumvent such limitations. For example, we find a way to switch between bit commitment, weak coin flipping, and oblivious transfer protocols to improve their security. We also use stochastic selection to turn trash into treasure yielding the first quantum protocol for Rabin oblivious transfer.",
+        "authors": [
+            {
+                "first": "Akshay",
+                "last": "Bansal",
+                "affiliation": "Virginia Polytechnic Institute and State University"
+            },
+            {
+                "first": "Jamie",
+                "last": "Sikora",
+                "affiliation": "Virginia Polytechnic Institute and State University"
+            }
+        ],
+        "topics": [
+            "theory"
+        ]
+    },
+    {
+        "pid": 71,
+        "submission_class": "poster",
+        "title": "On the (Im)possibility of Time-Lock Puzzles in the Quantum Random Oracle Model",
+        "abstract": "Time-lock puzzles wrap a message x inside a puzzle P in such a way that \u201csolving\u201d P to find x requires significantly more time than generating the pair (x, P ); hence it can be thought of as sending a message x to the future. In particular, the soundness of time-lock puzzles requires that the adversary is not able to expedite the solving process by much, even if it has access to parallel computing. It is known [Mahmoody, Moran, Vadhan, Crypto\u201911] that when the source of hardness is only a random oracle, then there is no meaningful construction of time-lock puzzles, as any puzzle generator with n queries can always be (efficiently) broken by an adversary in O(n) rounds of queries to the oracle.\r\n\r\nIn this work, we revisit time-lock puzzles in a quantum world by allowing the parties to use quantum computing and, in particular, access the random oracle in quantum superposition. An interesting setting is when the puzzle generator is efficient and classical, while the solver (who might be an entity developed in the future) is quantum powered and is supposed to need a long sequential time to succeed. We prove that in this setting, there is no construction of time-lock puzzles solely from quantum (accessible) random oracles. In particular, for any n-query classical puzzle generator, our attack only asks O(n) (also classical) queries to the random oracle, even though it does indeed run in quantum polynomial time if the honest puzzle solver needs quantum computing. \r\n\r\nWe then ask whether one can extend our classical-query attack to the setting of puzzle generators who might ask quantum queries to the random oracle. We show a barrier for proving such results unconditionally. In particular, we show that if the folklore simulation conjecture, first formally stated by Aaronson and Ambianis [arXiv\u20192009] is false, then there is indeed a time-lock puzzle in the quantum random oracle model that cannot be broken by classical adversaries.",
+        "authors": [
+            {
+                "first": "Abtin",
+                "last": "Afshar",
+                "affiliation": "University of Virginia"
+            },
+            {
+                "first": "Kai-Min",
+                "last": "Chung",
+                "affiliation": "Academia Sinica"
+            },
+            {
+                "first": "Yao Ching",
+                "last": "Hsieh",
+                "affiliation": "University of Washington"
+            },
+            {
+                "first": "Yao-Ting",
+                "last": "Lin",
+                "affiliation": "UCSB"
+            },
+            {
+                "first": "Mohammad",
+                "last": "Mahmoody",
+                "affiliation": "University of Virginia"
+            }
+        ],
+        "topics": [
+            "post-quantum cryptography",
+            "theory"
+        ]
+    },
+    {
+        "pid": 74,
+        "submission_class": "poster",
+        "title": "Analysis of the effects of the two-photon temporal distinguishability on measurement-device-independent quantum key distribution",
+        "abstract": "Measurement-device-independent quantum key distribution (MDI-QKD) can remove all loopholes in the measurement devices of QKD. Since Alice and Bob send Charlie laser pulses through separate fiber links, the arrival times of the pulses fluctuate independently. It is important that photons from two independent lasers must be indistinguishable. According to the Hong-Ou-Mandel (HOM) interference occurring at Charlie\u2019s relay, time delay between two photons has the greatest effect on the distinguishability. However, these effects have not been analyzed. We studied the effects of the two-photon temporal distinguishability in terms of the visibility of the HOM-dip of two photons on the final key rate of MDI-QKD with different Bell state measurement (BSM) implements. The acceptable time delay range is also estimated based on photons with Gaussian spectral amplitude functions.",
+        "authors": [
+            {
+                "first": "Haobo",
+                "last": "Ge",
+                "affiliation": "Hokkaido University"
+            },
+            {
+                "first": "Akihisa",
+                "last": "Tomita",
+                "affiliation": "Hokkaido University"
+            },
+            {
+                "first": "Atsushi",
+                "last": "Okamoto",
+                "affiliation": "Hokkaido University"
+            },
+            {
+                "first": "Kazuhisa",
+                "last": "Ogawa",
+                "affiliation": "Osaka University"
+            }
+        ],
+        "topics": [
+            "device independence",
+            "QKD theory"
+        ]
+    },
+    {
+        "pid": 82,
+        "submission_class": "poster",
+        "title": "Eavesdropper localization in quantum channels using stimulated Brillouin scattering",
+        "abstract": "At its core quantum key distribution (QKD) offers information theoretical security based on the laws of physics. In deployments one has to take into account practical security and resilience. The latter includes the localization of a possible eavesdropper after an anomaly has been detected by the QKD system to avoid denial-of-service. In this work, we present a novel approach to eavesdropper localization inside a quantum channel based on opto-acoustic interaction. Employing localized stimulated Brillouin scattering, we are able to localize common eavesdropping approaches such as evanescent outcoupling as low as 1% of optical transmission power to the cm level. Furthermore we are capable to distinguish multiple nominally indistinguishable fibers from different manufacturers, paving the way for high security applications. Finally we show, that this approach surpasses traditional OTDR technology.",
+        "authors": [
+            {
+                "first": "Alexandra",
+                "last": "Popp",
+                "affiliation": "Max Planck Institute for the Science of Light"
+            },
+            {
+                "first": "Florian",
+                "last": "Sedlmeir",
+                "affiliation": "University of Otago"
+            },
+            {
+                "first": "Birgit",
+                "last": "Stiller",
+                "affiliation": "Max Planck Institute for the Science of Light"
+            },
+            {
+                "first": "Christoph",
+                "last": "Marquardt",
+                "affiliation": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg"
+            }
+        ],
+        "topics": [
+            "beyond QKD",
+            "experiment"
+        ]
+    },
+    {
+        "pid": 85,
+        "submission_class": "poster",
+        "title": "Access-controlled entanglement source against memory attack in quantum cryptography",
+        "abstract": "We propose and demonstrate an upgraded quantum key distribution protocol based on time-bin entanglement source with access control through introducing phase randomization. The upgraded source can protect users from memory attacks at a negligible cost.",
+        "authors": [
+            {
+                "first": "Haoyang",
+                "last": "Wang",
+                "affiliation": "Beijing University of Posts and Telecommunications"
+            },
+            {
+                "first": "Qiang",
+                "last": "Zeng",
+                "affiliation": "Beijing Academy of Quantum Information Sciences"
+            },
+            {
+                "first": "Huihong",
+                "last": "Yuan",
+                "affiliation": "Beijing Academy of Quantum Information Sciences"
+            },
+            {
+                "first": "Yuanbin",
+                "last": "Fan",
+                "affiliation": "Beijing Academy of Quantum Information Sciences"
+            },
+            {
+                "first": "Lai",
+                "last": "Zhou",
+                "affiliation": "Beijing Academy of Quantum Information Sciences"
+            },
+            {
+                "first": "Yuanfei",
+                "last": "Gao",
+                "affiliation": "Beijing Academy of Quantum Information Sciences"
+            },
+            {
+                "first": "Haiqiang",
+                "last": "Ma",
+                "affiliation": "Beijing University of Posts and Telecommunications"
+            },
+            {
+                "first": "Zhiliang",
+                "last": "Yuan",
+                "affiliation": "Beijing Academy of Quantum Information Sciences"
+            }
+        ],
+        "topics": [
+            "experiment",
+            "post-quantum cryptography"
+        ]
+    },
+    {
+        "pid": 89,
+        "submission_class": "poster",
+        "title": "Integrated photonic solutions for scalable and robust quantum random number generation",
+        "abstract": "Random numbers play a crucial role in information technology, and as digital communication capacity continues to expand, the need for secure and high-speed generation methods becomes increasingly urgent. Integrated photonics technology is widely regarded as the most promising approach for mass-producing optoelectronic quantum random number generators (QRNGs). However, there is still a need for fast, robust, and scalable solutions that are compatible with industrial deployment.\r\n\r\nTo address this need, we present a high-speed QRNG that utilizes a photonic integrated circuit (PIC) directly embedded in a versatile electronic platform. The PIC has been designed to be robust for real-world applications and packaged to align with industrial electronic assembly lines, allowing us to easily manufacture eight boards. In order to thoroughly assess the scalability and stability of our approach, we subjected these generators to week-long periods of continuous GHz operation.\r\n\r\nAdditionally, a QRNG was integrated into a quantum key distribution system. Despite operating in an uncontrolled environment, the physical randomness exhibited minimal variations, as evidenced by the analysis of 2.9 million histograms collected over 38 days. Lastly, we equipped the QRNGs with a security model that adjusts the rate based on the actual randomness content, demonstrating secure generation at up to 2 Gbit/s.",
+        "authors": [
+            {
+                "first": "Davide",
+                "last": "Marangon",
+                "affiliation": "Toshiba Europe Limited"
+            },
+            {
+                "first": "Peter R.",
+                "last": "Smith",
+                "affiliation": "Toshiba Europe Limited"
+            },
+            {
+                "first": "Nathan",
+                "last": "Walk",
+                "affiliation": "Toshiba Europe Limited"
+            },
+            {
+                "first": "Taofiq K.",
+                "last": "Paraiso",
+                "affiliation": "Toshiba Europe Limited"
+            },
+            {
+                "first": "James",
+                "last": "Dynes",
+                "affiliation": "Toshiba Europe Limited"
+            },
+            {
+                "first": "Victor",
+                "last": "Lovic",
+                "affiliation": "Toshiba Europe Limited"
+            },
+            {
+                "first": "Mirko",
+                "last": "Sanzaro",
+                "affiliation": "Toshiba Europe Limited"
+            },
+            {
+                "first": "Thomas",
+                "last": "Roger",
+                "affiliation": "Toshiba Europe Limited"
+            },
+            {
+                "first": "Innocenzo",
+                "last": "de Marco",
+                "affiliation": "Toshiba Europe Limited"
+            },
+            {
+                "first": "Marco",
+                "last": "Lucamarini",
+                "affiliation": "University of York"
+            },
+            {
+                "first": "Zhiliang",
+                "last": "Yuan",
+                "affiliation": "Toshiba Europe Limited"
+            },
+            {
+                "first": "Andrew J.",
+                "last": "Shields",
+                "affiliation": "Toshiba Europe Limited"
+            }
+        ],
+        "topics": [
+            "experiment",
+            "photonic integration",
+            "QKD implementation",
+            "random-number generation"
+        ]
+    },
+    {
+        "pid": 91,
+        "submission_class": "poster",
+        "title": "Fundamental limits on quantum cloning from the no-signalling principle",
+        "abstract": "The no-cloning theorem is a cornerstone of quantum cryptography. Here we generalize and rederive under weaker assumptions various upper bounds on the maximum achievable fidelity of probabilistic and deterministic cloning machines. Building on ideas by Gisin [Phys.~Lett.~A, 1998], our results hold even for cloning machines that do not obey the laws of quantum mechanics, as long as remote state preparation is possible and the non-signalling principle holds. We apply our general theorem to several subsets of states that are of interest in quantum cryptography.",
+        "authors": [
+            {
+                "first": "Yanglin",
+                "last": "Hu",
+                "affiliation": "National University of Singapore, Centre for Quantum Technologies"
+            },
+            {
+                "first": "Marco",
+                "last": "Tomamichel",
+                "affiliation": "National University of Singapore"
+            }
+        ],
+        "topics": [
+            "theory"
+        ]
+    },
+    {
+        "pid": 93,
+        "submission_class": "poster",
+        "title": "Hybrid Quantum Cryptography from Communication Complexity",
+        "abstract": "We introduce an explicit construction for a key distribution protocol in the Quantum Computational Timelock (QCT) security model, where one assumes that computationally secure encryption may only be broken after a time much longer than the coherence time of available quantum memories. Taking advantage of the QCT assumptions, we build a key distribution protocol called HM-QCT from the Hidden Matching problem for which there exists an exponential gap in one-way communication complexity between classical and quantum strategies. We establish that the security of HM-QCT against arbitrary attacks for one use of the channel can be reduced to the difficulty of solving the underlying Hidden Matching problem with classical information. Legitimate users, on the other hand, can use quantum communication, which gives them the possibility of sending multiple copies of the same quantum state while retaining an information advantage. This leads to a HM-QCT key distribution scheme over n bosonic modes that is secure with up to O(\u221an/log(n)) input photons per channel use, boosting key rates by several orders of magnitude compared to Quantum Key Distribution (QKD) and allowing to operate with a non-trusted receiver.",
+        "authors": [
+            {
+                "first": "Francesco",
+                "last": "Mazzoncini",
+                "affiliation": "Telecom Paris"
+            },
+            {
+                "first": "Balthazar",
+                "last": "Bauer",
+                "affiliation": "IRIF, Universit\u00e9 Paris Cit\u00e9"
+            },
+            {
+                "first": "Peter",
+                "last": "Brown",
+                "affiliation": "Telecom Paris"
+            },
+            {
+                "first": "Romain",
+                "last": "All\u00e9aume",
+                "affiliation": "Telecom Paris"
+            }
+        ],
+        "topics": [
+            "QKD theory",
+            "theory"
+        ]
+    },
+    {
+        "pid": 95,
+        "submission_class": "poster",
+        "title": "Modeling InGaAs/InAlAs SPADs to predict their electrical parameters as part of single-photon detectors",
+        "abstract": "A model of InGaAs/InAlAs single-photon avalanche diodes has been constructed in the T-CAD computing environment in order to predict their electrical parameters when they work as part of single-photon detectors. The obtained results are applicable for optimizing the design of single-photon avalanche photodiodes for use as sensitive elements in light detection devices. The main advantage of the developed model of InGaAs/InAlAs single-photon diodes is that it can be integrated in the electrical control circuit of the single-photon detector to simulate the operation of the diode, which allows not only setting up the detector control system, but also testing new circuit solutions.",
+        "authors": [
+            {
+                "first": "Alexandr",
+                "last": "Filyaev",
+                "affiliation": "QRate LLC"
+            },
+            {
+                "first": "Anton",
+                "last": "Losev",
+                "affiliation": "QRate LLC"
+            },
+            {
+                "first": "Vladimir",
+                "last": "Zavodilenko",
+                "affiliation": "QRate LLC"
+            },
+            {
+                "first": "Igor",
+                "last": "Pavlov",
+                "affiliation": "QRate LLC"
+            }
+        ],
+        "topics": [
+            "QKD implementation",
+            "QKD theory",
+            "theory"
+        ]
+    },
+    {
+        "pid": 98,
+        "submission_class": "poster",
+        "title": "Finite key performance of satellite quantum key distribution under practical constraints",
+        "abstract": "Global-scale quantum communication networks will require efficient long-distance distribution of quantum signals. Optical fibre communication channels have range constraints due to exponential losses in the absence of quantum memories and repeaters. Satellites enable intercontinental quantum communication by exploiting more benign inverse square free-space attenuation and long sight lines. However, the design and engineering of satellite quantum key distribution (QKD) systems are difficult and characteristic differences to terrestrial QKD networks and operations pose additional challenges. The typical approach to modelling satellite QKD (SatQKD) has been to estimate performances with a fully optimised protocol parameter space and with few payload and platform resource limitations. Here, we analyse how practical constraints affect the performance of SatQKD for the Bennett-Brassard 1984 (BB84) weak coherent pulse decoy state protocol with finite-key size effects. We consider engineering limitations and trade-offs in mission design including limited in-orbit tunability, quantum random number generation rates and storage, and source intensity uncertainty. We quantify practical SatQKD performance limits to determine the long-term key generation capacity and provide important performance benchmarks to support the design of upcoming missions.",
+        "authors": [
+            {
+                "first": "Jasminder S.",
+                "last": "Sidhu",
+                "affiliation": "The University of Strathclyde"
+            },
+            {
+                "first": "Thomas",
+                "last": "Brougham",
+                "affiliation": "The University of Strathclyde"
+            },
+            {
+                "first": "Duncan",
+                "last": "McArthur",
+                "affiliation": "The University of Strathclyde"
+            },
+            {
+                "first": "Roberto G.",
+                "last": "Pousa",
+                "affiliation": "The University of Strathclyde"
+            },
+            {
+                "first": "Daniel K. L.",
+                "last": "Oi",
+                "affiliation": "The University of Strathclyde"
+            }
+        ],
+        "topics": [
+            "QKD implementation",
+            "QKD theory",
+            "theory"
+        ]
+    },
+    {
+        "pid": 108,
+        "submission_class": "poster",
+        "title": "Real-world data encryption with continuous-variable measurement device-independent quantum key distribution",
+        "abstract": "Measurement-device-independent (MDI) QKD removes all side-channel attacks on detectors. Continuous variable (CV) MDI-QKD based on coherent states is a promising candidate for integration into existing telecom infrastructure. Despite previous demonstrations of the concept and the potential for secure communication offered by CV MDI-QKD, a practical implementation of the system for real-world data encryption has yet to be achieved. Here, we introduce a simple and practical CV MDI-QKD system that can coexist with classical telecommunications channels. This is achieved through the use of a new relay structure, a real-time phase locking system and a well-designed digital signal-processing pipeline. Our design demonstrates the first practical CV MDI-QKD system, operating at a symbol rate of 20 MBaud and generating keys that are secure against collective attacks in both the finite-size and asymptotic regimes. This sets an important milestone towards in-field implementation and integration of high-performance CV MDI-QKD into telecom networks.",
+        "authors": [
+            {
+                "first": "Adnan A.E.",
+                "last": "Hajomer",
+                "affiliation": "TECHNICAL UNIVERSITY OF DENMARK"
+            },
+            {
+                "first": "Ulrik L.",
+                "last": "Andersen",
+                "affiliation": "TECHNICAL UNIVERSITY OF DENMARK"
+            },
+            {
+                "first": "Tobias",
+                "last": "Gehring",
+                "affiliation": "TECHNICAL UNIVERSITY OF DENMARK"
+            }
+        ],
+        "topics": [
+            "experiment",
+            "QKD implementation"
+        ]
+    },
+    {
+        "pid": 112,
+        "submission_class": "poster",
+        "title": "Interactive Oracle Arguments in the QROM and Applications to Succinct Verification of Quantum Computation",
+        "abstract": "This work is motivated by the following question: can an untrusted quantum server convince a classical verifier of the answer to an efficient quantum computation using only polylogarithmic communication? We show how to achieve this in the quantum random oracle model (QROM), after a non-succinct instance-independent setup phase.\r\n\r\nWe introduce and formalize the notion of post-quantum interactive oracle arguments for languages in QMA, a generalization of interactive oracle proofs (Ben-Sasson--Chiesa--Spooner). We then show how to compile any non-adaptive public-coin interactive oracle argument (with private setup) into a succinct argument (with setup) in the QROM.\r\n\r\nTo conditionally answer our motivating question via this framework under the post-quantum hardness assumption of LWE, we show that the XZ local Hamiltonian problem with at least inverse-polylogarithmic relative promise gap has an interactive oracle argument with instance-independent setup, which we can then compile.\r\n\r\nAssuming a variant of the quantum PCP conjecture that we introduce called the weak XZ quantum PCP conjecture, we obtain a succinct argument for QMA (and consequently the verification of quantum computation) in the QROM (with non-succinct instance-independent setup) which makes only black-box use of the underlying cryptographic primitives.\r\n\r\nThe full version of this preprint is available at: https://eprint.iacr.org/2023/421",
+        "authors": [
+            {
+                "first": "Islam",
+                "last": "Faisal",
+                "affiliation": "Boston University"
+            }
+        ],
+        "topics": [
+            "beyond QKD",
+            "post-quantum cryptography",
+            "theory"
+        ]
+    },
+    {
+        "pid": 114,
+        "submission_class": "poster",
+        "title": "Unifying Quantum Verification and Error-Detection: Theory and Tools for Optimisations",
+        "abstract": "With the recent availability of cloud quantum computing services, the question of verifying quantum computations delegated by a client to a quantum server is becoming of practical interest. While Verifiable Blind Quantum Computing (VBQC) has emerged as one of the key approaches to address this challenge, current protocols still need to be optimised before they are truly practical.\r\nTo this end, we establish a fundamental correspondence between error-detection and verification and provide sufficient conditions to both achieve security in the Abstract Cryptography framework and optimise resource overheads of all known VBQC-based protocols. As a direct application, we demonstrate how to systematise the search for new efficient and robust verification protocols for BQP computations. While we have chosen Measurement-Based Quantum Computing (MBQC) as the working model for the presentation of our results, one could expand the domain of applicability of our framework via direct known translation between the circuit model and MBQC.",
+        "authors": [
+            {
+                "first": "Theodoros",
+                "last": "Kapourniotis",
+                "affiliation": "University of Warwick"
+            },
+            {
+                "first": "Elham",
+                "last": "Kashefi",
+                "affiliation": "LIP6, Sorbonne University, University of Edinburgh"
+            },
+            {
+                "first": "Dominik",
+                "last": "Leichtle",
+                "affiliation": "LIP6, Sorbonne University"
+            },
+            {
+                "first": "Luka",
+                "last": "Music",
+                "affiliation": "Quandela"
+            },
+            {
+                "first": "Harold",
+                "last": "Ollivier",
+                "affiliation": "INRIA Paris"
+            }
+        ],
+        "topics": [
+            "theory"
+        ]
+    },
+    {
+        "pid": 116,
+        "submission_class": "poster",
+        "title": "Comparative Analysis of Hybrid Quantum Error Correction (QEC)-Quantum Key Distribution (QKD) Protocols: Technical Considerations, Efficiency and Feasibility.",
+        "abstract": "The present study analyzes the efficiency of employing quantum error correction codes (QECC) to encode quantum information states in the context of Quantum Key Distribution (QKD). Specifically, the possibility of enhancing the security and reliability of QKD systems by adding a secondary layer of quantum coding to the states emitted by Alice in the \\textit{Prepare-and-Measure} protocols is exhaustively quantified. Such an encoding scheme would be expected to be achievable by means of quantum hardware potentially available in the mid-term. This last statement refers to the assumed reasonable interconnectivity and scalability requirements that may be imposed on the physical encoding capabilities of a quantum processor for the case here considered, since only 1-qubit states are used in QKD. \r\n\r\n\r\nThe model for quantum states transmission here considered does not impose any restrictions on the quantum channel, but does assume that the noise and errors to which qubits may be subject in QKD links can be characterized by discrete transformations. That is, depending on the physical encoding scheme chosen for photon's polarization, errors such as bit-flip or phase-shift errors (among others) can be corrected through logical gates derived from Pauli operators, which, along with identity, form the basis $\\{I,X,Y,Z\\}$ for 1-qubit discrete error operators of the form: \r\n\r\n\\begin{equation}\r\n    E = \\left(\\begin{array}{cc}\r\n    \\alpha_0 & \\alpha_1\\\\\r\n    \\alpha_2 & \\alpha_3 \r\n    \\end{array}\\right) \r\n\\end{equation}\r\n\\medskip \r\n\r\nSuch a consideration imposes the need to be able to identify and correct up to a total of $k = 1 + 3n$ different types of errors (including no error at all, bit-flip, phase-shift, and combinations of the previous) that may affect a QKD state (encoded in an $n-$qubit physical state). In line with previous scalability arguments, that requires for the number of physical qubits needed to achieve such encoding to be lower bounded by the product of the previous magnitude and the dimension of the quantum code $C$ used (which, in the context of QKD, shall be $\\mathrm{dim}(C) = 2$). Therefore, if $m=1$ is the number of qubits to be encoded for each transmitted state in QKD, the condition:\r\n\r\n\\begin{equation}\r\n    2^n \\geq dim(C)(1+3n)\r\n\\end{equation}\r\n\r\nimposes a a minimum of $n=5$ physical qubits in a quantum algorithm to carry out encoding and correction of a 1-qubit quantum state. However, it should be noted that, beyond the anticipated error types, the efficiency of identifying errors in a key distilled through QKD (i.e., for all purposes, the correctable QBER associated with each transmission) will be all the more efficient the greater the number n of physical qubits available in a processor for such encoding (of the order of $2^{n-1}$). Thus, the minimum requirements of the quantum hardware topology for the feasibility of this type of encoding are specified, as well as the optimal trade-off in terms of the assumable QBER against different types of attacks, supported by future advances in quantum processor scalability. In this sense, beyond the security considerations associated with QKD implementations of this nature, the goal of this analysis is to parallelly discern the potential speed-up of employing quantum algorithms to carry out error correction of QKD keys and their potential superiority over classical error correction processes in the future.\r\n\r\n\r\nIn this regard, two types of QECC are tested in this work. On the one hand, the widespread use of low-density parity check (LDPC)-type linear codes (being linearity a requirement that quantum error correction codes must necessarily satisfy) naturally leads to considering their use in Quantum CSS (Calderbank, Shor \\& Steane) codes. The efficiency and performance benefits of LDPC codes applied to QKD are therefore as well transferable to a quantum processor in this context. The performance of these codes applied in QKD is contrasted, secondly, with stabilizer codes. It can be anticipated that the latter may present challenges in the initial algorithm for the encoding of the states emitted by Alice, however the decoding circuit algorithms can be implemented with relative simplicity  -albeit scalability limitations- through 1-qubit logical gates (such is also the case with CSS codes once the parity matrix of the LDPC code is known, whose speed advantages over the classical use of belief-propagation algorithms are showed here).\r\n\r\n\r\nOn the previous precepts, this study focuses on carrying out a comparative analysis of the convenience of potentially benefitting from the performance of either type of code, while analyzing technical considerations derived from the experimental implementation of QECC protocols in this QKD hybrid approach. The most important considerations are the following: \r\n\r\n\r\n    -Complexity. From the point of view of reliability of these types of implementations, potential disadvantages are analyzed in terms of complexity added to real physical systems. Not only is the experimental complexity increase of combining quantum hardware with QKD optical transmissions estimated, but also the anticipation of additional error sources, considering the acceptable threshold values of decoding techniques and calibration errors for real applications and security proofs. \r\n\r\n\r\n    - Efficiency. In terms of efficiency and overall code performance, estimated times (for different prospective states of quantum processor advancement) for quantum key generation through these techniques are simulated, and the circumstances under which each may be most convenient are identified.\r\n\r\n\r\n    - Components demands. Increased demand for quality of the optics involved in the QKD protocol is expected. Protocols of this nature further increase the demand for high-quality transmissions, especially regarding photon sources, which may have a significant impact on both implementability and its associated costs. \r\n\r\n\r\n    - Overhead. Additional overhead needs are projected in terms of code design, number of qubits required depending on the use case, as well as measurement operators necessary for error detection and correction. Consequently, partial limits have been found on the amount of data that can be transmitted in a QKD system that integrates this methodology, which is projected to be overcome when widely available quantum hardware reaches sufficient maturity.\r\n\r\n    \r\n    - Side channel attacks. Possible vulnerabilities to quantum hacking are preliminarily identified, and a testing method is suggested for this type of QECC-based QKD systems.\r\n    \r\n\r\nIn addition to the previous analyses, the authors note that one of the most significant features of -both of- the codes here analyzed is that they carry out the identification of errors that affect quantum states at the time of reception, while preserving the encoded quantum information in photons. In this sense, a protocol of these characteristics allows to anticipate, in some applications, the error correction process to the security analysis (although the syndromes of each of the states can be stored classically and the correction processed once the QBER estimation is finished). This can constitute a significant disadvantage in unnecessary computational energy costs when the transmission is not considered secure, but may also be exploited for beneficial applications on certain use cases. \r\n\r\n\r\nWith all of the above, the work here presented collects the results on the aforementioned considerations, quantitative cost analysis and future feasibility prospects of this QECC-QKD proposal, as well as details on design and integration considerations, and requirements of both the QKD and quantum hardware components that support this type of implementation.",
+        "authors": [
+            {
+                "first": "Aida",
+                "last": "Garc\u00eda-Callejo",
+                "affiliation": "Spanish National Research Council (CSIC)"
+            },
+            {
+                "first": "Andr\u00e9s",
+                "last": "Ruiz-Chamorro",
+                "affiliation": "Spanish National Research Council (CSIC)"
+            },
+            {
+                "first": "Pablo",
+                "last": "Arteaga",
+                "affiliation": "Spanish National Research Council (CSIC)"
+            },
+            {
+                "first": "Daniel",
+                "last": "Cano",
+                "affiliation": "Spanish National Research Council (CSIC)"
+            },
+            {
+                "first": "Ver\u00f3nica",
+                "last": "Fern\u00e1ndez",
+                "affiliation": "Spanish National Research Council (CSIC)"
+            }
+        ],
+        "topics": [
+            "beyond QKD",
+            "QKD implementation",
+            "QKD theory"
+        ]
+    },
+    {
+        "pid": 119,
+        "submission_class": "poster",
+        "title": "Sample-size-reduction of quantum states for the noisy linear problem and approximate QRAM",
+        "abstract": "Quantum supremacy poses that a realistic quantum computer can perform a calculation that classical computers cannot  in any reasonable amount of time. It has become a topic of significant research interest since the birth of the field, and it is intrinsically based on the efficient construction of quantum algorithms. It has been shown that there exists an expeditious way to solve the noisy linear (or learning with errors) problems in quantum machine learning theory via a well-posed quantum sampling over pure quantum states. In this paper, we propose an advanced method to reduce the sample size in the noisy linear structure, through a technique of randomizing quantum states, namely, $\\varepsilon$-random technique. Particularly, we show that it is possible to reduce a quantum sample size in a quantum random access memory (QRAM) to the linearithmic order, in terms of the dimensions of the input-data. Thus, we achieve a shorter run-time for the noisy linear problem.",
+        "authors": [
+            {
+                "first": "Kabgyun",
+                "last": "Jeong",
+                "affiliation": "Seoul National University"
+            }
+        ],
+        "topics": [
+            "theory"
+        ]
+    },
+    {
+        "pid": 121,
+        "submission_class": "poster",
+        "title": "Multi-User Continuous-Variable Quantum Key Distribution with Discrete Modulation",
+        "abstract": "In our work, we explore various multi-user scenarios for Continuous Variable Quantum Key Distribution with discrete modulation. We propose and analyse DM CV-QKD protocols for various different multi-user scenarios such as \r\n    * One Alice to $n$ Bobs, where the Bobs do not trust each other,\r\n    * One Alice to $n$ Bobs, where $m<n$ Bobs trust each other,\r\n    * Conference Key Agreement between one Alice and $n$ Bobs.\r\n\r\nOne common feature of all protocols that we study is that Alice's source does not need any additional expensive components  except state-of-the-art beamsplitters, therefore we call it `cheap source'. This makes the transmitter of our proposed protocols easily implementable in experiments and demonstrations. \r\n\r\nIn our work, we calculate asymptotic secret key rates for a range of parameters and different trust scenarios and show that in the asymptotic limit multi-user DM CV-QKD is possible for distances relevant for mid-sized urban area networks between at least 16 user. This highlights, that DM CV-QKD can be extended to the multi-user scenario and remains a feasible candidate also for early implementations of Quantum Key Distribution in local networks.",
+        "authors": [
+            {
+                "first": "Florian",
+                "last": "Kanitschar",
+                "affiliation": "Technische Universit\u00e4t Wien & AIT Austrian Institute of Technology"
+            },
+            {
+                "first": "Christoph",
+                "last": "Pacher",
+                "affiliation": "AIT Austrian Institute of Technology & FragmentiX Storage Solution GmbH"
+            }
+        ],
+        "topics": [
+            "QKD theory"
+        ]
+    },
+    {
+        "pid": 123,
+        "submission_class": "poster",
+        "title": "Advantage of the key relay protocol over secure network coding",
+        "abstract": "The key relay protocol (KRP) plays an important role in improving the performance and the security of quantum key distribution (QKD) networks. On the other hand, there is also an existing research field called secure network coding (SNC), which has similar goal and structure. We here analyze differences and similarities between the KRP and SNC rigorously. We found, rather surprisingly, that there is a definite gap in security between the KRP and SNC; that is, certain KRPs achieve better security than any SNC schemes on the same graph. We also found that this gap can be closed if we generalize the notion of SNC by adding free public channels; that is, KRPs are equivalent to SNC schemes augmented with free public channels.",
+        "authors": [
+            {
+                "first": "Go",
+                "last": "Kato",
+                "affiliation": "NICT"
+            },
+            {
+                "first": "Mikio",
+                "last": "Fujiwara",
+                "affiliation": "NICT"
+            },
+            {
+                "first": "Toyohiro",
+                "last": "Tsurumaru",
+                "affiliation": "Mitsubishi Electric Corporation"
+            }
+        ],
+        "topics": [
+            "beyond QKD",
+            "QKD theory",
+            "theory"
+        ]
+    },
+    {
+        "pid": 125,
+        "submission_class": "poster",
+        "title": "Experimental demonstration of a QKD platform over long-distance-, metro-, and last-mile links",
+        "abstract": "We present experimental findings of a versatile quantum key distribution (QKD) system for diverse application scenarios such as long-distance, metropolitan, and last-mile/in-house links. This is enabled by the system\u2019s dual-wavelength support, automatic initialization, stabilizing feedback loops, and modular design, which allows for usage of commercial detectors and encryptors.",
+        "authors": [
+            {
+                "first": "Jan",
+                "last": "Krause",
+                "affiliation": "Fraunhofer Institute for Telecommunications, Heinrich Hertz Institute, HHI"
+            },
+            {
+                "first": "Nino",
+                "last": "Walenta",
+                "affiliation": "Fraunhofer Institute for Telecommunications, Heinrich Hertz Institute, HHI"
+            },
+            {
+                "first": "Benedikt",
+                "last": "Lezius",
+                "affiliation": "Fraunhofer Institute for Telecommunications, Heinrich Hertz Institute, HHI"
+            },
+            {
+                "first": "Richard",
+                "last": "Schilling",
+                "affiliation": "Fraunhofer Institute for Telecommunications, Heinrich Hertz Institute, HHI"
+            },
+            {
+                "first": "Ronald",
+                "last": "Freund",
+                "affiliation": "Fraunhofer Institute for Telecommunications, Heinrich Hertz Institute, HHI"
+            }
+        ],
+        "topics": [
+            "experiment",
+            "QKD implementation"
+        ]
+    },
+    {
+        "pid": 127,
+        "submission_class": "poster",
+        "title": "Twin-Field Quantum Key Distribution in network configurations",
+        "abstract": "Twin-Field Quantum Key Distribution (TF-QKD) is an innovative family of protocols characterized by a weaker dependence of the achievable secret key rate on the channel loss, with respect to conventional QKD solutions.\r\nIn this work, we discuss several important aspects encountered in TF-QKD when transitioning from point-to-point links to a network configuration. 1) The effects of path length mismatch between the two arms of the link (A-C and B-C) is discussed in several configurations. 2) The noise contributions (stronger in in-field deployment) are meticulously analyzed, their effect on the final key rate is estimated and solutions to mitigate the problem are implemented. 3) The topic of building complex and large networks with TF-QKD is tackled to find advantageous configurations. Interconnected macro-star networks based on TF-QKD are simulated by means of the \u201cqkdnetsim\u201d package of the network simulator \u201cns3\u201d. The upcoming deployment of national QKD networks requires dedicated studies in this direction to build efficient and long-range solutions, compatible with current telecom standards.",
+        "authors": [
+            {
+                "first": "Carlo",
+                "last": "Liorni",
+                "affiliation": "Leonardo Labs Quantum Technologies"
+            },
+            {
+                "first": "Gianluca",
+                "last": "Bertaina",
+                "affiliation": "INRIM"
+            },
+            {
+                "first": "Cecilia",
+                "last": "Clivati",
+                "affiliation": "INRIM"
+            },
+            {
+                "first": "Simone",
+                "last": "Donadello",
+                "affiliation": "INRIM"
+            },
+            {
+                "first": "Alice",
+                "last": "Meda",
+                "affiliation": "INRIM"
+            },
+            {
+                "first": "Salvatore",
+                "last": "Virzi\u2019",
+                "affiliation": "INRIM"
+            },
+            {
+                "first": "Marco",
+                "last": "Gramegna",
+                "affiliation": "INRIM"
+            },
+            {
+                "first": "Ulpiani",
+                "last": "Pierfrancesco",
+                "affiliation": "Leonardo Labs Quantum Technologies"
+            },
+            {
+                "first": "Ivo Pietro",
+                "last": "Degiovanni",
+                "affiliation": "INRIM"
+            },
+            {
+                "first": "Massimiliano",
+                "last": "Dispenza",
+                "affiliation": "Leonardo Labs Quantum Technologies"
+            }
+        ],
+        "topics": [
+            "experiment",
+            "QKD implementation",
+            "QKD theory"
+        ]
+    },
+    {
+        "pid": 131,
+        "submission_class": "poster",
+        "title": "Twin-field quantum key distribution with three mutually unbiased bases",
+        "abstract": "Twin-field quantum key distribution (TF-QKD) and its variants provide a promising solution for sharing information-theoretic secure keys between intercity peers since they are able to overcome the fundamental rate-transmittance bound without quantum repeaters. In this paper, we propose to improve the key rate at long distances and the maximum achievable distance for TF-QKD by deriving the error rates under three mutually unbiased bases, i.e., \u03c3X, \u03c3Y , and \u03c3Z in two-dimensional Hilbert space. Moreover, learning these error rates, one can add noisy preprocessing to further improve its performance. We also observe that higher bit error rates do not necessarily imply lower key rates when noisy preprocessing is added. Our method does not change the existing physical implementation or experimental operation, but only requires simple postprocessing of the experimental data, which can be directly used to improve the key rate performance of the existing QKD system. The simulation results demonstrate its notable enhancements in terms of key rate at long distances and the maximum achievable distance for the phase-encoded TF-QKD protocol.",
+        "authors": [
+            {
+                "first": "Yao",
+                "last": "Zhou",
+                "affiliation": "CAS Key Laboratory of Quantum Information, USTC"
+            },
+            {
+                "first": "Zhen-Qiang",
+                "last": "Yin",
+                "affiliation": "CAS Key Laboratory of Quantum Information, USTC"
+            }
+        ],
+        "topics": [
+            "QKD theory"
+        ]
+    },
+    {
+        "pid": 134,
+        "submission_class": "poster",
+        "title": "Impossibility of probabilistic Quantum Private Queries",
+        "abstract": "The no-go theorem regarding unconditionally secure Quantum Bit Commitment protocols is a relevant result in quantum cryptography. The impossibility proof for Quantum Bit Commitment has been used to prove the impossibility of unditional security for other protocols, such as Quantum Oblivious Transfer or One-Sided Two Party Computation. In this paper, we extend the same proof to the non-deterministic version of Quantum Private Queries, a protocol addressing the Symmetric-Private Information Retrieval problem. Moreover, we prove the equivalence between Quantum Private Queries and Quantum Bit Commitment and One-Sided Two Party Computation protocols.",
+        "authors": [
+            {
+                "first": "Silvia",
+                "last": "Onofri",
+                "affiliation": "Scuola Normale Superiore"
+            },
+            {
+                "first": "Vittorio",
+                "last": "Giovannetti",
+                "affiliation": "Scuola Normale Superiore"
+            }
+        ],
+        "topics": [
+            "theory"
+        ]
+    },
+    {
+        "pid": 136,
+        "submission_class": "poster",
+        "title": "Interoperable key relay between heterogeneous QKDNs",
+        "abstract": "To construct a large-scale quantum key distribution network (QKDN) as future secure infrastructure, it is necessary interwork many QKDNs. Here, we demonstrate an interoperable key relay between two different types of QKDNs: a centralized QKDN and a distributed QKDN. In the demonstration, we build an experimental environment for interworking by using physical QKDNs and implement three fundamental functions (key relay, delivery confirmation, and status information collection) for performing key relay between heterogeneous QKDNs.",
+        "authors": [
+            {
+                "first": "Mayuko",
+                "last": "Koezuka",
+                "affiliation": "Toshiba Corporation"
+            },
+            {
+                "first": "Ririka",
+                "last": "Takahashi",
+                "affiliation": "Toshiba Corporation"
+            },
+            {
+                "first": "Yoshimichi",
+                "last": "Tanizawa",
+                "affiliation": "Toshiba Corporation"
+            },
+            {
+                "first": "Yasuhiro",
+                "last": "Fujiyoshi",
+                "affiliation": "Toshiba Corporation"
+            },
+            {
+                "first": "Yasuhiro",
+                "last": "Katsube",
+                "affiliation": "Toshiba Corporation"
+            },
+            {
+                "first": "Hideaki",
+                "last": "Sato",
+                "affiliation": "Toshiba Corporation"
+            },
+            {
+                "first": "Masanori",
+                "last": "Suzuki",
+                "affiliation": "NEC Corporation"
+            },
+            {
+                "first": "Kazushi",
+                "last": "Sugyo",
+                "affiliation": "NEC Corporation"
+            },
+            {
+                "first": "Takao",
+                "last": "Ochi",
+                "affiliation": "NEC Corporation"
+            },
+            {
+                "first": "Kaoru",
+                "last": "Kenyoshi",
+                "affiliation": "National Institute of Information and Communications Technology"
+            },
+            {
+                "first": "Mikio",
+                "last": "Fujiwara",
+                "affiliation": "National Institute of Information and Communications Technology"
+            },
+            {
+                "first": "Masahide",
+                "last": "Sasaki",
+                "affiliation": "National Institute of Information and Communications Technology"
+            }
+        ],
+        "topics": [
+            "experiment"
+        ]
+    },
+    {
+        "pid": 138,
+        "submission_class": "poster",
+        "title": "Effect of Kalman Filter on Coarse Tracking System for Quantum Key Distribution System Moving at Constant Velocity",
+        "abstract": "In this work, we investigate the effect of the Kalman filter, an algorithm predicting future values of a system, for reducing pointing errors and improving the tracking performance of the coarse tracking system. We present the pointing error based on the angular velocity of the target when the Kalman filter is applied to the tracking algorithm. The tracking system is mounted on a fixed tripod, while the mobile platform moves around the system at a constant speed as a target. The effect of the Kalman filter on the performance of the tracking system and future work will be given.",
+        "authors": [
+            {
+                "first": "Minchul",
+                "last": "Kim",
+                "affiliation": "Electronics and Telecommunications Research Institute"
+            },
+            {
+                "first": "Kyongchun",
+                "last": "Lim",
+                "affiliation": "Electronics and Telecommunications Research Institute"
+            },
+            {
+                "first": "Byung-seok",
+                "last": "Choi",
+                "affiliation": "Electronics and Telecommunications Research Institute"
+            },
+            {
+                "first": "Joong-Seon",
+                "last": "Choe",
+                "affiliation": "Electronics and Telecommunications Research Institute"
+            },
+            {
+                "first": "Kap-Joong",
+                "last": "Kim",
+                "affiliation": "Electronics and Telecommunications Research Institute"
+            },
+            {
+                "first": "Ju Hee",
+                "last": "Baek",
+                "affiliation": "Electronics and Telecommunications Research Institute"
+            },
+            {
+                "first": "Young-Ho",
+                "last": "Ko",
+                "affiliation": "Electronics and Telecommunications Research Institute"
+            },
+            {
+                "first": "Chun Ju",
+                "last": "Youn",
+                "affiliation": "Electronics and Telecommunications Research Institute"
+            }
+        ],
+        "topics": [
+            "experiment"
+        ]
+    },
+    {
+        "pid": 140,
+        "submission_class": "poster",
+        "title": "Pre-Privacy Amplification: A Method to Boost Key Rate in Resource Constrained Environments",
+        "abstract": "Without access to robust quantum memory or gates, long distance QKD relies upon trusted relays. Several implementations place these relays on satellites, however they are limited in computational power and numerically intensive tasks such as privacy amplification cause bottlenecks for continuous key exchange. Currently, one solution is the simplified trusted relay which leaves all privacy amplification to the end parties at a potentially significant cost to key rate. We developed a post processing technique called pre-privacy amplification which performs a small and efficient post processing step to boost key rates without any additional rounds of communication. For a simplified trusted relay running an asymptotic qubit six-state protocol, we demonstrate an increase to the maximum tolerable QBER from 9.05% to 11.7%. We also identify several sufficient conditions to determine functionally unique pre-privacy amplification maps, and connect it to the graph isomorphism problem.",
+        "authors": [
+            {
+                "first": "John",
+                "last": "Burniston",
+                "affiliation": "University of Waterloo"
+            },
+            {
+                "first": "Norbert",
+                "last": "L\u00fctkenhaus",
+                "affiliation": "University of Waterloo"
+            }
+        ],
+        "topics": [
+            "QKD theory"
+        ]
+    },
+    {
+        "pid": 142,
+        "submission_class": "poster",
+        "title": "Authentication in Secure Delegated Quantum Computation Based on Quantum Trusted Execution Environment",
+        "abstract": "Quantum computers has a major influence on our modern computing platforms. New way of delegated quantum computation solutions continues to be introduced by researchers. The basic functionality of delegated quantum computation enables a classical client to delegates quantum computation related jobs to remote untrusted server with appropriate security measures. However, only very few techniques are addressed the security challenges and its feasibility to implement in practice. One of the solution is quantum trusted execution environment (Q-TEE), which ensures a secure and practical way to build a remote quantum computing server with classical client. In this work, we explore some new features of a quantum-TEE (QTEE), which can be seen as aiding secure computation on a quantum computer. \r\n\r\nIt is reasonable to expect that a QTEE may be required to authenticate classical entities relating to a particular quantum computation. For example, a client, which has submitted a particular job, may require a proof that the quantum computation was indeed executed in that particular computer. Such a QTEE may be envisaged to be using a post-quantum signature scheme like DILITHIUM or Falcon. The quantum computing platform provider would use its secret key to sign various classical entities. The signature can be verified by using the provider's public key. We propose a design of a QTEE which uses Tokenized Signature Scheme (TSS). We also point out that such a QTEE has certain advantages over the naive DS-based ones.\r\n\r\nBen-David and Sattath introduced the primitive called (public key) Tokenized Signature Scheme, which can be used in a situation where a owner wants to delegate the power to sign to a signer. The owner, after generating the signing and verification keys (using PPT called KeyGen) (similar to key generation in a DS), creates a certain number of quantum tokens (using QPT called TokenGen) and gives them to designated signers. The signers authenticate classical messages (using QPT called Sign) by generating a classical string called signature, on behalf of the owner and at her behest, using the owner-provided tokens. The verification (using PPT called Vrfy) can be run by anyone using the public key, the signature and the message. The authors also give a construction of TSS using subspace states.\r\n\r\nA quantum computation platform provider can generate its own key pair and generate tokens. The computers owned by the service provider may be equipped with a QTEE based on a candidate TSS scheme. The quantum tokens are loaded onto the QTEE, which are used for signing. We point out some advantages of such a construction. Firstly, the secret key of the owner is never revealed and all the computers controlled by the provider authenticate in the same manner. Secondly, the trust assumption on the QTEE may be relaxed. A secure TSS is expected to have the following unforgeability property. An adversarial signer can not sign n+1 messages if it has only n tokens. Thirdly, in a situation where the client pays for such authentication services, quantum tokens can be budgeted and monetized.\r\n\r\nA complete design of a QTEE, supporting various secure quantum computation related requirements, may be achived with a TSS at its core. A TSS supporting aggregation and aggregated-verification brings in added advantage. Meaningful analogues of remote attestation (RA) and direct anonymous attestation (DAA) in this setting may also be explored. The development of quantum- based TEE techniques enables service providers to implement proprietary quantum computing devices in practice. Also, it allows classical users to perform remote quantum computation at very high security levels.",
+        "authors": [
+            {
+                "first": "M. Prem Laxman",
+                "last": "Das",
+                "affiliation": "Society For Electronic Transactions and Security (SETS), Chennai"
+            },
+            {
+                "first": "Natarajan",
+                "last": "Venkatachalam",
+                "affiliation": "Society For Electronic Transactions and Security (SETS), Chennai"
+            }
+        ],
+        "topics": [
+            "beyond QKD",
+            "post-quantum cryptography",
+            "theory"
+        ]
+    },
+    {
+        "pid": 145,
+        "submission_class": "poster",
+        "title": "Feasibility of distributing composable keys with discrete-modulated continuous variable quantum cryptography",
+        "abstract": "Advances in the security analysis of continuous-variable quantum key distribution (CVQKD) protocols with true discrete modulation aim to unlock the same performance as that obtained from `traditional' protocols based on Gaussian modulation. We report a CVQKD experiment using 4 states that utilizes a composable security proof to generate a secret key fraction of $5.6 \\times 10^{-3}$ bits/symbol over 10 km channel, while providing security against collective attacks.",
+        "authors": [
+            {
+                "first": "Nitin",
+                "last": "Jain",
+                "affiliation": "Technical University of Denmark"
+            },
+            {
+                "first": "Florian",
+                "last": "Kanitschar",
+                "affiliation": "Vienna Center for Quantum Science and Technology"
+            },
+            {
+                "first": "Adnan A.E.",
+                "last": "Hajomer",
+                "affiliation": "Technical University of Denmark"
+            },
+            {
+                "first": "Ulrik L.",
+                "last": "Andersen",
+                "affiliation": "Technical University of Denmark"
+            },
+            {
+                "first": "Christoph",
+                "last": "Pacher",
+                "affiliation": "AIT Austrian Institute of Technology"
+            },
+            {
+                "first": "Tobias",
+                "last": "Gehring",
+                "affiliation": "Technical University of Denmark"
+            }
+        ],
+        "topics": [
+            "experiment",
+            "QKD implementation",
+            "QKD theory"
+        ]
+    },
+    {
+        "pid": 148,
+        "submission_class": "poster",
+        "title": "Semi-Quantum Copy-Protection and More",
+        "abstract": "Properties of quantum mechanics have enabled the emergence of quantum cryptographic protocols achieving important goals which are proven to be impossible classically. Unfortunately, this usually comes at the cost of needing quantum power from every party in the protocol, while arguably a more realistic scenario would be a network of classical clients, classically interacting with a quantum server.\r\n\r\nIn this paper, we focus on copy-protection, which is a quantum primitive that allows a program to be evaluated, but not copied, and has shown interest especially due to its links to other unclonable cryptographic primitives. Our main contribution is to show how to dequantize existing quantum copy-protection from hidden coset states, by giving a construction for classically-instructed remote state preparation for coset states. We also present the first secure copy-protection scheme for point-functions in the plain model, to which our dequantizer can be applied.",
+        "authors": [
+            {
+                "first": "C\u00e9line",
+                "last": "Chevalier",
+                "affiliation": "CRED, DIENS"
+            },
+            {
+                "first": "Paul",
+                "last": "Hermouet",
+                "affiliation": "CRED, DIENS, LIP6"
+            },
+            {
+                "first": "Quoc Huy",
+                "last": "Vu",
+                "affiliation": "LIP6"
+            }
+        ],
+        "topics": [
+            "post-quantum cryptography",
+            "theory"
+        ]
+    },
+    {
+        "pid": 151,
+        "submission_class": "poster",
+        "title": "End-to-end physical loss control for quantum key distribution",
+        "abstract": "The original key idea of quantum cryptography is the use of the impossibility of discriminating nonorthogonal quantum states. Yet, other restrictions based on the laws of nature can be used for quantum key distribution (QKD) protection. We propose a paradigm shift, anchoring the security of long-distance QKD in the quantum foundations of the Second Law of Thermodynamics, coupled with physical end-to-end control over the transmitted optical quantum states. Our approach ensures signal repetition of quantum states using optical amplifiers, preserving the integrity of the states' wave characteristics and phase coherence, while presuming no trust at the intermediate channel points. This innovative approach vastly expands the secure communication distance range, potentially laying the groundwork for the design of future highly scalable quantum-resistant communication networks.",
+        "authors": [
+            {
+                "first": "Nikita",
+                "last": "Kirsanov",
+                "affiliation": "Terra Quantum AG"
+            },
+            {
+                "first": "Valeria",
+                "last": "Pastushenko",
+                "affiliation": "Terra Quantum AG"
+            },
+            {
+                "first": "Alexey",
+                "last": "Kodukhov",
+                "affiliation": "Terra Quantum AG"
+            },
+            {
+                "first": "Mikhail",
+                "last": "Yarovikov",
+                "affiliation": "Terra Quantum AG"
+            },
+            {
+                "first": "Asel",
+                "last": "Sagingalieva",
+                "affiliation": "Terra Quantum AG"
+            },
+            {
+                "first": "Dmitry",
+                "last": "Kronberg",
+                "affiliation": "Terra Quantum AG"
+            },
+            {
+                "first": "Markus",
+                "last": "Pflitsch",
+                "affiliation": "Terra Quantum AG"
+            },
+            {
+                "first": "Valerii",
+                "last": "Vinokur",
+                "affiliation": "Terra Quantum AG"
+            }
+        ],
+        "topics": [
+            "QKD theory",
+            "theory"
+        ]
+    },
+    {
+        "pid": 153,
+        "submission_class": "poster",
+        "title": "Finite-size effects of decoy state methods",
+        "abstract": "Decoy state methods improve the feasibility of quantum key distribution (QKD) by enabling the use of simple, robust sources, and techniques have been developed to allow for the use of decoy analysis in the regime where only a finite number of signals are sent. We present an iid security proof for finite-size key rates of prepare-and-measure protocols with probabilistic testing, including decoy state methods, within a composable security framework that allows for future extensions to device imperfections. Additionally, we improve the acceptance set over previous works through the use of entrywise constraints, allowing us to efficiently perform decoy state protocols. Moreover, we introduce a new figure of merit, the expected key rate, to capture the tradeoff between aborting too often and achieving high key rates, which allows for increased practicality of QKD implementations.",
+        "authors": [
+            {
+                "first": "Lars",
+                "last": "Kamin",
+                "affiliation": "University of Waterloo"
+            },
+            {
+                "first": "Scott",
+                "last": "Johnstun",
+                "affiliation": "University of Waterloo"
+            },
+            {
+                "first": "Norbert",
+                "last": "L\u00fctkenhaus",
+                "affiliation": "University of Waterloo"
+            }
+        ],
+        "topics": [
+            "QKD implementation",
+            "QKD theory",
+            "theory"
+        ]
+    },
+    {
+        "pid": 155,
+        "submission_class": "poster",
+        "title": "Experimental anonymous quantum conference key agreement",
+        "abstract": "Here we report on the experimental results implementing robust anonymous quantum conference key agreement using GHZ states. Results confirm the advantage when allowing for the use of multipartite entanglement along with bipartite entanglement.",
+        "authors": [
+            {
+                "first": "Jonathan",
+                "last": "Webb",
+                "affiliation": "Heriot-Watt University"
+            },
+            {
+                "first": "Joseph",
+                "last": "Ho",
+                "affiliation": "Heriot-Watt University"
+            },
+            {
+                "first": "Federico",
+                "last": "Grasselli",
+                "affiliation": "Heinrich-Heine-Universitat Dusseldorf"
+            },
+            {
+                "first": "Glaucia",
+                "last": "Murta",
+                "affiliation": "Heinrich-Heine-Universitat Dusseldorf"
+            },
+            {
+                "first": "Alexander",
+                "last": "Pickston",
+                "affiliation": "Heriot-Watt University"
+            },
+            {
+                "first": "Andres",
+                "last": "Ulibarrena",
+                "affiliation": "Heriot-Watt University"
+            },
+            {
+                "first": "Alessandro",
+                "last": "Fedrizzi",
+                "affiliation": "Heriot-Watt University"
+            }
+        ],
+        "topics": [
+            "experiment",
+            "QKD implementation"
+        ]
+    },
+    {
+        "pid": 157,
+        "submission_class": "poster",
+        "title": "Time-resolved Quantum Key Distribution using Semiconductor Quantum Dots with Oscillating Photonic States",
+        "abstract": "Quantum dot-based entangled photon sources are promising candidates for quantum key distribution (QKD), as they can in principle emit deterministically, with high brightness and low multiphoton contribution. However, quantum dots (QD) often inherently possess a fine structure splitting (FSS). Since the entangled photonic state in the presence of non-zero FSS is oscillating, one must settle for a lower efficiency source through temporal post-selection or a lower measured entanglement fidelity. In both cases, the overall key rate is reduced.\r\nOur QKD analysis shows that this trade-off can be overcome by constructing a time-resolved QKD protocol where all photon pairs emitted by a QD with non-zero FSS can be used in secret key generation. This protocol works only when the detection system's temporal resolution is much smaller than the FSS period. By implementing our protocol, higher key rates can be achieved as compared to previous QKD experiments with QD entangled photon pair sources.\r\nAdditionally, unlike previous security analyses that assume perfect qubit states, we rigorously bound the effect of any multi-photon components of the optical state on the key rate, which is more applicable to practical implementations.",
+        "authors": [
+            {
+                "first": "Matteo",
+                "last": "Pennacchietti",
+                "affiliation": "University of Waterloo, IQC"
+            },
+            {
+                "first": "Brady",
+                "last": "Cunard",
+                "affiliation": "University of Waterloo, IQC"
+            },
+            {
+                "first": "Mohd",
+                "last": "Zeeshan",
+                "affiliation": "National Research Council of Canada"
+            },
+            {
+                "first": "Shlok",
+                "last": "Nahar",
+                "affiliation": "University of Waterloo, IQC"
+            },
+            {
+                "first": "Sayan",
+                "last": "Gangopadhyay",
+                "affiliation": "University of Waterloo, IQC"
+            },
+            {
+                "first": "Philip J.",
+                "last": "Poole",
+                "affiliation": "National Research Council of Canada"
+            },
+            {
+                "first": "Dan",
+                "last": "Dalacu",
+                "affiliation": "National Research Council of Canada"
+            },
+            {
+                "first": "Andreas",
+                "last": "Fognini",
+                "affiliation": "Single Quantum B.V."
+            },
+            {
+                "first": "Klaus",
+                "last": "J\u00f6ns",
+                "affiliation": "Institute for Photonic Quantum Systems (PhoQS), Center for Optoelectronics and Photonics Paderborn (CeOPP) and Department of Physics, Paderborn University"
+            },
+            {
+                "first": "Val",
+                "last": "Zwiller",
+                "affiliation": "Department of Applied Physics, Royal Institute of Technology"
+            },
+            {
+                "first": "Thomas",
+                "last": "Jennewein",
+                "affiliation": "University of Waterloo, IQC"
+            },
+            {
+                "first": "Norbert",
+                "last": "L\u00fctkenhaus",
+                "affiliation": "University of Waterloo, IQC"
+            },
+            {
+                "first": "Michael E.",
+                "last": "Reimer",
+                "affiliation": "University of Waterloo, IQC"
+            }
+        ],
+        "topics": [
+            "experiment",
+            "QKD implementation",
+            "QKD theory"
+        ]
+    },
+    {
+        "pid": 159,
+        "submission_class": "poster",
+        "title": "Using Cascade in Quantum Key Distribution",
+        "abstract": "We point out a critical flaw in the analysis of Quantum Key Distribution (QKD) protocols that employ the two-way error correction protocol Cascade. Specifically, this flaw stems from an incom-plete consideration of all two-way communication that occurs during the Cascade protocol. We present a straightforward and elegant alternative approach that addresses this flaw and produces valid key rates. We exemplify our new approach by comparing its key rates with those generated using older, incorrect approaches, for Qubit BB84 and Decoy-State BB84 protocols. We show that in many practically relevant situations, our rectified approach produces the same key rate as older, incorrect approaches. However, in other scenarios, our approach produces valid key rates that are lower, highlighting the importance of properly accounting for all two-way communication during Cascade.",
+        "authors": [
+            {
+                "first": "Devashish",
+                "last": "Tupkary",
+                "affiliation": "Institute for Quantum Computing"
+            },
+            {
+                "first": "Norbert",
+                "last": "Lutkenhaus",
+                "affiliation": "Institute for Quantum Computing"
+            }
+        ],
+        "topics": [
+            "QKD theory",
+            "theory"
+        ]
+    },
+    {
+        "pid": 161,
+        "submission_class": "poster",
+        "title": "Simple Active Polarization Stabilizer for Practical Fiber-based Quantum Key Distribution",
+        "abstract": "In recent times, field trials of quantum key distribution (QKD) have been conducted using the existing optical fiber infrastructure. However, one significant challenge faced during these trials is ensuring the stability of QKD operation. The instability of QKD operation is caused by the two factors: random fluctuations in polarization of photon over time and time drift of the photon as it traverses the deployed optical fiber. These issues are unavoidable due to the inability to accurately estimate and control factors such as temperature, vibration, and stress in the deployed optical fiber. To address this instability, various solutions based on active or passive optics have been proposed.\r\nIn this paper, we present an active optics-based simple polarization stabilizer utilizing an optical polarizer, an active polarization controller, and a single photon detector. For the fast operation, we utilize only 2 out of the 4 axes of the polarization controller for the stabilizer. The experimental results verify the stability of the stabilizer.",
+        "authors": [
+            {
+                "first": "Kyongchun",
+                "last": "Lim",
+                "affiliation": "ETRI"
+            },
+            {
+                "first": "Byung-Seok",
+                "last": "Choi",
+                "affiliation": "ETRI"
+            },
+            {
+                "first": "Ju Hee",
+                "last": "Baek",
+                "affiliation": "ETRI"
+            },
+            {
+                "first": "Minchul",
+                "last": "Kim",
+                "affiliation": "ETRI"
+            },
+            {
+                "first": "Joong-Seon",
+                "last": "Choe",
+                "affiliation": "ETRI"
+            },
+            {
+                "first": "Kap-Joong",
+                "last": "Kim",
+                "affiliation": "ETRI"
+            },
+            {
+                "first": "Dong Churl",
+                "last": "Kim",
+                "affiliation": "ETRI"
+            },
+            {
+                "first": "Chun Ju",
+                "last": "Youn",
+                "affiliation": "ETRI"
+            }
+        ],
+        "topics": [
+            "experiment"
+        ]
+    },
+    {
+        "pid": 163,
+        "submission_class": "poster",
+        "title": "Continuous Fiber Polarization Sablization with Single-Photon-Level Light",
+        "abstract": "We report a method for continuously stabilizing the polarization change of\r\nphotons when propagating across fibers. This technique operates at single-photon-level intensity and therefore imposes minimal noise onto the quantum channel, allowing for un-interrupted operation of a quantum network.",
+        "authors": [
+            {
+                "first": "yicheng",
+                "last": "shi",
+                "affiliation": "National Institute of Standards and Technology"
+            }
+        ],
+        "topics": [
+            "experiment",
+            "QKD implementation"
+        ]
+    },
+    {
+        "pid": 165,
+        "submission_class": "poster",
+        "title": "The National Quantum-Safe Network in Singapore",
+        "abstract": "We introduce the National Quantum-Safe Network, which is a nationwide collaborative field-deployed testbed aimed at demonstrating quantum-safe cryptography solutions. With several key aspects including testbed, security evaluation, standardisation, and ecosystem building, the network aims to achieve a vendor-neutral, multi-protocol platform that complies with international standards.",
+        "authors": [
+            {
+                "first": "Haw Jing",
+                "last": "Yan",
+                "affiliation": "CQT, National University of Singapore"
+            },
+            {
+                "first": "Hao",
+                "last": "Qin",
+                "affiliation": "CQT, National University of Singapore"
+            },
+            {
+                "first": "Xiao",
+                "last": "Duan",
+                "affiliation": "Fraunhofer Singapore Research Centre@Nanyang Technological University"
+            },
+            {
+                "first": "Yu",
+                "last": "Cai",
+                "affiliation": "SPMS, Nanyang Technological University"
+            },
+            {
+                "first": "Ramana",
+                "last": "Murthy",
+                "affiliation": "CQT, National University of Singapore"
+            },
+            {
+                "first": "Nelly",
+                "last": "Ng",
+                "affiliation": "SPMS, Nanyang Technological University"
+            },
+            {
+                "first": "Biplab",
+                "last": "Sikdar",
+                "affiliation": "ECE, National University of Singapore"
+            },
+            {
+                "first": "Christian",
+                "last": "Kurtsiefer",
+                "affiliation": "CQT, National University of Singapore"
+            },
+            {
+                "first": "Michael",
+                "last": "Kasper",
+                "affiliation": "Fraunhofer Singapore Research Centre@Nanyang Technological University"
+            },
+            {
+                "first": "Alexander",
+                "last": "Ling",
+                "affiliation": "CQT, National University of Singapore"
+            }
+        ],
+        "topics": [
+            "QKD implementation"
+        ]
+    },
+    {
+        "pid": 167,
+        "submission_class": "poster",
+        "title": "Demonstration of free-space discrete-modulated continuous-variable QKD using real error correction codes and finite-size effects",
+        "abstract": "Besides discrete-variable QKD, where single photon detection is used, continuous-variable (CV) protocols are using homodyne detection and are thus promising to be compatible with existing classical coherent communication technology. Originally, the research on CV QKD protocols mostly focused on Gaussian modulation (see review [1]), where one assumes that Alice can continuously displace coherent states according to a 2D Gaussian distribution. This modulation allows the security proofs to take advance of Gaussian optimality conditions, but experimental implementations can only reach this pattern up to some finite discretization. Another approach is to directly use a discrete-modulated (DM) CV QKD protocol. Here, Alice is required to prepare a finite number of displaced coherent states, aiming for a higher experimental simplicity, with the drawback of higher theoretical complexity. Recently, new security proofs such as [2] and corresponding experiments [3,4] could show the feasibility of systems using quadrature amplitude modulation (QAM) with 64 and 256 displaced states. However, the security proof was limited to the asymptotic regime and since the experiments did not use implemented error correction codes, one could only estimate the achievable key rates, but could not generate the secret key itself.\r\n\r\nIn this poster, we demonstrate experiments with a protocol with a smaller constellation size of four coherent states that share the same amplitude but are shifted by 90\u00b0 in phase (QPSK modulation). We exploit a recently published security proof providing tight secret key rates for collective attacks even in the finite size regime [5]. Furthermore, we show that the QPSK data is compatible with our implemented low density parity check (LDPC) codes for binary symmetric channels. This allows us to perform the full QKD protocol from experimental quantum state exchange to classical post processing and to generate a secret key shared between Alice and Bob. For this purpose, we use a laboratory system based on polarization encoding in the Stokes parameters which is equivalent to a QPSK pattern in phase space. This scheme is designed to cope with the challenges of a turbulent atmospheric channel. While the fluctuating nature of such a channel can be targeted by sub-binning the transmission channels [6], the atmosphere is in general non-birefringent, allowing for atmospheric quantum communications [7].\r\n\r\n[1] F. Laudenbach et al., Adv. Quantum Technol. 1, 1800011 (2018)\r\n[2] A. Denys et al., Quantum 5, 540 (2021)\r\n[3] F. Roumestan et al., arXiv:2207.11702 (2022)\r\n[4] Y. Pan et al., Optics Letters 47, 3307-3310 (2022)\r\n[5] F. Kanitschar et al., arXiv:2301.08686v1 (2023)\r\n[6] V. Usenko et al., New J. Phys. 14, 093048 (2012)\r\n[7] B. Heim et al., New J. Phys. 16, 113018 (2014)",
+        "authors": [
+            {
+                "first": "Kevin",
+                "last": "Jaksch",
+                "affiliation": "Max Planck Institute for the Science of Light, Erlangen, Germany + Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg, Germany"
+            },
+            {
+                "first": "Thomas",
+                "last": "Dirmeier",
+                "affiliation": "Max Planck Institute for the Science of Light, Erlangen, Germany + Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg, Germany"
+            },
+            {
+                "first": "Yannick",
+                "last": "Weiser",
+                "affiliation": "Max Planck Institute for the Science of Light, Erlangen, Germany + Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg, Germany"
+            },
+            {
+                "first": "Stefan",
+                "last": "Richter",
+                "affiliation": "Max Planck Institute for the Science of Light, Erlangen, Germany + Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg, Germany"
+            },
+            {
+                "first": "\u00d6mer",
+                "last": "Bayraktar",
+                "affiliation": "Max Planck Institute for the Science of Light, Erlangen, Germany + Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg, Germany"
+            },
+            {
+                "first": "Bastian",
+                "last": "Hacker",
+                "affiliation": "Max Planck Institute for the Science of Light, Erlangen, Germany + Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg, Germany"
+            },
+            {
+                "first": "Conrad",
+                "last": "R\u00f6\u00dfler",
+                "affiliation": "Max Planck Institute for the Science of Light, Erlangen, Germany + Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg, Germany"
+            },
+            {
+                "first": "Imran",
+                "last": "Khan",
+                "affiliation": "Max Planck Institute for the Science of Light, Erlangen, Germany + Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg, Germany"
+            },
+            {
+                "first": "Stefan",
+                "last": "Petscharning",
+                "affiliation": "AIT Austrian Institute of Technology, Center for Digital Safety&Security, Vienna, Austria"
+            },
+            {
+                "first": "Thomas",
+                "last": "Grafenauer",
+                "affiliation": "AIT Austrian Institute of Technology, Center for Digital Safety&Security, Vienna, Austria"
+            },
+            {
+                "first": "Bernhard",
+                "last": "\u00d6mer",
+                "affiliation": "AIT Austrian Institute of Technology, Center for Digital Safety&Security, Vienna, Austria"
+            },
+            {
+                "first": "Christoph",
+                "last": "Pacher",
+                "affiliation": "AIT Austrian Institute of Technology, Center for Digital Safety&Security, Vienna, Austria"
+            },
+            {
+                "first": "Florian",
+                "last": "Kanitschar",
+                "affiliation": "AIT Austrian Institute of Technology, Center for Digital Safety&Security, Vienna, Austria + Vienna Center for Quantum Science and Technology (VCQ), Atominstitut, Technische Universit\u00e4t Wien, Austria + Institute for Quantum Computing and Department of Physics and Astronomy, University of Waterloo, Canada"
+            },
+            {
+                "first": "Twesh",
+                "last": "Upadhyaya",
+                "affiliation": "Institute for Quantum Computing and Department of Physics and Astronomy, University of Waterloo, Canada"
+            },
+            {
+                "first": "Jie",
+                "last": "Lin",
+                "affiliation": "Institute for Quantum Computing and Department of Physics and Astronomy, University of Waterloo, Canada"
+            },
+            {
+                "first": "Norbert",
+                "last": "L\u00fctkenhaus",
+                "affiliation": "Institute for Quantum Computing and Department of Physics and Astronomy, University of Waterloo, Canada"
+            },
+            {
+                "first": "Gerd",
+                "last": "Leuchs",
+                "affiliation": "Max Planck Institute for the Science of Light, Erlangen, Germany + Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg, Germany"
+            },
+            {
+                "first": "Christoph",
+                "last": "Marquardt",
+                "affiliation": "Friedrich-Alexander-Universit\u00e4t Erlangen-N\u00fcrnberg, Germany + Max Planck Institute for the Science of Light, Erlangen, Germany"
+            }
+        ],
+        "topics": [
+            "experiment",
+            "QKD implementation"
+        ]
+    },
+    {
+        "pid": 169,
+        "submission_class": "poster",
+        "title": "Characterising higher-order phase correlations in gain-switched laser sources with application to decoy-state QKD",
+        "abstract": "Decoy-state quantum key distribution (QKD) represents nowadays the best countermeasure to attacks exploiting multi-photon emissions in realistic sources. A fundamental requirement is the uniform and independent distribution of phases of the transmitted pulses.\r\nHowever, this can not be true for lasers working under high-speed gain-switching\r\nconditions, as residual photons in the cavity can induce phase correlations across consecutive pulses. A security proof robust against such imperfections has been recently proposed, which requires knowledge of a parameter that quantifies how close the conditional distribution\r\nof each phase is to a uniform distribution. In this work we propose an experimental method\r\nto characterise this parameter in realistic setup conditions and we extend the application to the case of arbitrary length of correlations, aiming to enable experimental verification of the implementation security.",
+        "authors": [
+            {
+                "first": "Alessandro",
+                "last": "Marcomini",
+                "affiliation": "Vigo Quantum Communication Center"
+            },
+            {
+                "first": "Guillermo",
+                "last": "Curr\u00e1s-Lorenzo",
+                "affiliation": "Vigo Quantum Communication Center"
+            },
+            {
+                "first": "Davide",
+                "last": "Rusca",
+                "affiliation": "Vigo Quantum Communication Center"
+            },
+            {
+                "first": "Marcos",
+                "last": "Curty",
+                "affiliation": "Vigo Quantum Communication Center"
+            }
+        ],
+        "topics": [
+            "QKD implementation",
+            "QKD theory"
+        ]
+    },
+    {
+        "pid": 171,
+        "submission_class": "poster",
+        "title": "CHSH inequality violation in experimental entanglement based QRNG validation",
+        "abstract": "Validation of the randomness of a quantum random number generator (QRNG) can be performed via robust statistical testing, which generally reduces to the problem of finding long range patterns in the generated random bit sequence. This problem is computationally exhaustive and poses one of important challenges for industrial implementation of self-testing integrated QRNG devices. Furthermore, classical statistical testing cannot in principle confirm the quantum non-determinism (from which the QRNG device can deviate due to its implementation imperfections). Instead, classical testing can confirm that up to certain parameters threshold, deterministic patterns were not detected. The device independent QRNG schemes are based on quantum entanglement, which is a non-classical resource that can be verified in terms of quantum measurements non-classical correlations statistically violating Bell type (e.g. CHSH) inequalities for classical limits on such correlations. This reults in a fundamental (independent from a technical implementation) confirmation that the process used to generate randomness based on entangled quantum states is indeed non-deterministic. In this paper we describe a series of recent experimental developments focused on generating quantum entanglement based randomness in a quntum optics device-independent approach, with validation of the randomness through experimentally verified violation of the CHSH inequality [1]. The experimental setup for entanglement based QRNG involves generation of entanglement in photon polarizations in the SPDC type II process with a single-photon detectors (SPAD) for quantum measurements of entangled photons. Statistical processing of the measurements outcomes shows violation of the classical limits on the correlations, violating the CHSH inequality and hence proving that the QRNG generated randomness is based on a quantum, non-deterministic process. The further direction for this research is towards miniaturization of the robust quantum optics setups to be more adequate for integrated entanglement QRNG devices. This work is part of the NCBR research and development project (contract no. POIR.01.01.01-00-0173/15) aimed at advancing QRNG setups with technical achievements reported in the SeQre.net platform [2].\r\n\r\n1. J.F. Clauser, M.A. Horne, A. Shimony, R.A. Holt, Proposed experiment to test local hidden-variable theories, Phys. Rev. Lett., 23 (15): 880\u20134, doi: https://doi.org/10.1103%2FPhysRevLett.23.880, (1969)\r\n2. SeQre.net, Quantum Cryptography R&D Platform managed by the Department of Quantum Technology at WUST and CompSecur / SeQre, https://seqre.net/qrng",
+        "authors": [
+            {
+                "first": "Witold",
+                "last": "Jacak",
+                "affiliation": "Department of Quantum Technology, Wroclaw University of Science and Technology, Poland"
+            },
+            {
+                "first": "Piotr",
+                "last": "J\u00f3\u017awiak",
+                "affiliation": "Faculty of Computer Science, Wroclaw University of Science and Technology, Poland"
+            },
+            {
+                "first": "Janusz",
+                "last": "Jacak",
+                "affiliation": "Department of Quantum Technology, Wroclaw University of Science and Technology, Poland"
+            },
+            {
+                "first": "Wojciech",
+                "last": "Donderowicz",
+                "affiliation": "CompSecur sp. z o.o. / SeQre, Poland"
+            }
+        ],
+        "topics": [
+            "device independence",
+            "experiment",
+            "random-number generation"
+        ]
+    },
+    {
+        "pid": 173,
+        "submission_class": "poster",
+        "title": "Robust Global Quantum Networks",
+        "abstract": "Recent years have seen tremendous progress in increasing distances for distribution of quantum states and quantum entanglement, most notably in quantum key distribution. Even though these advances point towards breaching 1000 km and more in the near future, true global connectivity for secure intercontinental quantum links will likely require the operation of trusted networks based on quantum repeaters. To overcome associated losses in even the best optical fibers on ground, operating repeater nodes in space to utilize low-loss inter-satellite links may prove to be the only viable strategy. Successfully deployed QKD experiments and quantum technology in space, brings this idea closer to realization. Nevertheless, conceptual designs [9, 10] and component development are still in their infancy and it will require extraordinary engineering achievements to materialize robust space-based quantum networks. \r\nHere, we present recent efforts at the German Aerospace Center (DLR) to investigate the realization of robust global quantum networks. We are developing a holistic approach which bundles expertise on the necessary components for space-based quantum repeaters, i.e. photon sources, quantum memories, optical links, laser terminals, and orbital simulations. From this, we derive a common set of requirements to push concrete technological implementation. The long-term goal of this project is to develop space-hardened components for successful operation of intercontinental space-based quantum networks.",
+        "authors": [
+            {
+                "first": "Jan-Michael",
+                "last": "Mol",
+                "affiliation": "German Aerospace Center (DLR)"
+            },
+            {
+                "first": "Kaisa",
+                "last": "Laiho",
+                "affiliation": "German Aerospace Center (DLR)"
+            },
+            {
+                "first": "Davide",
+                "last": "Orsucci",
+                "affiliation": "German Aerospace Center (DLR)"
+            },
+            {
+                "first": "Philipp",
+                "last": "Kleinpass",
+                "affiliation": "German Aerospace Center (DLR)"
+            },
+            {
+                "first": "Florian",
+                "last": "Moll",
+                "affiliation": "German Aerospace Center (DLR)"
+            },
+            {
+                "first": "Jaspar",
+                "last": "Meister",
+                "affiliation": "German Aerospace Center (DLR)"
+            },
+            {
+                "first": "Waldemar",
+                "last": "Herr",
+                "affiliation": "German Aerospace Center (DLR)"
+            },
+            {
+                "first": "Christian",
+                "last": "Schubert",
+                "affiliation": "German Aerospace Center (DLR)"
+            },
+            {
+                "first": "Jens",
+                "last": "Kruse",
+                "affiliation": "German Aerospace Center (DLR)"
+            },
+            {
+                "first": "Carsten",
+                "last": "Klempt",
+                "affiliation": "German Aerospace Center (DLR)"
+            },
+            {
+                "first": "Lisa",
+                "last": "W\u00f6rner",
+                "affiliation": "German Aerospace Center (DLR)"
+            }
+        ],
+        "topics": [
+            "beyond QKD"
+        ]
+    },
+    {
+        "pid": 175,
+        "submission_class": "poster",
+        "title": "Unprovable Security of statistical NIZK in the Quantum Setting",
+        "abstract": "It is well-known in classical cryptography that standard (black-box) proof techniques are insufficient to establish the security of statistical NIZK arguments for NP based on any standard (falsifiable) cryptographic assumption. In this work, we extend this impossibility result to a quantum scenario where quantum computations and communications are incorporated into the protocol. The classical result is demonstrated using the meta-reduction paradigm, which is a typical technique employed to generate cryptographic impossibility results. In our work, we extend this technique to the quantum setting to prove our results.",
+        "authors": [
+            {
+                "first": "Chuhan",
+                "last": "Lu",
+                "affiliation": "Portland State University"
+            },
+            {
+                "first": "Nikhil",
+                "last": "Pappu",
+                "affiliation": "Portland State University"
+            }
+        ],
+        "topics": [
+            "post-quantum cryptography",
+            "theory"
+        ]
+    },
+    {
+        "pid": 177,
+        "submission_class": "poster",
+        "title": "Entangled Photon Source for satellite-based QKD [Poster Only]",
+        "abstract": "[Poster Only] - No published paper yet\r\n\r\n    Our team has an on-going quantum satellite network project in Canada called Quantum Encryption and Science Satellite (QEYSSat). I would like to introduce our polarization-based entangled photon source suitable for the satellite QKD. The idea of satellite based QKD came up to overcome the technical limitation of using fibers. We are aiming for our quantum source to sufficiently overcome the current distance limits. In order to achieve, my quantum source will have to meet the following three criteria; high pair production rate, narrow bandwidth of wavelengths and high stability. \r\n     We require the minimum pair production rate for the satellite communication to be above 100 MHz (meaning 100 million photon pairs per second). Meanwhile, most telecommunication through the ground these days uses optical fibers which transports signals with 1550nm or 1310nm wavelengths. We have specifically chosen 791nm signal wavelength which can have 1550nm idler wavelength as its pair. Another focus was bandwidths of the photon wavelengths. A broad photon wavelength will require a large bandwidth filter to be used to detect the signal. This will result in our filter allowing more photon backgrounds which will reduce the accuracy of the measurements. The condition may become even worse in the daylight operations. After having conducted an extensive study in how a crystal changes its shape from thermal expansions caused by the pumped beam, or interactions with its surroundings, we have chosen the periodically poled lithium niobate crystal (PPLN), and experimentally confirmed its performance in the lab. Efficiency tests for the candidate source will soon be run outside the laboratory during the daytime to verify whether it meets the requirement. An entangled photon source with high stability and robustness can be achieved by improving the photon interferometer that is necessary to make the correlated photon pairs. Beam splitters are one of the optical devices commonly used to make such interferometers. The disadvantage of beam splitters that it is difficult to separate the pair with that much of large separation in the wavelengths (which is the wavelength difference between 791nm and 1550nm). Our team has come up with an alternative interferometer design which uses two beam displacers instead of the beam splitters, and its performances have been verified. \r\n     Ground-to-ground EB QKD has already been well established, and now we are about to make a next huge step by applying it to a satellite networking system.",
+        "authors": [
+            {
+                "first": "Sungeun",
+                "last": "Oh",
+                "affiliation": "University of Waterloo"
+            }
+        ],
+        "topics": [
+            "experiment"
+        ]
+    }
+]
