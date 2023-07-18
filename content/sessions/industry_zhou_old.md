@@ -1,7 +1,6 @@
 ---
 title: "Industry Session (Chairs: Marco Lucamarini)"
 speakers:
-  - zhou_old
 videoId: null
 presentation: null
 draft: false

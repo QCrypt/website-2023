@@ -1,5 +1,5 @@
 ---
-title: 'Rump Session'
+title: 'Rump Session (details TBD)'
 format: other
 tags:
   - 

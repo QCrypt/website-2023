@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 4c: Beyond QKD (Chair: TBA)"
+title: "Contributed Talks 4c: Beyond QKD"
 
 papers:
 - 50
