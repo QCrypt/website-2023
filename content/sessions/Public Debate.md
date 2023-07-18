@@ -1,6 +1,6 @@
 ---
 title: 'Public Debate (details TBD) '
-format: other
+format: 
 tags:
   - stamp
 videoId: null

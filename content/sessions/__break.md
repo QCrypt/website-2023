@@ -1,6 +1,6 @@
 ---
 title: 'Break'
-format: other
+format: 
 tags:
   - break
 videoId: null

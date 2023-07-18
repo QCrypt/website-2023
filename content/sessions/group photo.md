@@ -1,6 +1,6 @@
 ---
 title: 'Group Photo'
-format: other
+format: 
 tags:
   - photo
 videoId: null

@@ -1,6 +1,6 @@
 ---
 title: 'Excursion'
-format: other
+format: 
 tags:
   - excursion
 videoId: null

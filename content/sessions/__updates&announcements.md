@@ -1,6 +1,6 @@
 ---
 title: 'Updates & Announcements'
-format: other
+format: 
 tags:
   - break
 videoId: null

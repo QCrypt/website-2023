@@ -1,6 +1,6 @@
 ---
 title: 'Start of Day + networking'
-format: other
+format: 
 tags:
   - break
 videoId: null

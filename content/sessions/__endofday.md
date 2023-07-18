@@ -1,6 +1,6 @@
 ---
 title: 'End of Day'
-format: other
+format: 
 tags:
   - break
 videoId: null

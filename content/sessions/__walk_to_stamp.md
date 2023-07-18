@@ -1,6 +1,6 @@
 ---
 title: 'Dinner at Stamp Student Union '
-format: other
+format: 
 tags:
   - stamp
 videoId: null

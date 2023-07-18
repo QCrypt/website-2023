@@ -1,6 +1,6 @@
 ---
 title: 'Independent Lunch'
-format: other
+format: 
 tags:
   - break
 videoId: null

@@ -1,6 +1,6 @@
 ---
 title: Opening Reception
-format: other
+format: 
 speakers: 
   - Pines
   - Romine

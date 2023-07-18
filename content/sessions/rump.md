@@ -1,8 +1,7 @@
 ---
 title: 'Rump Session (details TBD)'
-format: other
+format: 
 tags:
-  - 
 videoId: null
 presentation: null
 draft: false

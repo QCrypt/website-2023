@@ -1,6 +1,6 @@
 ---
 title: 'Dinner + networking'
-format: other
+format: 
 tags:
   - break
 videoId: null
