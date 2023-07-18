@@ -1,5 +1,5 @@
 ---
-title: "Invited Speaker"
+title: "Invited Talk: ''Quantum Cryptography in Algorithmica''"
 speakers:
   - kretschmer
 videoId: null

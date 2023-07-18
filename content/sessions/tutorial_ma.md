@@ -1,5 +1,5 @@
 ---
-title: "Tutorial Speaker"
+title: "Tutorial Talk: ''Recent Advancement in Measurement-Device-Independent Quantum Key Distribution'' "
 speakers:
   - ma
 presentation: null

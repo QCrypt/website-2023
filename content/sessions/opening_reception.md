@@ -1,7 +1,9 @@
 ---
 title: Opening Reception
 format: other
-speakers: null
+speakers: 
+  - Pines
+  - Romine
 videoId: null
 presentation: null
 draft: false

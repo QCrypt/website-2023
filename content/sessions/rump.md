@@ -1,8 +1,8 @@
 ---
-title: 'Dinner at Stamp Student Union '
+title: 'Rump Session'
 format: other
 tags:
-  - stamp
+  - 
 videoId: null
 presentation: null
 draft: false

@@ -26,13 +26,17 @@
       time: '15:50'
     - session: poster1
       time: '16:30'
+    - session: Group Photo
+      time: '17:45'
     - session: opening_reception
-      time: '17:30'
+      time: '18:00'
     - session: __endofday
-      time: '19:00'
+      time: '19:30'
 
 - day: '2023-08-15'
   sessions:
+    - session: __coffee&snacks
+      time: '08:30'
     - session: __updates&announcements
       time: '08:45'
     - session: tutorial_ma
@@ -55,14 +59,12 @@
       time: '15:50'
     - session: poster2
       time: '16:30'
-    - session: rump
-      time: '17:30'
-    - session: Group Photo
-      time: '18:45'
+    - session: Public Debate
+      time: '18:00'
     - session: __walk_to_stamp
       time: '19:00'
     - session: __endofday
-      time: '20:45'
+      time: '21:00'
 
 - day: '2023-08-16'
   sessions:
@@ -112,12 +114,11 @@
       time: '15:20'
     - session: contributed4d
       time: '15:50'
-    - session: debate
+    - session: rump
       time: '16:30'
     - session: business
       time: '17:30'
-    - session: __endofday
-      time: '19:00'
+
 
 - day: '2023-08-18'
   sessions:
@@ -126,7 +127,7 @@
     - session: __updates&announcements
       time: '08:45'
     - session: contributed5a
-      time: '09:20'
+      time: '09:00'
     - session: __coffee&snacks
       time: '11:00'
     - session: contributed5b

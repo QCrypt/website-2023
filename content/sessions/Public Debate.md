@@ -1,5 +1,5 @@
 ---
-title: 'Dinner at Stamp Student Union '
+title: 'Public Debate (details TBD) '
 format: other
 tags:
   - stamp
