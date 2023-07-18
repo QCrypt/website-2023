@@ -1,7 +1,11 @@
 - day: '2023-08-14'
   sessions:
-    - session: __startofday
+    - session: __checkin
+      time: '08:00'
+    - session: __coffee&snacks
       time: '08:30'
+    - session: __welcomingremarks
+      time: '08:45'
     - session: tutorial_yuen
       time: '09:00'
     - session: invited_hhan
@@ -29,13 +33,13 @@
 
 - day: '2023-08-15'
   sessions:
-    - session: __startofday
-      time: '08:30'
+    - session: __updates&announcements
+      time: '08:45'
     - session: tutorial_ma
       time: '9:00'
     - session: invited_arnold
       time: '10:15'
-    - session: __break
+    - session: __coffee&snacks
       time: '11:00'
     - session: invited_sax
       time: '11:30'
@@ -63,13 +67,15 @@
 - day: '2023-08-16'
   sessions:
   sessions:
-    - session: __startofday
+    - session: __coffee&snacks
       time: '08:30'
+    - session: __updates&announcements
+      time: '08:45'
     - session: tutorial_bartusek
       time: '9:00'
     - session: invited_kalai
       time: '10:15'
-    - session: __break
+    - session: __coffee&snacks
       time: '11:00'
     - session: invited_zhou
       time: '11:30'
@@ -79,19 +85,20 @@
       time: '12:35'
     - session: __excursion
       time: '14:00'
-    - session: __endofday
-      time: '18:00'
+
 
 - day: '2023-08-17'
   sessions:
   sessions:
-    - session: __startofday
+    - session: __coffee&snacks
       time: '08:30'
+    - session: __updates&announcements
+      time: '08:45'
     - session: industrial
       time: '9:00'
     - session: contributed4a
       time: '10:40'
-    - session: __break
+    - session: __coffee&snacks
       time: '11:00'
     - session: invited_liao
       time: '11:30'
@@ -101,7 +108,7 @@
       time: '12:35'
     - session: contributed4c
       time: '14:00'
-    - session: __break
+    - session: __coffee&snacks
       time: '15:20'
     - session: contributed4d
       time: '15:50'
@@ -114,15 +121,15 @@
 
 - day: '2023-08-18'
   sessions:
-    - session: __startofday
-      time: '08:50'
+    - session: __coffee&snacks
+      time: '08:30'
+    - session: __updates&announcements
+      time: '08:45'
     - session: contributed5a
       time: '09:20'
-    - session: __break
+    - session: __coffee&snacks
       time: '11:00'
     - session: contributed5b
       time: '11:30'
     - session: close
       time: '12:30'
-    - session: __endofday
-      time: '12:45'

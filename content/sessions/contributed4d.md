@@ -1,5 +1,5 @@
 ---
-title: "Contributed Talks 4d: Theory (Chair: TBA)"
+title: "Contributed Talks 4d: Theory"
 
 papers:
 - 118

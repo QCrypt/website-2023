@@ -1,5 +1,5 @@
 ---
-title: 'Lunch + Q&A + networking'
+title: 'Independent Lunch'
 format: other
 tags:
   - break

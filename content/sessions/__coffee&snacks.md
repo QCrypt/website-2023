@@ -1,5 +1,5 @@
 ---
-title: 'Break'
+title: 'Coffee & Snacks'
 format: other
 tags:
   - break

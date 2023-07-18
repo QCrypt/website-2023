@@ -1,5 +1,5 @@
 ---
-title: 'End of Day + Q&A + networking'
+title: 'End of Day'
 format: other
 tags:
   - break
