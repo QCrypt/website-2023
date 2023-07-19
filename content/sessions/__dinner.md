@@ -2,7 +2,7 @@
 title: 'Dinner + networking'
 format: 
 tags:
-  - break
+  - other
 videoId: null
 presentation: null
 draft: false

@@ -1,6 +1,8 @@
 ---
 title: 'Awards and Business Meeting'
 format: 
+tags:
+  - other
 videoId: null
 presentation: null
 draft: false

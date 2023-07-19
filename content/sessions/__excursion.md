@@ -2,7 +2,7 @@
 title: 'Excursion'
 format: 
 tags:
-  - excursion
+  - other
 videoId: null
 presentation: null
 draft: false

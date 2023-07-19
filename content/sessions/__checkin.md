@@ -2,7 +2,7 @@
 title: 'Conference Check-in'
 format: 
 tags:
-  - break
+  - other
 videoId: null
 presentation: null
 draft: false

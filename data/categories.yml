@@ -8,3 +8,7 @@
   name: "\U0001f91d meet & greet"
 - key: poster
   name: "\U0001f91d poster"
+- key: other
+  name: "other"  
+- key: photo
+  name: "\U0001f4f8 photo"  
