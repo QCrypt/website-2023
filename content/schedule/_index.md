@@ -2,6 +2,9 @@
 title: Schedule
 draft: false
 horizontal: false
+menu:
+    main:
+        weight: 2
 ---
 
 <center>
