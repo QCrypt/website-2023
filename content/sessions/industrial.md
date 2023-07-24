@@ -1,6 +1,6 @@
 ---
 key: industry
-title: "Industry Session"
+title: "Industry Panel"
 id: industry
 speakers:
 - Chen
