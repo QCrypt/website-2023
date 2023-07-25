@@ -1,5 +1,5 @@
 ---
-title: 'Independent Lunch (local, walking distance options will be provided for your consideration)'
+title: 'Independent Lunch (local options within walking distance will be provided).'
 format: 
 tags:
   - break
