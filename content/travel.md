@@ -11,12 +11,8 @@ menu:
 ## Venue
 The venue for QCrypt2023 is the <a href="https://iribe.umd.edu/"> Brendan Iribe Center for Computer Science and Engineering</a>, a state-of-the-art building that houses the University of Maryland’s <a href="https://www.cs.umd.edu/">Department of Computer Science</a> and <a href="https://www.cs.umd.edu/">Institute for Advanced Computer Studies (UMIACS)</a>, which is the parent organization of the <a href="https://quics.umd.edu/">Joint Center for Quantum Information and Computer Science (QuICS)</a>. The building includes the Antonov Auditorium that collaboratively seats 300 people, a second 100-seat auditorium for overflow, an expansive lobby space for poster sessions, sponsor tables and coffee breaks, and a number of seminar and classrooms for breakout sessions. The building's official address is: <a href="https://goo.gl/maps/m6TfZezHoabJfroC6">8125 Paint Branch Dr, College Park, MD 20742.</a>
 
-<figure>
-<img id="venue" src="/images/Iribe.jpg" style="width:700px;height:400px;"/>
-</figure>
-<figure>
-<img id="auditorium" src="/images/auditorium2.jpg" style="width:700px;height:400px;"/>
-</figure>
+<img id="venue" src="/images/Iribe.jpg" style="height:300px;"/>
+<img id="auditorium" src="/images/auditorium2.jpg" style="height:400px;"/>
 
 <h2>Transportation</h2>
 
