@@ -21,8 +21,8 @@ Typically, the university is accessible via the College Park/U of MD station on 
 ## Venue
 The venue for QCrypt2023 is the <a href="https://iribe.umd.edu/"> Brendan Iribe Center for Computer Science and Engineering</a>, a state-of-the-art building that houses the University of Maryland’s <a href="https://www.cs.umd.edu/">Department of Computer Science</a> and <a href="https://www.cs.umd.edu/">Institute for Advanced Computer Studies (UMIACS)</a>, which is the parent organization of the <a href="https://quics.umd.edu/">Joint Center for Quantum Information and Computer Science (QuICS)</a>. The building includes the Antonov Auditorium that collaboratively seats 300 people, a second 100-seat auditorium for overflow, an expansive lobby space for poster sessions, sponsor tables and coffee breaks, and a number of seminar and classrooms for breakout sessions. The building's official address is: <a href="https://goo.gl/maps/m6TfZezHoabJfroC6">8125 Paint Branch Dr, College Park, MD 20742.</a>
 
-<img id="venue" src="/images/Iribe.jpg" style="height:300px;"/>
-<img id="auditorium" src="/images/auditorium2.jpg" style="height:300px;"/>
+<img id="venue" src="/images/Iribe.jpg" style="height:300px;margin:10px"/>
+<img id="auditorium" src="/images/auditorium2.jpg" style="height:300px;margin:10px"/>
 
 <h2>Local Accommodations</h2>
 The Conference and Visitor Services for the University of Maryland has partnered with many local hotels to provide competitive rates for UMD visitors. These hotels can individually be accessed <a href="https://campustravel.com/university/university-of-maryland-conference-visitor-services/">here</a>, or go <a href=" https://campustravel.com/university/university-of-maryland-conference-visitor-services/university-of-maryland-conference-visitor-services-search/"> here </a>to compare available rates. 
