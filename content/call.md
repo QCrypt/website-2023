@@ -1,5 +1,5 @@
 ---
-title: Call for papers
+title: Call
 draft: false
 type: text_page
 menu:
