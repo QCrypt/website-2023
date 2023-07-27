@@ -390,43 +390,6 @@
         ]
     },
     {
-        "pid": 71,
-        "submission_class": "poster",
-        "title": "On the (Im)possibility of Time-Lock Puzzles in the Quantum Random Oracle Model",
-        "abstract": "Time-lock puzzles wrap a message x inside a puzzle P in such a way that \u201csolving\u201d P to find x requires significantly more time than generating the pair (x, P ); hence it can be thought of as sending a message x to the future. In particular, the soundness of time-lock puzzles requires that the adversary is not able to expedite the solving process by much, even if it has access to parallel computing. It is known [Mahmoody, Moran, Vadhan, Crypto\u201911] that when the source of hardness is only a random oracle, then there is no meaningful construction of time-lock puzzles, as any puzzle generator with n queries can always be (efficiently) broken by an adversary in O(n) rounds of queries to the oracle.\r\n\r\nIn this work, we revisit time-lock puzzles in a quantum world by allowing the parties to use quantum computing and, in particular, access the random oracle in quantum superposition. An interesting setting is when the puzzle generator is efficient and classical, while the solver (who might be an entity developed in the future) is quantum powered and is supposed to need a long sequential time to succeed. We prove that in this setting, there is no construction of time-lock puzzles solely from quantum (accessible) random oracles. In particular, for any n-query classical puzzle generator, our attack only asks O(n) (also classical) queries to the random oracle, even though it does indeed run in quantum polynomial time if the honest puzzle solver needs quantum computing. \r\n\r\nWe then ask whether one can extend our classical-query attack to the setting of puzzle generators who might ask quantum queries to the random oracle. We show a barrier for proving such results unconditionally. In particular, we show that if the folklore simulation conjecture, first formally stated by Aaronson and Ambianis [arXiv\u20192009] is false, then there is indeed a time-lock puzzle in the quantum random oracle model that cannot be broken by classical adversaries.",
-        "authors": [
-            {
-                "first": "Abtin",
-                "last": "Afshar",
-                "affiliation": "University of Virginia"
-            },
-            {
-                "first": "Kai-Min",
-                "last": "Chung",
-                "affiliation": "Academia Sinica"
-            },
-            {
-                "first": "Yao Ching",
-                "last": "Hsieh",
-                "affiliation": "University of Washington"
-            },
-            {
-                "first": "Yao-Ting",
-                "last": "Lin",
-                "affiliation": "UCSB"
-            },
-            {
-                "first": "Mohammad",
-                "last": "Mahmoody",
-                "affiliation": "University of Virginia"
-            }
-        ],
-        "topics": [
-            "post-quantum cryptography",
-            "theory"
-        ]
-    },
-    {
         "pid": 74,
         "submission_class": "poster",
         "title": "Analysis of the effects of the two-photon temporal distinguishability on measurement-device-independent quantum key distribution",
