@@ -31,7 +31,7 @@ There are two main options to load slides prior to the presentation:
  
 If you have other requirements, please contact the local organizers in advance {{< button-link label="2023@QCRYPT.NET" url="mailto:2023@QCRYPT.NET" icon="email" >}}
 
-<h2>Poster Presentations:</h2>
+## Poster Presentations
  
 Posters should be <strong>no wider than 1 meter and no higher than 1.2 meters</strong> to fit comfortably on the poster support boards.
  
@@ -39,7 +39,7 @@ Poster boards will be identified by <strong>lastname_day_title. </strong>
 
 Poster sessions will be 90 minutes from 4:30 p.m. to 6 p.m. on Monday and Tuesday.
 <br><br>
-{{< button-link label="Monday's Schedule" url="https://2023.qcrypt.net/sessions/poster1/" icon="" >}}
-{{< button-link label="Tuesday's Schedule" url="https://2023.qcrypt.net/sessions/poster2/" icon="" >}}
+{{< button-link label="Monday's Schedule" url="/sessions/poster1/" icon="" >}}
+{{< button-link label="Tuesday's Schedule" url="/sessions/poster2/" icon="" >}}
 <br>
 
