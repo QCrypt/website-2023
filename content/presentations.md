@@ -12,13 +12,16 @@ menu:
  QCrypt 2023 is primarily an in-person meeting with presenters expected on-site. In certain exceptional circumstances and as agreed by the Program Committee, some speakers will be able to present remotely.
 
 <h2>Talk Length</h2>
-<strong><ul>Tutorial Talk:</strong> 75 minutes (including Q+A).</ul>
-<strong><ul>Invited Talks:</strong> 45 minutes (including Q+A).</ul>
-<strong><ul>Contributed Talks:</strong> 20 minutes (including Q+A)*</ul>
+
+All talks will be followed by five minutes for Q&A.
+
+<strong><ul>Tutorial Talk:</strong> 70 minutes</ul>
+<strong><ul>Invited Talks:</strong> 40 minutes</ul>
+<strong><ul>Contributed Talks:</strong> 15 minutes*</ul>
 <strong><ul>Industry Session:</strong> 100 minutes (participation details to be provided separately)</ul>
 <strong><ul>Public Debate:</strong> 60 minutes (participation details to be provided separately)</ul>
 <strong><ul>Rump Talks:</strong> TBD</ul>
-<ul>*Combined contributed talks are still 20 minutes (including Q+A).</ul>
+<ul>*Combined contributed talks are still 15 minutes</ul>
  
 <h2> Uploading Slides</h2>
 There are two main options to load slides prior to the presentation:

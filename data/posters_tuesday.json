@@ -234,6 +234,23 @@
         ]
     },
     {
+        "pid": 45,
+        "submission_class": "poster",
+        "title": "On Zero-Knowledge Proofs over the Quantum Internet",
+        "abstract": "This paper presents a new method for quantum identity authentication (QIA) protocols. The logic of classical zero-knowledge proofs (ZKPs) due to Schnorr is applied in quantum circuits and algorithms. This novel approach gives an exact way with which a prover $P$ can prove they know some secret by encapsulating it in a quantum state before sending to a verifier $V$ by means of a quantum channel - allowing for a ZKP wherein an eavesdropper or manipulation can be detected with a fail-safe design. This is achieved by moving away from the hardness of the Discrete Logarithm Problem towards the hardness of estimating quantum states. This paper presents a method with which this can be achieved and some bounds for the security of the protocol provided. With the anticipated advent of a `quantum internet', such protocols and ideas may soon have utility and execution in the real world.",
+        "authors": [
+            {
+                "first": "Mark",
+                "last": "Carney",
+                "affiliation": "Quantum Village Inc."
+            }
+        ],
+        "topics": [
+            "beyond QKD",
+            "theory"
+        ]
+    },
+    {
         "pid": 47,
         "submission_class": "poster",
         "title": "Cryptographic advantage of multi-partite entanglement over long ranged networks",
@@ -366,42 +383,6 @@
         ],
         "topics": [
             "QKD implementation",
-            "theory"
-        ]
-    },
-    {
-        "pid": 80,
-        "submission_class": "poster",
-        "title": "Sampled sub-block hashing for large input randomness extraction",
-        "abstract": "Experimental implementations of quantum cryptographic protocols suffer from statistical fluctuations due to finite resources. To suppress the statistical fluctuations, the data size collected is required to be large. However, a large input size heavily penalises the speed and resource consumption of randomness extraction, often forming the bottleneck and limiting the performance of quantum cryptographic protocols. In this work, we propose a sampled sub-block hashing approach to circumvent this problem. We show that using our method, we can achieve higher output speeds on platforms with limited resources, all while still taking into account finite size effects. Our new method could be useful in all quantum cryptographic protocols that satisfy the generalised entropy accumulation framework. As such, our method can be utilised as a general approach for privacy amplification in QKD systems, and randomness extraction in QRNG systems.",
-        "authors": [
-            {
-                "first": "Hong Jie",
-                "last": "Ng",
-                "affiliation": "National University of Singapore"
-            },
-            {
-                "first": "Wen Yu",
-                "last": "Kon",
-                "affiliation": "National University of Singapore"
-            },
-            {
-                "first": "Ignatius William",
-                "last": "Primaatmaja",
-                "affiliation": "National University of Singapore"
-            },
-            {
-                "first": "Chao",
-                "last": "Wang",
-                "affiliation": "National University of Singapore"
-            },
-            {
-                "first": "Charles",
-                "last": "Lim",
-                "affiliation": "National University of Singapore"
-            }
-        ],
-        "topics": [
             "theory"
         ]
     },
