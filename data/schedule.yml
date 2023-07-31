@@ -59,7 +59,7 @@
       time: '15:50'
     - session: poster2
       time: '16:30'
-    - session: Public Debate
+    - session: _public_discussion
       time: '18:00'
     - session: __walk_to_stamp
       time: '19:00'
