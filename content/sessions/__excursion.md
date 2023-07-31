@@ -8,7 +8,7 @@ presentation: null
 draft: false
 ---
 
-The afternoon of Wednesday, August 16th is free time. The conference organizers have arranged optional tours, all of which depart from or start in College Park at 2 p.m. Seats are limited and sign-up is required at registration.
+The afternoon of Wednesday, August 16th is free time. The conference organizers have arranged optional tours, all of which <strong>depart from or start in College Park at 2 p.m.</strong> Seats are limited and sign-up is required at registration.
 
 <ol>
 <li><strong><dt>The National Cryptologic Museum</strong></dt>
