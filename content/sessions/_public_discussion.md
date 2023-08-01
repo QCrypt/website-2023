@@ -1,5 +1,5 @@
 ---
-title: 'Public Discussion on QKD versus PQC'
+title: 'Public Discussion on QKD and PQC: Pros and Cons'
 format: 
 tags:
   - other
