@@ -15,6 +15,7 @@ College Park. The final deadline to register is <strike>Monday, July 31</strike>
 
 In case of questions or technical difficulties with the registration process, please contact: {{< button-link label="qcryptregistration@umd.edu" url="mailto:qcryptregistration@umd.edu " icon="email" >}}
 
+<strong>Missed the deadline? Contact {{< button-link label="2022@qcrypt.net" url="mailto:2022@qcrypt.net" icon="email" >}}</strong>
 
 ### General Information
 The registration fees are as follows:
@@ -37,7 +38,6 @@ The registration fees include:
 
 •  Option to participate in tours/excursions on Wednesday.
 
-Missed the deadline? Contact {{< button-link label="2022@qcrypt.net" url="mailto:2022@qcrypt.net" icon="email" >}}.
 
 ### Code of Conduct
 People who register agree to abide by the <a href="/code-of-conduct">conference code of conduct</a>.

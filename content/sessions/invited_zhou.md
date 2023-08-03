@@ -1,5 +1,5 @@
 ---
-title: "Invited Speaker"
+title: "Invited Speaker: ''Long Distance Quantum Key Distribution Gets Simpler'' "
 speakers:
   - zhou
 presentation: null
