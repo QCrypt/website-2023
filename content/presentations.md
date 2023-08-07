@@ -13,11 +13,9 @@ menu:
 
 <h2>Talk Length</h2>
 
-All talks will be followed by five minutes for Q&A.
-
-<strong><ul>Tutorial Talk:</strong> 70 minutes</ul>
-<strong><ul>Invited Talks:</strong> 40 minutes</ul>
-<strong><ul>Contributed Talks:</strong> 15 minutes*</ul>
+<strong><ul>Tutorial Talk:</strong> 70 minutes (plus 5 minutes for Q&A)</ul>
+<strong><ul>Invited Talks:</strong> 40 minutes (plus 5 minutes for Q&A)</ul>
+<strong><ul>Contributed Talks:</strong> 15 minutes* (plus 5 minutes for Q&A)</ul>
 <strong><ul>Industry Session:</strong> 100 minutes (participation details to be provided separately)</ul>
 <strong><ul>Public Debate:</strong> 60 minutes (participation details to be provided separately)</ul>
 <strong><ul>Rump Talks:</strong> TBD</ul>
