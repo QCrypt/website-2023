@@ -22,20 +22,18 @@ We are thrilled to announce the Call for Submissions to the QCrypt 2023 Rump Ses
 Stay tuned for an upcoming announcement revealing the thrilling theme of the QCrypt 2023 Rump Session Talks**! As a twist, we will be awarding prizes for the best and worst theme-related talk. Yes, you heard that right! Not only will the most outstanding and captivating presentation be rewarded, but we also want to celebrate a talk that takes a creative spin and perhaps hilariously misses the mark in an endearing way!
 
 📧 How to Submit:
-To participate in the Rump Session, please submit your talk proposals via email to qcrypt2023rump@gmail.com. Remember to include the following details in your submission:
+To participate in the Rump Session, please submit your talk proposals via email to {{< button-link label="qcrypt2023rump@gmail.com" url="qcrypt2023rump@gmail.com" icon="email" >}} 
+<br>Remember to include the following details in your submission:
 - Your name and affiliation
 - Talk title
 - Brief abstract outlining the content of your talk
 - Any special requirements for your presentation
 
 🗓️ Important Dates (all times QCrypt time)
-- Early Submission Deadline: Tuesday, August 15, 11:30 am 
+- Early Submission Deadline: Tuesday, August 15, 11:30 a.m. 
 - Late Submission Deadline: anytime before the Rump Session ***
 - Acceptance Notifications: Tuesday evening
-- QCrypt 2023 Rump session: Thursday, August 17, 4:30 pm
-
-
-
+- QCrypt 2023 Rump session: Thursday, August 17, 4:30 p.m.
 
 The Rump Session is a fantastic opportunity to engage with the QCrypt community, showcase your talents, and inspire fellow researchers. We look forward to receiving your exciting submissions!
 
