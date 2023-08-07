@@ -12,7 +12,7 @@ The afternoon of Wednesday, August 16th is free time. The conference organizers 
 
 <ol>
 <li><strong><dt>The National Cryptologic Museum</strong></dt>
-<dd><a href="https://www.nsa.gov/museum/">The National Cryptologic Museum</a> (NCM) is a museum of American cryptologic history affiliated with the National Security Agency (NSA). The first public museum in the U.S. Intelligence Community, NCM is located in the former Colony Seven Motel, just two blocks from the NSA headquarters at Fort George G. Meade. A bus will leave UMD at 2 p.m. for a guided tour of the museum and return at approximately 5:30 p.m. Tour is <strike>limited to 40 participants</strike> FULL.
+<dd><a href="https://www.nsa.gov/museum/">The National Cryptologic Museum</a> (NCM) is a museum of American cryptologic history affiliated with the National Security Agency (NSA). The first public museum in the U.S. Intelligence Community, NCM is located in the former Colony Seven Motel, just two blocks from the NSA headquarters at Fort George G. Meade. A bus will leave UMD at 2:30 p.m. for a guided tour of the museum and return at approximately 5:30 p.m. Tour is <strike>limited to 40 participants</strike> FULL.
 </dd></li>
 <br>
 <li><strong><dt>The Smithsonian</strong></dt> 
