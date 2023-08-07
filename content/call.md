@@ -31,7 +31,7 @@ Our poster is now available! Please <a href="/poster">download and print it your
 |14-18 August 2023| QCrypt 2023|
 
 ## Call for Rump Session Submissions
-Did you miss the deadline for a talk submission but still want to participate? Do you have an idea that you want to run by a few hundred quantum crypto experts? Consider submitting a ‘Rump Session’ talk or act. Rump session talks are typically about five minutes, more informal and maybe even a bit more fun. You can submit an idea, act or performance for a Rump Session to {{< button-link label="2023@qcrypt.net" url="mailto:2023@qcrypt.net?subject=QCrypt Rump Session" icon="email" >}} and we will let you know if you made the cut. We will cut off submissions when we fill the session—so get your ideas in quickly!
+Have a breakthrough result or an amusing quantum cryptography anecdote? Share it at the QCrypt 2023 Rump Session! Submit your proposal before the early submission deadline on Tuesday, August 15, 11:30 am to secure your spot: Click <a href="https://2023.qcrypt.net/sessions/rump/"><strong>here</strong></a>.
 
 <!--
 Subscribe to <a href="https://calendar.google.com/calendar/embed?src=4f9rvlunmmrkpih1ibo11goo64%40group.calendar.google.com&ctz=Europe%2FAmsterdam"  target="_blank">our calendar</a> to stay updated about the official dates and events.

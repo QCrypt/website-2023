@@ -22,6 +22,10 @@ menu:
     Registration Open
 </a>
 
+<a class="btn primary btn-lg" href="/sessions/rump">
+    Rump Session
+</a>
+
 <a class="btn primary btn-lg" href="/accepted-papers">
     Accepted Papers
 </a>

@@ -9,13 +9,13 @@ menu:
 ---
 
 ## News
+> <h3> August 4 – <strong>Updated Rump Session Instructions</h3></strong><body style="text-align:left">Have a breakthrough result or an amusing quantum cryptography anecdote? Share it at the QCrypt 2023 Rump Session! Submit your proposal before the early submission deadline on Tuesday, August 15, 11:30 am to secure your spot: Click <a href="https://2023.qcrypt.net/sessions/rump/"><strong>here</strong></a>.
+
 > <h3>July 31 – <strong>Registration Deadline Extended to August 8</h3></strong><body style="text-align:left">QCrypt 2023 registration has been extended until Tuesday, August 8. {{< button-link label="Register" url="https://app.certain.com/profile/3363153" icon="link" target="_blank">}}
 
-> <h3>July 27 – <strong>Instructions for Presenters</h3></strong><body style="text-align:left">Instructions on the length of talks, poster sizes, and uploading PowerPoints is now available on the <a href="https://2023.qcrypt.net/presentations/">Presentations page.</a> 
+> <h3>July 27 – <strong>Instructions for Presenters</h3></strong><body style="text-align:left">Instructions on the length of talks, poster sizes, and uploading PowerPoints is now available on the <a href="https://2023.qcrypt.net/presentations/">Presentations page</a>. 
 
 > <h3>July 26 – <strong>Special Public Event Announced</h3></strong><body style="text-align:left">QCrypt 2023 is hosting a special public event that will bring together proponents of Quantum Key Distribution (QKD) and Post Quantum Cryptography (PQC) to compare the advantages and concerns. Open to the public, this timely and important discussion will be of interest across a wide range of audiences including industry, academia, government, and more. The discussion is scheduled for <a href="https://2023.qcrypt.net/schedule/#day_2023-08-15">Tuesday, August 15</a> from 6–7 p.m. in the Iribe Center.
-
-> <h3>July 24 – <strong>Call for Rump Session Submissions!</h3></strong><body style="text-align:left">Did you miss the deadline for a talk submission but still want to participate? Do you have an idea that you want to run by a few hundred quantum crypto experts? Consider submitting a ‘Rump Session’ talk or act. Rump session talks are typically about five minutes, more informal and maybe even a bit more fun. You can submit an idea, act or performance for a Rump Session to {{< button-link label="2023@qcrypt.net" url="mailto:2023@qcrypt.net?subject=QCrypt Rump Session" icon="email" >}} and we will let you know if you made the cut. We will cut off submissions when we fill the session—so get your ideas in quickly!</body>
 
 > <h3>July 19 – <strong>Schedule Posted</h3></strong><body style="text-align:left">A packed <a href="https://2023.qcrypt.net/schedule">five day schedule</a> is now available on the conference website including three tutorial talks, seven invited talks, 32 contributing talks and over 100 posters presentations. There will also be an evening reception and a banquet dinner.</body>
 
