@@ -7,7 +7,6 @@ speakers:
 - Hanai
 - pegon
 - McClelland
-- Shabani
 videoId: null
 presentation: null
 draft: false
