@@ -1,9 +1,9 @@
 ---
 title: Serge Fehr
-surname: Fehr
+surname: aFehr
 type: steering
 subtitle: CWI Cryptology group, Leiden University
-job: SC member
+job: SC chair
 photo: serge_fehr.jpg
 socials:
   - link: 'https://homepages.cwi.nl/~fehr/'

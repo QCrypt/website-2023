@@ -16,14 +16,26 @@ draft: false
 <!-- {{< teams types="core=Main Organizers,org=Organizers" >}} -->
 {{< teams types="core" >}}
 
+You can contact the Organizing Committee via email to {{< button-link label="2023@qcrypt.net" url="mailto:2023@qcrypt.net" icon="email" >}}
+
 {{< teams types="org" >}}
-You can contact us via email to {{< button-link label="2023@qcrypt.net" url="mailto:2023@qcrypt.net" icon="email" >}}.
-<!-- ## Steering Committee
+
+### OC support
+* Chen Bai
+* Mel Coles
+* Danielle Degrand
+* Kelly Hedgepeth
+* Maria Herd
+* Lisa Press
+* Manasi Mangesh Shingane
+* Andrea Svejda
+
+## Steering Committee
 
 {{< teams types="steering" >}}
 
 
-## Advisory  Committee
+<!-- ## Advisory  Committee
 
 {{< teams types="advisory" >}}
 
