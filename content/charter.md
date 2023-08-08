@@ -124,8 +124,8 @@ In some years, there are two winning papers selected, one in theory, one in expe
 |2020 Amsterdam | experiment | Fabian Beutel | Broadband Detector-Integrated On-Chip QKD Receiver for GHz Clock Rates | [video](https://www.youtube.com/watch?v=88FqydYnnlg)
 |2021 Amsterdam | theory | Tony Metger | Device-independent protocols from computational assumptions | [video](https://www.youtube.com/watch?v=HcX6OPHYrVY)
 |2021 Amsterdam | experiment | Likang Zhang | High-rate quantum key distribution with silicon photonics |  [video](https://www.youtube.com/watch?v=MFyicCNBmeg)
-|2022 Taiwan | theory | TBD | TBD
-|2022 Taiwan | experiment |  TBD | TBD
+|2022 Taiwan | theory | Tony Metger | Generalized entropy accumulation for quantum cryptography | [video](https://www.youtube.com/watch?v=eCciWKyZZkw)
+|2022 Taiwan | experiment |  Fadri Grünenfelder | Towards 100 Mbps secret key rate QKD | [video](https://www.youtube.com/watch?v=OMqxyHWbchs)
 
 
 
