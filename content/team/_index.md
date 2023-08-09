@@ -23,7 +23,7 @@ You can contact the Organizing Committee via email to {{< button-link label="202
 ### OC support
 * Chen Bai
 * Mel Coles
-* Danielle Degrand
+* Daniele Degrandchamp
 * Kelly Hedgepeth
 * Maria Herd
 * Lisa Press
