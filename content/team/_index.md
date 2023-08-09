@@ -25,7 +25,6 @@ You can contact the Organizing Committee via email to {{< button-link label="202
 * Mel Coles
 * Daniele Degrandchamp
 * Kelly Hedgepeth
-* Maria Herd
 * Lisa Press
 * Manasi Mangesh Shingane
 * Andrea Svejda
