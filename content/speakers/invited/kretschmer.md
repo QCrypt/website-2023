@@ -5,7 +5,7 @@ surname: Kretschmer
 company: University of Texas Austin
 photoURL: /images/speakers/WilliamKretschmer.jpg
 type: invited
-website: https://www.cs.utexas.edu/~kretsch/
+website: '/sessions/invited_kretschmer'
 # socials:
 #   - link: 
 #     name: Site

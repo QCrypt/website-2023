@@ -5,7 +5,7 @@ surname: Arnold
 company: University of Illinois Urbana-Champaign
 photoURL: /images/speakers/NathanArnold.jpg
 type: invited
-website: https://physics.illinois.edu/people/directory/profile/narnold4
+website: '/sessions/invited_arnold'
 # socials:
 #   - link: 
 #     name: Site

@@ -5,7 +5,7 @@ surname: Ma
 company: Tsinghua University
 photoURL: /images/speakers/XiongfengMa.jpg
 type: tutorial
-website: https://iiis.tsinghua.edu.cn/maxiongfeng/
+website: '/sessions/tutorial_ma'
 # socials:
 #   - link: 
 #     name: Site

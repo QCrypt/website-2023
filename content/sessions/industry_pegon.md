@@ -1,5 +1,5 @@
 ---
-title: "Industry Session (Chairs: Marco Lucamarini)"
+title: "Industry Session (Chairs: Nick Peters)"
 speakers:
   - pegon
 videoId: null

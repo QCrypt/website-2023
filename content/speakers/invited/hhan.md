@@ -5,7 +5,7 @@ surname: Hhan
 company: Korean Institute for Advanced Study
 photoURL: /images/speakers/MinkiHhan.jpg
 type: invited
-website: https://hhanmk.github.io/
+website: '/sessions/invited_hhan'
 # socials:
 #   - link:  
 #     name: Site

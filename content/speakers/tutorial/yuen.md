@@ -5,9 +5,9 @@ surname: Yuen
 company: Columbia University
 photoURL: /images/speakers/HenryYuen.png
 type: tutorial
-website: 'https://www.henryyuen.net/'
-socials:
-  - link: '/sessions/tutorial_yuen'
-    name: Site
+website: '/sessions/tutorial_yuen'
+# socials:
+#   - link: '/sessions/tutorial_yuen'
+#     name: Site
 
 ---

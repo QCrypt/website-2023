@@ -5,7 +5,7 @@ surname: Bartusek
 company: UC Berkeley
 photoURL: /images/speakers/JamesBartusek.jpg
 type: tutorial
-website: https://sites.google.com/view/jamesbartusek
+website: '/sessions/tutorial_bartusek'
 # socials:
 #   - link: 
 #     name: Site

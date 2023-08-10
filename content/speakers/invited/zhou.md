@@ -5,7 +5,7 @@ surname: zhou
 company: Beijing Academy of Quantum Information Sciences
 photoURL: /images/speakers/ZhouLai.png
 type: invited
-website: http://en.baqis.ac.cn/people/detail/?cid=614
+website: '/sessions/invited_lai'
 # socials:
 #   - link: 
 #     name: Site
