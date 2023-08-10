@@ -34,6 +34,11 @@ menu:
 {{< speakers-industry >}}
 {{< /speakers-industry >}}
 
+## Discussion Panel
+<!--Click on a speaker's name to read the title and abstract for their presentation.-->
+
+{{< speakers-discussion >}}
+{{< /speakers-discussion >}}
 
 <!-- ## Industry Session -->
 <!--Click on a speaker's name to read their bio.-->
