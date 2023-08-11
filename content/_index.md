@@ -18,8 +18,8 @@ menu:
     News & Announcements
 </a>
 
-<a class="btn primary btn-lg" href="/registration">
-    Registration Open
+<a class="btn primary btn-lg" href="https://umd.box.com/s/0gp344b5j4wupyrv9wbivjdpfw350rvx">
+    Conference Program
 </a>
 
 <a class="btn primary btn-lg" href="/sessions/rump">
