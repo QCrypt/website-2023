@@ -1,5 +1,12 @@
 ---
 title: 'Public Discussion on QKD and PQC: Pros and Cons'
+key: discussion
+id: discussion
+speakers:
+- Fluhrer
+- Lütkenhaus
+- Perlner
+- Wolf
 format: 
 tags:
   - other

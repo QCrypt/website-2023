@@ -5,5 +5,5 @@ surname: Wolf
 company: ETH Zürich
 photoURL: /images/speakers/ramona.jpg
 type: discussion
-website: ''
+website: 'https://ramonawolf.com/'
 ---
