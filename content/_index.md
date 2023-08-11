@@ -201,7 +201,7 @@ Please click <a style="color: blue" href="/accepted-papers/">here</a>. -->
 
 <!-- THE MAP -->
 {{% home-location
-    image="/images/UMD_mall.jpg"
+    image="https://brandportal.umd.edu/m/201095fc65e15cf6/Hero_web-IribeCenter_JC_09182019_8325-tif.jpg"
     address="Brendan Iribe Center for Computer Science and Engineering, University of Maryland, 8125 Paint Branch Drive, College Park, MD, USA 20742"
     latitude="38.98928161543911"
     longitude="-76.9361273795895"
