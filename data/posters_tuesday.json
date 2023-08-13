@@ -1,60 +1,5 @@
 [
     {
-        "pid": 8,
-        "submission_class": "poster",
-        "title": "Cost of quantum secret key",
-        "abstract": "In this paper, we develop the resource theory of quantum secret key. Operating under the assumption that entangled states with zero distillable key do not exist, we define the key cost of a quantum state, channel, and device. We study its properties through the lens of a quantity that we call the key of formation. The main result of our paper is that the regularized key of formation equals the key cost of a quantum state. The core protocol underlying this result is privacy dilution, which converts states containing ideal privacy into ones with diluted privacy. Additionally, our main result follows by proving that the key of formation is an entanglement monotone with appealing mathematical properties. We further focus on mixed-state analogues of pure quantum states in the domain of privacy, and we prove that a number of entanglement measures are equal to each other for these states, similar to the case of pure entangled states. The privacy cost and distillable key in the single-shot regime exhibit a yield-cost relation, and basic consequences for quantum channels and devices are also provided.",
-        "authors": [
-            {
-                "first": "Karol",
-                "last": "Horodecki",
-                "affiliation": "National Quantum Information Centre, International Centre for Theory of Quantum Technologies, University of Gda\u0144sk, Poland"
-            },
-            {
-                "first": "Siddhartha",
-                "last": "Das",
-                "affiliation": "International Institute of Information Technology, Hyderabad"
-            },
-            {
-                "first": "Mark M.",
-                "last": "Wilde",
-                "affiliation": "Cornell University, USA"
-            }
-        ],
-        "topics": [
-            "device independence",
-            "QKD implementation",
-            "QKD theory",
-            "theory"
-        ]
-    },
-    {
-        "pid": 12,
-        "submission_class": "poster",
-        "title": "Private network parameter estimation with quantum sensors",
-        "abstract": "Networks of quantum sensors are a central application of burgeoning quantum networks. A key\r\nquestion for the use of such networks will be their security, particularly against malicious participants of the network. We introduce a protocol to securely evaluate linear functions of parameters over a network of quantum sensors, ensuring that all parties only have access to the function value, and no access to the individual parameters. This has application to secure networks of clocks and opens the door to more general applications of secure multiparty computing to networks of quantum sensors.",
-        "authors": [
-            {
-                "first": "Majid",
-                "last": "Hassani",
-                "affiliation": "LIP6, Sorbonne Universite"
-            },
-            {
-                "first": "Damian",
-                "last": "Markham",
-                "affiliation": "LIP6, Sorbonne Universite"
-            },
-            {
-                "first": "Nathan",
-                "last": "Shettell",
-                "affiliation": "National University of Singapore"
-            }
-        ],
-        "topics": [
-            "theory"
-        ]
-    },
-    {
         "pid": 19,
         "submission_class": "poster",
         "title": "Effect of light injection on the security of practical quantum key distribution",
@@ -114,34 +59,6 @@
         "topics": [
             "experiment",
             "QKD implementation"
-        ]
-    },
-    {
-        "pid": 33,
-        "submission_class": "poster",
-        "title": "Good Gottesman-Kitaev-Preskill codes from the NTRU cryptosystem",
-        "abstract": "We introduce a new class of random Gottesman-Kitaev-Preskill (GKP) codes derived from the cryptanalysis of the so-called NTRU cryptosystem. The derived codes are good in that they exhibit constant rate and average distance scaling with high probability equivalent to that of a GKP code obtained by concatenating single mode GKP codes into a qubit-quantum error correcting code with linear distance. The derived class of NTRU-GKP codes has the additional property that decoding for a stochastic displacement noise model is equivalent to decrypting the NTRU cryptosystem, such that every random instance of the code naturally comes with an efficient decoder. This construction highlights how the GKP code bridges aspects of classical error correction, quantum error correction as well as post-quantum cryptography. We underscore this connection by discussing the computational hardness of decoding GKP codes and propose, as a new application, a simple public key quantum communication protocol with security inherited from the NTRU cryptosystem.",
-        "authors": [
-            {
-                "first": "Jonathan",
-                "last": "Conrad",
-                "affiliation": "Freie Universit\u00e4t Berlin, Helmholtz Zentrum Berlin"
-            },
-            {
-                "first": "Jens",
-                "last": "Eisert",
-                "affiliation": "Freie Universit\u00e4t Berlin, Helmholtz Zentrum Berlin, Fraunhofer Heinrich Hertz Institute"
-            },
-            {
-                "first": "Jean-Pierre",
-                "last": "Seifert",
-                "affiliation": "Technische Universit\u00e4t Berlin, Fraunhofer Institute for Secure Information Technology"
-            }
-        ],
-        "topics": [
-            "beyond QKD",
-            "post-quantum cryptography",
-            "theory"
         ]
     },
     {
@@ -243,33 +160,6 @@
                 "first": "Mark",
                 "last": "Carney",
                 "affiliation": "Quantum Village Inc."
-            }
-        ],
-        "topics": [
-            "beyond QKD",
-            "theory"
-        ]
-    },
-    {
-        "pid": 47,
-        "submission_class": "poster",
-        "title": "Cryptographic advantage of multi-partite entanglement over long ranged networks",
-        "abstract": "Whilst the use of multipartite entanglement is known to offer an advantage in certain cryptographic contexts, the quest to find practical advantage scenarios is ongoing and difficulties in generalising some bipartite security proofs still remain. We present results addressing both these challenges, by first proving the security of a variant of the GHZ state based secret sharing protocol and then identifying parameters for a performance advantage over realistic bottleneck networks in terms of bits per network use. We show that whilst channel losses limit the advantage region to short distances over direct transmission networks, the addition of quantum repeaters unlocks the advantage of multipartite entanglement for long distance quantum cryptography.",
-        "authors": [
-            {
-                "first": "Janka",
-                "last": "Memmen",
-                "affiliation": "Freie Universit\u00e4t"
-            },
-            {
-                "first": "Jens",
-                "last": "Eisert",
-                "affiliation": "Freie Universit\u00e4t"
-            },
-            {
-                "first": "Nathan",
-                "last": "Walk",
-                "affiliation": "Freie Universit\u00e4t"
             }
         ],
         "topics": [
@@ -387,40 +277,6 @@
         ]
     },
     {
-        "pid": 83,
-        "submission_class": "poster",
-        "title": "Fast and reliable entanglement distribution with quantum repeaters: principles for improving protocols using reinforcement learning",
-        "abstract": "Future quantum technologies such as quantum communication, quantum sensing, and distributed quantum computation, will rely on networks of shared entanglement between spatially separated nodes. Distributing entanglement between these nodes, especially over long distances, currently remains a challenge, due to limitations resulting from the fragility of quantum systems, such as photon losses, non-ideal measurements, and quantum memories with short coherence times. In the absence of full-scale fault-tolerant quantum error correction, which can in principle overcome these limitations, we should understand the extent to which we can circumvent these limitations using our noisy quantum resources. In this work, we provide improved protocols/policies for entanglement distribution along a linear chain of nodes, both homogeneous and inhomogeneous, that take practical limitations into account. For a wide range of parameters, our policies improve upon previously known policies, such as the ``swap-as-soon-as-possible'' policy, with respect to both the waiting time and the fidelity of the end-to-end entanglement. This improvement is greatest for the most practically relevant cases, namely, for short coherence times, high link losses, and highly asymmetric links. To obtain our results, we model entanglement distribution using a Markov decision process, and then we use the Q-learning reinforcement learning (RL) algorithm to discover new policies. These new policies are characterized by dynamic, state-dependent memory cutoffs and collaboration between the nodes. In particular, we quantify this collaboration between the nodes. Our quantifiers tell us how much ``global'' knowledge of the network every node has, specifically, how much knowledge two distant nodes have of each other's states. In addition to the usual figures of merit, these quantifiers add an extra important dimension to the performance analysis and practical implementation of quantum repeaters. Finally, our understanding of the performance of large quantum networks is currently limited by the computational inefficiency of simulating them using RL or other optimization methods. The other main contribution of our work is to address this limitation. We present a method for nesting policies in order to obtain policies for large repeater chains. By nesting our RL-based policies for small repeater chains, we obtain policies for large repeater chains that improve upon the swap-as-soon-as-possible policy, and thus we pave the way for a scalable method for obtaining policies for long-distance entanglement distribution under practical constraints.",
-        "authors": [
-            {
-                "first": "Stav",
-                "last": "Haldar",
-                "affiliation": "Louisiana State University"
-            },
-            {
-                "first": "Pratik",
-                "last": "Barge",
-                "affiliation": "Louisiana State University"
-            },
-            {
-                "first": "Sumeet",
-                "last": "Khatri",
-                "affiliation": "Freie Universit\u00e4t Berlin"
-            },
-            {
-                "first": "Hwang",
-                "last": "Lee",
-                "affiliation": "Louisiana State University"
-            }
-        ],
-        "topics": [
-            "device independence",
-            "QKD implementation",
-            "QKD theory",
-            "theory"
-        ]
-    },
-    {
         "pid": 87,
         "submission_class": "poster",
         "title": "Parameter Optimisation for CV-QKD with arbitrary modulation",
@@ -507,130 +363,6 @@
         ],
         "topics": [
             "QKD theory"
-        ]
-    },
-    {
-        "pid": 94,
-        "submission_class": "poster",
-        "title": "Investigation of the avalanche delay effect in sine-gated single-photon detector",
-        "abstract": "A sine-gated single-photon detector (SPD) intended for use in a quantum key distribution (QKD) system is considered in this work. An \"avalanche delay\" effect in the sine-gated SPD is revealed. This effect negatively affects the overall error rate in the QKD system. The influence of the main detector control parameters on the avalanche delay effect was experimentally established.",
-        "authors": [
-            {
-                "first": "Anton",
-                "last": "Losev",
-                "affiliation": "QRate LLC"
-            },
-            {
-                "first": "Vladimir",
-                "last": "Zavodilenko",
-                "affiliation": "QRate LLC"
-            },
-            {
-                "first": "Alexandr",
-                "last": "Filyaev",
-                "affiliation": "QRate LLC"
-            },
-            {
-                "first": "Igor",
-                "last": "Pavlov",
-                "affiliation": "QRate LLC"
-            }
-        ],
-        "topics": [
-            "experiment",
-            "QKD implementation",
-            "theory"
-        ]
-    },
-    {
-        "pid": 96,
-        "submission_class": "poster",
-        "title": "Afterpulse effect model of InGaAs/InP single-photon avalanche diodes for application in quantum key distribution systems",
-        "abstract": "A measurement technique and a probabilistic model for the afterpulsing evaluation have been developed based on the recursive nature of this effect in InGaAs/InP single-photon avalanche diodes (SPAD). This enables estimating the true value of the afterpulse probability by a response to a single click of a single-photon detector (SPD) composed of InGaAs/InP SPAD. The analysis of world-practice approaches to afterpulse estimation, used for quantum key distribution systems, is performed. The advantages of developed approach over conventional methods that do not take into account the non-Markovian nature of the studied effect are demonstrated.",
-        "authors": [
-            {
-                "first": "Vladimir",
-                "last": "Zavodilenko",
-                "affiliation": "QRate LLC"
-            },
-            {
-                "first": "Anton",
-                "last": "Losev",
-                "affiliation": "QRate LLC"
-            },
-            {
-                "first": "Alexandr",
-                "last": "Filyaev",
-                "affiliation": "QRate LLC"
-            },
-            {
-                "first": "Igor",
-                "last": "Pavlov",
-                "affiliation": "QRate LLC"
-            }
-        ],
-        "topics": [
-            "experiment",
-            "QKD implementation",
-            "QKD theory",
-            "theory"
-        ]
-    },
-    {
-        "pid": 101,
-        "submission_class": "poster",
-        "title": "Self-stabilized quantum key distribution using planar lightwave circuit chips",
-        "abstract": "Self-stabilizing the quantum key distribution (QKD) system is essential to evaluate eavesdroppers\u2019 information accurately. We develop and verify a polarization-insensitive time-bin decoder chip for QKD with the hybrid asymmetric Faraday-Michelson interferometer (AFMI) based on the planar lightwave circuit (PLC). Compared with existing chip-based QKD works, the scheme can intrinsically compensate for the polarization perturbation to quantum signals and thus work at arbitrary temperatures. We experimentally verify the chips in a time-bin QKD system at the clocking rate of 1.25 GHz and obtain an average secure key rate (SKR) of 1.34 Mbps over a 50 km fiber channel with an optimized analysis model. The steady variations of the quantum bit error and SKR with random polarization disturbance demonstrate that PLC-based AFMIs are available for developing self-stable QKD systems.",
-        "authors": [
-            {
-                "first": "Guo-Wei",
-                "last": "Zhang",
-                "affiliation": "University of Science and Technology of China"
-            },
-            {
-                "first": "Wei",
-                "last": "Chen",
-                "affiliation": "University of Science and Technology of China"
-            },
-            {
-                "first": "Fang-Xiang",
-                "last": "Wang",
-                "affiliation": "University of Science and Technology of China"
-            },
-            {
-                "first": "Guan-Jie",
-                "last": "Fan-Yuan",
-                "affiliation": "University of Science and Technology of China"
-            },
-            {
-                "first": "Shuang",
-                "last": "Wang",
-                "affiliation": "University of Science and Technology of China"
-            },
-            {
-                "first": "Zhen-Qiang",
-                "last": "Yin",
-                "affiliation": "University of Science and Technology of China"
-            },
-            {
-                "first": "De-Yong",
-                "last": "He",
-                "affiliation": "University of Science and Technology of China"
-            },
-            {
-                "first": "Guang-Can",
-                "last": "Guo",
-                "affiliation": "University of Science and Technology of China"
-            },
-            {
-                "first": "Zheng-Fu",
-                "last": "Han",
-                "affiliation": "University of Science and Technology of China"
-            }
-        ],
-        "topics": [
-            "experiment",
-            "photonic integration"
         ]
     },
     {
@@ -907,105 +639,6 @@
         ],
         "topics": [
             "beyond QKD",
-            "experiment",
-            "QKD implementation"
-        ]
-    },
-    {
-        "pid": 126,
-        "submission_class": "poster",
-        "title": "Experimental free-space continuous-variable quantum key distribution with passive-state preparation",
-        "abstract": "In this poster, we propose and experimentally realize a passive-state-preparation (PSP) continuous-variable quantum key distribution (CVQKD) scheme with transmitted local oscillator (LO) for the first time through fluctuating transmittance free-space channel using off-the-shelf amplified spontaneous emission source. In particular, the thermal-state polarization multiplexing transmitted LO, synchronized channel transmittance monitoring and fine-grained phase compensation techniques are proposed, and secure key distribution within -15 dB transmittance of simulated field free-space channel with turbulence is realized, with an average secure key rate of 1.015 Mbps asymptotically. Moreover, our work provides the first experimental verification of feasibility of PSP CVQKD through field atmospheric channels. Equivalent atmospheric turbulence model analysis shows the free-space PSP CVQKD scheme provides a promising outlook of high-speed and chip-based implementation of CVQKD for kilometer-level atmospheric channel network. Our work has laid a solid foundation for field experiments with PSP CVQKD.",
-        "authors": [
-            {
-                "first": "Mingqi",
-                "last": "Zhang",
-                "affiliation": "Shanghai Jiao Tong University"
-            },
-            {
-                "first": "Peng",
-                "last": "Huang",
-                "affiliation": "Shanghai Jiao Tong University"
-            },
-            {
-                "first": "Ping",
-                "last": "Wang",
-                "affiliation": "Shanghai Jiao Tong University"
-            },
-            {
-                "first": "Shurong",
-                "last": "Wei",
-                "affiliation": "Shanghai Jiao Tong University"
-            },
-            {
-                "first": "Guihua",
-                "last": "Zeng",
-                "affiliation": "Shanghai Jiao Tong University"
-            }
-        ],
-        "topics": [
-            "experiment",
-            "QKD implementation"
-        ]
-    },
-    {
-        "pid": 128,
-        "submission_class": "poster",
-        "title": "A test bed of dynamic scattering channel for quantum key distribution",
-        "abstract": "The dynamic scattering of haze, fog, and dust in the free space optical channels prohibit the adaptivity of practical free space quantum key distribution (QKD) systems. Here, we establish a test bed of a dynamic scattering channel for QKD system. The distortion strength of the emulated dynamic scattering channel is adjustable and consistent with that of the practical field channel. Based on the e\ufb00ective test bed and real-time optimization feedback module, we establish a secure quantum link and demonstrate the feasibility of QKD over dynamic strong scattering channels. The established test bed provides an e\ufb00ective way to improve the performance of free-space QKD systems over complex channels. Our work enhances the deployment capability of complex-channel QKD system.",
-        "authors": [
-            {
-                "first": "Qi-Hang",
-                "last": "Lu",
-                "affiliation": "CAS Key Laboratory of Quantum Information, University of Science and Technology of China"
-            },
-            {
-                "first": "Fang-Xiang",
-                "last": "Wang",
-                "affiliation": "CAS Key Laboratory of Quantum Information, University of Science and Technology of China"
-            },
-            {
-                "first": "Wei",
-                "last": "Chen",
-                "affiliation": "CAS Key Laboratory of Quantum Information, University of Science and Technology of China"
-            },
-            {
-                "first": "Hai-Yang",
-                "last": "Fu",
-                "affiliation": "CAS Key Laboratory of Quantum Information, University of Science and Technology of China"
-            },
-            {
-                "first": "Yin-Jie",
-                "last": "Lu",
-                "affiliation": "CAS Key Laboratory of Quantum Information, University of Science and Technology of China"
-            },
-            {
-                "first": "Shuang",
-                "last": "Wang",
-                "affiliation": "CAS Key Laboratory of Quantum Information, University of Science and Technology of China"
-            },
-            {
-                "first": "De-Yong",
-                "last": "He",
-                "affiliation": "CAS Key Laboratory of Quantum Information, University of Science and Technology of China"
-            },
-            {
-                "first": "Zhen-Qiang",
-                "last": "Yin",
-                "affiliation": "CAS Key Laboratory of Quantum Information, University of Science and Technology of China"
-            },
-            {
-                "first": "Guang-Can",
-                "last": "Guo",
-                "affiliation": "CAS Key Laboratory of Quantum Information, University of Science and Technology of China"
-            },
-            {
-                "first": "Zheng-Fu",
-                "last": "Han",
-                "affiliation": "CAS Key Laboratory of Quantum Information, University of Science and Technology of China"
-            }
-        ],
-        "topics": [
             "experiment",
             "QKD implementation"
         ]
