@@ -7,8 +7,11 @@ presentation: null
 draft: false
 ---
 
-📢 <strong> Call for Submissions: QCrypt 2023 Rump Session Talks </strong> 🚀
+📢 <strong> QCrypt 2023 Rump Session Talks </strong> 🚀
 
+<h3>Update: The Rump session theme is “We love turtles” ❤️🐢❤️</h3>
+<br>
+<br>
 Dear QCrypt Community,
 
 We are thrilled to announce the Call for Submissions to the QCrypt 2023 Rump Session Talks! The Rump Session is an integral part of the conference where attendees can showcase late-breaking results, innovative ideas, and fascinating developments in the field of quantum cryptography. This is your chance to take the stage, share your insights, and dazzle the audience with your brilliance!
