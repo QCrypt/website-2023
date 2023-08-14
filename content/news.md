@@ -9,6 +9,8 @@ menu:
 ---
 
 ## News
+> <h3> August 14 – <strong>Survey Posted</h3></strong><body style="text-align:left">Attendees are encouraged to fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScFytHnfnz8iix5UXr8YUJgxAiBvdEAtshy3y9twJvQAY8DBA/viewform">exit questionnaire</a> about their conference experience.</a></body>
+
 > <h3> August 11 – <strong>Conference Program Posted</h3></strong><body style="text-align:left">The digital version of the <a href="https://umd.box.com/s/0gp344b5j4wupyrv9wbivjdpfw350rvx">conference program is now available.</a></body>
 
 > <h3> August 4 – <strong>Updated Rump Session Instructions</h3></strong><body style="text-align:left">Have a breakthrough result or an amusing quantum cryptography anecdote? Share it at the QCrypt 2023 Rump Session! Submit your proposal <a href="https://2023.qcrypt.net/sessions/rump/"><strong>here</strong></a> before the early submission deadline on Tuesday, August 15, at 11:30 a.m. to secure your spot.</body>
@@ -37,5 +39,5 @@ menu:
 
 > <h3>June 21 – <strong>Accepted Papers Announced</h3></strong><body style="text-align:left">Over 30 papers have been selected for contributed talks. <a style="color: blue" href="/accepted-papers">Learn more.</a></body>
 
-> <h3>June 15 – <strong>Tutuorial and Invited Speakers Announced</h3></strong><body style="text-align:left">We are excited to have a great list of tutorial and invited speakers. See the <a style="color: blue" href="/speakers">speaker page</a> for more details.</body>
+> <h3>June 15 – <strong>Tutorial and Invited Speakers Announced</h3></strong><body style="text-align:left">We are excited to have a great list of tutorial and invited speakers. See the <a style="color: blue" href="/speakers">speaker page</a> for more details.</body>
 		
