@@ -26,10 +26,6 @@ menu:
     Rump Session
 </a>
 
-<a class="btn primary btn-lg" href="/accepted-papers">
-    Accepted Papers
-</a>
-
 <a class="btn primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLScFytHnfnz8iix5UXr8YUJgxAiBvdEAtshy3y9twJvQAY8DBA/viewform">
     Closing Survey
 </a>
