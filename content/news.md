@@ -7,6 +7,7 @@ menu:
         weight: 16
 
 ---
+<img id="collage" align="right" src="/images/23collage.png" style="height:700px; margin:20px"/>
 
 ## News
 > <h3> August 15 – <strong>Group Photo Available</h3></strong><body style="text-align:left">The group photo from Monday evening is now <a href="https://umd.box.com/s/ro56fac22mf5j8xkjcb06ggw0igil4nv">available to view and download</a>.</body>
