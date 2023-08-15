@@ -9,6 +9,8 @@ menu:
 ---
 
 ## News
+> <h3> August 15 – <strong>Group Photo Available</h3></strong><body style="text-align:left">The group photo from Monday evening is now <a href="https://umd.box.com/s/ro56fac22mf5j8xkjcb06ggw0igil4nv">available to view and download</a>.</body>
+
 > <h3> August 14 – <strong>Rump Session Theme Announced</h3></strong><body style="text-align:left">The <a href="/sessions/rump/">Rump Session</a> theme is: “We love turtles” ❤️🐢❤️</body>
 
 > <h3> August 14 – <strong>Survey Posted</h3></strong><body style="text-align:left">Attendees are encouraged to fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScFytHnfnz8iix5UXr8YUJgxAiBvdEAtshy3y9twJvQAY8DBA/viewform">exit questionnaire</a> about their conference experience.</a></body>
