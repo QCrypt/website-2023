@@ -1,7 +1,7 @@
 ---
 title: Registration
 
-draft: false
+draft: true
 type: text_page
 menu:
     main:
