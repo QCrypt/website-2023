@@ -7,10 +7,14 @@ menu:
         weight: 16
 
 ---
-<img id="collage" align="right" src="/images/23collage.png" style="height:700px; margin:20px"/>
 
-## News
-> <h3> August 15 – <strong>Group Photo Available</h3></strong><body style="text-align:left">The group photo from Monday evening is now <a href="https://umd.box.com/s/ro56fac22mf5j8xkjcb06ggw0igil4nv">available to view and download</a>.</body>
+> ## News
+
+> <h3> August 17 – <strong>QCrypt 2024 Venue Announced</h3></strong><body style="text-align:left"> Find more about QCrypt 2024 (and QCrypt 2025) <a href="/2024/"> <strong>here</strong> </a>.</body>
+
+> <h3> August 15 – <strong>Group Photo Available</h3></strong><body style="text-align:left">The group photo from Monday evening is now <a href="https://umd.box.com/s/ro56fac22mf5j8xkjcb06ggw0igil4nv">available to view and download.</a> Find some more photos below.</body>
+
+> <img id="collage" align="right" src="/images/23collage.png" style="height:700px; margin:20px"/>
 
 > <h3> August 14 – <strong>Rump Session Theme Announced</h3></strong><body style="text-align:left">The <a href="/sessions/rump/">Rump Session</a> theme is: “We love turtles” ❤️🐢❤️</body>
 
