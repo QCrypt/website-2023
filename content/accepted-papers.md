@@ -1,7 +1,7 @@
 ---
 title: Accepted Papers
 type: text_page
-draft: true
+draft: false
 menu:
     main:
         weight: 10
