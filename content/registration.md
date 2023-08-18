@@ -10,12 +10,13 @@ menu:
 
 ## Registration for QCrypt 2023 is now open!
 QCrypt is the annual international scientific conference presenting the latest results in quantum cryptography. The 2023 conference will take place at the University of Maryland in 
-College Park. The final deadline to register is <strike>Monday, July 31</strike> Tuesday, August 8.{{< button-link label="Register" url="https://app.certain.com/profile/3363153" icon="link" target="_blank">}}<br>
+College Park. The final deadline to register is <strike>Monday, July 31</strike> <strike>Tuesday, August 8 </strike>.
+<!-- {{< button-link label="Register" url="https://app.certain.com/profile/3363153" icon="link" target="_blank">}}<br>
 <a style="color: red"></a>
 
 In case of questions or technical difficulties with the registration process, please contact: {{< button-link label="qcryptregistration@umd.edu" url="mailto:qcryptregistration@umd.edu " icon="email" >}}
 
-<strong>Missed the deadline? Contact {{< button-link label="2023@qcrypt.net" url="mailto:2023@qcrypt.net" icon="email" >}}</strong>
+<strong>Missed the deadline? Contact {{< button-link label="2023@qcrypt.net" url="mailto:2023@qcrypt.net" icon="email" >}}</strong> -->
 
 ### General Information
 The registration fees are as follows:
