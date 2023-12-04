@@ -4,7 +4,7 @@ title: "Invited Talk: ''From the Hardness of Detecting Superpositions to Cryptog
 speakers:
   - hhan
 videoId: null
-presentation: null
+presentation: "/slides/QCrypt2023InvitedHhan.pdf"
 draft: false
 ---
 Abstract: Recently, Aaronson, Atia, and Susskind (arXiv:2009.07450) showed that detecting interference between two orthogonal states is as hard as swapping these states. While their original motivation was from quantum gravity, we show its applications in quantum cryptography: The first public-key encryption scheme from cryptographic non-abelian group actions, and a simple and efficient compiler between the computational-hiding statistical-binding and the statistical-hiding computational-binding commitment.

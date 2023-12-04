@@ -2,7 +2,8 @@
 title: "Invited Talk: Constructive Post-Quantum Reductions"
 speakers:
   - kalai
-presentation: null
+videoID : 8VNh1dyQxsg
+presentation: "/slides/QCrypt2023InvitedKalai.pdf"
 draft: false
 ---
 Abstract: In this talk I will discuss when we can "lift" classical reductions to post-quantum ones in a constructive manner. It is customary to argue that while this is problematic in the interactive setting, non-interactive reductions immediately carry over to the post-quantum setting. In this talk I will focus on the non-interactive setting and describe technical issues that arise, related to quantum auxiliary inputs. I will show how (and when) we can overcome these issues, and successfully lift a reduction to the post-quantum setting in a constructive manner. Specifically, I will show that any non-interactive non-adaptive reduction from problems with a polynomial solution space (such as decision problems) can be made post-quantum in a constructive manner. In contrast, I will show that for problems with super-polynomial solution space (such as general search problems) this cannot be done in general.

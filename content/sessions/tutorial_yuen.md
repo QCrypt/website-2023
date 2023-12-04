@@ -2,7 +2,8 @@
 title: "Tutorial Talk: ''Pseudorandom Quantum States''"
 speakers:
   - yuen
-presentation: null
+videoId: qT4OuGSI_uk
+presentation: "/slides/QCrypt2023TutorialYuen.pdf"
 draft: false
 ---
 Abstract: I will give a tutorial on the rapidly developing topic of quantum pseudorandomness, in particular pseudorandom quantum states. These are states that are efficiently generatable, but cannot be efficiently distinguished from Haar-random states. I will discuss their motivation, constructions, and applications to cryptography and beyond.

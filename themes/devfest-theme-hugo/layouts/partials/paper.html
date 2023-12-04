@@ -24,7 +24,7 @@
 	</div>
   {{ end }}
 
-<!--	<div class="paper-youtubeid">
+	<div class="paper-youtubeid">
 	{{ range first 1 (where site.Data.youtube "pid" .pid) }}
 	  {{ if .id }}
 			<a href="https://youtu.be/{{ .id }}" target="_blank">[YouTube,
@@ -41,7 +41,7 @@
 	  {{ end }}
 	{{ end }}
   </div>
--->
+
 
 
 	{{/* first make sure we are dealing with a poster here */}}
@@ -79,7 +79,7 @@
 	{{ else }}
 	{{/* we have a contributed paper here */}}
 	  {{ $formatted_pid := printf "%03.f" .pid }}
-	  {{ $prefix := delimit (slice "QCrypt2021TalkSlides" $formatted_pid) "" }}
+	  {{ $prefix := delimit (slice "QCrypt2023TalkSlides" $formatted_pid) "" }}
 	  {{/* figure out if a PDF with that id exists in the poster directory */}}
 	  {{ $filename := "" }}
 	  {{ range (readDir "/static/slides") }}
@@ -87,12 +87,12 @@
 			  {{ $filename = .Name }}
 		  {{ end }}
 	  {{ end }}
-<!--	  <div class="paper-slides">
+	  <div class="paper-slides">
 	  {{ if ne $filename "" }}
 		  <a href="/slides/{{ $filename }}" target="_blank">[slides]</a>
 	  {{ end }}
 	  </div>
--->
+
 
 
   	{{ if isset .options "presenter-live-session" }}

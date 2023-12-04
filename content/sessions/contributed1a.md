@@ -1,8 +1,9 @@
 ---
 title: "Contributed Talk 1a"
+format: contributed
 papers:
 - 100
-videoId: null
+
 presentation: null
 draft: false
 ---

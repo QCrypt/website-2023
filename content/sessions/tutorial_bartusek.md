@@ -2,6 +2,7 @@
 title: "Tutorial Talk: ''Cryptography with Certified Deletion''"
 speakers:
   - bartusek
+videoID : NNwKJYpsu0g
 presentation: null
 draft: false
 ---

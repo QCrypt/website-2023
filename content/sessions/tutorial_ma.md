@@ -2,7 +2,8 @@
 title: "Tutorial Talk: ''Recent Advancement in Measurement-Device-Independent Quantum Key Distribution'' "
 speakers:
   - ma
-presentation: null
+videoID : I_wjGYwtNPw
+presentation: "/slides/QCrypt2023TutorialMa.pdf"
 draft: false
 ---
 Abstract: Quantum key distribution can establish information-theoretically secure keys based on quantum physics. There are two main issues in practice --- implementation security and system performance. The proposal of the measurement-device-independent scheme primarily enhances the former. The latter is characterized by the dependence of the key rate on the channel transmittance, R(η). In this tutorial, I shall review the security proofs of various measurement-device-independent schemes. I shall emphasize the recent developments, such as twin-field and mode-pairing schemes, that achieve the quadratic key-rate improvement.

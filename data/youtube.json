@@ -1,170 +1,117 @@
 [
   {
-    "pid": 18,
-    "title": "Explicit asymptotic secret key rate of CV QKD with an arbitrary modulation",
-    "id": "3kySlh3Z0-c",
-    "presenter": "Aurélie Denys"
-  },
-  {
-    "pid": 16,
-    "title": "On the Compressed-Oracle Technique, and Post-Quantum Security of Proofs of Sequential Work",
-    "id": "dAx9y8Ko4xQ",
-    "presenter": "Yu-Hsuan Huang"
-  },
-  {
-    "pid": 159,
-    "title": "Post-quantum Resettably-Sound Zero Knowledge",
-    "id": "VB8AdmcQ1AA",
-    "presenter": "Michael Kellner"
-  },
-  {
-    "pid": 141,
-    "title": "Device-independent protocols from computational assumptions",
-    "id": "HcX6OPHYrVY",
-    "presenter": "Tony Metger"
-  },
-  {
-    "pid": 89,
-    "title": "Experimental Gaussian-modulated continuous-variable quantum key distribution with composable keys",
-    "id": "zajNDg2AENU",
-    "presenter": "Nitin Jain"
-  },
-  {
-    "pid": 138,
-    "title": "On the Round Complexity of Secure Quantum Computation",
-    "id": "WtRfiqlgVqY",
-    "presenter": "James Bartusek"
-  },
-  {
-    "pid": 31,
-    "title": "The asymptotic performance of coherent-one-way quantum key distribution",
-    "id": "mQoO2AYjCO0",
-    "presenter": "Róbert Trényi"
-  }, 
-  {
-    "pid": 60,
-    "title": "Post-Quantum Succinct Arguments",
-    "id": "vhUmPcxfXKE",
-    "presenter": "Fermi Ma"
-  },
-  {
-    "pid": 109,
-    "title": "Drone-based Quantum Key Distribution (QKD)",
-    "id": "jRlFIOOGvyw",
-    "presenter": "Andrew Conrad"
-  },
-  {
-    "pid": 106,
-    "title": "Finite-size DIQKD with noisy preprocessing and random key measurements",
-    "id": "yCiYaP0F9IY",
-    "presenter": "Ernest Y.-Z. Tan"
-  },
-  {
-    "pid": 154,
-    "title": "System Integration of Photonic Integrated Quantum Communications Chips",
-    "id": "bO04rnghseo",
-    "presenter": "Taofiq Paraiso"
-  },
-  {
-    "pid": 125,
-    "title": "Privacy amplification and decoupling without smoothing",
-    "id": "jVgBg1cDmHs",
-    "presenter": "Frédéric Dupuis"
-  },
-  {
-    "pid": 118,
-    "title": "Hidden Cosets and Applications to Unclonable Cryptography",
-    "id": "MO8m0X-SQPg",
-    "presenter": "Qipeng Liu"
-  },
-  {
-    "pid": 120,
-    "title": "Device-independent lower bounds on the conditional von Neumann entropy",
-    "id": "rW7dCsVcbic",
-    "presenter": "Peter Brown"
-  },
-  {
-    "pid": 33,
-    "title": "High-rate quantum key distribution with silicon photonics",
-    "id": "MFyicCNBmeg",
-    "presenter": "Likang Zhang"
-  },
-  {
-    "pid": 134,
-    "title": "Quantum Private Broadcasting",
-    "id": "bbSx6_sBFPc",
-    "presenter": "Christine Schuknecht"
-  },
-  {
-    "pid": 91,
-    "title": "QKD Attack Rating: Prioritizing is the key to Practical Security",
-    "id": "RGV0GELP3H0",
-    "presenter": "Francesco Mazzoncini"
-  },
-  {
-    "pid": 80,
-    "title": "Quantum Encryption with Certified Deletion, Revisited: Public Key, Attribute-Based, and Classical Communication",
-    "id": "FXG9EPQPW58",
-    "presenter": "Taiga Hiroka"
-  },
-  {
-    "pid": 76,
-    "title": "Minimizing detection losses from time-bin quantum cryptography systems with few-mode fibre technology",
-    "id": "VPlQMthI37Q",
-    "presenter": "Guilherme Xavier"
-  },
-  {
-    "pid": 53,
-    "title": "Pathways for entanglement based quantum communication in the face of high noise",
-    "id": "2Ddw2GjlJ4U",
-    "presenter": "Matej Pivoluska"
-  },
-  {
-    "pid": 52,
-    "title": "Practical quantum tokens without quantum memories and experimental tests",
-    "id": "SQdv_j6lVIM",
-    "presenter": "Damián Pitalúa-García"
-  },
-  {
-    "pid": 50,
-    "title": "Position-based cryptography: Single-qubit protocol secure against multi-qubit attacks",
-    "id": "1xt5gsEuPL4",
-    "presenter": "Andreas Bluhm"
-  },
-  {
-    "pid": 23,
-    "title": "Finite key effects in satellite quantum key distribution",
-    "id": "UgCVNMytRw0",
-    "presenter": "Jasminder Sidhu"
-  },
-  {
-    "pid": 14,
-    "title": "Multiplexing of quantum and classical channels for QKD",
-    "id": "JL7osrACT08",
-    "presenter": "Obada Alia and Fadri Grünenfelder"
-  },
-  {
-    "pid": 44,
-    "title": "A Black-Box Approach to Post-Quantum Zero-Knowledge in Constant Rounds",
-    "id": "9MVprxThb8U",
-    "presenter": "Takashi Yamakawa"
-  },
-  {
-    "pid": 121,
-    "title": "Quantum conference key agreement using photonic graph state",
-    "id": "gctqXPlu-54",
-    "presenter": "Joseph Ho"
-  },
-  {
-    "pid": 62,
-    "title": "MDI-QKD with 19.2 km free-space channel",
-    "id": "VGeg6zU5PKU",
-    "presenter": "Yu-Huai Li"
+    "pid": 100,
+    "title": "Pseudorandomness with Proof of Destruction and Applications",
+    "id": "R6fH-5ZU-B8",
+    "presenter": "Amit Behera"
   },
   {
     "pid": 35,
-    "title": "Realizing an entanglement-based multi-user quantum network with integrated photonics",
-    "id": "gD2Ep6D38Bs",
-    "presenter": "Wenjun Wen"
+    "title": "Quantum Advantage from One-Way Functions",
+    "id": "U_98sTTxxuM",
+    "presenter": "Tomoyuki Morimae"
+  },
+  {
+    "pid": 53,
+    "title": "Obfuscation of Pseudo-Deterministic Quantum Circuits",
+    "id": "kk1ET4U_EI4",
+    "presenter": "James Bartusek"
+  },
+  {
+    "pid": 58,
+    "title": "Secure Computation with Shared EPR Pair (Or: How to Teleport in Zero-Knowledge)",
+    "id": "zjq47avNKzk",
+    "presenter": "James Bartusek"
+  },
+  {
+    "pid": 57,
+    "title": "Publicly-Verifiable Deletion via Target-Collapsing Functions",
+    "id": "9Q88xZZg8AA",
+    "presenter": "James Bartusek"
+  },
+  {
+    "pid": 46,
+    "title": "The Application of Hybrid Photonic Integration to Quantum Key Distribution",
+    "id": "ELVPD1EbDw4",
+    "presenter": "Joseph Dolphin"
+  },
+  {
+    "pid": 15,
+    "title": "High-Rate Quantum Key Distribution exceeding 110Mb/s",
+    "id": "0KuUeA6BJ8M",
+    "presenter": "Likang Zhang"
+  },
+  {
+    "pid": 109,
+    "title": "10 GBaud Continuous-Variable Quantum Key Distribution Enabled by Integrated Photonic-Electronic Receivers",
+    "id": "xoGYBdkpLZE",
+    "presenter": "Adnan A.E. Hajomer"
+  },
+  {
+    "pid": 97,
+    "title": "High-Rate Point-to-Multipoint QKD Network",
+    "id": "gzqQwzn9xPk",
+    "presenter": "Yiming Bian"
+  },
+  {
+    "pid": 54,
+    "title": "Fully-Passive Twin-Field Quantum Key Distribution",
+    "id": "daBCnO-JS4I",
+    "presenter": "Wenyuan Wang"
+  },
+  {
+    "pid": 7,
+    "title": "Security of differential phase shift quantum key distribution from relativistic principles",
+    "id": "OXeArwqBNQI",
+    "presenter": "Martin Sandfuchs"
+  },
+  {
+    "pid": 31,
+    "title": "Security bounds for quantum key distribution with arbitrary phase randomization",
+    "id": "euwPWxjARVw",
+    "presenter": "Guillermo Currás-Lorenzo"
+  },
+  {
+    "pid": 10,
+    "title": "xperimental Twin-Field Quantum Key Distribution Over 1000 km Fiber Distance",
+    "id": "QmxAnPnWTho",
+    "presenter": "Yang Liu"
+  },
+  {
+    "pid": 20,
+    "title": "Quantum Key Distribution Links between Mobile Platforms",
+    "id": "IT9dumAXdsQ",
+    "presenter": "Andrew Conrad"
+  },
+  {
+    "pid": 105,
+    "title": "Satellite-Based Quantum Key Distribution in the Presence of Bypass Channels",
+    "id": "CZ4UMzPK0us",
+    "presenter": "Lewis Wooltorton"
+  },
+  {
+    "pid": 50,
+    "title": "On Concurrent Multi-Party Quantum Computation",
+    "id": "fLVOlEvMkiQ",
+    "presenter": "Xiao Liang"
+  },
+  {
+    "pid": 52,
+    "title": "Fiat-Shamir for Proofs Lacks a Proof Even in the Presence of Shared Entanglement",
+    "id": "rEaesNbMCws",
+    "presenter": "Philippe Lamontagne"
+  },
+  {
+    "pid": 104,
+    "title": "Oblivious Transfer from Zero-Knowledge Proofs, Or How to Achieve Round-Optimal Quantum Oblivious Transfer and Zero-Knowledge Proofs on Quantum States",
+    "id": "FKLAodM85jM",
+    "presenter": "Léo Colisson"
+  },
+  {
+    "pid": 51,
+    "title": "Single-qubit loss-tolerant quantum position verification protocol secure against entangled attackers",
+    "id": "H0J7HVkGeoE",
+    "presenter": "Llorenc Escola Farras"
   }
+
 ]
