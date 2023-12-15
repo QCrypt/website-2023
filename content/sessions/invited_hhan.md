@@ -3,7 +3,7 @@ title: "Invited Talk: ''From the Hardness of Detecting Superpositions to Cryptog
 '' "
 speakers:
   - hhan
-videoId: null
+videoId: 717mbN1h8Dk
 presentation: "/slides/QCrypt2023InvitedHhan.pdf"
 draft: false
 ---

@@ -12,7 +12,7 @@
 	</div>
 
 	<div class="paper-abstract">
-		<a style="color:#4c9cde;" onclick="$('#abstract-{{ .pid }}').toggle(200); return false">[abstract]</a>
+		<a style="color:#4c9cde;" onclick="$('#abstract-{{ .pid }}').toggle(200); return false">[Abstract]</a>
 		<div class="paper-abstract-full" id="abstract-{{.pid}}" style="display:none">
 			<b>Abstract:</b> {{ .abstract }}
 		</div>
@@ -89,7 +89,7 @@
 	  {{ end }}
 	  <div class="paper-slides">
 	  {{ if ne $filename "" }}
-		  <a href="/slides/{{ $filename }}" target="_blank">[slides]</a>
+		  <a href="/slides/{{ $filename }}" target="_blank">[Slides]</a>
 	  {{ end }}
 	  </div>
 

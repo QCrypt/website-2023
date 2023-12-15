@@ -2,12 +2,16 @@
 title: 'Rump Session'
 format: 
 tags:
-videoId: null
+videoId: NwNSqW4todE
 presentation: null
 draft: false
 ---
 
+
+
 📢 <strong> QCrypt 2023 Rump Session Talks </strong> 🚀
+
+🎥 (Scroll down to watch video recording) 
 
 <h3>Update: The Rump session theme is “We love turtles” ❤️🐢❤️</h3>
 <br>

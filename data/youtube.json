@@ -24,10 +24,22 @@
     "presenter": "James Bartusek"
   },
   {
+    "pid": 64,
+    "title": "Cloning Games: A General Framework for Unclonable Primitives",
+    "id": "ija2eRo9xqE",
+    "presenter": "Fatih Kaleoglu"
+  },
+  {
     "pid": 57,
     "title": "Publicly-Verifiable Deletion via Target-Collapsing Functions",
     "id": "9Q88xZZg8AA",
     "presenter": "James Bartusek"
+  },
+  {
+    "pid": 41,
+    "title": "Simple Tests of Quantumness Also Certify Qubits",
+    "id": "_fOTUzIevVA",
+    "presenter": "Eitan Porat"
   },
   {
     "pid": 46,
@@ -112,6 +124,60 @@
     "title": "Single-qubit loss-tolerant quantum position verification protocol secure against entangled attackers",
     "id": "H0J7HVkGeoE",
     "presenter": "Llorenc Escola Farras"
+  },
+  {
+    "pid": 118,
+    "title": "On the finite size security of quantum key distribution",
+    "id": "fbEZ3dPvi1g",
+    "presenter": "Thomas van Himbeeck"
+  },
+  {
+    "pid": 84,
+    "title": "Split-State Non-Malleable Codes for Quantum Messages",
+    "id": "qJCIUa1vaEo",
+    "presenter": "Naresh Goud Boddu"
+  },
+  {
+    "pid": 110,
+    "title": "Ultra-fast multipixel SNSPD arrays with photon-number capabilities for quantum applications",
+    "id": "jpc5Q_YFiYA",
+    "presenter": "Giovanni V. Resta"
+  },
+  {
+    "pid": 30,
+    "title": "Fully chip-based decoder for polarization-encoding quantum key distribution",
+    "id": "XK6lobkjvZc",
+    "presenter": "Kejin Wei"
+  },
+  {
+    "pid": 18,
+    "title": "Experimental Certification of Quantum Transmission via Bell's Theorem",
+    "id": "9sy6-lAHEW0",
+    "presenter": "Simon Neves"
+  },
+  {
+    "pid": 17,
+    "title": "Experimental cheat-sensitive quantum weak coin flipping",
+    "id": "9sy6-lAHEW0?start=1284",
+    "presenter": "Simon Neves"
+  },
+  {
+    "pid": 66,
+    "title": "Group coset monogamy games and an application to device-independent continuous-variable QKD",
+    "id": "x3GlcVy9SOE",
+    "presenter": "Eric Culf"
+  },
+  {
+    "pid": 22,
+    "title": "Entropy Accumulation under Post-Quantum Cryptographic Assumptions",
+    "id": "1Fie3yAPCU0",
+    "presenter": "Ilya Merkulov"
+  },
+  {
+    "pid": 55,
+    "title": "Quantum delegation with an off-the-shelf device",
+    "id": "NjpF5lOewhc",
+    "presenter": "Arthur Mehta"
   }
 
 ]
