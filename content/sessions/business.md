@@ -10,14 +10,14 @@ draft: false
 
 ## Program
 
-* 2023 Program Committee Report: Christian Schaffner & Giuseppe Vallone (10 mins)
-{{< button-link label="2023 PC report slides" url="/slides/QCrypt2023_PC_Report.pdf" icon="link" target="_blank">}}
+* QCrypt 2023 Program Committee Report: Christian Schaffner & Giuseppe Vallone (10 mins)
+{{< button-link label="PC report slides (2023)" url="/slides/QCrypt2023_PC_Report.pdf" icon="link" target="_blank">}}
 
-* 2023 Local Organizers Report: Oliver Slattery & Gorjan Alagic (10 mins)
-{{< button-link label="2023 LC report slides" url="/slides/QCrypt2023_LC_Report.pdf" icon="link" target="_blank">}}
+* QCrypt 2023 Local Organizers Report: Oliver Slattery & Gorjan Alagic (10 mins)
+{{< button-link label="LC report slides (2023)" url="/slides/QCrypt2023_LC_Report.pdf" icon="link" target="_blank">}}
 
-<!-- * 2024 QCrypt organizers report: "Team Vigo" (10 mins)
-{{< button-link label="2024 report slides" url="/slides/03_QC2024.pdf" icon="link" target="_blank">}} -->
+* QCrypt 2024 (Vigo, Spain) Organizers Report: (10 mins)
+{{< button-link label="2024 Organizers Report Slides" url="/slides/QCrypt2024_Org_Report.pdf" icon="link" target="_blank">}}
 
 ## Best Student Paper Awards
 <!-- {{< button-link label="Award slides" url="/slides/QCRYPT21StudentAwards.pdf" icon="link" target="_blank">}} -->
