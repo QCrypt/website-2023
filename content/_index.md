@@ -14,16 +14,16 @@ menu:
 <a class="btn primary btn-lg" style="margin-top: 1em;" href="/2023">Host QCrypt 2023</a>
 -->
 
-<a class="btn primary btn-lg" href="/news">
+<!-- <a class="btn primary btn-lg" href="/news">
     News & Announcements
-</a>
+</a> -->
 
 <a class="btn primary btn-lg" href="https://umd.box.com/s/0gp344b5j4wupyrv9wbivjdpfw350rvx">
     Conference Program
 </a>
 
-<a class="btn primary btn-lg" href="/sessions/rump/">
-    Rump Session
+<a class="btn primary btn-lg" href="/sessions/business/">
+    Awards and Business Meeting
 </a>
 
 <a class="btn primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLScFytHnfnz8iix5UXr8YUJgxAiBvdEAtshy3y9twJvQAY8DBA/viewform">
@@ -229,7 +229,7 @@ Please click <a style="color: blue" href="/accepted-papers/">here</a>. -->
 
 {{% /partners %}}
 
-QCrypt 2023 is seeking sponsors. To know more about sponsor packages and other information, contact {{< button-link label="2023@qcrypt.net" url="mailto:2023@qcrypt.net?subject=Sponsorship Enquiry" icon="email" >}} 
+<!-- QCrypt 2023 is seeking sponsors. To know more about sponsor packages and other information, contact {{< button-link label="2023@qcrypt.net" url="mailto:2023@qcrypt.net?subject=Sponsorship Enquiry" icon="email" >}}  -->
 
 <!-- {{% /partners %}} -->
 
