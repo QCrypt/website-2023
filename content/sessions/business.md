@@ -23,11 +23,13 @@ draft: false
 <!-- {{< button-link label="Award slides" url="/slides/QCRYPT21StudentAwards.pdf" icon="link" target="_blank">}} -->
 
 ### Theory
-**James Bartusek** for *Obfuscation of Pseudo-Deterministic Quantum Circuits* with co-authors Fuyuki Kitagawa ; Ryo Nishimaki ; Takashi Yamakawa.
+**James Bartusek** for "Obfuscation of Pseudo-Deterministic Quantum Circuits" with co-authors Fuyuki Kitagawa; Ryo Nishimaki; and Takashi Yamakawa.
 
 {{< button-link label="award" url="/images/awards/QCrypt2023_BestPaper_Theory.pdf" icon="link">}}
+{{< button-link label="paper" url="https://eprint.iacr.org/2023/252" icon="link">}}
 
 ### Experiment
-**Joseph Dolphin** for *The Application of Hybrid Photonic Integration to Quantum Key Distribution* with co-authors Taofiq K. Paraiso ; Han Du ; Andrew J. Shields.
+**Joseph Dolphin** for "The Application of Hybrid Photonic Integration to Quantum Key Distribution" with co-authors Taofiq K. Paraiso; Han Du; and Andrew J. Shields.
 
-{{< button-link label="award" url="/images/awards/QCrypt2023_BestPaper_Experiment.pdf" icon="link">}} 
+{{< button-link label="award" url="/images/awards/QCrypt2023_BestPaper_Experiment.pdf" icon="link">}}
+{{< button-link label="paper" url="https://arxiv.org/abs/2308.02238" icon="link">}}
